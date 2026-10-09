@@ -98,6 +98,11 @@ def descargar_json(url):
         log(f"Error al descargar {url}: {e}", C.RED)
         sys.exit(1)
 
+
+def obtener_logo(canal):
+    """Devuelve la URL del logo del canal, si existe."""
+    return canal.get("logo") or ""
+
 # ============================================================
 # PRUEBA DE STREAMS
 # ============================================================
@@ -232,6 +237,7 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
             ch_id = s.get("channel", "")
             canal = canal_por_id.get(ch_id, {})
             nombre = canal.get("name") or ch_id
+            logo = obtener_logo(canal)
             quality = s.get("quality") or "No especificada"
             audio = s.get("audio_lang") or "No especificado"
 
@@ -251,12 +257,16 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
                 ftxt.write(f"Nombre: {nombre}\n")
                 ftxt.write(f"Calidad: {quality}\n")
                 ftxt.write(f"Idioma: {audio}\n")
+                ftxt.write(f"Logo: {logo or 'No disponible'}\n")
                 ftxt.write(f"URL: {url}\n")
                 ftxt.write(f"Estado: {estado}\n")
                 ftxt.write("---\n")
 
             if fm3u and estado != "FALLA":
-                fm3u.write(f'#EXTINF:-1 tvg-id="{ch_id}" '
+                attrs = f'tvg-id="{ch_id}"'
+                if logo:
+                    attrs += f' tvg-logo="{logo}"'
+                fm3u.write(f'#EXTINF:-1 {attrs} '
                            f'group-title="{group_title}",{nombre}\n')
                 fm3u.write(f"{url}\n\n")
 
@@ -347,6 +357,7 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
             canal = canal_por_id.get(ch_id, {})
             nombre = canal.get("name") or ch_id
             country = canal.get("country", "??")
+            logo = obtener_logo(canal)
             quality = s.get("quality") or "No especificada"
 
             if PROBAR:
@@ -369,13 +380,17 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
             ftxt.write(f"Nombre: {nombre}\n")
             ftxt.write(f"País: {country}\n")
             ftxt.write(f"Calidad: {quality}\n")
+            ftxt.write(f"Logo: {logo or 'No disponible'}\n")
             ftxt.write(f"URL: {url}\n")
             ftxt.write(f"Estado: {estado}\n")
             ftxt.write("---\n")
 
             if estado != "FALLA":
+                attrs = f'tvg-id="{ch_id}"'
+                if logo:
+                    attrs += f' tvg-logo="{logo}"'
                 fm3u.write(
-                    f'#EXTINF:-1 tvg-id="{ch_id}" '
+                    f'#EXTINF:-1 {attrs} '
                     f'group-title="{country}",{nombre}\n'
                 )
                 fm3u.write(f"{url}\n\n")

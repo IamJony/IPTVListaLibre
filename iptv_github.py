@@ -100,8 +100,25 @@ def descargar_json(url):
 
 
 def obtener_logo(canal):
-    """Devuelve la URL del logo del canal, si existe."""
-    return canal.get("logo") or ""
+    """Devuelve la URL del logo del canal inspeccionando posibles estructuras de la API iptv-org."""
+    if not isinstance(canal, dict):
+        return ""
+    
+    # Check 1: Campo directo 'logo' si es una string URL
+    logo = canal.get("logo")
+    if isinstance(logo, str) and logo.strip():
+        return logo.strip()
+    
+    # Check 2: Campo 'images' (Lista de diccionarios o URLs)
+    images = canal.get("images")
+    if isinstance(images, list) and len(images) > 0:
+        primera_img = images[0]
+        if isinstance(primera_img, dict) and primera_img.get("url"):
+            return primera_img["url"].strip()
+        elif isinstance(primera_img, str) and primera_img.strip():
+            return primera_img.strip()
+
+    return ""
 
 # ============================================================
 # PRUEBA DE STREAMS
@@ -263,11 +280,13 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
                 ftxt.write("---\n")
 
             if fm3u and estado != "FALLA":
-                attrs = f'tvg-id="{ch_id}"'
+                attrs = f'tvg-id="{ch_id}" tvg-name="{nombre}"'
                 if logo:
                     attrs += f' tvg-logo="{logo}"'
-                fm3u.write(f'#EXTINF:-1 {attrs} '
-                           f'group-title="{group_title}",{nombre}\n')
+                if pais:
+                    attrs += f' tvg-country="{pais}"'
+                    
+                fm3u.write(f'#EXTINF:-1 {attrs} group-title="{group_title}",{nombre}\n')
                 fm3u.write(f"{url}\n\n")
 
         if ftxt:
@@ -386,9 +405,12 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
             ftxt.write("---\n")
 
             if estado != "FALLA":
-                attrs = f'tvg-id="{ch_id}"'
+                attrs = f'tvg-id="{ch_id}" tvg-name="{nombre}"'
                 if logo:
                     attrs += f' tvg-logo="{logo}"'
+                if country:
+                    attrs += f' tvg-country="{country}"'
+
                 fm3u.write(
                     f'#EXTINF:-1 {attrs} '
                     f'group-title="{country}",{nombre}\n'

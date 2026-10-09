@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 # ============================================================
 # Script: iptv_github.py
-# Descripción: Descarga canales
-#              IPTV, los filtra por países hispanohablantes,
-#              los prueba y genera listas M3U + README.md.
-#              El commit/push lo hace el workflow de Actions.
+# Descripción: Descarga la lista M3U maestra de iptv-org,
+#              filtra por países hispanohablantes, prueba los
+#              streams usando su respectivo User-Agent y
+#              genera las listas M3U y el README.md.
 # Autor: IamJony https://github.com/IamJony
 # Licencia: MIT
 # ============================================================
 
 import os
 import sys
-import json
+import re
 import urllib.request
 import urllib.error
 from datetime import datetime
@@ -43,8 +43,8 @@ else:
 
 WORK_DIR.mkdir(parents=True, exist_ok=True)
 
-CHANNELS_URL = "https://iptv-org.github.io/api/channels.json"
-STREAMS_URL  = "https://iptv-org.github.io/api/streams.json"
+# M3U maestra oficial de iptv-org
+INDEX_M3U_URL = "https://iptv-org.github.io/iptv/index.m3u"
 
 # Países hispanohablantes (ISO 3166-1 alpha-2)
 PAISES_ES = [
@@ -65,7 +65,7 @@ README_OUT      = WORK_DIR / "README.md"
 REPO_URL_RAW = "https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main"
 
 MAX_WORKERS   = 100
-TIMEOUT       = 4
+TIMEOUT       = 5
 MAX_POR_CANAL = 3
 
 NOMBRES_PAISES = {
@@ -89,52 +89,129 @@ def log(msg, color=C.NC):
     print(f"{color}{msg}{C.NC}", flush=True)
 
 
-def descargar_json(url):
+def descargar_texto(url):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'IPTVManager/2.0'})
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            return json.loads(resp.read().decode('utf-8'))
+        with urllib.request.urlopen(req, timeout=90) as resp:
+            return resp.read().decode('utf-8', errors='ignore')
     except Exception as e:
         log(f"Error al descargar {url}: {e}", C.RED)
         sys.exit(1)
 
-
-def obtener_logo(canal):
-    """Devuelve la URL del logo del canal inspeccionando posibles estructuras de la API iptv-org."""
-    if not isinstance(canal, dict):
-        return ""
+# ============================================================
+# PARSER M3U
+# ============================================================
+def parsear_m3u(contenido_m3u):
+    """
+    Parsea una lista M3U y extrae una lista de diccionarios con la estructura:
+    {
+        'tvg_id': str,
+        'tvg_logo': str,
+        'group_title': str,
+        'user_agent': str,
+        'vlc_opt': str,
+        'nombre': str,
+        'url': str,
+        'country': str
+    }
+    """
+    canales = []
+    lineas = contenido_m3u.splitlines()
     
-    # Check 1: Campo directo 'logo' si es una string URL
-    logo = canal.get("logo")
-    if isinstance(logo, str) and logo.strip():
-        return logo.strip()
+    i = 0
+    total_lineas = len(lineas)
     
-    # Check 2: Campo 'images' (Lista de diccionarios o URLs)
-    images = canal.get("images")
-    if isinstance(images, list) and len(images) > 0:
-        primera_img = images[0]
-        if isinstance(primera_img, dict) and primera_img.get("url"):
-            return primera_img["url"].strip()
-        elif isinstance(primera_img, str) and primera_img.strip():
-            return primera_img.strip()
+    regex_attr = re.compile(r'([a-zA-Z0-9_-]+)="([^"]*)"')
 
-    return ""
+    while i < total_lineas:
+        linea = lineas[i].strip()
+        
+        if linea.startswith('#EXTINF:'):
+            # Extraer la parte de atributos y el nombre
+            extinf_data = linea[8:]
+            
+            # Separar atributos del nombre visible (el nombre está tras la última coma)
+            partes_coma = extinf_data.split(',', 1)
+            header_attrs = partes_coma[0] if len(partes_coma) > 0 else ""
+            nombre = partes_coma[1].strip() if len(partes_coma) > 1 else "Canal Sin Nombre"
+            
+            # Parsear atributos clave-valor de #EXTINF
+            attrs = dict(regex_attr.findall(header_attrs))
+            
+            tvg_id = attrs.get('tvg-id', '')
+            tvg_logo = attrs.get('tvg-logo', '')
+            group_title = attrs.get('group-title', '')
+            user_agent = attrs.get('http-user-agent', '')
+            tvg_country = attrs.get('tvg-country', '')
+            
+            vlc_opt = ""
+            url = ""
+            
+            # Revisar las líneas siguientes para #EXTVLCOPT o la URL
+            i += 1
+            while i < total_lineas:
+                sub_linea = lineas[i].strip()
+                if not sub_linea or sub_linea.startswith('#EXTM3U'):
+                    i += 1
+                    continue
+                elif sub_linea.startswith('#EXTVLCOPT:http-user-agent='):
+                    vlc_opt = sub_linea
+                    if not user_agent:
+                        user_agent = sub_linea.split('=', 1)[1].strip()
+                    i += 1
+                elif sub_linea.startswith('#'):
+                    # Otra directiva no manejada, ignorar
+                    i += 1
+                else:
+                    # Es la URL
+                    url = sub_linea
+                    break
+            
+            # Inferir país si viene en el tvg-id (ej: Canal.co@SD -> CO)
+            country = tvg_country
+            if not country and '.' in tvg_id:
+                try:
+                    codigo = tvg_id.split('.')[1].split('@')[0].upper()
+                    if len(codigo) == 2:
+                        country = codigo
+                except Exception:
+                    pass
+
+            if url:
+                canales.append({
+                    'tvg_id': tvg_id,
+                    'tvg_logo': tvg_logo,
+                    'group_title': group_title,
+                    'user_agent': user_agent,
+                    'vlc_opt': vlc_opt,
+                    'nombre': nombre,
+                    'url': url,
+                    'country': country
+                })
+        else:
+            i += 1
+            
+    return canales
 
 # ============================================================
-# PRUEBA DE STREAMS
+# PRUEBA DE STREAMS (USANDO SU USER-AGENT)
 # ============================================================
-def probar_stream(url):
+def probar_stream(canal_item):
+    url = canal_item["url"]
+    ua = canal_item.get("user_agent") or 'IPTVManager/2.0'
+    headers = {'User-Agent': ua}
+    
+    # Intentar HEAD
     try:
-        req = urllib.request.Request(url, method='HEAD',
-                                     headers={'User-Agent': 'IPTVManager/2.0'})
+        req = urllib.request.Request(url, method='HEAD', headers=headers)
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
             return 200 <= resp.status < 400
     except urllib.error.HTTPError as e:
         if e.code in (403, 405, 501):
+            # Probar GET con Rango para streams que rechazan HEAD
             try:
-                req = urllib.request.Request(
-                    url, headers={'User-Agent': 'IPTVManager/2.0',
-                                  'Range': 'bytes=0-1024'})
+                headers['Range'] = 'bytes=0-1024'
+                req = urllib.request.Request(url, headers=headers)
                 with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
                     return 200 <= resp.status < 400
             except Exception:
@@ -144,9 +221,9 @@ def probar_stream(url):
         return False
 
 
-def probar_streams_concurrente(streams, etiqueta="streams"):
+def probar_streams_concurrente(canales, etiqueta="streams"):
     resultados = {}
-    total = len(streams)
+    total = len(canales)
     if total == 0:
         return resultados
 
@@ -168,14 +245,14 @@ def probar_streams_concurrente(streams, etiqueta="streams"):
               end="", flush=True)
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futuros = {executor.submit(probar_stream, s["url"]): s for s in streams}
+        futuros = {executor.submit(probar_stream, c): c["url"] for c in canales}
         for fut in as_completed(futuros):
-            s = futuros[fut]
+            url = futuros[fut]
             try:
                 res = fut.result()
             except Exception:
                 res = False
-            resultados[s["url"]] = res
+            resultados[url] = res
             procesados += 1
             if res:
                 ok += 1
@@ -187,46 +264,39 @@ def probar_streams_concurrente(streams, etiqueta="streams"):
     return resultados
 
 # ============================================================
-# RECOLECCIÓN DE STREAMS
+# FILTRADO DE CANALES POR PAÍS
 # ============================================================
-def recolectar_streams_paises(paises, channels, streams):
-    canal_por_id = {ch["id"]: ch for ch in channels}
-    ids_por_pais = {p: {ch["id"] for ch in channels
-                        if ch.get("country") == p} for p in paises}
-
-    streams_por_pais = defaultdict(list)
-    for s in streams:
-        ch_id = s.get("channel")
-        if not ch_id:
-            continue
-        for p, ids in ids_por_pais.items():
-            if ch_id in ids:
-                streams_por_pais[p].append(s)
-                break
-
+def filtrar_por_paises(canales, paises):
+    canales_por_pais = defaultdict(list)
     vistos_url = set()
     contador_canal = defaultdict(int)
-    todos_streams = []
+    todos_filtrados = []
 
-    for p in paises:
-        for s in streams_por_pais[p]:
-            url = s.get("url", "")
-            ch_id = s.get("channel", "")
+    set_paises = set(paises)
+
+    for c in canales:
+        pais = c.get("country", "").upper()
+        url = c.get("url", "")
+        ch_id = c.get("tvg_id") or c.get("nombre")
+
+        if pais in set_paises:
             if not url or url in vistos_url:
                 continue
             if contador_canal[ch_id] >= MAX_POR_CANAL:
                 continue
+
             vistos_url.add(url)
             contador_canal[ch_id] += 1
-            todos_streams.append(s)
+            
+            canales_por_pais[pais].append(c)
+            todos_filtrados.append(c)
 
-    return streams_por_pais, todos_streams, canal_por_id
+    return canales_por_pais, todos_filtrados
 
 # ============================================================
-# GENERACIÓN DE LISTADOS POR PAÍS
+# ESCRIBIR ARCHIVOS M3U Y TXT
 # ============================================================
-def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
-                       txt_file, m3u_file, titulo, group_title):
+def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo, default_group):
     total_ok = 0
     total_fail = 0
 
@@ -235,11 +305,11 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
 
     try:
         if ftxt:
-            ftxt.write("=" * 45 + "\n")
+            ftxt.write("=" * 50 + "\n")
             ftxt.write(f"  {titulo}\n")
             ftxt.write("  Generado por IamJony (https://github.com/IamJony)\n")
             ftxt.write(f"  Fecha: {datetime.now()}\n")
-            ftxt.write("=" * 45 + "\n\n")
+            ftxt.write("=" * 50 + "\n\n")
 
         if fm3u:
             fm3u.write("#EXTM3U\n")
@@ -247,16 +317,14 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
             fm3u.write("# Generada por IamJony (https://github.com/IamJony)\n")
             fm3u.write(f"# Fecha: {datetime.now()}\n\n")
 
-        for s in streams_pais:
-            url = s.get("url", "")
-            if not url:
-                continue
-            ch_id = s.get("channel", "")
-            canal = canal_por_id.get(ch_id, {})
-            nombre = canal.get("name") or ch_id
-            logo = obtener_logo(canal)
-            quality = s.get("quality") or "No especificada"
-            audio = s.get("audio_lang") or "No especificado"
+        for c in canales_pais:
+            url = c["url"]
+            nombre = c["nombre"]
+            logo = c["tvg_logo"]
+            ch_id = c["tvg_id"]
+            group = c["group_title"] or default_group
+            ua = c["user_agent"]
+            vlc_opt = c["vlc_opt"]
 
             if PROBAR:
                 estado = "FUNCIONA" if resultados.get(url) else "FALLA"
@@ -272,80 +340,73 @@ def _escribir_archivos(pais, streams_pais, canal_por_id, resultados,
 
             if ftxt:
                 ftxt.write(f"Nombre: {nombre}\n")
-                ftxt.write(f"Calidad: {quality}\n")
-                ftxt.write(f"Idioma: {audio}\n")
+                ftxt.write(f"Categoría: {group}\n")
+                ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
                 ftxt.write(f"Logo: {logo or 'No disponible'}\n")
                 ftxt.write(f"URL: {url}\n")
                 ftxt.write(f"Estado: {estado}\n")
                 ftxt.write("---\n")
 
             if fm3u and estado != "FALLA":
-                attrs = f'tvg-id="{ch_id}" tvg-name="{nombre}"'
+                attrs = []
+                if ch_id:
+                    attrs.append(f'tvg-id="{ch_id}"')
                 if logo:
-                    attrs += f' tvg-logo="{logo}"'
-                if pais:
-                    attrs += f' tvg-country="{pais}"'
+                    attrs.append(f'tvg-logo="{logo}"')
+                if ua:
+                    attrs.append(f'http-user-agent="{ua}"')
+                
+                attrs.append(f'group-title="{group}"')
+                
+                linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
+                fm3u.write(f"{linea_extinf}\n")
+                
+                if vlc_opt:
+                    fm3u.write(f"{vlc_opt}\n")
+                elif ua:
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
                     
-                fm3u.write(f'#EXTINF:-1 {attrs} group-title="{group_title}",{nombre}\n')
                 fm3u.write(f"{url}\n\n")
 
         if ftxt:
-            ftxt.write("\n" + "=" * 45 + "\n")
+            ftxt.write("\n" + "=" * 50 + "\n")
             ftxt.write("  RESUMEN\n")
-            ftxt.write(f"  Total de streams: {len(streams_pais)}\n")
+            ftxt.write(f"  Total de streams: {len(canales_pais)}\n")
             ftxt.write(f"  Funcionan: {total_ok}\n")
             if PROBAR:
                 ftxt.write(f"  Fallan: {total_fail}\n")
-            ftxt.write("=" * 45 + "\n")
+            ftxt.write("=" * 50 + "\n")
     finally:
         if ftxt:
             ftxt.close()
         if fm3u:
             fm3u.close()
 
-    log(f"M3U: {m3u_file} — {total_ok}/{len(streams_pais)} canales", C.CYAN)
+    log(f"M3U: {m3u_file} — {total_ok}/{len(canales_pais)} canales", C.CYAN)
     return m3u_file
 
 
-def generar_listados(pais, channels, streams, resultados=None):
+def generar_listados(pais, canales_pais, resultados=None):
     txt_file = WORK_DIR / f"{pais.lower()}_reporte.txt"
     m3u_file = WORK_DIR / f"{pais.lower()}_canales.m3u"
 
-    ids_pais = {ch["id"] for ch in channels if ch.get("country") == pais}
-    if not ids_pais:
+    if not canales_pais:
         return None
-    streams_pais = [s for s in streams if s.get("channel") in ids_pais]
-    if not streams_pais:
-        return None
-
-    canal_por_id = {ch["id"]: ch for ch in channels}
-
-    if resultados is None and PROBAR:
-        resultados = probar_streams_concurrente(streams_pais, etiqueta=f"streams de {pais}")
-    elif resultados is None:
-        resultados = {}
 
     return _escribir_archivos(
-        pais=pais, streams_pais=streams_pais, canal_por_id=canal_por_id,
-        resultados=resultados, txt_file=txt_file, m3u_file=m3u_file,
-        titulo=f"REPORTE DE CANALES IPTV - {pais}", group_title=pais,
+        pais=pais, canales_pais=canales_pais,
+        resultados=resultados or {}, txt_file=txt_file, m3u_file=m3u_file,
+        titulo=f"REPORTE DE CANALES IPTV - {pais}", default_group=pais,
     )
 
 # ============================================================
 # GENERACIÓN DE LISTA UNIFICADA
 # ============================================================
-def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
-                      resultados=None):
+def generar_unificado(paises, todos_canales, resultados=None):
     log(f"\nGENERANDO LISTA UNIFICADA EN ESPAÑOL", C.CYAN)
-    log(f"Total de streams únicos: {len(todos_streams)}", C.CYAN)
+    log(f"Total de streams únicos: {len(todos_canales)}", C.CYAN)
 
-    if resultados is None:
-        resultados = {}
-        if PROBAR and todos_streams:
-            resultados = probar_streams_concurrente(todos_streams,
-                                                    etiqueta="streams (unificado)")
-    else:
-        log("Reutilizando resultados de la prueba anterior ✅", C.GREEN)
+    resultados = resultados or {}
 
     total_ok = 0
     total_fail = 0
@@ -368,16 +429,15 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
         fm3u.write("# Generada por IamJony (https://github.com/IamJony)\n")
         fm3u.write(f"# Fecha: {datetime.now()}\n\n")
 
-        for s in todos_streams:
-            url = s.get("url", "")
-            if not url:
-                continue
-            ch_id = s.get("channel", "")
-            canal = canal_por_id.get(ch_id, {})
-            nombre = canal.get("name") or ch_id
-            country = canal.get("country", "??")
-            logo = obtener_logo(canal)
-            quality = s.get("quality") or "No especificada"
+        for c in todos_canales:
+            url = c["url"]
+            nombre = c["nombre"]
+            country = c["country"]
+            logo = c["tvg_logo"]
+            ch_id = c["tvg_id"]
+            group = c["group_title"] or country
+            ua = c["user_agent"]
+            vlc_opt = c["vlc_opt"]
 
             if PROBAR:
                 estado = "FUNCIONA" if resultados.get(url) else "FALLA"
@@ -388,38 +448,46 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
             if estado == "FUNCIONA":
                 total_ok += 1
                 paises_stats[country]["ok"] += 1
-                canales_unicos.add(ch_id)
+                canales_unicos.add(ch_id or nombre)
             elif estado == "FALLA":
                 total_fail += 1
                 paises_stats[country]["fail"] += 1
             else:
                 total_ok += 1
-                canales_unicos.add(ch_id)
+                canales_unicos.add(ch_id or nombre)
 
             ftxt.write(f"Nombre: {nombre}\n")
             ftxt.write(f"País: {country}\n")
-            ftxt.write(f"Calidad: {quality}\n")
+            ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
             ftxt.write(f"Logo: {logo or 'No disponible'}\n")
             ftxt.write(f"URL: {url}\n")
             ftxt.write(f"Estado: {estado}\n")
             ftxt.write("---\n")
 
             if estado != "FALLA":
-                attrs = f'tvg-id="{ch_id}" tvg-name="{nombre}"'
+                attrs = []
+                if ch_id:
+                    attrs.append(f'tvg-id="{ch_id}"')
                 if logo:
-                    attrs += f' tvg-logo="{logo}"'
-                if country:
-                    attrs += f' tvg-country="{country}"'
-
-                fm3u.write(
-                    f'#EXTINF:-1 {attrs} '
-                    f'group-title="{country}",{nombre}\n'
-                )
+                    attrs.append(f'tvg-logo="{logo}"')
+                if ua:
+                    attrs.append(f'http-user-agent="{ua}"')
+                
+                attrs.append(f'group-title="{group}"')
+                
+                linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
+                fm3u.write(f"{linea_extinf}\n")
+                
+                if vlc_opt:
+                    fm3u.write(f"{vlc_opt}\n")
+                elif ua:
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
+                    
                 fm3u.write(f"{url}\n\n")
 
         ftxt.write("\n" + "=" * 60 + "\n")
         ftxt.write("  RESUMEN GLOBAL\n")
-        ftxt.write(f"  Total de streams probados: {len(todos_streams)}\n")
+        ftxt.write(f"  Total de streams probados: {len(todos_canales)}\n")
         ftxt.write(f"  Funcionan: {total_ok}\n")
         ftxt.write(f"  Fallan:    {total_fail}\n")
         ftxt.write(f"  Canales únicos: {len(canales_unicos)}\n")
@@ -432,7 +500,7 @@ def generar_unificado(paises, streams_por_pais, todos_streams, canal_por_id,
                        f"(total {st['total']})\n")
         ftxt.write("=" * 60 + "\n")
 
-    log(f"M3U unificado: {UNIFICADO_M3U} — {total_ok}/{len(todos_streams)} canales", C.CYAN)
+    log(f"M3U unificado: {UNIFICADO_M3U} — {total_ok}/{len(todos_canales)} canales", C.CYAN)
     return UNIFICADO_M3U, paises_stats
 
 # ============================================================
@@ -486,43 +554,40 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
 def main():
     inicio = datetime.now()
     log("=" * 60, C.CYAN)
-    log("IPTV Manager - Modo GitHub Actions", C.WHITE)
+    log("IPTV Manager - M3U Parser & Checker", C.WHITE)
     log(f"Inicio: {inicio:%Y-%m-%d %H:%M:%S}", C.CYAN)
     log("=" * 60, C.CYAN)
 
-    log("\n[1/5] Descargando datos de la API...", C.BLUE)
-    channels = descargar_json(CHANNELS_URL)
-    streams  = descargar_json(STREAMS_URL)
-    log(f"Datos: {len(channels)} canales, {len(streams)} streams", C.GREEN)
+    log("\n[1/5] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
+    m3u_raw = descargar_texto(INDEX_M3U_URL)
+    
+    log("[2/5] Parseando canales y atributos...", C.BLUE)
+    todos_canales_raw = parsear_m3u(m3u_raw)
+    log(f"Canales totales parseados: {len(todos_canales_raw)}", C.GREEN)
 
-    log(f"\n[2/5] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
-    streams_por_pais, todos_streams, canal_por_id = recolectar_streams_paises(
-        PAISES_ES, channels, streams
-    )
-    log(f"Streams únicos: {len(todos_streams)}", C.GREEN)
+    log(f"\n[3/5] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
+    canales_por_pais, todos_canales = filtrar_por_paises(todos_canales_raw, PAISES_ES)
+    log(f"Streams filtrados únicos: {len(todos_canales)}", C.GREEN)
 
-    log(f"\n[3/5] Probando streams (una sola vez)...", C.BLUE)
+    log(f"\n[4/5] Probando streams con sus User-Agents...", C.BLUE)
     resultados_globales = {}
-    if PROBAR and todos_streams:
+    if PROBAR and todos_canales:
         resultados_globales = probar_streams_concurrente(
-            todos_streams, etiqueta="streams (todos los países)"
+            todos_canales, etiqueta="streams en español"
         )
 
-    log(f"\n[4/5] Generando listados por país...", C.BLUE)
+    log(f"\n[5/5] Generando archivos M3U por país y unificado...", C.BLUE)
     for pais in PAISES_ES:
-        streams_pais = streams_por_pais.get(pais, [])
-        if not streams_pais:
-            continue
-        generar_listados(pais, channels, streams, resultados=resultados_globales)
+        canales_pais = canales_por_pais.get(pais, [])
+        if canales_pais:
+            generar_listados(pais, canales_pais, resultados=resultados_globales)
 
-    log(f"\n[5/5] Generando unificado + README...", C.BLUE)
     unificado_m3u, paises_stats = generar_unificado(
-        PAISES_ES, streams_por_pais, todos_streams, canal_por_id,
-        resultados=resultados_globales,
+        PAISES_ES, todos_canales, resultados=resultados_globales
     )
 
     total_ok_uni = _contar_canales_m3u(unificado_m3u)
-    total_probados = len(todos_streams)
+    total_probados = len(todos_canales)
     total_fail_uni = total_probados - total_ok_uni
 
     generar_readme(
@@ -536,7 +601,7 @@ def main():
     fin = datetime.now()
     log("\n" + "=" * 60, C.CYAN)
     log(f"PROCESO COMPLETADO en {(fin - inicio).total_seconds():.1f}s", C.GREEN)
-    log(f"Archivos en: {WORK_DIR}", C.WHITE)
+    log(f"Archivos guardados en: {WORK_DIR}", C.WHITE)
     log("=" * 60, C.CYAN)
     return 0
 

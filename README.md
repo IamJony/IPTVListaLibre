@@ -92,17 +92,6 @@ Este repositorio utiliza **GitHub Actions** para regenerar la lista M3U **cada 2
 
 ---
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si conoces alguna fuente pública de canales legales en español:
-
-1. 🍴 Haz un **Fork** del proyecto.
-2. 🌱 Crea una rama: `git checkout -b nueva-fuente`.
-3. 💾 Añade tu aporte en `fuentes.txt`.
-4. 🚀 Haz **Push** y abre un **Pull Request**.
-
----
-
 <div align="center">
 
 ### ⭐ Si te resulta útil, ¡deja una estrella!

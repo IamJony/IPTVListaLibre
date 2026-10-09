@@ -1,8 +1,3 @@
-Aquí tienes la versión corregida. He ajustado el script para que el campo **`group-title` (la categoría)** utilice **únicamente el nombre del país en español con su respectiva bandera** (por ejemplo: ` group-title="🇨🇴 Colombia"`), anulando las categorías genéricas en inglés como *"Movies"*, *"General"* o *"Shop"*.
-
-Así las listas quedan perfectamente organizadas en los reproductores IPTV por la bandera y país correspondientes.
-
-```python
 #!/usr/bin/env python3
 # ============================================================
 # Script: iptv_github.py

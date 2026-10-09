@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:09:25.977703
+# Fecha: 2026-10-09 10:18:50.579774
 
 #EXTINF:-1 tvg-id="5tv.ar" group-title="AR",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
@@ -26,6 +26,9 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar" group-title="AR",Aire de Santa Fe
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+
+#EXTINF:-1 tvg-id="AlternaTV.ar" group-title="AR",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" group-title="AR",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -59,6 +62,9 @@ https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal2deUshuaia.ar" group-title="AR",Canal 2 de Ushuaia
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" group-title="AR",Canal 2 Gualeguay
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal2MardelPlata.ar" group-title="AR",Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -99,6 +105,9 @@ http://190.128.214.97:64333/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" group-title="AR",Canal 4 San Juan
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal4Teleaire.ar" group-title="AR",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" group-title="AR",Canal 4 Villa Dolores
 https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 
@@ -110,6 +119,9 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5TVChepes.ar" group-title="AR",Canal 5 TV Chepes
 https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+
+#EXTINF:-1 tvg-id="Canal6Posadas.ar" group-title="AR",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal6VientoRecio.ar" group-title="AR",Canal 6 Viento Recio
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8

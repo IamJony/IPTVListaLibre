@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:09:26.211061
+# Fecha: 2026-10-09 10:18:50.838023
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es" group-title="ES",3Cat Cameres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -51,6 +51,9 @@ http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es" group-title="ES",AXN CEE
 http://88.212.15.19/live/axn_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="BCNGospelTV.es" group-title="ES",BCN Gospel TV
+https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
+
 #EXTINF:-1 tvg-id="BonDiaTV.es" group-title="ES",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
@@ -65,6 +68,9 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Emporda.es" group-title="ES",Canal 10 Emporda
 https://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-id="Canal33Madrid.es" group-title="ES",Canal 33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal45.es" group-title="ES",Canal 45
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
@@ -98,6 +104,9 @@ https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" group-title="ES",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTaronjaComarquesCentrals.es" group-title="ES",Canal Taronja Comarques Centrals
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalTaronjaOsonaiMoianes.es" group-title="ES",Canal Taronja Osona i Moianes
 https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
@@ -174,9 +183,6 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" group-title="ES",Esport3
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="EsteponaTelevision.es" group-title="ES",Estepona Television
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
-
 #EXTINF:-1 tvg-id="EsTuTele.es" group-title="ES",EsTuTele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
@@ -186,8 +192,17 @@ https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-id="ETB1On.es" group-title="ES",ETB1 On
 https://cdn1.etbon.eus/etb1on/index.m3u8
 
+#EXTINF:-1 tvg-id="ETB1On.es" group-title="ES",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.mpd
+
+#EXTINF:-1 tvg-id="ETB2.es" group-title="ES",ETB 2
+https://cdn1.etbon.eus/etb2/index.m3u8
+
 #EXTINF:-1 tvg-id="ETB2On.es" group-title="ES",ETB2 On
 https://cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2On.es" group-title="ES",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.mpd
 
 #EXTINF:-1 tvg-id="ETBEvents1.es" group-title="ES",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
@@ -231,8 +246,8 @@ https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" group-title="ES",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
-#EXTINF:-1 tvg-id="LiraTV.es" group-title="ES",LiraTV
-https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTV.es" group-title="ES",Logos TV
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
 
 #EXTINF:-1 tvg-id="LogosTVKids.es" group-title="ES",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
@@ -312,9 +327,6 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 #EXTINF:-1 tvg-id="SolidariaTV.es" group-title="ES",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-id="SpektraTV.es" group-title="ES",SpektraTV
-https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="Taroteame.es" group-title="ES",Taroteame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 
@@ -359,6 +371,9 @@ https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="TVA.es" group-title="ES",TVA
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSSpanish.es" group-title="ES",TV BRICS Spanish
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" group-title="ES",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8

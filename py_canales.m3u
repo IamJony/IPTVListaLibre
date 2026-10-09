@@ -1,13 +1,19 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PY
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:09:26.172092
+# Fecha: 2026-10-09 10:18:50.794677
 
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" group-title="PY",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AGRFMTV.py" group-title="PY",AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" group-title="PY",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+
+#EXTINF:-1 tvg-id="AltMediaTV.py" group-title="PY",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" group-title="PY",Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
@@ -21,6 +27,9 @@ https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py" group-title="PY",Canal 5 TV Max
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py" group-title="PY",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
 #EXTINF:-1 tvg-id="Canal8VisionTV.py" group-title="PY",Canal 8 Vision TV
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 
@@ -29,6 +38,12 @@ https://www.desde-paraguay.com/pro.m3u8
 
 #EXTINF:-1 tvg-id="CaritasTV.py" group-title="PY",Caritas TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTV.py" group-title="PY",Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+
+#EXTINF:-1 tvg-id="DelReyTV.py" group-title="PY",Del Rey TV
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 
 #EXTINF:-1 tvg-id="DismarRadioTV.py" group-title="PY",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
@@ -84,14 +99,26 @@ https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" group-title="PY",Nanduti
 https://nanduti.b-cdn.net/720p.m3u8
 
-#EXTINF:-1 tvg-id="Nanduti.py" group-title="PY",Nanduti
-http://190.128.214.97:64333/play/a02d/index.m3u8
-
 #EXTINF:-1 tvg-id="NPY.py" group-title="PY",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-id="OasisTV.py" group-title="PY",Oasis TV
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+
 #EXTINF:-1 tvg-id="OccidentalTV.py" group-title="PY",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+
+#EXTINF:-1 tvg-id="OviedoTV.py" group-title="PY",Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
+
+#EXTINF:-1 tvg-id="ParaguayTV.py" group-title="PY",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-id="Paravision.py" group-title="PY",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="PopuTV.py" group-title="PY",Popu TV
+http://190.108.83.69:8000/play/a070/index.m3u8
 
 #EXTINF:-1 tvg-id="PopuTV.py" group-title="PY",Popu TV
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
@@ -102,17 +129,20 @@ https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m
 #EXTINF:-1 tvg-id="ProductivaTV.py" group-title="PY",Productiva TV
 http://190.128.214.97:64333/play/a04i/index.m3u8
 
+#EXTINF:-1 tvg-id="RadioColmenar925FM.py" group-title="PY",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+
+#EXTINF:-1 tvg-id="RadioGuairaTV.py" group-title="PY",Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" group-title="PY",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 
+#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py" group-title="PY",Radio TV El Arca del Pacto
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+
 #EXTINF:-1 tvg-id="RCCTV.py" group-title="PY",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
-
-#EXTINF:-1 tvg-id="RegionalTVYaguaron.py" group-title="PY",Regional TV Yaguaron
-https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-
-#EXTINF:-1 tvg-id="RegionalTVYaguaron.py" group-title="PY",Regional TV Yaguaron
-http://190.128.214.97:64333/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicaTV.py" group-title="PY",Republica TV
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
@@ -120,17 +150,26 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SNT.py" group-title="PY",SNT
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="SURTVItapua.py" group-title="PY",SUR TV Itapua
-http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1 tvg-id="SucesoTV.py" group-title="PY",Suceso TV
+https://live.enhdtv.com:8081/8060/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="PY",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVAire.py" group-title="PY",TV Aire
-https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" group-title="PY",Tigo Sports
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TVCanindeyu.py" group-title="PY",TV Canindeyu
-https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
+#EXTINF:-1 tvg-id="TVAire.py" group-title="PY",TV Aire
+http://190.128.214.97:64333/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.py" group-title="PY",TV Camara
+http://158.172.217.18:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal.py" group-title="PY",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="UnionTV.py" group-title="PY",Union TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VenusMedia.py" group-title="PY",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8

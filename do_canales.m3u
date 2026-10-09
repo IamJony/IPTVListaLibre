@@ -1,13 +1,10 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - DO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:09:26.055760
+# Fecha: 2026-10-09 10:18:50.666725
 
 #EXTINF:-1 tvg-id="A7TV.do" group-title="DO",A7 TV
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AcentoTV.do" group-title="DO",Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="AdoramTV.do" group-title="DO",Adoram TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
@@ -60,8 +57,14 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CamuTV.do" group-title="DO",Camu TV
 https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal4RD.do" group-title="DO",Canal 4 RD
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal17RTVD.do" group-title="DO",Canal 17 RTVD
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal70.do" group-title="DO",Canal 70
+https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalCatorce.do" group-title="DO",Canal Catorce
 https://stream.haislin.com/14tv/index.m3u8
@@ -99,6 +102,9 @@ http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do" group-title="DO",CDN Deportes
 https://hls.tvabierta.net/hls/036.m3u8
 
+#EXTINF:-1 tvg-id="CenovisionHD.do" group-title="DO",Cenovision HD
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChinolaTV.do" group-title="DO",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
@@ -126,14 +132,14 @@ https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="COCOTV.do" group-title="DO",COCO TV
 https://edge.essastream.com/canalcocotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CodigoTV.do" group-title="DO",Codigo TV
+https://edge.essastream.com/codigotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ColimdoTV.do" group-title="DO",Colimdo TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 
 #EXTINF:-1 tvg-id="ColomeTV.do" group-title="DO",Colome TV
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ColorVision.do" group-title="DO",Color Vision
-https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
 
 #EXTINF:-1 tvg-id="ConstanzaTV.do" group-title="DO",ConstanzaTV
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
@@ -141,8 +147,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
 #EXTINF:-1 tvg-id="CotubanamaTV.do" group-title="DO",Cotubanama TV
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="CTTCanal49.do" group-title="DO",CTT Canal 49
-https://cdnfox.hostlagarto.com/cct49/index.m3u8
+#EXTINF:-1 tvg-id="CromTV.do" group-title="DO",CromTV
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CVVisionTV.do" group-title="DO",CV Vision TV
 https://eu1.servers10.com:8081/8128/index.m3u8
@@ -192,9 +198,6 @@ https://soportedvb.click:3442/live/entunotvlive.m3u8
 #EXTINF:-1 tvg-id="Extra86TV.do" group-title="DO",Extra 86 TV
 https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 
-#EXTINF:-1 tvg-id="Farovision.do" group-title="DO",Farovision
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="FRATATV.do" group-title="DO",FRATA TV
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 
@@ -204,8 +207,8 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 #EXTINF:-1 tvg-id="GalaxiATeVe.do" group-title="DO",GalaxiATeVe
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 
-#EXTINF:-1 tvg-id="GiTelevision.do" group-title="DO",Gi Television
-https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do" group-title="DO",GH Television
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GuaymateTV.do" group-title="DO",Guaymate TV
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
@@ -228,17 +231,14 @@ https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JimaniTV.do" group-title="DO",Jimani TV
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JPDTV.do" group-title="DO",JPD TV
-https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
-
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do" group-title="DO",Junior Technologia TV
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 
+#EXTINF:-1 tvg-id="LaCaletaTV.do" group-title="DO",La Caleta TV
+https://edge.essastream.com/lacaletatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LaDescargaTV.do" group-title="DO",La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
-
-#EXTINF:-1 tvg-id="LagunaTV.do" group-title="DO",Laguna TV
-https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaHoraTV.do" group-title="DO",La Hora TV
 https://edge.enhdtv.com/8206/index.m3u8
@@ -246,17 +246,8 @@ https://edge.enhdtv.com/8206/index.m3u8
 #EXTINF:-1 tvg-id="LaReinaTV.do" group-title="DO",La Reina TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaRutaTV.do" group-title="DO",La Ruta TV
-https://streamunoapp.com:3983/live/larutatvlive.m3u8
-
 #EXTINF:-1 tvg-id="LatinaTVInternacional.do" group-title="DO",Latina TV Internacional
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" group-title="DO",La Voz de Jesus HD
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaVozdeMaria.do" group-title="DO",La Voz de Maria
-https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
 #EXTINF:-1 tvg-id="LenaTV.do" group-title="DO",Lena TV
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
@@ -269,15 +260,6 @@ https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
 #EXTINF:-1 tvg-id="LuzDivinaTV.do" group-title="DO",Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-
-#EXTINF:-1 tvg-id="MaimonTVCanal3.do" group-title="DO",Maimon TV Canal 3
-https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="MakaoTV.do" group-title="DO",Makao TV
-https://live.obslivestream.com/makaomux/index.m3u8
-
-#EXTINF:-1 tvg-id="MakaoTV.do" group-title="DO",Makao TV
-https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MakinaTV.do" group-title="DO",Makina TV
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
@@ -369,6 +351,9 @@ https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" group-title="DO",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ReporteroTV.do" group-title="DO",Reportero TV
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+
 #EXTINF:-1 tvg-id="RETV.do" group-title="DO",R&E TV
 https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 
@@ -417,9 +402,6 @@ https://stream.haislin.com/super7fm/index.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.do" group-title="DO",Super Canal
 https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperTV55.do" group-title="DO",Super TV 55
-https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SurTV.do" group-title="DO",Sur TV
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 
@@ -435,11 +417,14 @@ http://168.196.127.137:6001/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="TeleBendicion.do" group-title="DO",TeleBendicion
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecanal12.do" group-title="DO",Telecanal 12
-https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Telecanal28.do" group-title="DO",Telecanal 28
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TeleCibaoHD.do" group-title="DO",TeleCibaoHD
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelecomercioTV.do" group-title="DO",Telecomercio TV
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
 
 #EXTINF:-1 tvg-id="Telecontacto.do" group-title="DO",Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
@@ -479,9 +464,6 @@ https://cdn.telepoder.online:3229/dash/stream.m3u8
 
 #EXTINF:-1 tvg-id="TeleProyectoTV.do" group-title="DO",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleRadioNorte.do" group-title="DO",TeleRadioNorte
-https://angelistic.live:3785/live/tvoficiallive.m3u8
 
 #EXTINF:-1 tvg-id="TELESIGLO.do" group-title="DO",TELESIGLO
 https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
@@ -534,6 +516,15 @@ https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCotuiCanal31.do" group-title="DO",TV Cotui Canal 31
 https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVExitos.do" group-title="DO",TV Exitos
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+
+#EXTINF:-1 tvg-id="TVHigueyDigital.do" group-title="DO",TV Higuey Digital
+https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
+
+#EXTINF:-1 tvg-id="TVLuz.do" group-title="DO",TV Luz
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+
 #EXTINF:-1 tvg-id="TVN.do" group-title="DO",TVN
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 
@@ -575,6 +566,9 @@ https://edge.essastream.com/xtratv/index.m3u8
 
 #EXTINF:-1 tvg-id="XtremoChannel.do" group-title="DO",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yunavision.do" group-title="DO",Yunavision
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="ZASTV.do" group-title="DO",ZAS TV
 https://cloud5.zastv.net/hls/zastv.m3u8

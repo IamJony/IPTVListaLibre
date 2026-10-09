@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - NI
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:09:26.146953
+# Fecha: 2026-10-09 10:18:50.767305
 
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="NI",Canal 10
 https://www.canal10.com.ni/envivo
@@ -12,8 +12,14 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaBox.ni" group-title="NI",MegaBox
 https://hdbox.chunklistv.com/live?stream=megabox
 
+#EXTINF:-1 tvg-id="OlamMetroTV.ni" group-title="NI",Olam Metro TV
+https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
+
 #EXTINF:-1 tvg-id="TN8.ni" group-title="NI",TN8
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN8.ni" group-title="NI",TN8
+http://190.61.101.11:7050/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="TV45.ni" group-title="NI",TV 45
 https://hdbox.chunklistv.com/live?stream=3abn-nicaragua

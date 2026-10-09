@@ -9,7 +9,7 @@
 
 **Lista M3U de canales de televisión gratuitos y legales en español**
 
-*Generada automáticamente a partir de fuentes públicas · Actualizada cada día* ✨
+*Generada automáticamente a partir de fuentes públicas · Actualizado y probado los canales cada día* ✨
 
 </div>
 
@@ -18,6 +18,45 @@
 ## 🌟 ¿Qué es IPTVListaLibre?
 
 **IPTVListaLibre** es un repositorio que recopila y organiza automáticamente una lista **M3U** con canales de televisión **gratuitos y legales** en español. Toda la información proviene de **fuentes públicas** y se actualiza **diariamente de forma automática**, para que siempre tengas acceso a los canales más recientes sin mover un dedo. 🚀
+
+---
+
+## 📊 Estado Actual
+
+**Última actualización:** `2026-10-09 10:19 UTC`
+**Canales activos totales:** **1332**
+**Países cubiertos:** **19**
+**Streams probados:** `2455` · **OK:** `1332` · **Fallidos:** `1123`
+
+### 📡 Canales por país
+
+| País | Canales activos | Enlace M3U |
+|:-----|----------------:|:-----------|
+| 🇦🇷 Argentina | 148 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ar_canales.m3u) |
+| 🇧🇴 Bolivia | 46 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/bo_canales.m3u) |
+| 🇨🇱 Chile | 178 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cl_canales.m3u) |
+| 🇨🇴 Colombia | 97 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u) |
+| 🇨🇷 Costa Rica | 39 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cr_canales.m3u) |
+| 🇩🇴 Rep. Dominicana | 142 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/do_canales.m3u) |
+| 🇪🇨 Ecuador | 48 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ec_canales.m3u) |
+| 🇸🇻 El Salvador | 20 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/sv_canales.m3u) |
+| 🇬🇹 Guatemala | 19 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/gt_canales.m3u) |
+| 🇭🇳 Honduras | 44 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/hn_canales.m3u) |
+| 🇲🇽 México | 114 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/mx_canales.m3u) |
+| 🇳🇮 Nicaragua | 10 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ni_canales.m3u) |
+| 🇵🇦 Panamá | 10 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pa_canales.m3u) |
+| 🇵🇾 Paraguay | 50 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/py_canales.m3u) |
+| 🇵🇪 Perú | 156 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pe_canales.m3u) |
+| 🇵🇷 Puerto Rico | 17 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pr_canales.m3u) |
+| 🇪🇸 España | 140 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_canales.m3u) |
+| 🇺🇾 Uruguay | 4 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/uy_canales.m3u) |
+| 🇻🇪 Venezuela | 50 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ve_canales.m3u) |
+
+### 🎯 Lista unificada en español
+
+| Lista | Canales | Enlace |
+|:------|--------:|:-------|
+| 🇪🇸 **Todos los países** | **1332** | [es_unificado.m3u](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_unificado.m3u) |
 
 ---
 
@@ -38,9 +77,13 @@
 
 ### 1️⃣ Copia el enlace de la lista
 
-```
-https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u
-```
+**Lista unificada (todos los países en español):**
+
+`https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_unificado.m3u`
+
+**Lista solo de Colombia:**
+
+`https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u`
 
 ### 2️⃣ Pega el enlace en tu reproductor IPTV favorito
 
@@ -79,7 +122,6 @@ Este repositorio utiliza **GitHub Actions** para regenerar la lista M3U **cada 2
 - ✅ Los canales caídos se eliminen.
 - ✅ Los nuevos canales disponibles se añadan.
 - ✅ Siempre tengas la versión más fresca. 🍃
-
 
 ---
 

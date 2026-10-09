@@ -1,0 +1,587 @@
+#EXTM3U
+# REPORTE DE CANALES IPTV - DO
+# Generada por IamJony (https://github.com/IamJony)
+# Fecha: 2026-10-09 10:09:26.055760
+
+#EXTINF:-1 tvg-id="A7TV.do" group-title="DO",A7 TV
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AcentoTV.do" group-title="DO",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AdoramTV.do" group-title="DO",Adoram TV
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AguilaTV.do" group-title="DO",Aguila TV
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" group-title="DO",Ahora TV
+https://stream.haislin.com/ahoratv/index.m3u8
+
+#EXTINF:-1 tvg-id="AIONTV.do" group-title="DO",AION TV
+https://edge.essastream.com/aiontelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlcarrizosTV.do" group-title="DO",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlegreTVRD.do" group-title="DO",Alegre TV RD
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-id="AltantoTV.do" group-title="DO",Altanto TV
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+
+#EXTINF:-1 tvg-id="Ame47.do" group-title="DO",Ame 47
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena7.do" group-title="DO",Antena 7
+https://hls.tvabierta.net/hls/007.m3u8
+
+#EXTINF:-1 tvg-id="BajoTechoTV.do" group-title="DO",Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BaniVision.do" group-title="DO",Bani Vision
+https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+
+#EXTINF:-1 tvg-id="Bellavision.do" group-title="DO",Bellavision
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BocaChicaTV.do" group-title="DO",Boca Chica TV
+https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BonaoTV.do" group-title="DO",Bonao TV
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do" group-title="DO",Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boreal.do" group-title="DO",Boreal
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CamuTV.do" group-title="DO",Camu TV
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal17RTVD.do" group-title="DO",Canal 17 RTVD
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCatorce.do" group-title="DO",Canal Catorce
+https://stream.haislin.com/14tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canalda26HD.do" group-title="DO",Canalda 26 HD
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+
+#EXTINF:-1 tvg-id="CanaldelSol.do" group-title="DO",Canal del Sol
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+
+#EXTINF:-1 tvg-id="CanalDTV.do" group-title="DO",Canal DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalMultivision.do" group-title="DO",Canal Multivision
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanangaTV.do" group-title="DO",Cananga TV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+
+#EXTINF:-1 tvg-id="CaobaTVRadio.do" group-title="DO",Caoba TV Radio
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Carivision.do" group-title="DO",Carivision
+https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CascaraTV.do" group-title="DO",Cascara TV
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDN.do" group-title="DO",CDN
+http://190.61.90.17:40000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="CDN.do" group-title="DO",CDN
+http://187.245.231.226:8000/play/a0ss/index.m3u8
+
+#EXTINF:-1 tvg-id="CDNDeportes.do" group-title="DO",CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
+
+#EXTINF:-1 tvg-id="ChinolaTV.do" group-title="DO",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CibaenaTV.do" group-title="DO",Cibaena TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CieloTV.do" group-title="DO",Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" group-title="DO",Cinevision Canal 19
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CitricoTV.do" group-title="DO",Citrico TV
+https://edge.essastream.com/citricotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" group-title="DO",Claro Television Dominicana
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" group-title="DO",Claro Vision TV
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="CNTMasTV.do" group-title="DO",CNT Mas TV
+https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="COCOTV.do" group-title="DO",COCO TV
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColimdoTV.do" group-title="DO",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+#EXTINF:-1 tvg-id="ColomeTV.do" group-title="DO",Colome TV
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorVision.do" group-title="DO",Color Vision
+https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
+
+#EXTINF:-1 tvg-id="ConstanzaTV.do" group-title="DO",ConstanzaTV
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CotubanamaTV.do" group-title="DO",Cotubanama TV
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="CTTCanal49.do" group-title="DO",CTT Canal 49
+https://cdnfox.hostlagarto.com/cct49/index.m3u8
+
+#EXTINF:-1 tvg-id="CVVisionTV.do" group-title="DO",CV Vision TV
+https://eu1.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:-1 tvg-id="DelPuebloTV.do" group-title="DO",Del Pueblo TV
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do" group-title="DO",Delta TV Canal 50
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" group-title="DO",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+
+#EXTINF:-1 tvg-id="DigitalVision63.do" group-title="DO",Digital Vision 63
+https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EcosCanal57.do" group-title="DO",Ecos Canal 57
+https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ecovision.do" group-title="DO",Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+
+#EXTINF:-1 tvg-id="EliasPinaTV.do" group-title="DO",Elias Pina TV
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do" group-title="DO",El Nuevo Diario TV
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ElPuertoTV.do" group-title="DO",El Puerto TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElSeis6.do" group-title="DO",El Seis 6
+https://stream.elseis.do/canal6/live_1080.m3u8
+
+#EXTINF:-1 tvg-id="Enntivision.do" group-title="DO",Enntivision
+https://edge.essastream.com/enntivision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="entelevision.do" group-title="DO",entelevision
+https://stream.haislin.com/entelevision/index.m3u8
+
+#EXTINF:-1 tvg-id="EnterateRD.do" group-title="DO",Enterate RD
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EntunoTV.do" group-title="DO",Entuno TV
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+
+#EXTINF:-1 tvg-id="Extra86TV.do" group-title="DO",Extra 86 TV
+https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
+
+#EXTINF:-1 tvg-id="Farovision.do" group-title="DO",Farovision
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="FRATATV.do" group-title="DO",FRATA TV
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.do" group-title="DO",Fuego TV
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+
+#EXTINF:-1 tvg-id="GalaxiATeVe.do" group-title="DO",GalaxiATeVe
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+
+#EXTINF:-1 tvg-id="GiTelevision.do" group-title="DO",Gi Television
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+
+#EXTINF:-1 tvg-id="GuaymateTV.do" group-title="DO",Guaymate TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HainaVision.do" group-title="DO",Haina Vision
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+
+#EXTINF:-1 tvg-id="HermanasMirabalTV.do" group-title="DO",Hermanas Mirabal TV
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+
+#EXTINF:-1 tvg-id="HilandoFinoTV.do" group-title="DO",Hilando Fino TV
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" group-title="DO",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-id="InformeTV.do" group-title="DO",Informe TV
+https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JimaniTV.do" group-title="DO",Jimani TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JPDTV.do" group-title="DO",JPD TV
+https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do" group-title="DO",Junior Technologia TV
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+
+#EXTINF:-1 tvg-id="LaDescargaTV.do" group-title="DO",La Descarga TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+
+#EXTINF:-1 tvg-id="LagunaTV.do" group-title="DO",Laguna TV
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaHoraTV.do" group-title="DO",La Hora TV
+https://edge.enhdtv.com/8206/index.m3u8
+
+#EXTINF:-1 tvg-id="LaReinaTV.do" group-title="DO",La Reina TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaRutaTV.do" group-title="DO",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+
+#EXTINF:-1 tvg-id="LatinaTVInternacional.do" group-title="DO",Latina TV Internacional
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" group-title="DO",La Voz de Jesus HD
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaVozdeMaria.do" group-title="DO",La Voz de Maria
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+
+#EXTINF:-1 tvg-id="LenaTV.do" group-title="DO",Lena TV
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LinierosTV.do" group-title="DO",Linieros TV
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+
+#EXTINF:-1 tvg-id="LunaTVCanal53.do" group-title="DO",Luna TV Canal 53
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+
+#EXTINF:-1 tvg-id="LuzDivinaTV.do" group-title="DO",Luz Divina TV
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+
+#EXTINF:-1 tvg-id="MaimonTVCanal3.do" group-title="DO",Maimon TV Canal 3
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="MakaoTV.do" group-title="DO",Makao TV
+https://live.obslivestream.com/makaomux/index.m3u8
+
+#EXTINF:-1 tvg-id="MakaoTV.do" group-title="DO",Makao TV
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakinaTV.do" group-title="DO",Makina TV
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+
+#EXTINF:-1 tvg-id="ManaclarTelevision.do" group-title="DO",Manaclar Television
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarkaTV.do" group-title="DO",Marka TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarlaVision.do" group-title="DO",Marla Vision
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+
+#EXTINF:-1 tvg-id="MegaCineTV.do" group-title="DO",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiavisionTV.do" group-title="DO",Miavision TV
+https://edge.essastream.com/miavisiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Microvision10.do" group-title="DO",Microvision 10
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MisionELTV.do" group-title="DO",Mision ELTV
+https://rd.tvabierta.net/live/misioneltv.m3u8
+
+#EXTINF:-1 tvg-id="MontecristiDigital8.do" group-title="DO",Montecristi Digital 8
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
+
+#EXTINF:-1 tvg-id="MontonesTV.do" group-title="DO",Montones TV
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MorroTV.do" group-title="DO",MorroTV
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Musavision.do" group-title="DO",Musavision
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NaranjaTV.do" group-title="DO",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
+#EXTINF:-1 tvg-id="NavarreteTelevision.do" group-title="DO",Navarrete Television
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+
+#EXTINF:-1 tvg-id="NexxoTV.do" group-title="DO",Nexxo TV
+https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NitidaTV.do" group-title="DO",Nitida TV
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+
+#EXTINF:-1 tvg-id="Noticias16.do" group-title="DO",Noticias 16
+https://edge.essastream.com/noticias16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NotisurTV.do" group-title="DO",Notisur TV
+https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OEPMTV.do" group-title="DO",OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OndaTV.do" group-title="DO",Onda TV
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ORBITTV.do" group-title="DO",ORBIT TV
+https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ORBITTV.do" group-title="DO",ORBIT TV
+https://edge.essastream.com/orbittv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalmarTV.do" group-title="DO",Palmar TV
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+
+#EXTINF:-1 tvg-id="PeraviaVision.do" group-title="DO",Peravia Vision
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PronemsTV.do" group-title="DO",Pronems TV
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuntaCanaTV.do" group-title="DO",Punta Cana TV
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+
+#EXTINF:-1 tvg-id="PuntoTV.do" group-title="DO",Punto TV
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+
+#EXTINF:-1 tvg-id="PuntoTVDigital40.do" group-title="DO",Punto TV Digital 40
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RDN.do" group-title="DO",RDN
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do" group-title="DO",Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RETV.do" group-title="DO",R&E TV
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNN.do" group-title="DO",RNN
+https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNN.do" group-title="DO",RNN
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RocavisionTV.do" group-title="DO",Rocavision TV
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" group-title="DO",Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-id="RTelevision.do" group-title="DO",R Television
+https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Ruta66TV.do" group-title="DO",Ruta 66 TV
+https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="SanIsidroTV.do" group-title="DO",San Isidro TV
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SantaCruzTV.do" group-title="DO",Santa Cruz TV
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="SantiagoTV.do" group-title="DO",Santiago TV
+https://edge.essastream.com/telemilenio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SenalDigitalTV.do" group-title="DO",Senal Digital TV
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="SenalesTV.do" group-title="DO",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+
+#EXTINF:-1 tvg-id="SiembraTV.do" group-title="DO",Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+
+#EXTINF:-1 tvg-id="SiTV.do" group-title="DO",SiTV
+http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
+
+#EXTINF:-1 tvg-id="Super7FM.do" group-title="DO",Super7FM
+https://stream.haislin.com/super7fm/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperCanal.do" group-title="DO",Super Canal
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV55.do" group-title="DO",Super TV 55
+https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurTV.do" group-title="DO",Sur TV
+https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDNMedios.do" group-title="DO",TDN Medios
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+
+#EXTINF:-1 tvg-id="TeleAntillas.do" group-title="DO",Tele Antillas
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleAntillas.do" group-title="DO",Tele Antillas
+http://168.196.127.137:6001/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleBendicion.do" group-title="DO",TeleBendicion
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal12.do" group-title="DO",Telecanal 12
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal28.do" group-title="DO",Telecanal 28
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telecontacto.do" group-title="DO",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+
+#EXTINF:-1 tvg-id="TeleDajabonTV.do" group-title="DO",Tele Dajabon TV
+https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.do" group-title="DO",Telefuturo
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+
+#EXTINF:-1 tvg-id="Teleimpacto.do" group-title="DO",Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.do" group-title="DO",Telemax
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelemetroTV.do" group-title="DO",Telemetro TV
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+
+#EXTINF:-1 tvg-id="TelemicroInternacional.do" group-title="DO",Telemicro Internacional
+http://45.228.234.60:8880/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="Telenord8.do" group-title="DO",Telenord 8
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenord10.do" group-title="DO",Telenord 10
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenord12.do" group-title="DO",Telenord 12
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenovisa43.do" group-title="DO",Telenovisa43
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelePoderTV.do" group-title="DO",Tele Poder TV
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+
+#EXTINF:-1 tvg-id="TeleProyectoTV.do" group-title="DO",Tele Proyecto TV
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleRadioNorte.do" group-title="DO",TeleRadioNorte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+
+#EXTINF:-1 tvg-id="TELESIGLO.do" group-title="DO",TELESIGLO
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Telesistema11.do" group-title="DO",Telesistema 11
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+
+#EXTINF:-1 tvg-id="Teletur.do" group-title="DO",Teletur
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Teleunion.do" group-title="DO",Teleunion
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleuniverso.do" group-title="DO",Teleuniverso
+https://hls.tvabierta.net/hls/029.m3u8
+
+#EXTINF:-1 tvg-id="Telever.do" group-title="DO",Telever
+https://soportedvb.click:3413/live/televerlive.m3u8
+
+#EXTINF:-1 tvg-id="Televida.do" group-title="DO",Televida
+https://cnn.hostlagarto.com/televida/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" group-title="DO",Television del Este
+https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TenarensesTV.do" group-title="DO",Tenarenses TV
+https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TigueritoTV.do" group-title="DO",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry.do" group-title="DO",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopicalMoonRD.do" group-title="DO",Topical Moon RD
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+
+#EXTINF:-1 tvg-id="ToraCanal69.do" group-title="DO",Tora Canal 69
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+
+#EXTINF:-1 tvg-id="TourSpotTV.do" group-title="DO",Tour Spot TV
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TurismoHD.do" group-title="DO",Turismo HD
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV10SanJuan.do" group-title="DO",TV 10 San Juan
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCotuiCanal31.do" group-title="DO",TV Cotui Canal 31
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN.do" group-title="DO",TVN
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVO.do" group-title="DO",TVO
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+
+#EXTINF:-1 tvg-id="TVPlata.do" group-title="DO",TV Plata
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVS.do" group-title="DO",TVS
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+
+#EXTINF:-1 tvg-id="UVATV.do" group-title="DO",UVA TV
+https://www.uvatvhd.com/hls.php?file=live.m3u8
+
+#EXTINF:-1 tvg-id="ValleNuevoTV.do" group-title="DO",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vallevision.do" group-title="DO",Vallevision
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VegaTeve.do" group-title="DO",Vega Teve
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+
+#EXTINF:-1 tvg-id="VegavisionCanal18.do" group-title="DO",Vegavision Canal 18
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Vision3000.do" group-title="DO",Vision 3000
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionNDV.do" group-title="DO",Vision NDV
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+
+#EXTINF:-1 tvg-id="VTVCanal32.do" group-title="DO",VTV Canal 32
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+
+#EXTINF:-1 tvg-id="XtraTv.do" group-title="DO",Xtra Tv
+https://edge.essastream.com/xtratv/index.m3u8
+
+#EXTINF:-1 tvg-id="XtremoChannel.do" group-title="DO",Xtremo Channel
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZASTV.do" group-title="DO",ZAS TV
+https://cloud5.zastv.net/hls/zastv.m3u8
+
+#EXTINF:-1 tvg-id="ZincNombreTV.do" group-title="DO",Zinc Nombre TV
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZonavisionTV.do" group-title="DO",Zonavision TV
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+

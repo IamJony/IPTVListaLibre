@@ -1,0 +1,194 @@
+#EXTM3U
+# REPORTE DE CANALES IPTV - EC
+# Generada por IamJony (https://github.com/IamJony)
+# Fecha: 2026-10-09 10:09:26.069436
+
+#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" group-title="EC",America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" group-title="EC",America Estereo Ibarra
+https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" group-title="EC",America Estereo Quito
+https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" group-title="EC",Antena Uno Radiovideo
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+#EXTINF:-1 tvg-id="Asomavision.ec" group-title="EC",Asomavision
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="AustralTV.ec" group-title="EC",Austral TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BacanTeVeo.ec" group-title="EC",Bacan Te Veo
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaprichoTV.ec" group-title="EC",Capricho TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
+#EXTINF:-1 tvg-id="CiracuTV.ec" group-title="EC",Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="EcotelTV.ec" group-title="EC",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec" group-title="EC",Ecuador TV
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec" group-title="EC",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec" group-title="EC",Ecuador TV
+http://38.44.109.41:8003/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" group-title="EC",Ecuavisa
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" group-title="EC",Ecuavisa
+http://45.224.97.181:9999/Ecuavisa/index.m3u8
+
+#EXTINF:-1 tvg-id="EducaTV.ec" group-title="EC",Educa TV
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElSolNetworkTV.ec" group-title="EC",El Sol Network TV
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
+
+#EXTINF:-1 tvg-id="FMMundo.ec" group-title="EC",FM Mundo
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gamavision.ec" group-title="EC",Gamavision
+http://45.224.97.181:9999/Gamavision/index.m3u8
+
+#EXTINF:-1 tvg-id="Gamavision.ec" group-title="EC",Gamavision
+http://181.78.211.244:8000/play/a0a2/index.m3u8
+
+#EXTINF:-1 tvg-id="GaviotaTV.ec" group-title="EC",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+
+#EXTINF:-1 tvg-id="HechosEcuador.ec" group-title="EC",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+
+#EXTINF:-1 tvg-id="IeanJesusEcuador.ec" group-title="EC",IeanJesus Ecuador
+https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InfinitaTV.ec" group-title="EC",Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec" group-title="EC",La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatacungaTV.ec" group-title="EC",LatacungaTV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoretoTV.ec" group-title="EC",Loreto TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" group-title="EC",MakroDigital Television
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" group-title="EC",MakroDigital Television
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Manavision.ec" group-title="EC",Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-id="MarcaTV.ec" group-title="EC",Marca TV
+http://200.7.219.221:8088/live/livetv/index.m3u8
+
+#EXTINF:-1 tvg-id="MelRadioTV.ec" group-title="EC",Mel Radio TV
+https://eu1.servers10.com:8081/8334/index.m3u8
+
+#EXTINF:-1 tvg-id="MetropoliMediosTV.ec" group-title="EC",Metropoli Medios TV
+https://eu1.servers10.com:8081/8214/index.m3u8
+
+#EXTINF:-1 tvg-id="NukaTV.ec" group-title="EC",Nuka TV
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+
+#EXTINF:-1 tvg-id="OromarTV.ec" group-title="EC",Oromar TV
+http://45.224.97.181:9999/Oromar/index.m3u8
+
+#EXTINF:-1 tvg-id="OromarTV.ec" group-title="EC",Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="OromarTVPlus.ec" group-title="EC",Oromar TV+
+https://stream.oromar.tv/hls/camriva/index.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaChannel.ec" group-title="EC",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+
+#EXTINF:-1 tvg-id="PuruwaTV.ec" group-title="EC",Puruwa TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioBonita1067.ec" group-title="EC",Radio Bonita 106.7
+https://cloudvideo.servers10.com:8081/8154/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioCuencaEstereo.ec" group-title="EC",Radio Cuenca Estereo
+https://eu1.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec" group-title="EC",Radio Fantastica 98.9 FM
+http://190.107.232.9:8082/livestream/stream.m3u8
+
+#EXTINF:-1 tvg-id="RadioMonumentalTV.ec" group-title="EC",Radio Monumental TV
+https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec" group-title="EC",Red TVE Ventanas
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-id="RTRTV.ec" group-title="EC",RTRTV
+https://tv3ecuador.site/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS.ec" group-title="EC",RTS
+http://45.224.97.181:9999/RTS/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS.ec" group-title="EC",RTS
+http://157.100.248.242:8080/RTSHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTU.ec" group-title="EC",RTU
+http://45.224.97.181:9999/RTU/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.ec" group-title="EC",RTV
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SonoOndaTV.ec" group-title="EC",Sono Onda TV
+https://live.obslivestream.com/sonoondatv/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioPlusTV.ec" group-title="EC",Studio + TV
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="EC",Teleamazonas
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemar.ec" group-title="EC",Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-id="Telerama.ec" group-title="EC",Telerama
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:-1 tvg-id="TVC.ec" group-title="EC",TVC
+http://45.224.97.181:9999/TVC/index.m3u8
+
+#EXTINF:-1 tvg-id="TVC.ec" group-title="EC",TVC
+http://157.100.248.242:8080/TVCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TVC.ec" group-title="EC",TVC
+https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="TVColorCanal36.ec" group-title="EC",TV Color Canal 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+
+#EXTINF:-1 tvg-id="TVLegislativa.ec" group-title="EC",TV Legislativa
+https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TvOro.ec" group-title="EC",TvOro
+http://45.187.0.19:9090/tvusa/index.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversalEcuador.ec" group-title="EC",TV Universal Ecuador
+https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+
+#EXTINF:-1 tvg-id="UnsionTV.ec" group-title="EC",Unsion TV
+http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WuanPlus.ec" group-title="EC",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+

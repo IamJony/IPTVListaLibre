@@ -1,0 +1,125 @@
+#EXTM3U
+# REPORTE DE CANALES IPTV - GT
+# Generada por IamJony (https://github.com/IamJony)
+# Fecha: 2026-10-09 10:09:26.107647
+
+#EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" group-title="GT",Amigos TV Chiquimula
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+
+#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" group-title="GT",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-id="BarbeTV.gt" group-title="GT",Barbe TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal3.gt" group-title="GT",Canal 3
+http://181.119.177.253:8000/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal7.gt" group-title="GT",Canal 7
+http://181.119.177.253:8000/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal7.gt" group-title="GT",Canal 7
+http://200.115.120.1:8000/play/ca112/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal11.gt" group-title="GT",Canal 11
+http://179.60.224.196:8000/play/a0dv/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.gt" group-title="GT",Canal 13
+http://190.61.101.11:7050/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.gt" group-title="GT",Canal 13
+http://168.196.127.137:6001/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Esquipulas.gt" group-title="GT",Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-id="Canal100Chinique.gt" group-title="GT",Canal 100 Chinique
+https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTVRadioMayaTGBA.gt" group-title="GT",Canal TV Radio Maya TGBA
+https://s.emisoras.tv:8081/radiomaya/index.m3u8
+
+#EXTINF:-1 tvg-id="ConectadosconDios.gt" group-title="GT",Conectados con Dios
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="Guatevision.gt" group-title="GT",Guatevision
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
+
+#EXTINF:-1 tvg-id="Guatevision.gt" group-title="GT",Guatevision
+http://168.196.127.137:6001/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="IglesiaDelCamino.gt" group-title="GT",Iglesia Del Camino
+http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JubiloTV.gt" group-title="GT",Jubilo TV
+http://173.249.60.54/hls/jubilotv.m3u8
+
+#EXTINF:-1 tvg-id="MASTV.gt" group-title="GT",MAS TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="MaxivisionTV.gt" group-title="GT",Maxivision TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCNTelevision.gt" group-title="GT",MCN Television
+https://eu1.servers10.com:8081/8338/index.m3u8
+
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt" group-title="GT",Multivision Canal 3
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
+
+#EXTINF:-1 tvg-id="NimTV.gt" group-title="GT",Nim TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="NuestraImagenTV.gt" group-title="GT",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PenielKY.gt" group-title="GT",Peniel K&Y
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+
+#EXTINF:-1 tvg-id="PenielMusical.gt" group-title="GT",Peniel Musical
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+
+#EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt" group-title="GT",Peniel TV Biblia Abierta
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioCoatanCanal21.gt" group-title="GT",Radio Coatan Canal 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RhemaTV.gt" group-title="GT",Rhema TV
+https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RhemaTV.gt" group-title="GT",Rhema TV
+http://190.61.90.17:40000/play/a0iw/index.m3u8
+
+#EXTINF:-1 tvg-id="RhemaTV.gt" group-title="GT",Rhema TV
+http://45.171.64.30:6060/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-id="SASTV.gt" group-title="GT",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="SILTV.gt" group-title="GT",SIL TV
+https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.gt" group-title="GT",Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Telecosta.gt" group-title="GT",Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="TigoSports.gt" group-title="GT",Tigo Sports
+http://168.196.127.137:6001/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="TVFlorencia.gt" group-title="GT",TV Florencia
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+#EXTINF:-1 tvg-id="TVSRetro.gt" group-title="GT",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="VeaCanal.gt" group-title="GT",Vea Canal
+http://181.78.106.127:5000/play/ca090/index.m3u8
+
+#EXTINF:-1 tvg-id="VisionTV.gt" group-title="GT",Vision TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="WorldTVGuatemala.gt" group-title="GT",World TV Guatemala
+https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+

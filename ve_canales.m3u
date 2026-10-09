@@ -1,0 +1,161 @@
+#EXTM3U
+# REPORTE DE CANALES IPTV - VE
+# Generada por IamJony (https://github.com/IamJony)
+# Fecha: 2026-10-09 10:09:26.236834
+
+#EXTINF:-1 tvg-id="ANTV.ve" group-title="VE",ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" group-title="VE",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AS3SportTV.ve" group-title="VE",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="BTATV.ve" group-title="VE",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-1 tvg-id="Canal21Tachira.ve" group-title="VE",Canal 21 Tachira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve" group-title="VE",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+
+#EXTINF:-1 tvg-id="CanalI.ve" group-title="VE",Canal I
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+
+#EXTINF:-1 tvg-id="CatatumboTV.ve" group-title="VE",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" group-title="VE",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" group-title="VE",Globovision
+http://181.78.8.199:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve" group-title="VE",Guaro TV
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="InterTV.ve" group-title="VE",Inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="IslaTV.ve" group-title="VE",Isla TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaTeleTuya.ve" group-title="VE",La Tele Tuya
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-id="LatinaTV.ve" group-title="VE",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+
+#EXTINF:-1 tvg-id="LGDTelevision.ve" group-title="VE",LGD Television
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MasTalk.ve" group-title="VE",Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-id="MAXAnime.ve" group-title="VE",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeridianoTV.ve" group-title="VE",Meridiano TV
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-id="PlousTV.ve" group-title="VE",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" group-title="VE",Portuguesa Television
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1 tvg-id="PromarTV.ve" group-title="VE",PromarTV
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PromarTV.ve" group-title="VE",PromarTV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReformaTV.ve" group-title="VE",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowVenTV.ve" group-title="VE",ShowVen TV
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+
+#EXTINF:-1 tvg-id="SiembraTV.ve" group-title="VE",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SomosTV.ve" group-title="VE",Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SunChannel.ve" group-title="VE",Sun Channel
+http://168.196.127.137:6001/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="TAMTV.ve" group-title="VE",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleAragua.ve" group-title="VE",TeleAragua
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+
+#EXTINF:-1 tvg-id="Telecentro.ve" group-title="VE",Telecentro
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" group-title="VE",Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" group-title="VE",Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" group-title="VE",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Televen.ve" group-title="VE",Televen
+http://181.78.8.199:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="Televen.ve" group-title="VE",Televen
+http://38.134.250.110:8000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" group-title="VE",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 tvg-id="TNORadio.ve" group-title="VE",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT.ve" group-title="VE",TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuTV.ve" group-title="VE",Tu TV
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+
+#EXTINF:-1 tvg-id="TVes.ve" group-title="VE",TVes
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+
+#EXTINF:-1 tvg-id="TVFamilia.ve" group-title="VE",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMparati.ve" group-title="VE",TVM para ti
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+
+#EXTINF:-1 tvg-id="TVS.ve" group-title="VE",TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniTV.ve" group-title="VE",UniTV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ValeTV.ve" group-title="VE",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" group-title="VE",Venevision
+http://181.78.8.199:8000/play/a0if/index.m3u8
+
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" group-title="VE",Venevision Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+
+#EXTINF:-1 tvg-id="VepacoTV.ve" group-title="VE",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-1 tvg-id="VePlus.ve" group-title="VE",Ve Plus
+http://190.61.114.186:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="VePlus.ve" group-title="VE",Ve Plus
+http://186.148.196.100:8000/play/a01d
+
+#EXTINF:-1 tvg-id="WataVision.ve" group-title="VE",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
+

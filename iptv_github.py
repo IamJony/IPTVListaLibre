@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # ============================================================
 # Script: iptv_github.py
-# Descripción: Descarga el M3U maestro de iptv-org, extrae canales
+# Descripción: Descarga el M3U maestro de iptv-org, extrae
+#              logos y User-Agents, filtra por países
 #              hispanohablantes, categoriza ÚNICAMENTE por país
 #              en español, prueba los streams y genera M3U + README.
 # Autor: IamJony https://github.com/IamJony
@@ -596,5 +597,3 @@ if __name__ == "__main__":
     except Exception as e:
         log(f"\nError inesperado: {e}", C.RED)
         sys.exit(1)
-
-```

@@ -1,10 +1,13 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - UY
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.852882
+# Fecha: 2026-10-09 10:24:01.898370
 
 #EXTINF:-1 tvg-id="Canal5.uy" group-title="UY",Canal 5
 https://tinyurl.com/canal5uy
+
+#EXTINF:-1 tvg-id="CanalMas.uy" group-title="UY",Canal Mas
+https://canalmasuruguay.com/hls/master-abr.m3u8
 
 #EXTINF:-1 tvg-id="UCL.uy" group-title="UY",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8

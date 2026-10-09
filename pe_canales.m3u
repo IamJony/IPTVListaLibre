@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.808789
+# Fecha: 2026-10-09 10:24:01.857294
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="PE",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -11,6 +11,15 @@ https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.pe" group-title="PE",Agro TV
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" group-title="PE",Agro TV
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="AlturaTV.pe" group-title="PE",Altura TV
+https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
+
+#EXTINF:-1 tvg-id="AmazoniaTV.pe" group-title="PE",Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" group-title="PE",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
@@ -61,9 +70,6 @@ https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CadenaTV.pe" group-title="PE",Cadena TV
-https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-
-#EXTINF:-1 tvg-id="CadenaTV.pe" group-title="PE",Cadena TV
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CajamarcaTV.pe" group-title="PE",Cajamarca TV
@@ -89,6 +95,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANALMTelevision.pe" group-title="PE",CANAL M Television
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe" group-title="PE",Canal N
+http://190.108.91.206:9050/play/a0bd/index.m3u8
 
 #EXTINF:-1 tvg-id="CasmaTV.pe" group-title="PE",Casma TV
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
@@ -141,20 +150,17 @@ http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe" group-title="PE",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
 
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" group-title="PE",Impacto Television
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
 #EXTINF:-1 tvg-id="ImperialTelevision.pe" group-title="PE",Imperial Television
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IntuitivaTV.pe" group-title="PE",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-id="JN19.pe" group-title="PE",JN 19
-https://servilive.com:3028/live/jntv19live.m3u8
-
 #EXTINF:-1 tvg-id="JNETV.pe" group-title="PE",JNE TV
 https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JuntosTV.pe" group-title="PE",Juntos TV
-http://45.70.201.81:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="JusticiaTV.pe" group-title="PE",Justicia TV
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
@@ -162,11 +168,17 @@ http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" group-title="PE",Karibena
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="KoraTV.pe" group-title="PE",Kora TV
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
+
 #EXTINF:-1 tvg-id="L1Max.pe" group-title="PE",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" group-title="PE",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" group-title="PE",La Tele
+http://190.93.224.42/LA-TELE/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" group-title="PE",Latina
 http://190.93.224.42/LATINA/index.m3u8
@@ -211,6 +223,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MielTV.pe" group-title="PE",Miel TV
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+
+#EXTINF:-1 tvg-id="MielTV.pe" group-title="PE",Miel TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilenialTV.pe" group-title="PE",Milenial TV
@@ -221,9 +236,6 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 tvg-id="MonterricoTV.pe" group-title="PE",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" group-title="PE",Movistar Deportes
-http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="PE",Movistar Plus
 http://190.108.91.206:9050/play/a0bb/index.m3u8
@@ -259,9 +271,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 http://vps.chasquirouter.com/salida/ozono.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="PE",Panamericana TV
-http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="PE",Panamericana TV
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
 #EXTINF:-1 tvg-id="PBO.pe" group-title="PE",PBO
@@ -279,9 +288,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PlaneaTV.pe" group-title="PE",Planea TV
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Primavera15.pe" group-title="PE",Primavera 15
-https://mc.servidor.stream:19360/8244/8244.m3u8
-
 #EXTINF:-1 tvg-id="QollasuyoTV.pe" group-title="PE",Qollasuyo TV
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
@@ -290,6 +296,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QosqoTimes.pe" group-title="PE",Qosqo Times
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" group-title="PE",Radio Chalaca
+https://servilive.com:3414/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe" group-title="PE",Radio Onda Digital
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
@@ -339,11 +348,11 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" group-title="PE",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-id="SiscomTV.pe" group-title="PE",Siscom TV
-https://video2.lhdserver.es/siscomtv/live.m3u8
-
 #EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="PE",Solar Television
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="PE",Solar Television
+https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 
 #EXTINF:-1 tvg-id="SolTV.pe" group-title="PE",SolTV
 https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
@@ -369,9 +378,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleselva.pe" group-title="PE",Teleselva
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleselva.pe" group-title="PE",Teleselva
-https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-
 #EXTINF:-1 tvg-id="TelesystemTV.pe" group-title="PE",Telesystem TV
 https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 
@@ -383,6 +389,9 @@ https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tevesur.pe" group-title="PE",Tevesur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe" group-title="PE",Top TV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 tvg-id="Trivu.pe" group-title="PE",Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
@@ -398,6 +407,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" group-title="PE",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" group-title="PE",TV Bella Asuncion
+https://s2.tvdatta.com:3687/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="TVCosmos.pe" group-title="PE",TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
@@ -476,7 +488,4 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="PE",Zeleve TV
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="PE",Zeleve TV
-https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PA
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.781017
+# Fecha: 2026-10-09 10:24:01.830439
 
 #EXTINF:-1 tvg-id="ARCanal.pa" group-title="PA",A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
@@ -23,12 +23,6 @@ https://movil.ejeserver.com/live/nextv.m3u8
 
 #EXTINF:-1 tvg-id="Planet1009FM.pa" group-title="PA",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioAncon.pa" group-title="PA",Radio Ancon
-https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-
-#EXTINF:-1 tvg-id="SuperQPanama.pa" group-title="PA",Super Q Panama
-https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemetro.pa" group-title="PA",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8

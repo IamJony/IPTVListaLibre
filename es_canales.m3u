@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.838023
+# Fecha: 2026-10-09 10:24:01.884327
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es" group-title="ES",3Cat Cameres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -183,6 +183,9 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" group-title="ES",Esport3
 https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="EsteponaTelevision.es" group-title="ES",Estepona Television
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
 #EXTINF:-1 tvg-id="EsTuTele.es" group-title="ES",EsTuTele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
@@ -246,6 +249,9 @@ https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" group-title="ES",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
+#EXTINF:-1 tvg-id="LiraTV.es" group-title="ES",LiraTV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LogosTV.es" group-title="ES",Logos TV
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 
@@ -269,9 +275,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NegociosTV.es" group-title="ES",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 tvg-id="Onda15TV.es" group-title="ES",Onda 15 TV
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
 #EXTINF:-1 tvg-id="OndaAlgeciras.es" group-title="ES",Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
@@ -326,6 +329,9 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 
 #EXTINF:-1 tvg-id="SolidariaTV.es" group-title="ES",Solidaria TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-id="SpektraTV.es" group-title="ES",SpektraTV
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Taroteame.es" group-title="ES",Taroteame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8

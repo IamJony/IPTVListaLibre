@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.579774
+# Fecha: 2026-10-09 10:24:01.641267
 
 #EXTINF:-1 tvg-id="5tv.ar" group-title="AR",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
@@ -204,6 +204,9 @@ https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/P
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" group-title="AR",Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" group-title="AR",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalTDC.ar" group-title="AR",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
@@ -395,9 +398,6 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-id="RadioSublimeGraciaTV.ar" group-title="AR",Radio Sublime Gracia TV
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTVNeuquen.ar" group-title="AR",Radio TV Neuquen
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioUP.ar" group-title="AR",Radio UP
 https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8

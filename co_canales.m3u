@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.624157
+# Fecha: 2026-10-09 10:24:01.682246
 
 #EXTINF:-1 tvg-id="AmagaTelevision.co" group-title="CO",Amaga Television
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
@@ -111,9 +111,6 @@ https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" group-title="CO",Canal TRO
 http://181.78.211.244:8005/play/a08c/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalTV3.co" group-title="CO",Canal TV3
-https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-
 #EXTINF:-1 tvg-id="CanalWomtv.co" group-title="CO",Canal Womtv
 https://live.amelbatv.co:81/womtvlive/index.m3u8
 
@@ -128,9 +125,6 @@ http://190.109.2.92:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolInternacional.co" group-title="CO",Caracol Internacional
 http://138.59.177.78:9999/play/a0a8/index.m3u8
-
-#EXTINF:-1 tvg-id="CaracolInternacional.co" group-title="CO",Caracol Internacional
-http://167.249.23.102:8000/play/a0ax/index.m3u8
 
 #EXTINF:-1 tvg-id="CaracolInternacional.co" group-title="CO",Caracol Internacional
 http://168.196.127.137:6001/play/a09m/index.m3u8
@@ -158,9 +152,6 @@ https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
 
 #EXTINF:-1 tvg-id="CMBTelevision.co" group-title="CO",CMB Television
 https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8
-
-#EXTINF:-1 tvg-id="CNCBugavision.co" group-title="CO",CNC Bugavision
-https://movil.ejeserver.com/live/cncbuga.m3u8
 
 #EXTINF:-1 tvg-id="CNCBugavision.co" group-title="CO",CNC Bugavision
 https://video.ejeserver.com/live/cncbuga.m3u8
@@ -327,9 +318,6 @@ https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.co" group-title="CO",Star Channel
 http://190.61.47.54:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="StreamForce360.co" group-title="CO",StreamForce 360
-https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-
 #EXTINF:-1 tvg-id="SupermusicaTV.co" group-title="CO",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 
@@ -338,6 +326,9 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleAmiga.co" group-title="CO",Tele Amiga
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" group-title="CO",Teleantioquia
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" group-title="CO",Teleantioquia
 http://38.134.250.110:8000/play/a012/index.m3u8
@@ -349,7 +340,10 @@ http://138.121.15.230:9002/TELECAFE/index.m3u8
 http://181.78.211.244:8005/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecaribe.co" group-title="CO",Telecaribe
-http://138.121.15.230:9002/TELECARIBE/index.m3u8
+http://38.134.250.110:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" group-title="CO",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleislas.co" group-title="CO",Teleislas
 http://181.78.211.244:8005/play/a08d/index.m3u8
@@ -389,6 +383,9 @@ https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TVGolfoUraba.co" group-title="CO",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGracia.co" group-title="CO",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 
 #EXTINF:-1 tvg-id="UltraCasanareTV.co" group-title="CO",Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8

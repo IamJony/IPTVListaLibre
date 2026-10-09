@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - SV
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.695652
+# Fecha: 2026-10-09 10:24:01.749755
 
 #EXTINF:-1 tvg-id="AgapeTV.sv" group-title="SV",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
@@ -69,8 +69,14 @@ http://186.33.26.18:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.sv" group-title="SV",Tigo Sports
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
+#EXTINF:-1 tvg-id="TVCa.sv" group-title="SV",TVCa
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVCRET.sv" group-title="SV",TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
+
+#EXTINF:-1 tvg-id="TVGetsemani.sv" group-title="SV",TV Getsemani
+https://serversv.com:8080/hls/tvgetsemani.m3u8
 
 #EXTINF:-1 tvg-id="TVLeondeJuda.sv" group-title="SV",TV Leon de Juda
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8

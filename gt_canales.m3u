@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - GT
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 10:18:50.723569
+# Fecha: 2026-10-09 10:24:01.776602
 
 #EXTINF:-1 tvg-id="AmigosTVChiquimula.gt" group-title="GT",Amigos TV Chiquimula
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
@@ -18,8 +18,8 @@ http://181.119.177.253:8000/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="Canal7.gt" group-title="GT",Canal 7
 http://181.119.177.253:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.gt" group-title="GT",Canal 11
-http://179.60.224.196:8000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="Canal7.gt" group-title="GT",Canal 7
+http://200.115.120.1:8000/play/ca112/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.gt" group-title="GT",Canal 13
 http://190.61.101.11:7050/play/a07f/index.m3u8
@@ -45,14 +45,8 @@ https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Guatevision.gt" group-title="GT",Guatevision
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
-#EXTINF:-1 tvg-id="Guatevision.gt" group-title="GT",Guatevision
-http://168.196.127.137:6001/play/a04m/index.m3u8
-
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt" group-title="GT",Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JubiloTV.gt" group-title="GT",Jubilo TV
-http://173.249.60.54/hls/jubilotv.m3u8
 
 #EXTINF:-1 tvg-id="MASTV.gt" group-title="GT",MAS TV
 https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
@@ -104,6 +98,9 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-id="Telecosta.gt" group-title="GT",Telecosta
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="TigoSports.gt" group-title="GT",Tigo Sports
+http://168.196.127.137:6001/play/a0b0/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFlorencia.gt" group-title="GT",TV Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8

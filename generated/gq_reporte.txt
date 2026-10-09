@@ -1,27 +1,27 @@
-=============================================
+==================================================
   REPORTE DE CANALES IPTV - GQ
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:15:53.207662
-=============================================
+  Fecha: 2026-10-09 17:24:42.783927
+==================================================
 
-Nombre: SolTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: SolTV (Equatorial Guinea) (720p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/TJHk6Va.png
 URL: https://stream.solmediaeg.com/soltv/soltv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TVGE
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/iOdHgPd.png
 URL: http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
 Estado: FALLA
 ---
 
-=============================================
+==================================================
   RESUMEN
   Total de streams: 2
   Funcionan: 1
   Fallan: 1
-=============================================
+==================================================

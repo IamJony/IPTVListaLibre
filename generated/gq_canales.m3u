@@ -1,8 +1,8 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - GQ
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 17:15:53.207674
+# Fecha: 2026-10-09 17:24:42.783934
 
-#EXTINF:-1 tvg-id="SolTV.gq" tvg-name="SolTV" tvg-country="GQ" group-title="GQ",SolTV
+#EXTINF:-1 tvg-id="SolTV.gq@SD" tvg-logo="https://i.imgur.com/TJHk6Va.png" group-title="Entertainment",SolTV (Equatorial Guinea) (720p)
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 

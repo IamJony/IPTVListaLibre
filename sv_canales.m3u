@@ -1,89 +1,71 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - SV
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 17:15:53.198384
+# Fecha: 2026-10-09 17:24:42.783583
 
-#EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-country="SV" group-title="SV",Agape TV
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religious",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-country="SV" group-title="SV",Agape TV
-https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
-
-#EXTINF:-1 tvg-id="Canal2.sv" tvg-name="Canal 2" tvg-country="SV" group-title="SV",Canal 2
+#EXTINF:-1 tvg-id="Canal2.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png" group-title="General",Canal 2 (El Salvador) (720p)
 http://186.33.26.18:8000/play/a0qp/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" tvg-country="SV" group-title="SV",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" tvg-name="Canal 6" tvg-country="SV" group-title="SV",Canal 6
+#EXTINF:-1 tvg-id="Canal6.sv@SD" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="General",Canal 6 (El Salvador) (720p)
 http://45.167.2.101:8000/play/a0qs/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal9LaUnion.sv" tvg-name="Canal 9 La Union" tvg-country="SV" group-title="SV",Canal 9 La Union
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv@SD" tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="General",Canal 9 La Union (1080p)
 http://45.167.2.101:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-country="SV" group-title="SV",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="General",Canal 10 (El Salvador) (720p)
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-country="SV" group-title="SV",Canal 10
-http://45.167.2.101:8000/play/a0r8/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" tvg-country="SV" group-title="SV",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="General",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" tvg-country="SV" group-title="SV",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/WMv3yEf.png" group-title="General",Canal 12 (576p)
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-name="Canal TRV" tvg-country="SV" group-title="SV",Canal TRV
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General",Canal TRV (576p)
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElCaminoTV.sv" tvg-name="El Camino TV" tvg-country="SV" group-title="SV",El Camino TV
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="Religious",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" tvg-country="SV" group-title="SV",Elim TV
-http://38.252.238.18:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-id="JFVTV.sv" tvg-name="JFV TV" tvg-country="SV" group-title="SV",JFV TV
+#EXTINF:-1 tvg-id="JFVTV.sv@SD" tvg-logo="https://i.imgur.com/SrmI6nU.jpeg" group-title="Religious",JFV TV (720p)
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-country="SV" group-title="SV",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="General",Megavision Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-country="SV" group-title="SV",Megavision Canal 19
-http://45.167.1.138:8000/play/a02b
-
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-name="Megavision Canal 21" tvg-country="SV" group-title="SV",Megavision Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="General",Megavision Canal 21 (720p)
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MizpaTV.sv" tvg-name="Mizpa TV" tvg-country="SV" group-title="SV",Mizpa TV
+#EXTINF:-1 tvg-id="MizpaTV.sv@SD" tvg-logo="https://i.imgur.com/4FPaLYo.jpeg" group-title="Religious",Mizpa TV (1080p)
 http://45.167.2.101:8000/play/a0r7/index.m3u8
 
-#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-name="RTV Canal 57" tvg-country="SV" group-title="SV",RTV Canal 57
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p)
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1 tvg-id="SVPlus.sv" tvg-name="SV+" tvg-country="SV" group-title="SV",SV+
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="General",SV+ (720p)
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="SVPlus.sv" tvg-name="SV+" tvg-country="SV" group-title="SV",SV+
-http://186.33.26.18:8000/play/a0qx/index.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="Tigo Sports" tvg-country="SV" group-title="SV",Tigo Sports
+#EXTINF:-1 tvg-id="TigoSports.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports",Tigo Sports (El Salvador) (1080p)
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCa.sv" tvg-name="TVCa" tvg-country="SV" group-title="SV",TVCa
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCRET.sv" tvg-name="TV CRET" tvg-country="SV" group-title="SV",TV CRET
+#EXTINF:-1 tvg-id="TVCRET.sv@SD" tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="Religious",TV CRET (1080p)
 https://radiocret.net:8082/hls/tvcret.m3u8
 
-#EXTINF:-1 tvg-id="TVGetsemani.sv" tvg-name="TV Getsemani" tvg-country="SV" group-title="SV",TV Getsemani
+#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" group-title="Religious",TV Getsemani (720p)
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 
-#EXTINF:-1 tvg-id="TVLeondeJuda.sv" tvg-name="TV Leon de Juda" tvg-country="SV" group-title="SV",TV Leon de Juda
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" tvg-logo="https://i.imgur.com/ZUCppwi.png" group-title="Religious",TV Leon de Juda (720p)
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-country="SV" group-title="SV",TVO Canal 23
-http://45.167.2.101:8000/play/a0qo/index.m3u8
+#EXTINF:-1 tvg-id="TVCa.sv@SD" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="Religious",TVCa (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-country="SV" group-title="SV",TVO Canal 23
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="General",TVO Canal 23 (720p)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 

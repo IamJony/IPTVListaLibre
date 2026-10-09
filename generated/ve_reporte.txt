@@ -1,608 +1,538 @@
-=============================================
+==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:15:53.316516
-=============================================
+  Fecha: 2026-10-09 17:24:42.788708
+==================================================
 
-Nombre: AbejalesTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: AbejalesTV (720p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800
 URL: https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Aguacate TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Aguacate TV (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg
 URL: https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
-Nombre: Alcance TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Alcance TV (Venezuela) (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/veeuqS1.png
 URL: https://rv100.globalhost1.com:3516/live/tjjqdqurlive.m3u8
 Estado: FALLA
 ---
-Nombre: ANTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: ANTV (Venezuela) (720p)
+Categoría: Legislative
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Qm88HT0.png
 URL: http://181.78.8.199:8000/play/a0fo/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Anzoategui TV
-Calidad: 360p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Anzoategui TV (360p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: AS3 Sport TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: AS3 Sport TV (1080p)
+Categoría: Sports
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg
 URL: https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Audaz TV
-Calidad: 432p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Audaz TV (432p) [Not 24/7]
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/QtCgtZq.jpg
 URL: https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Barinas TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Barinas TV (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/D7bLHGB/1575-Barinas-TV.png
 URL: https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: BTA TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: BTA TV (720p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/vygOosC.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 21 Tachira
-Calidad: 360p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 21 Tachira (360p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/7Tb7CF4.jpg
 URL: https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal C del Zulia
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal C del Zulia (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ew44KOZ.png
 URL: https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 Estado: FALLA
 ---
 Nombre: Canal Diplomatico
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Culture
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png
 URL: https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal I
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal I (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/vKfOavW.png
 URL: https://streaming.canal-i.com/canal-i/live/master.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Catatumbo TV
-Calidad: 406p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Catatumbo TV (406p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LBI2la0.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: eSports Max TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Animation
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/OprRgQN.png
 URL: https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 Estado: FUNCIONA
 ---
-Nombre: EXC TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: EXC TV (720p) [Not 24/7]
+Categoría: Science
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Znd1Ml9.png
 URL: https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: GlobalTV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: GlobalTV (480p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://imgur.com/hzM9D9L.jpg
 URL: https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 Estado: FALLA
 ---
-Nombre: Globovision
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Globovision (576p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/v6nRdxQ.png
 URL: http://181.78.8.199:8000/play/a09k/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Grande TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
-Estado: FALLA
----
-Nombre: Grande TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 Estado: FALLA
 ---
-Nombre: Guaro TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Guaro TV (720p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg
 URL: https://stream.guarotv.net:3592/hybrid/play.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Inter TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Inter TV (Venezuela) (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg
 URL: https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Isla TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Isla TV (480p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/l11Ixhi.jpeg
 URL: https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Italianissimo
-Calidad: 360p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Italianissimo (360p) [Not 24/7]
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/JCpbUZB.png
 URL: https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: KandelaTV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: KandelaTV (480p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 Estado: FALLA
 ---
+Nombre: La Tele Tuya (576p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png
+URL: http://181.78.8.199:8000/play/a0fs/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: LaPuraCrema Television
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/EJf1eRt.png
 URL: https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Lara en Redes
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg
 URL: https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 Estado: FALLA
 ---
-Nombre: La Tele Tuya
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
-URL: http://181.78.8.199:8000/play/a0fs/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Latina TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Latina TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1
 URL: https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: LGD Television
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: LGD Television (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/a9E0DTY.jpeg
 URL: https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Mas Talk
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Mas Talk (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/unE2LGz.jpg
 URL: https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 Estado: FUNCIONA
 ---
-Nombre: MAX Anime
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: MAX Anime (1080p)
+Categoría: Animation
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Oj3hEBh.jpg
 URL: https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Maxima TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/HMZRVL5.jpeg
 URL: https://maximatv.net/hls/stream.m3u8
 Estado: FALLA
 ---
-Nombre: Meridiano TV
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Meridiano TV (576p)
+Categoría: Sports
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/I6gsUqD.png
 URL: http://181.78.8.199:8000/play/a0fr/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Monagas Vision
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Monagas Vision (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/yfgTa2d.png
 URL: https://cloud2.streaminglivehd.com:1936/monagasvision-2/monagasvision-2/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Nortena Tv
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Nortena Tv (576p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU
 URL: https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Oasis Television
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Oasis Television (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/TEr1U90.png
 URL: http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Onza TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Onza TV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/usrP6T2.png
 URL: https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Onza TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
-Estado: FALLA
----
-Nombre: Oxigeno TV
-Calidad: 360p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Oxigeno TV (360p) [Not 24/7]
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/n3PweBQ.png
 URL: https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Plous TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Plous TV (1080p)
+Categoría: Lifestyle
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/OSet4en.png
 URL: https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Portuguesa Television
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Portuguesa Television (480p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 Estado: FALLA
 ---
-Nombre: Proclamacion TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Nombre: Proclamacion TV [Not 24/7]
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/8dt7awY.jpeg
 URL: https://video2.getstreamhosting.com:19360/8000/8000.m3u8
 Estado: FALLA
 ---
-Nombre: PromarTV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: PromarTV
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: PromarTV (576p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png
 URL: https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Reforma TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Reforma TV (1080p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/iZMDddR.png
 URL: https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: ShowVen TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: ShowVen TV (720p)
+Categoría: Culture;Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/AJIN8Dc.png
 URL: https://cdnbarinas.tvzamora.com/showven/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Siembra TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Nombre: Siembra TV (Venezuela) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/zRX91Xr.png
 URL: https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Somos TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Somos TV (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jOroeJZ.png
 URL: https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Sun Channel
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Sun Channel (720p)
+Categoría: Travel
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/B26qL3e.png
 URL: http://168.196.127.137:6001/play/a06p/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TAM TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png
 URL: https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TeleAragua
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TeleAragua (480p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jPzcb2S.png
 URL: http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 Estado: FUNCIONA
 ---
-Nombre: Telebocono
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telebocono (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/YDE4Jsi.jpg
 URL: https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Telecentro
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telecentro (Venezuela) (480p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/QtRNfaj.png
 URL: https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telesur
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telesur (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/P50VjRX.png
+URL: http://181.78.211.244:8005/play/a0cc/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Telesur English (480p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/P50VjRX.png
 URL: https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telesur
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telesur English HD (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/P50VjRX.png
 URL: https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telesur
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telesur HD (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/P50VjRX.png
 URL: https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telesur
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
-Estado: FALLA
----
-Nombre: Telesur
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-Estado: FALLA
----
-Nombre: Telesur
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://181.78.211.244:8005/play/a0cc/index.m3u8
-Estado: FALLA
----
-Nombre: Televen
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
-URL: http://181.78.8.199:8000/play/a09j/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Televen
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Televen (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/cxvkUvK.png
 URL: http://38.134.250.110:8000/play/a02i/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Televisora de Oriente
-Calidad: 406p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Televisora de Oriente (406p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/wFC6Xxq.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TNO Radio
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TNO Radio (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png
 URL: https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Torococo TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Torococo TV (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png
 URL: https://us.streaminghd.cl/torococotelevision/video.m3u8
 Estado: FALLA
 ---
-Nombre: TRT
-Calidad: 410p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TRT (Venezuela) (410p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG
 URL: https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Tu TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Tu TV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/OBEmXQF.png
 URL: https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TV Andes
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Andes (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/c1YHQ8K/tvandes.png
 URL: https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: TVes
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FUNCIONA
----
-Nombre: TV Familia
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Familia (720p)
+Categoría: Family
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/A3bU5e7.png
 URL: https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 Estado: FALLA
 ---
-Nombre: TV Familia
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: TVM para ti
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-Estado: FALLA
----
-Nombre: TV Oasis Monay
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Oasis Monay (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/hwd7osJ.jpeg
 URL: https://servilive.com:3562/live/vav4c8z38live.m3u8
 Estado: FALLA
 ---
-Nombre: TVS
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TVes (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/QX5DVUB.png
+URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: TVM para ti (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://intervenhosting.net/imagenes/tvmparati.jpg
+URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+Estado: FALLA
+---
+Nombre: TVS (Venezuela) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/J8ztiAN.png
 URL: https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: UN24
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
-Estado: FALLA
----
-Nombre: UniTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: UniTV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/KLGeznX.png
 URL: https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Vale TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Vale TV (480p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/NMI2Wed.png
 URL: https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Vale TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
-Estado: FALLA
----
-Nombre: Venevision
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
-URL: http://181.78.8.199:8000/play/a0if/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Venevision
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-Estado: FALLA
----
-Nombre: Venevision Internacional
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-Estado: FUNCIONA
----
-Nombre: Vepaco TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-Estado: FUNCIONA
----
-Nombre: Ve Plus
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://190.61.114.186:8000/play/a03i/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Ve Plus
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Ve Plus (720p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/uc3zqcP.png
 URL: http://186.148.196.100:8000/play/a01d
 Estado: FUNCIONA
 ---
+Nombre: Ve Plus Panregional (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/uc3zqcP.png
+URL: http://190.61.114.186:8000/play/a03i/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Venevision (576p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/gm1m8hW.png
+URL: http://181.78.8.199:8000/play/a0if/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Venevision Internacional (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/vtGED07.jpg
+URL: https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+Estado: FUNCIONA
+---
+Nombre: Vepaco TV (480p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/0bqJksL.png
+URL: https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+Estado: FUNCIONA
+---
 Nombre: Wata Vision
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg
 URL: https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
 Estado: FUNCIONA
 ---
 
-=============================================
+==================================================
   RESUMEN
-  Total de streams: 85
-  Funcionan: 51
-  Fallan: 34
-=============================================
+  Total de streams: 75
+  Funcionan: 50
+  Fallan: 25
+==================================================

@@ -1,41 +1,34 @@
-=============================================
+==================================================
   REPORTE DE CANALES IPTV - UY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:15:53.306352
-=============================================
+  Fecha: 2026-10-09 17:24:42.788472
+==================================================
 
-Nombre: Canal 5
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 5 (Uruguay) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/IpYxSr1.png
 URL: https://tinyurl.com/canal5uy
 Estado: FALLA
 ---
-Nombre: Canal Mas
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal Mas (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/gs1L1mW.png
 URL: https://canalmasuruguay.com/hls/master-abr.m3u8
 Estado: FUNCIONA
 ---
-Nombre: UCL
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-Estado: FUNCIONA
----
-Nombre: UCL
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: UCL (1080p)
+Categoría: Culture
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BzQphbw.png
 URL: https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
 Estado: FUNCIONA
 ---
 
-=============================================
+==================================================
   RESUMEN
-  Total de streams: 4
-  Funcionan: 3
+  Total de streams: 3
+  Funcionan: 2
   Fallan: 1
-=============================================
+==================================================

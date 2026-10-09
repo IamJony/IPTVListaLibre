@@ -1,566 +1,468 @@
-=============================================
+==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:15:53.263750
-=============================================
+  Fecha: 2026-10-09 17:24:42.786123
+==================================================
 
-Nombre: 4Dmas Noticias TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: ABC-TV Paraguay
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: ABC-TV Paraguay (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/OqfBMGy.png
 URL: https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
 Estado: FALLA
 ---
 Nombre: AGR FM TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Alcance FM PLAY TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ymcWecA.png
 URL: https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Alt Media TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 Estado: FUNCIONA
 ---
-Nombre: America Paraguay
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: America Paraguay (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rCEu3fM.png
 URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 Estado: FALLA
 ---
-Nombre: Bruno Masi TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Bruno Masi TV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/QFmyjZN/unnamed-1.png
 URL: https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: C9N
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: C9N (720p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/iXkwP31.png
 URL: https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 Estado: FALLA
 ---
-Nombre: C9N
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8
-Estado: FUNCIONA
----
 Nombre: CAD TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/lafmmRa.jpeg
 URL: https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 5 TV Max
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 5 TV Max (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/6oihaDM.png
 URL: https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Canal 8 C&C Producciones
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 8 Vision TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 8 Vision TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/mKju6hk.png
 URL: https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Canal Pro
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Business
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ah8n7jL.png
 URL: https://www.desde-paraguay.com/pro.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Caritas TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Caritas TV (1080p)
+Categoría: General;Religious
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/rwkpQx6/unnamed-2.png
 URL: https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Cosmos TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Cosmos TV (720p)
+Categoría: Science
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Del Rey TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Del Rey TV (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Zjxvg9u.jpeg
 URL: https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Dismar Radio TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Dismar Radio TV (720p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: E40
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: E40 (1080p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/0RypDUY.png
 URL: https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 Estado: FUNCIONA
 ---
-Nombre: Educanal
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Educanal (1080p)
+Categoría: Education
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/857OkFf.png
 URL: http://190.128.214.97:64333/play/a011/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Farra Play
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: http://159.203.148.226/live/farra.m3u8
-Estado: FUNCIONA
----
-Nombre: Farra Play
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Farra Play (576p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
 Estado: FUNCIONA
 ---
-Nombre: GO TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: GO TV (720p)
+Categoría: Entertainment;Music
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: HEi Now
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: HEi Now (1080p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/oMHiGRN.png
 URL: https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 Estado: FUNCIONA
 ---
-Nombre: Invasiva TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Invasiva TV (720p)
+Categoría: Undefined
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/R9E6jEC.png
 URL: https://tv-omega-nine.vercel.app/hls/live.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Latele
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Latele (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Qcf6Qev.png
 URL: https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 Estado: FUNCIONA
 ---
-Nombre: Latele
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://190.128.214.97:64333/play/a03i/index.m3u8
-Estado: FUNCIONA
----
 Nombre: Los Angeles TV Radio
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CaNdkpJ.jpeg
 URL: https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Mega TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Mega TV (Paraguay) (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CaA7l86.png
 URL: https://www.desde-paraguay.com/mega.m3u8
 Estado: FUNCIONA
 ---
-Nombre: MiTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: MiTV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: MiTV (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/sgrEt9z.png
 URL: http://190.128.214.97:64333/play/a02w/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Monumental TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Monumental TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/kEcOYML.png
 URL: https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
 Estado: FUNCIONA
 ---
-Nombre: Monumental TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://190.128.214.97:64333/play/a046/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Nandejara Ne'e TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-Estado: FUNCIONA
----
 Nombre: Nande Portetepe TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 Estado: FALLA
 ---
-Nombre: Nanduti
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Nandejara Ne'e TV
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/VFxuBdL.jpg
+URL: https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+Estado: FUNCIONA
+---
+Nombre: Nanduti (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/vnIkhRO.png
 URL: https://nanduti.b-cdn.net/Source.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Nanduti
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://nanduti.b-cdn.net/720p.m3u8
-Estado: FUNCIONA
----
-Nombre: Nanduti
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://190.128.214.97:64333/play/a02d/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Next HD
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Next HD (480p)
+Categoría: Movies;Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/c2rF3SS.png
 URL: https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 Estado: FUNCIONA
 ---
-Nombre: NPY
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: NPY (1080p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/pUEkaiW.png
 URL: https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 Estado: FUNCIONA
 ---
-Nombre: Oasis TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Oasis TV (Paraguay) (720p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Occidental TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/8IRBA9h.png
 URL: https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Oviedo TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Paraguay TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Paraguay TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/TWnTZ3c.png
 URL: https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Paravision
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/yd9Dw2G.png
 URL: http://45.170.130.224:8000/play/a032/index.m3u8?hls
 Estado: FUNCIONA
 ---
-Nombre: Popu TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Popu TV (1080p)
+Categoría: Entertainment
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/UqCogyZ.png
 URL: http://190.108.83.69:8000/play/a070/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Popu TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
-Estado: FUNCIONA
----
-Nombre: Productiva TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
-Estado: FUNCIONA
----
-Nombre: Productiva TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Productiva TV (1080p)
+Categoría: Outdoor
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/KXHK7UP.png
 URL: http://190.128.214.97:64333/play/a04i/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Radio Colmenar 92.5 FM
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LniNLO1.jpeg
 URL: https://tvdatta.com:3041/live/colmenarlive.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Radio Guaira TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/kLanG1t.jpeg
 URL: https://tvdatta.com:3991/live/guairatvlive.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Radio San Cristobal 88.7 FM
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/zaJhBdj.png
 URL: https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Radio TV El Arca del Pacto
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Radio TV El Arca del Pacto (1080p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 Estado: FALLA
 ---
-Nombre: RB TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: RB TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
 Estado: FALLA
 ---
-Nombre: RCC TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: RCC TV (1080p) [Not 24/7]
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/qdjBnRl.png
 URL: https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 Estado: FUNCIONA
 ---
-Nombre: Red Digital
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Red Digital (1080p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/3jj0MQP.jpg
 URL: https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Red Interior TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Regional TV Yaguaron
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Regional TV Yaguaron (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/iL5JnSy.jpeg
 URL: https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Regional TV Yaguaron
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://190.128.214.97:64333/play/a05o/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Republica TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Republica TV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/qYRw4JP/Captura.png
 URL: https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: SNT
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: SNT (480p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg
 URL: https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Suceso TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Suceso TV (720p) [Not 24/7]
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BwRNes1.png
 URL: https://live.enhdtv.com:8081/8060/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: SUR TV Itapua
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ltJQvZd.png
 URL: http://45.170.130.224:8000/play/a036/index.m3u8?hls
 Estado: FUNCIONA
 ---
-Nombre: Telefuturo
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Telefuturo (Paraguay) (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/6lVrFvb.png
 URL: https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telefuturo
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Tigo Sports
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Nombre: Tigo Sports (Paraguay)
+Categoría: Sports
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Tigo Sports+
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
-Estado: FALLA
----
-Nombre: Tigo Sports+
-Calidad: 1280p
-Idioma: No especificado
-Logo: No disponible
+Nombre: like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Sports",Tigo Sports+ (1280p)
+Categoría: PY
+User-Agent: Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Trece
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Nombre: Trece (Paraguay)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/cgIv5QK.png
 URL: http://45.170.130.224:8000/play/a050/index.m3u8?hls
 Estado: FUNCIONA
 ---
-Nombre: TV Aire
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-Estado: FUNCIONA
----
-Nombre: TV Aire
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Aire (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TV Camara
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Camara (Paraguay) (1080p)
+Categoría: Legislative
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Mfypr0t.png
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 Estado: FALLA
 ---
-Nombre: TV Camara
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://158.172.217.18:8000/play/a00m/index.m3u8
-Estado: FUNCIONA
----
-Nombre: TV Canindeyu
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Canindeyu (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/cateqjx.jpeg
 URL: https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Unicanal
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/cgTD2TW.png
 URL: http://45.170.130.224:8000/play/a04y/index.m3u8?hls
 Estado: FUNCIONA
 ---
 Nombre: Union TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/No9YzNC.png
 URL: https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: UniRadio TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: UniRadio TV (1080p)
+Categoría: Undefined
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Co3YrU0.png
 URL: https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Venus Media
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Venus Media (1080p)
+Categoría: Music
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/XwmUbfp.png
 URL: https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Villa Elisa Radio TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Villa Elisa Radio TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ryzCsvy.jpg
 URL: https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 Estado: FUNCIONA
 ---
 
-=============================================
+==================================================
   RESUMEN
-  Total de streams: 79
-  Funcionan: 69
-  Fallan: 10
-=============================================
+  Total de streams: 65
+  Funcionan: 56
+  Fallan: 9
+==================================================

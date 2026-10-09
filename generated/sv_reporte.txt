@@ -1,391 +1,286 @@
-=============================================
+==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:15:53.198371
-=============================================
+  Fecha: 2026-10-09 17:24:42.783576
+==================================================
 
-Nombre: Agape TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Agape TV (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/DsGmrnc.png
 URL: https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Agape TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
-Estado: FUNCIONA
----
-Nombre: Arbol de Vida TV
-Calidad: 240p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Arbol de Vida TV (240p) [Not 24/7]
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/4sGDc4X.jpg
 URL: https://yupistream.top:19360/livearbol/livearbol.m3u8
 Estado: FALLA
 ---
-Nombre: Awapa Sports TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Awapa Sports TV (1080p) [Not 24/7]
+Categoría: Sports
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/MNw5cJH.jpg
 URL: https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 2
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-Estado: FALLA
----
-Nombre: Canal 2
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 2 (El Salvador) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png
 URL: http://186.33.26.18:8000/play/a0qp/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 3 Impresionante
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 3 Impresionante (480p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/mdfiWG9.png
 URL: https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 4
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 4 (El Salvador) (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png
 URL: http://45.5.118.188:8000/play/a00j/index.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 4
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://168.228.44.241:9999/play/a042/index.m3u8
-Estado: FALLA
----
-Nombre: Canal 6
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-Estado: FALLA
----
-Nombre: Canal 6
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 6 (El Salvador) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/M4muPLK.png
 URL: http://45.167.2.101:8000/play/a0qs/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 9 La Union
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 9 La Union (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rdeUErb.png
 URL: http://45.167.2.101:8000/play/a0r5/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 10
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 10 (El Salvador) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/y2ppMnY.png
 URL: https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 10
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
-URL: http://45.167.2.101:8000/play/a0r8/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Canal 11 TuTV
-Calidad: 349p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 11 TuTV (349p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/itqQEux.png
 URL: https://stream.giostreaming.app/canal11/canal11.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 12
-Calidad: 480i
-Idioma: No especificado
-Logo: No disponible
-URL: https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
-Estado: FALLA
----
-Nombre: Canal 12
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 12 (576p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/WMv3yEf.png
 URL: http://186.33.26.18:8000/play/a0nw/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 15 El Zamorano
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 15 El Zamorano [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/op13ujg.png
 URL: https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 65
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal 65 (1080p) [Not 24/7]
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/P15QovY.png
 URL: https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Canal TRV
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Canal TRV (576p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/g5QKQ2E.png
 URL: https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: El 15 TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: El 15 TV (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LsrCVy3.jpg
 URL: https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8
 Estado: FALLA
 ---
-Nombre: El Camino TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: El Camino TV (480p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ZSktjGB.png
 URL: https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Elim TV
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
-URL: https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
-Estado: FALLA
----
-Nombre: Elim TV
-Calidad: 576p
-Idioma: No especificado
-Logo: No disponible
-URL: http://38.252.238.18:8000/play/a01k/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Elim TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Elim TV (720p)
+Categoría: Religious
+User-Agent: Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+Logo: https://i.imgur.com/payIg0N.png
 URL: https://stream.soporteccrtv.xyz/live/elimtv/main_stream.m3u8
 Estado: FALLA
 ---
-Nombre: GSG TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: GSG TV (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Naj8yUN.png
 URL: https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: GSG TV
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8
-Estado: FALLA
----
-Nombre: JFV TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: JFV TV (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/SrmI6nU.jpeg
 URL: https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Josue TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Josue TV (1080p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LNWGe1D.jpg
 URL: https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 Estado: FALLA
 ---
-Nombre: Legislative Assembly of El Salvador
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Legislative Assembly of El Salvador (1080p) [Not 24/7]
+Categoría: Legislative
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/OBuiCyb.png
 URL: https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 Estado: FALLA
 ---
-Nombre: Megavision Canal 19
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Megavision Canal 19 (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png
 URL: https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Megavision Canal 19
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: http://45.167.1.138:8000/play/a02b
-Estado: FUNCIONA
----
-Nombre: Megavision Canal 21
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Megavision Canal 21 (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/HbdYU9k.png
 URL: https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Mizpa TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Mizpa TV (1080p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/4FPaLYo.jpeg
 URL: http://45.167.2.101:8000/play/a0r7/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Morazan TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Morazan TV (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Yh1lFZH.jpeg
 URL: http://45.167.2.138:8000/play/a0o4/index.m3u8
 Estado: FALLA
 ---
-Nombre: RTV Canal 57
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: RTV Canal 57 (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/tnOGWqL.png
 URL: https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 Estado: FUNCIONA
 ---
-Nombre: SolTV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
-URL: http://rtmp.info:1935/soltv/envivo/playlist.m3u8
-Estado: FALLA
----
-Nombre: SolTV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: SolTV (El Salvador) (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jaBxxpt.png
 URL: https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 Estado: FALLA
 ---
-Nombre: SV+
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: SV+ (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/bCcnLVL.png
 URL: http://45.167.2.101:8000/play/a0qx/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: SV+
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: http://186.33.26.18:8000/play/a0qx/index.m3u8
-Estado: FUNCIONA
----
-Nombre: TCS+
-Calidad: 480p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TCS+ (480p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/iYFWG06.png
 URL: https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 Estado: FALLA
 ---
-Nombre: Tigo Sports
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Tigo Sports (El Salvador) (1080p)
+Categoría: Sports
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: http://45.167.2.101:8000/play/a0pp/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Tribuna TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: Tribuna TV (720p) [Not 24/7]
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/C5vHpd0.png
 URL: https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
 Estado: FALLA
 ---
-Nombre: TVCa
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: TVC Network
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
-Estado: FALLA
----
-Nombre: TV CRET
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV CRET (1080p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ChonoKb.png
 URL: https://radiocret.net:8082/hls/tvcret.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TV Getsemani
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Getsemani (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/C9SJCcE.jpg
 URL: https://serversv.com:8080/hls/tvgetsemani.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TV Leon de Juda
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TV Leon de Juda (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/ZUCppwi.png
 URL: https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TVM El Salvador
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TVC Network (720p) [Not 24/7]
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/S1xiWB3.png
+URL: https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+Estado: FALLA
+---
+Nombre: TVCa (720p)
+Categoría: Religious
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/uPWWtCA.png
+URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: TVM El Salvador (720p)
+Categoría: News
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/fyCC8R6.png
 URL: https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
 Estado: FALLA
 ---
-Nombre: TVM El Salvador
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: http://201.247.102.189/tmp_hls/stream/index.m3u8
-Estado: FALLA
----
-Nombre: TVO Canal 23
-Calidad: No especificada
-Idioma: No especificado
-Logo: No disponible
-URL: http://45.167.2.101:8000/play/a0qo/index.m3u8
-Estado: FUNCIONA
----
-Nombre: TVO Canal 23
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
+Nombre: TVO Canal 23 (720p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/nsXXEUZ.png
 URL: https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: WOW TV
-Calidad: 1080p
-Idioma: No especificado
-Logo: No disponible
+Nombre: WOW TV (1080p)
+Categoría: General
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/dHxaWyp.png
 URL: https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: WOW TV
-Calidad: 720p
-Idioma: No especificado
-Logo: No disponible
-URL: https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8
-Estado: FALLA
----
 
-=============================================
+==================================================
   RESUMEN
-  Total de streams: 54
-  Funcionan: 28
-  Fallan: 26
-=============================================
+  Total de streams: 39
+  Funcionan: 22
+  Fallan: 17
+==================================================

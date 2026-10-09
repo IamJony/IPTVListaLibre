@@ -1,10 +1,14 @@
+Aquí tienes la versión corregida. He ajustado el script para que el campo **`group-title` (la categoría)** utilice **únicamente el nombre del país en español con su respectiva bandera** (por ejemplo: ` group-title="🇨🇴 Colombia"`), anulando las categorías genéricas en inglés como *"Movies"*, *"General"* o *"Shop"*.
+
+Así las listas quedan perfectamente organizadas en los reproductores IPTV por la bandera y país correspondientes.
+
+```python
 #!/usr/bin/env python3
 # ============================================================
 # Script: iptv_github.py
-# Descripción: Descarga la lista M3U maestra de iptv-org,
-#              filtra por países hispanohablantes, prueba los
-#              streams usando su respectivo User-Agent y
-#              genera las listas M3U y el README.md.
+# Descripción: Descarga el M3U maestro de iptv-org, extrae canales
+#              hispanohablantes, categoriza ÚNICAMENTE por país
+#              en español, prueba los streams y genera M3U + README.
 # Autor: IamJony https://github.com/IamJony
 # Licencia: MIT
 # ============================================================
@@ -102,19 +106,6 @@ def descargar_texto(url):
 # PARSER M3U
 # ============================================================
 def parsear_m3u(contenido_m3u):
-    """
-    Parsea una lista M3U y extrae una lista de diccionarios con la estructura:
-    {
-        'tvg_id': str,
-        'tvg_logo': str,
-        'group_title': str,
-        'user_agent': str,
-        'vlc_opt': str,
-        'nombre': str,
-        'url': str,
-        'country': str
-    }
-    """
     canales = []
     lineas = contenido_m3u.splitlines()
     
@@ -127,27 +118,22 @@ def parsear_m3u(contenido_m3u):
         linea = lineas[i].strip()
         
         if linea.startswith('#EXTINF:'):
-            # Extraer la parte de atributos y el nombre
             extinf_data = linea[8:]
             
-            # Separar atributos del nombre visible (el nombre está tras la última coma)
             partes_coma = extinf_data.split(',', 1)
             header_attrs = partes_coma[0] if len(partes_coma) > 0 else ""
             nombre = partes_coma[1].strip() if len(partes_coma) > 1 else "Canal Sin Nombre"
             
-            # Parsear atributos clave-valor de #EXTINF
             attrs = dict(regex_attr.findall(header_attrs))
             
             tvg_id = attrs.get('tvg-id', '')
             tvg_logo = attrs.get('tvg-logo', '')
-            group_title = attrs.get('group-title', '')
             user_agent = attrs.get('http-user-agent', '')
             tvg_country = attrs.get('tvg-country', '')
             
             vlc_opt = ""
             url = ""
             
-            # Revisar las líneas siguientes para #EXTVLCOPT o la URL
             i += 1
             while i < total_lineas:
                 sub_linea = lineas[i].strip()
@@ -160,14 +146,12 @@ def parsear_m3u(contenido_m3u):
                         user_agent = sub_linea.split('=', 1)[1].strip()
                     i += 1
                 elif sub_linea.startswith('#'):
-                    # Otra directiva no manejada, ignorar
                     i += 1
                 else:
-                    # Es la URL
                     url = sub_linea
                     break
             
-            # Inferir país si viene en el tvg-id (ej: Canal.co@SD -> CO)
+            # Inferir país
             country = tvg_country
             if not country and '.' in tvg_id:
                 try:
@@ -181,7 +165,6 @@ def parsear_m3u(contenido_m3u):
                 canales.append({
                     'tvg_id': tvg_id,
                     'tvg_logo': tvg_logo,
-                    'group_title': group_title,
                     'user_agent': user_agent,
                     'vlc_opt': vlc_opt,
                     'nombre': nombre,
@@ -201,14 +184,12 @@ def probar_stream(canal_item):
     ua = canal_item.get("user_agent") or 'IPTVManager/2.0'
     headers = {'User-Agent': ua}
     
-    # Intentar HEAD
     try:
         req = urllib.request.Request(url, method='HEAD', headers=headers)
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
             return 200 <= resp.status < 400
     except urllib.error.HTTPError as e:
         if e.code in (403, 405, 501):
-            # Probar GET con Rango para streams que rechazan HEAD
             try:
                 headers['Range'] = 'bytes=0-1024'
                 req = urllib.request.Request(url, headers=headers)
@@ -296,9 +277,11 @@ def filtrar_por_paises(canales, paises):
 # ============================================================
 # ESCRIBIR ARCHIVOS M3U Y TXT
 # ============================================================
-def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo, default_group):
+def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo):
     total_ok = 0
     total_fail = 0
+
+    categoria_espanol = NOMBRES_PAISES.get(pais, pais)
 
     ftxt = open(txt_file, "w", encoding="utf-8") if GENERAR_TXT else None
     fm3u = open(m3u_file, "w", encoding="utf-8") if GENERAR_M3U else None
@@ -322,7 +305,6 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
             nombre = c["nombre"]
             logo = c["tvg_logo"]
             ch_id = c["tvg_id"]
-            group = c["group_title"] or default_group
             ua = c["user_agent"]
             vlc_opt = c["vlc_opt"]
 
@@ -340,7 +322,7 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
 
             if ftxt:
                 ftxt.write(f"Nombre: {nombre}\n")
-                ftxt.write(f"Categoría: {group}\n")
+                ftxt.write(f"Categoría: {categoria_espanol}\n")
                 ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
                 ftxt.write(f"Logo: {logo or 'No disponible'}\n")
                 ftxt.write(f"URL: {url}\n")
@@ -356,7 +338,8 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
                 
-                attrs.append(f'group-title="{group}"')
+                # Asignar estrictamente el Nombre del País en Español como categoría
+                attrs.append(f'group-title="{categoria_espanol}"')
                 
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
                 fm3u.write(f"{linea_extinf}\n")
@@ -396,7 +379,7 @@ def generar_listados(pais, canales_pais, resultados=None):
     return _escribir_archivos(
         pais=pais, canales_pais=canales_pais,
         resultados=resultados or {}, txt_file=txt_file, m3u_file=m3u_file,
-        titulo=f"REPORTE DE CANALES IPTV - {pais}", default_group=pais,
+        titulo=f"REPORTE DE CANALES IPTV - {pais}",
     )
 
 # ============================================================
@@ -435,9 +418,11 @@ def generar_unificado(paises, todos_canales, resultados=None):
             country = c["country"]
             logo = c["tvg_logo"]
             ch_id = c["tvg_id"]
-            group = c["group_title"] or country
             ua = c["user_agent"]
             vlc_opt = c["vlc_opt"]
+            
+            # Obtener categoría por país en español
+            categoria_espanol = NOMBRES_PAISES.get(country, country)
 
             if PROBAR:
                 estado = "FUNCIONA" if resultados.get(url) else "FALLA"
@@ -457,7 +442,7 @@ def generar_unificado(paises, todos_canales, resultados=None):
                 canales_unicos.add(ch_id or nombre)
 
             ftxt.write(f"Nombre: {nombre}\n")
-            ftxt.write(f"País: {country}\n")
+            ftxt.write(f"País: {categoria_espanol}\n")
             ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
             ftxt.write(f"Logo: {logo or 'No disponible'}\n")
             ftxt.write(f"URL: {url}\n")
@@ -473,7 +458,8 @@ def generar_unificado(paises, todos_canales, resultados=None):
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
                 
-                attrs.append(f'group-title="{group}"')
+                # Asignar estrictamente el Nombre del País en Español como categoría
+                attrs.append(f'group-title="{categoria_espanol}"')
                 
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
                 fm3u.write(f"{linea_extinf}\n")
@@ -496,7 +482,7 @@ def generar_unificado(paises, todos_canales, resultados=None):
             st = paises_stats.get(p)
             if not st:
                 continue
-            ftxt.write(f"    {p}: {st['ok']} OK / {st['fail']} FAIL "
+            ftxt.write(f"    {NOMBRES_PAISES.get(p, p)}: {st['ok']} OK / {st['fail']} FAIL "
                        f"(total {st['total']})\n")
         ftxt.write("=" * 60 + "\n")
 
@@ -554,7 +540,7 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
 def main():
     inicio = datetime.now()
     log("=" * 60, C.CYAN)
-    log("IPTV Manager - M3U Parser & Checker", C.WHITE)
+    log("IPTV Manager - Categorías por País", C.WHITE)
     log(f"Inicio: {inicio:%Y-%m-%d %H:%M:%S}", C.CYAN)
     log("=" * 60, C.CYAN)
 
@@ -615,3 +601,5 @@ if __name__ == "__main__":
     except Exception as e:
         log(f"\nError inesperado: {e}", C.RED)
         sys.exit(1)
+
+```

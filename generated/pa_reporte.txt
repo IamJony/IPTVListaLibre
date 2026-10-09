@@ -1,144 +1,167 @@
 =============================================
   REPORTE DE CANALES IPTV - PA
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:50:06.843286
+  Fecha: 2026-10-09 17:06:01.358177
 =============================================
 
 Nombre: A&R Canal
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: http://51.222.9.192:3589/stream/play.m3u8
 Estado: FUNCIONA
 ---
 Nombre: BTV Panama
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Corazon TV
 Calidad: No especificada
 Idioma: No especificado
+Logo: No disponible
 URL: https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Dreiko TV
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://cloudvideo.servers10.com:8081/8020/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Fabulosa Estereo 100.5 FM
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Hosanna Vision
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: LaXitosa Panama
 Calidad: 360p
 Idioma: No especificado
+Logo: No disponible
 URL: https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Mas23 TV
 Calidad: No especificada
 Idioma: No especificado
+Logo: No disponible
 URL: https://movil.ejeserver.com/live/mas23tv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: MINFAV TV
 Calidad: No especificada
 Idioma: No especificado
+Logo: No disponible
 URL: https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Nex TV Canal 21
 Calidad: No especificada
 Idioma: No especificado
+Logo: No disponible
 URL: https://movil.ejeserver.com/live/nextv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Pindin TV
 Calidad: No especificada
 Idioma: No especificado
+Logo: No disponible
 URL: https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Planet 100.9 FM
 Calidad: 1080p
 Idioma: No especificado
+Logo: No disponible
 URL: https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Plus TV
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://vcp4.myplaytv.com:1936/plustv/plustv/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Radio Ancon
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Radio Hogar
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Super Q Panama
 Calidad: 1080p
 Idioma: No especificado
+Logo: No disponible
 URL: https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Telemetro
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: http://181.78.121.15:8000/play/a001/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Tropical Moon Cumbia TV
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Tropical Moon Eventos TV
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Tropi Q 99.7 FM
 Calidad: 1080p
 Idioma: No especificado
+Logo: No disponible
 URL: https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TVMax
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Estado: FALLA
 ---
 Nombre: TVN
 Calidad: 720p
 Idioma: No especificado
+Logo: No disponible
 URL: https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 Estado: FALLA
 ---
 Nombre: Vision Latina
 Calidad: 1080p
 Idioma: No especificado
+Logo: No disponible
 URL: https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
 Estado: FUNCIONA
 ---
@@ -146,6 +169,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 23
-  Funcionan: 14
-  Fallan: 9
+  Funcionan: 15
+  Fallan: 8
 =============================================

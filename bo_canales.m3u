@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:50:06.735311
+# Fecha: 2026-10-09 17:06:01.210101
 
 #EXTINF:-1 tvg-id="AlegriaTV.bo" group-title="BO",Alegria TV
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
@@ -11,6 +11,9 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Audiokiss.bo" group-title="BO",Audiokiss
 https://master.tucableip.com/audiokisstv/index.m3u8
+
+#EXTINF:-1 tvg-id="AYNITV.bo" group-title="BO",AYNI TV
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo" group-title="BO",Bolivia TV
 https://hls.tvabierta.net/hls/boliviatv.m3u8
@@ -59,6 +62,9 @@ https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 
 #EXTINF:-1 tvg-id="ImperialTV.bo" group-title="BO",Imperial TV
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
+
+#EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="BO",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" group-title="BO",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
@@ -114,6 +120,9 @@ https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="TELE6.bo" group-title="BO",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TeleFeBolivia.bo" group-title="BO",Tele Fe Bolivia
+https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TigoSports.bo" group-title="BO",Tigo Sports
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
@@ -149,6 +158,9 @@ https://edge.enhdtv.com/8192/index.m3u8
 
 #EXTINF:-1 tvg-id="Unifranz.bo" group-title="BO",Unifranz
 https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="VosTV.bo" group-title="BO",Vos TV
+https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZuracaTV.bo" group-title="BO",Zuraca TV
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

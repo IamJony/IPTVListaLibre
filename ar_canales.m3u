@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:50:06.725554
+# Fecha: 2026-10-09 17:06:01.198259
 
 #EXTINF:-1 tvg-id="5tv.ar" group-title="AR",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -168,9 +168,6 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" group-title="AR",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
 
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar" group-title="AR",Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" group-title="AR",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
@@ -206,9 +203,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalLuz.ar" group-title="AR",Canal Luz
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalOrbe21.ar" group-title="AR",Canal Orbe 21
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPulpoTV.ar" group-title="AR",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
@@ -344,9 +338,6 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 
 #EXTINF:-1 tvg-id="LAMIL35TV.ar" group-title="AR",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LitusTV.ar" group-title="AR",Litus TV
-https://edge.enhdtv.com/litustv/index.m3u8
 
 #EXTINF:-1 tvg-id="MasFM.ar" group-title="AR",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8

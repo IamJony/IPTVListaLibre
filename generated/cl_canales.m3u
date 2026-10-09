@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CL
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:50:06.744401
+# Fecha: 2026-10-09 17:06:01.220923
 
 #EXTINF:-1 tvg-id="13C.cl" group-title="CL",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -146,9 +146,6 @@ https://v2.tustreaming.cl/chinachannel/index.m3u8
 
 #EXTINF:-1 tvg-id="ChocolateFM.cl" group-title="CL",Chocolate FM
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ClickTVChile.cl" group-title="CL",ClickTV Chile
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClubTV.cl" group-title="CL",Club TV
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
@@ -452,9 +449,6 @@ https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTCTelevision.cl" group-title="CL",RTC Television
 https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTVNuble.cl" group-title="CL",RTV Nuble
-https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SaborTV.cl" group-title="CL",Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8

@@ -1,7 +1,10 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - VE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:50:06.894695
+# Fecha: 2026-10-09 17:06:01.434267
+
+#EXTINF:-1 tvg-id="AbejalesTV.ve" group-title="VE",AbejalesTV
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.ve" group-title="VE",ANTV
 http://181.78.8.199:8000/play/a0fo/index.m3u8
@@ -125,9 +128,6 @@ https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFamilia.ve" group-title="VE",TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMparati.ve" group-title="VE",TVM para ti
-https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 
 #EXTINF:-1 tvg-id="TVS.ve" group-title="VE",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8

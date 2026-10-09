@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.708172
+# Fecha: 2026-10-09 15:50:06.876507
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es" group-title="ES",3Cat Cameres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -344,9 +344,6 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Taroteame.es" group-title="ES",Taroteame
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tele7.es" group-title="ES",Tele 7
-https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte.es" group-title="ES",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8

@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.630276
+  Fecha: 2026-10-09 15:50:06.735300
 =============================================
 
 Nombre: Abya Yala TV
@@ -560,13 +560,13 @@ Nombre: Univalle Television
 Calidad: 1080p
 Idioma: No especificado
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV
 Calidad: 720p
 Idioma: No especificado
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vos TV
 Calidad: 720p
@@ -608,6 +608,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 100
-  Funcionan: 52
-  Fallan: 48
+  Funcionan: 50
+  Fallan: 50
 =============================================

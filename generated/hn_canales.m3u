@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - HN
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.676801
+# Fecha: 2026-10-09 15:50:06.818835
 
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn" group-title="HN",Alsacias Television
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -158,9 +158,6 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 
 #EXTINF:-1 tvg-id="TVCentro272HD.hn" group-title="HN",TV Centro 27.2 HD
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCentroHD.hn" group-title="HN",TV Centro HD
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVCopan.hn" group-title="HN",TV Copan
 https://s.emisoras.tv:8081/tvcopan/index.m3u8

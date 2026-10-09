@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - DO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.654223
+# Fecha: 2026-10-09 15:50:06.778002
 
 #EXTINF:-1 tvg-id="A7TV.do" group-title="DO",A7 TV
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
@@ -288,9 +288,6 @@ https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="LunaTVCanal53.do" group-title="DO",Luna TV Canal 53
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1 tvg-id="LuzDivinaTV.do" group-title="DO",Luz Divina TV
-https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-
 #EXTINF:-1 tvg-id="MaimonTVCanal3.do" group-title="DO",Maimon TV Canal 3
 https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 
@@ -299,9 +296,6 @@ https://live.obslivestream.com/makaomux/index.m3u8
 
 #EXTINF:-1 tvg-id="MakaoTV.do" group-title="DO",Makao TV
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MakinaTV.do" group-title="DO",Makina TV
-https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 
 #EXTINF:-1 tvg-id="ManaclarTelevision.do" group-title="DO",Manaclar Television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8

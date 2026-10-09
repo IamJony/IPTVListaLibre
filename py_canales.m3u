@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PY
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.694642
+# Fecha: 2026-10-09 15:50:06.850925
 
 #EXTINF:-1 tvg-id="4DmasNoticiasTV.py" group-title="PY",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
@@ -114,9 +114,6 @@ https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py" group-title="PY",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 
-#EXTINF:-1 tvg-id="OviedoTV.py" group-title="PY",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-
 #EXTINF:-1 tvg-id="ParaguayTV.py" group-title="PY",Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 
@@ -150,6 +147,9 @@ https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.
 #EXTINF:-1 tvg-id="RCCTV.py" group-title="PY",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 
+#EXTINF:-1 tvg-id="RedDigital.py" group-title="PY",Red Digital
+https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+
 #EXTINF:-1 tvg-id="RedInteriorTV.py" group-title="PY",Red Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 
@@ -174,9 +174,6 @@ http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="PY",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="PY",Telefuturo
-http://158.172.217.18:8000/play/a0ns/index.m3u8
-
 #EXTINF:-1 tvg-id="TigoSports.py" group-title="PY",Tigo Sports
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 
@@ -188,9 +185,6 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 
 #EXTINF:-1 tvg-id="TVAire.py" group-title="PY",TV Aire
 http://190.128.214.97:64333/play/a05y/index.m3u8
-
-#EXTINF:-1 tvg-id="TVCamara.py" group-title="PY",TV Camara
-http://158.172.217.18:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCanindeyu.py" group-title="PY",TV Canindeyu
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8

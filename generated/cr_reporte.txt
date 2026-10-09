@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.645133
+  Fecha: 2026-10-09 15:50:06.762369
 =============================================
 
 Nombre: 88 Stereo
@@ -248,7 +248,7 @@ Nombre: Enlace Juvenil
 Calidad: No especificada
 Idioma: No especificado
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra TV 42
 Calidad: 720p
@@ -602,6 +602,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 99
-  Funcionan: 59
-  Fallan: 40
+  Funcionan: 58
+  Fallan: 41
 =============================================

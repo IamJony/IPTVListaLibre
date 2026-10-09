@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.699133
+# Fecha: 2026-10-09 15:50:06.858898
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="PE",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -158,6 +158,9 @@ https://mc.servidor.stream:19360/8274/8274.m3u8
 
 #EXTINF:-1 tvg-id="GalacticaTV.pe" group-title="PE",Galactica TV
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" group-title="PE",Genios TV
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" group-title="PE",Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
@@ -321,6 +324,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PlaneaTV.pe" group-title="PE",Planea TV
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Primavera15.pe" group-title="PE",Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
 #EXTINF:-1 tvg-id="QollasuyoTV.pe" group-title="PE",Qollasuyo TV
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
@@ -429,6 +435,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe" group-title="PE",Television Tarapoto
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" group-title="PE",Television Tarapoto
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Tevesur.pe" group-title="PE",Tevesur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
@@ -509,6 +518,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-id="VisionSur.pe" group-title="PE",Vision Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionSur.pe" group-title="PE",Vision Sur
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" group-title="PE",Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8

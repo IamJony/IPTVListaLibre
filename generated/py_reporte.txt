@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.694636
+  Fecha: 2026-10-09 15:50:06.850918
 =============================================
 
 Nombre: 4Dmas Noticias TV
@@ -260,7 +260,7 @@ Nombre: Oviedo TV
 Calidad: No especificada
 Idioma: No especificado
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Paraguay TV
 Calidad: 1080p
@@ -338,7 +338,7 @@ Nombre: Red Digital
 Calidad: 1080p
 Idioma: No especificado
 URL: https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Interior TV
 Calidad: No especificada
@@ -392,7 +392,7 @@ Nombre: Telefuturo
 Calidad: 1080p
 Idioma: No especificado
 URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tigo Sports
 Calidad: No especificada
@@ -440,7 +440,7 @@ Nombre: TV Camara
 Calidad: 1080p
 Idioma: No especificado
 URL: http://158.172.217.18:8000/play/a00m/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Canindeyu
 Calidad: 1080p
@@ -482,6 +482,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 79
-  Funcionan: 69
-  Fallan: 10
+  Funcionan: 67
+  Fallan: 12
 =============================================

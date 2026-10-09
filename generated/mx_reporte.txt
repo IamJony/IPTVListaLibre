@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.681318
+  Fecha: 2026-10-09 15:50:06.827024
 =============================================
 
 Nombre: 8NTV
@@ -122,7 +122,7 @@ Nombre: Azteca Internacional
 Calidad: 1080p
 Idioma: No especificado
 URL: http://167.249.23.102:8000/play/a0a3/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Azteca Uno
 Calidad: 1080p
@@ -344,7 +344,7 @@ Nombre: Canal del Congreso 45.1
 Calidad: No especificada
 Idioma: No especificado
 URL: https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Once
 Calidad: 1080p
@@ -398,7 +398,7 @@ Nombre: Claro Cinema
 Calidad: 1080p
 Idioma: No especificado
 URL: http://158.172.217.18:8000/play/a00d/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Claro Cinema
 Calidad: 1080p
@@ -1118,7 +1118,7 @@ Nombre: Tlnovelas Mexico
 Calidad: 1080p
 Idioma: No especificado
 URL: http://167.249.23.102:8000/play/a0g8/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Transmedia Television Morelia
 Calidad: 614p

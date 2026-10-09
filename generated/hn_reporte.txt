@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.676795
+  Fecha: 2026-10-09 15:50:06.818825
 =============================================
 
 Nombre: Alfa & Omega Vision
@@ -500,7 +500,7 @@ Nombre: TV Centro HD
 Calidad: 720p
 Idioma: No especificado
 URL: https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Copan
 Calidad: 720p
@@ -542,6 +542,6 @@ Estado: FALLA
 =============================================
   RESUMEN
   Total de streams: 89
-  Funcionan: 56
-  Fallan: 33
+  Funcionan: 55
+  Fallan: 34
 =============================================

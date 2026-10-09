@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.654217
+  Fecha: 2026-10-09 15:50:06.777993
 =============================================
 
 Nombre: A7 TV
@@ -704,7 +704,7 @@ Nombre: Luz Divina TV
 Calidad: No especificada
 Idioma: No especificado
 URL: https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Maimon TV Canal 3
 Calidad: 720p
@@ -728,7 +728,7 @@ Nombre: Makina TV
 Calidad: 720p
 Idioma: No especificado
 URL: https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Manaclar Television
 Calidad: No especificada
@@ -1592,6 +1592,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 264
-  Funcionan: 207
-  Fallan: 57
+  Funcionan: 205
+  Fallan: 59
 =============================================

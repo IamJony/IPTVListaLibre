@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 15:39:14.640402
+# Fecha: 2026-10-09 15:50:06.753427
 
 #EXTINF:-1 tvg-id="AmagaTelevision.co" group-title="CO",Amaga Television
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
@@ -257,6 +257,9 @@ http://181.78.8.199:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="OasisTV.co" group-title="CO",Oasis TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PancheTelevision.co" group-title="CO",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" group-title="CO",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8

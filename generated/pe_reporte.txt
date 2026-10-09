@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.699127
+  Fecha: 2026-10-09 15:50:06.858889
 =============================================
 
 Nombre: 36 TV Huacho
@@ -518,7 +518,7 @@ Nombre: Genios TV
 Calidad: 1080p
 Idioma: No especificado
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Global TV
 Calidad: 1080p
@@ -980,7 +980,7 @@ Nombre: Primavera 15
 Calidad: No especificada
 Idioma: No especificado
 URL: https://mc.servidor.stream:19360/8244/8244.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Qollasuyo TV
 Calidad: 720p
@@ -1238,7 +1238,7 @@ Nombre: Television Tarapoto
 Calidad: 720p
 Idioma: No especificado
 URL: https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Teve Empresa
 Calidad: 720p
@@ -1490,7 +1490,7 @@ Nombre: Vision Sur
 Calidad: 1080p
 Idioma: No especificado
 URL: https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VivaTV
 Calidad: 1080p
@@ -1574,6 +1574,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 261
-  Funcionan: 177
-  Fallan: 84
+  Funcionan: 181
+  Fallan: 80
 =============================================

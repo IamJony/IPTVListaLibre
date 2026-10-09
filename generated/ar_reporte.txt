@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.622890
+  Fecha: 2026-10-09 15:50:06.725513
 =============================================
 
 Nombre: 5tv
@@ -182,7 +182,7 @@ Nombre: Canal 3 Formosa
 Calidad: No especificada
 Idioma: No especificado
 URL: https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 La Pampa
 Calidad: 1080p
@@ -242,7 +242,7 @@ Nombre: Canal 4 Teleaire
 Calidad: No especificada
 Idioma: No especificado
 URL: https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Villa Dolores
 Calidad: No especificada
@@ -278,7 +278,7 @@ Nombre: Canal 6 Viento Recio
 Calidad: No especificada
 Idioma: No especificado
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Jujuy
 Calidad: No especificada
@@ -380,7 +380,7 @@ Nombre: Canal 13 Jujuy
 Calidad: 720p
 Idioma: No especificado
 URL: https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 La Rioja
 Calidad: 480p
@@ -488,7 +488,7 @@ Nombre: Canal Pulpo TV
 Calidad: No especificada
 Idioma: No especificado
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Santa Maria
 Calidad: 360p
@@ -842,7 +842,7 @@ Nombre: Folcloreando TV
 Calidad: No especificada
 Idioma: No especificado
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Fox Sports
 Calidad: 1080p
@@ -1424,6 +1424,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 236
-  Funcionan: 171
-  Fallan: 65
+  Funcionan: 177
+  Fallan: 59
 =============================================

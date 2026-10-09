@@ -2,7 +2,7 @@
   REPORTE UNIFICADO DE CANALES IPTV EN ESPAÑOL
   Países: AR, BO, CL, CO, CR, CU, DO, EC, SV, GQ, GT, HN, MX, NI, PA, PY, PE, PR, ES, UY, VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 15:39:14.717732
+  Fecha: 2026-10-09 15:50:06.895685
 ============================================================
 
 Nombre: 5tv
@@ -183,7 +183,7 @@ Nombre: Canal 3 Formosa
 País: AR
 Calidad: No especificada
 URL: https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 La Pampa
 País: AR
@@ -243,7 +243,7 @@ Nombre: Canal 4 Teleaire
 País: AR
 Calidad: No especificada
 URL: https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Villa Dolores
 País: AR
@@ -279,7 +279,7 @@ Nombre: Canal 6 Viento Recio
 País: AR
 Calidad: No especificada
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Jujuy
 País: AR
@@ -381,7 +381,7 @@ Nombre: Canal 13 Jujuy
 País: AR
 Calidad: 720p
 URL: https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 La Rioja
 País: AR
@@ -489,7 +489,7 @@ Nombre: Canal Pulpo TV
 País: AR
 Calidad: No especificada
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Santa Maria
 País: AR
@@ -759,7 +759,7 @@ Nombre: Folcloreando TV
 País: AR
 Calidad: No especificada
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Fox Sports
 País: AR
@@ -1869,13 +1869,13 @@ Nombre: Univalle Television
 País: BO
 Calidad: 1080p
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV
 País: BO
 Calidad: 720p
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vos TV
 País: BO
@@ -4185,7 +4185,7 @@ Nombre: Panche Television
 País: CO
 Calidad: No especificada
 URL: https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Parranda Vallenata
 País: CO
@@ -4803,7 +4803,7 @@ Nombre: Enlace Juvenil
 País: CR
 Calidad: No especificada
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra TV 42
 País: CR
@@ -5877,7 +5877,7 @@ Nombre: Luz Divina TV
 País: DO
 Calidad: No especificada
 URL: https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Maimon TV Canal 3
 País: DO
@@ -5901,7 +5901,7 @@ Nombre: Makina TV
 País: DO
 Calidad: 720p
 URL: https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Manaclar Television
 País: DO
@@ -8649,7 +8649,7 @@ Nombre: TV Centro HD
 País: HN
 Calidad: 720p
 URL: https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Copan
 País: HN
@@ -8799,7 +8799,7 @@ Nombre: Azteca Internacional
 País: MX
 Calidad: 1080p
 URL: http://167.249.23.102:8000/play/a0a3/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Azteca Uno
 País: MX
@@ -8997,7 +8997,7 @@ Nombre: Canal del Congreso 45.1
 País: MX
 Calidad: No especificada
 URL: https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Once
 País: MX
@@ -9045,7 +9045,7 @@ Nombre: Claro Cinema
 País: MX
 Calidad: 1080p
 URL: http://158.172.217.18:8000/play/a00d/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Claro Cinema
 País: MX
@@ -9693,7 +9693,7 @@ Nombre: Tlnovelas Mexico
 País: MX
 Calidad: 1080p
 URL: http://167.249.23.102:8000/play/a0g8/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Transmedia Television Morelia
 País: MX
@@ -10131,7 +10131,7 @@ Nombre: Fabulosa Estereo 100.5 FM
 País: PA
 Calidad: 720p
 URL: https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Hosanna Vision
 País: PA
@@ -10497,7 +10497,7 @@ Nombre: Oviedo TV
 País: PY
 Calidad: No especificada
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Paraguay TV
 País: PY
@@ -10575,7 +10575,7 @@ Nombre: Red Digital
 País: PY
 Calidad: 1080p
 URL: https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Interior TV
 País: PY
@@ -10629,7 +10629,7 @@ Nombre: Telefuturo
 País: PY
 Calidad: 1080p
 URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tigo Sports
 País: PY
@@ -10677,7 +10677,7 @@ Nombre: TV Camara
 País: PY
 Calidad: 1080p
 URL: http://158.172.217.18:8000/play/a00m/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Canindeyu
 País: PY
@@ -11181,7 +11181,7 @@ Nombre: Genios TV
 País: PE
 Calidad: 1080p
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Global TV
 País: PE
@@ -11625,7 +11625,7 @@ Nombre: Primavera 15
 País: PE
 Calidad: No especificada
 URL: https://mc.servidor.stream:19360/8244/8244.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Qollasuyo TV
 País: PE
@@ -11883,7 +11883,7 @@ Nombre: Television Tarapoto
 País: PE
 Calidad: 720p
 URL: https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Teve Empresa
 País: PE
@@ -12105,7 +12105,7 @@ Nombre: Vision Sur
 País: PE
 Calidad: 1080p
 URL: https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VivaTV
 País: PE
@@ -12207,7 +12207,7 @@ Nombre: CAtv
 País: PR
 Calidad: 1080p
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CDM Internacional
 País: PR
@@ -13839,7 +13839,7 @@ Nombre: Tele 7
 País: ES
 Calidad: 720p
 URL: https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeleBilbao
 País: ES
@@ -14741,28 +14741,28 @@ Estado: FUNCIONA
   Total de streams probados: 2455
   Funcionan: 1660
   Fallan:    795
-  Canales únicos: 1442
+  Canales únicos: 1441
 
   DESGLOSE POR PAÍS
-    AR: 171 OK / 49 FAIL (total 220)
-    BO: 52 OK / 46 FAIL (total 98)
+    AR: 177 OK / 43 FAIL (total 220)
+    BO: 50 OK / 48 FAIL (total 98)
     CL: 204 OK / 62 FAIL (total 266)
-    CO: 137 OK / 45 FAIL (total 182)
-    CR: 59 OK / 33 FAIL (total 92)
+    CO: 138 OK / 44 FAIL (total 182)
+    CR: 58 OK / 34 FAIL (total 92)
     CU: 1 OK / 3 FAIL (total 4)
-    DO: 207 OK / 57 FAIL (total 264)
+    DO: 205 OK / 59 FAIL (total 264)
     EC: 66 OK / 31 FAIL (total 97)
     SV: 28 OK / 26 FAIL (total 54)
     GQ: 1 OK / 1 FAIL (total 2)
     GT: 42 OK / 37 FAIL (total 79)
-    HN: 56 OK / 33 FAIL (total 89)
+    HN: 55 OK / 34 FAIL (total 89)
     MX: 140 OK / 75 FAIL (total 215)
     NI: 11 OK / 10 FAIL (total 21)
-    PA: 15 OK / 8 FAIL (total 23)
-    PY: 69 OK / 10 FAIL (total 79)
-    PE: 177 OK / 68 FAIL (total 245)
-    PR: 20 OK / 9 FAIL (total 29)
-    ES: 150 OK / 160 FAIL (total 310)
+    PA: 14 OK / 9 FAIL (total 23)
+    PY: 67 OK / 12 FAIL (total 79)
+    PE: 181 OK / 64 FAIL (total 245)
+    PR: 19 OK / 10 FAIL (total 29)
+    ES: 149 OK / 161 FAIL (total 310)
     UY: 3 OK / 1 FAIL (total 4)
     VE: 51 OK / 31 FAIL (total 82)
 ============================================================

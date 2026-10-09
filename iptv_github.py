@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # ============================================================
 # Script: iptv_github.py
-# Descripción: Versión para GitHub Actions. Descarga canales
+# Descripción: Descarga canales
 #              IPTV, los filtra por países hispanohablantes,
 #              los prueba y genera listas M3U + README.md.
 #              El commit/push lo hace el workflow de Actions.

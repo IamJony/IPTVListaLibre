@@ -39,10 +39,8 @@
 ### 1️⃣ Copia el enlace de la lista
 
 ```
-https://raw.githubusercontent.com/TU_USUARIO/IPTVListaLibre/main/lista.m3u
+https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u
 ```
-
-> 🔁 Reemplaza `TU_USUARIO` por el nombre real del repositorio.
 
 ### 2️⃣ Pega el enlace en tu reproductor IPTV favorito
 
@@ -82,28 +80,6 @@ Este repositorio utiliza **GitHub Actions** para regenerar la lista M3U **cada 2
 - ✅ Los nuevos canales disponibles se añadan.
 - ✅ Siempre tengas la versión más fresca. 🍃
 
-```yaml
-# Fragmento del workflow
-on:
-  schedule:
-    - cron: "0 3 * * *"   # Todos los días a las 03:00 UTC
-  workflow_dispatch:
-```
-
----
-
-## 📂 Estructura del Repositorio
-
-```
-IPTVListaLibre/
-├── .github/
-│   └── workflows/
-│       └── update.yml       # Automatización diaria
-├── lista.m3u                # Lista generada
-├── fuentes.txt              # Fuentes públicas utilizadas
-├── README.md
-└── LICENSE
-```
 
 ---
 
@@ -133,6 +109,6 @@ IPTVListaLibre/
 
 Hecho con ❤️ para la comunidad hispanohablante
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.IPTVListaLibre)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=IamJony.IPTVListaLibre)
 
 </div>

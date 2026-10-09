@@ -1,542 +1,542 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 17:06:01.383141
+# Fecha: 2026-10-09 17:15:53.274574
 
-#EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="PE",36 TV Huacho
+#EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-country="PE" group-title="PE",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABTelevision.pe" group-title="PE",ABTelevision
+#EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" tvg-country="PE" group-title="PE",ABTelevision
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AgroTV.pe" group-title="PE",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-country="PE" group-title="PE",Agro TV
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AgroTV.pe" group-title="PE",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-country="PE" group-title="PE",Agro TV
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 
-#EXTINF:-1 tvg-id="AlturaTV.pe" group-title="PE",Altura TV
+#EXTINF:-1 tvg-id="AlturaTV.pe" tvg-name="Altura TV" tvg-country="PE" group-title="PE",Altura TV
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
 
-#EXTINF:-1 tvg-id="AmazoniaTV.pe" group-title="PE",Amazonia TV
+#EXTINF:-1 tvg-id="AmazoniaTV.pe" tvg-name="Amazonia TV" tvg-country="PE" group-title="PE",Amazonia TV
 https://servilive.com:3199/live/amazoniatvlive.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" group-title="PE",America Television
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-country="PE" group-title="PE",America Television
 http://190.93.224.42/AMERICA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="AndesTelevision.pe" group-title="PE",Andes Television
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-name="Andes Television" tvg-country="PE" group-title="PE",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AndesTelevision.pe" group-title="PE",Andes Television
+#EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-name="Andes Television" tvg-country="PE" group-title="PE",Andes Television
 https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Antena1.pe" group-title="PE",Antena 1
+#EXTINF:-1 tvg-id="Antena1.pe" tvg-name="Antena 1" tvg-country="PE" group-title="PE",Antena 1
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AntenaSUR.pe" group-title="PE",Antena SUR
+#EXTINF:-1 tvg-id="AntenaSUR.pe" tvg-name="Antena SUR" tvg-country="PE" group-title="PE",Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 
-#EXTINF:-1 tvg-id="AntenaSUR.pe" group-title="PE",Antena SUR
+#EXTINF:-1 tvg-id="AntenaSUR.pe" tvg-name="Antena SUR" tvg-country="PE" group-title="PE",Antena SUR
 https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ArpegioTV.pe" group-title="PE",Arpegio TV
+#EXTINF:-1 tvg-id="ArpegioTV.pe" tvg-name="Arpegio TV" tvg-country="PE" group-title="PE",Arpegio TV
 https://vdo.oyotunserver.com/arpegio/video.m3u8
 
-#EXTINF:-1 tvg-id="AsiriTV.pe" group-title="PE",AsiriTV
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-name="AsiriTV" tvg-country="PE" group-title="PE",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-id="AtlantisRadioTV.pe" group-title="PE",Atlantis Radio TV
+#EXTINF:-1 tvg-id="AtlantisRadioTV.pe" tvg-name="Atlantis Radio TV" tvg-country="PE" group-title="PE",Atlantis Radio TV
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="PE",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" group-title="PE",ATV
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="PE",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-country="PE" group-title="PE",ATV
 http://190.93.224.42/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="PE",ATV+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-country="PE" group-title="PE",ATV+
 http://45.171.108.253:8888/ATV/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="PE",ATV+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-country="PE" group-title="PE",ATV+
 http://190.93.224.42/ATV-PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="PE",ATV Sur
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-country="PE" group-title="PE",ATV Sur
 http://190.93.224.42/ATV-SUR/index.m3u8
 
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" group-title="PE",Autentica Television
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica Television" tvg-country="PE" group-title="PE",Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" group-title="PE",Bella Abanquina TV
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe" tvg-name="Bella Abanquina TV" tvg-country="PE" group-title="PE",Bella Abanquina TV
 https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BethelTV.pe" group-title="PE",Bethel TV
+#EXTINF:-1 tvg-id="BethelTV.pe" tvg-name="Bethel TV" tvg-country="PE" group-title="PE",Bethel TV
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BNBDigital.pe" group-title="PE",BNB Digital
+#EXTINF:-1 tvg-id="BNBDigital.pe" tvg-name="BNB Digital" tvg-country="PE" group-title="PE",BNB Digital
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CadenaTV.pe" group-title="PE",Cadena TV
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-country="PE" group-title="PE",Cadena TV
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
-#EXTINF:-1 tvg-id="CadenaTV.pe" group-title="PE",Cadena TV
+#EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-country="PE" group-title="PE",Cadena TV
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CajamarcaTV.pe" group-title="PE",Cajamarca TV
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-name="Cajamarca TV" tvg-country="PE" group-title="PE",Cajamarca TV
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" group-title="PE",Canal 8 Catacaos
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos" tvg-country="PE" group-title="PE",Canal 8 Catacaos
 https://live.obslivestream.com/canal8/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal21Huancayo.pe" group-title="PE",Canal 21 Huancayo
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-name="Canal 21 Huancayo" tvg-country="PE" group-title="PE",Canal 21 Huancayo
 https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="Canal21Huancayo.pe" group-title="PE",Canal 21 Huancayo
+#EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-name="Canal 21 Huancayo" tvg-country="PE" group-title="PE",Canal 21 Huancayo
 https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal25Ayacucho.pe" group-title="PE",Canal 25 Ayacucho
+#EXTINF:-1 tvg-id="Canal25Ayacucho.pe" tvg-name="Canal 25 Ayacucho" tvg-country="PE" group-title="PE",Canal 25 Ayacucho
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalIPe.pe" group-title="PE",Canal IPe
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-name="Canal IPe" tvg-country="PE" group-title="PE",Canal IPe
 http://190.93.224.42/IPE/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalMasTV.pe" group-title="PE",Canal Mas TV
+#EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-name="Canal Mas TV" tvg-country="PE" group-title="PE",Canal Mas TV
 https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANALMTelevision.pe" group-title="PE",CANAL M Television
+#EXTINF:-1 tvg-id="CANALMTelevision.pe" tvg-name="CANAL M Television" tvg-country="PE" group-title="PE",CANAL M Television
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalN.pe" group-title="PE",Canal N
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-country="PE" group-title="PE",Canal N
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalN.pe" group-title="PE",Canal N
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-country="PE" group-title="PE",Canal N
 http://187.102.208.209:8000/play/a0az/index.m3u8
 
-#EXTINF:-1 tvg-id="CasmaTV.pe" group-title="PE",Casma TV
+#EXTINF:-1 tvg-id="CasmaTV.pe" tvg-name="Casma TV" tvg-country="PE" group-title="PE",Casma TV
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CharapaTV.pe" group-title="PE",Charapa TV
+#EXTINF:-1 tvg-id="CharapaTV.pe" tvg-name="Charapa TV" tvg-country="PE" group-title="PE",Charapa TV
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Chikitoonz.pe" group-title="PE",Chikitoonz
+#EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-name="Chikitoonz" tvg-country="PE" group-title="PE",Chikitoonz
 http://45.70.201.81:8000/play/a00p/index.m3u8
 
-#EXTINF:-1 tvg-id="Conecta2TV.pe" group-title="PE",Conecta2TV
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV" tvg-country="PE" group-title="PE",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
 
-#EXTINF:-1 tvg-id="CRTelevision.pe" group-title="PE",CR Television
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-name="CR Television" tvg-country="PE" group-title="PE",CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="Cultura24.pe" group-title="PE",Cultura 24
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" tvg-country="PE" group-title="PE",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-id="CVNTV.pe" group-title="PE",CVN TV
+#EXTINF:-1 tvg-id="CVNTV.pe" tvg-name="CVN TV" tvg-country="PE" group-title="PE",CVN TV
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 
-#EXTINF:-1 tvg-id="DacTV.pe" group-title="PE",Dac TV
+#EXTINF:-1 tvg-id="DacTV.pe" tvg-name="Dac TV" tvg-country="PE" group-title="PE",Dac TV
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DeltaTV.pe" group-title="PE",DeltaTV
+#EXTINF:-1 tvg-id="DeltaTV.pe" tvg-name="DeltaTV" tvg-country="PE" group-title="PE",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
-#EXTINF:-1 tvg-id="DobleCTelevision.pe" group-title="PE",Doble C Television
+#EXTINF:-1 tvg-id="DobleCTelevision.pe" tvg-name="Doble C Television" tvg-country="PE" group-title="PE",Doble C Television
 https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DTV.pe" group-title="PE",DTV
+#EXTINF:-1 tvg-id="DTV.pe" tvg-name="DTV" tvg-country="PE" group-title="PE",DTV
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ECOTelevision.pe" group-title="PE",ECO Television
+#EXTINF:-1 tvg-id="ECOTelevision.pe" tvg-name="ECO Television" tvg-country="PE" group-title="PE",ECO Television
 https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe" group-title="PE",Exitosa TV
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" group-title="PE",Exitosa TV
 http://190.93.224.42/EXITOSA/index.m3u8
 
-#EXTINF:-1 tvg-id="ExitosaTV.pe" group-title="PE",Exitosa TV
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-country="PE" group-title="PE",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 
-#EXTINF:-1 tvg-id="ForoTV.pe" group-title="PE",Foro TV
+#EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" tvg-country="PE" group-title="PE",Foro TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTV.pe" group-title="PE",Genios TV
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-country="PE" group-title="PE",Genios TV
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 
-#EXTINF:-1 tvg-id="GlobalTV.pe" group-title="PE",Global TV
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-country="PE" group-title="PE",Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
 
-#EXTINF:-1 tvg-id="HuachoPeruTV.pe" group-title="PE",Huacho Peru TV
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" tvg-country="PE" group-title="PE",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
 
-#EXTINF:-1 tvg-id="ImpactoTelevision.pe" group-title="PE",Impacto Television
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-name="Impacto Television" tvg-country="PE" group-title="PE",Impacto Television
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="ImperialTelevision.pe" group-title="PE",Imperial Television
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-name="Imperial Television" tvg-country="PE" group-title="PE",Imperial Television
 https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IntuitivaTV.pe" group-title="PE",Intuitiva TV
+#EXTINF:-1 tvg-id="IntuitivaTV.pe" tvg-name="Intuitiva TV" tvg-country="PE" group-title="PE",Intuitiva TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-id="JN19.pe" group-title="PE",JN 19
+#EXTINF:-1 tvg-id="JN19.pe" tvg-name="JN 19" tvg-country="PE" group-title="PE",JN 19
 https://servilive.com:3028/live/jntv19live.m3u8
 
-#EXTINF:-1 tvg-id="JNETV.pe" group-title="PE",JNE TV
+#EXTINF:-1 tvg-id="JNETV.pe" tvg-name="JNE TV" tvg-country="PE" group-title="PE",JNE TV
 https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JuntosTV.pe" group-title="PE",Juntos TV
+#EXTINF:-1 tvg-id="JuntosTV.pe" tvg-name="Juntos TV" tvg-country="PE" group-title="PE",Juntos TV
 http://45.70.201.81:8000/play/a019/index.m3u8
 
-#EXTINF:-1 tvg-id="JusticiaTV.pe" group-title="PE",Justicia TV
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-country="PE" group-title="PE",Justicia TV
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Karibena.pe" group-title="PE",Karibena
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-country="PE" group-title="PE",Karibena
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="KoraTV.pe" group-title="PE",Kora TV
+#EXTINF:-1 tvg-id="KoraTV.pe" tvg-name="Kora TV" tvg-country="PE" group-title="PE",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 
-#EXTINF:-1 tvg-id="L1Max.pe" group-title="PE",L1 Max
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-country="PE" group-title="PE",L1 Max
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="LaFabulosaTV.pe" group-title="PE",La Fabulosa TV
+#EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-country="PE" group-title="PE",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-id="LaTele.pe" group-title="PE",La Tele
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" tvg-country="PE" group-title="PE",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" group-title="PE",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-country="PE" group-title="PE",Latina
 http://190.93.224.42/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" group-title="PE",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-country="PE" group-title="PE",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinaClasicos.pe" group-title="PE",Latina Clasicos
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" tvg-country="PE" group-title="PE",Latina Clasicos
 http://45.171.108.253:8888/LATINA/index.m3u8
 
-#EXTINF:-1 tvg-id="LatinaClasicos.pe" group-title="PE",Latina Clasicos
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" tvg-country="PE" group-title="PE",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinaNoticias247.pe" group-title="PE",Latina Noticias 24/7
+#EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-name="Latina Noticias 24/7" tvg-country="PE" group-title="PE",Latina Noticias 24/7
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 
-#EXTINF:-1 tvg-id="LatinaNoticias247.pe" group-title="PE",Latina Noticias 24/7
+#EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-name="Latina Noticias 24/7" tvg-country="PE" group-title="PE",Latina Noticias 24/7
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinaPodcast.pe" group-title="PE",Latina Podcast
+#EXTINF:-1 tvg-id="LatinaPodcast.pe" tvg-name="Latina Podcast" tvg-country="PE" group-title="PE",Latina Podcast
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LiderTV.pe" group-title="PE",Lider TV
+#EXTINF:-1 tvg-id="LiderTV.pe" tvg-name="Lider TV" tvg-country="PE" group-title="PE",Lider TV
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 
-#EXTINF:-1 tvg-id="MasterTV.pe" group-title="PE",Master TV
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" tvg-country="PE" group-title="PE",Master TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MasterTV.pe" group-title="PE",Master TV
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" tvg-country="PE" group-title="PE",Master TV
 https://live.obslivestream.com/mastertv/index.m3u8
 
-#EXTINF:-1 tvg-id="MediaTV.pe" group-title="PE",Media TV
+#EXTINF:-1 tvg-id="MediaTV.pe" tvg-name="Media TV" tvg-country="PE" group-title="PE",Media TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" group-title="PE",Mega TV Jaen
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-name="Mega TV Jaen" tvg-country="PE" group-title="PE",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" group-title="PE",Mega TV Jaen
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-name="Mega TV Jaen" tvg-country="PE" group-title="PE",Mega TV Jaen
 https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" group-title="PE",Metropolitana del Cuzco
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" tvg-country="PE" group-title="PE",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MielTV.pe" group-title="PE",Miel TV
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-name="Miel TV" tvg-country="PE" group-title="PE",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 
-#EXTINF:-1 tvg-id="MielTV.pe" group-title="PE",Miel TV
+#EXTINF:-1 tvg-id="MielTV.pe" tvg-name="Miel TV" tvg-country="PE" group-title="PE",Miel TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MilenialTV.pe" group-title="PE",Milenial TV
+#EXTINF:-1 tvg-id="MilenialTV.pe" tvg-name="Milenial TV" tvg-country="PE" group-title="PE",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
 
-#EXTINF:-1 tvg-id="Millenium109FM.pe" group-title="PE",Millenium 109 FM
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-name="Millenium 109 FM" tvg-country="PE" group-title="PE",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="MonterricoTV.pe" group-title="PE",Monterrico TV
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" group-title="PE",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" group-title="PE",Movistar Deportes
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-country="PE" group-title="PE",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" group-title="PE",Movistar Deportes
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-country="PE" group-title="PE",Movistar Deportes
 http://170.244.209.30:8000/play/a1i8/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarPlus.pe" group-title="PE",Movistar Plus
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" tvg-country="PE" group-title="PE",Movistar Plus
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 
-#EXTINF:-1 tvg-id="NacionalTvPeru.pe" group-title="PE",Nacional Tv Peru
+#EXTINF:-1 tvg-id="NacionalTvPeru.pe" tvg-name="Nacional Tv Peru" tvg-country="PE" group-title="PE",Nacional Tv Peru
 https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" group-title="PE",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" tvg-country="PE" group-title="PE",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" group-title="PE",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" tvg-country="PE" group-title="PE",Nativa
 http://187.102.210.46/NATIVATV/index.m3u8
 
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe" group-title="PE",Nativa TV Satipo
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-name="Nativa TV Satipo" tvg-country="PE" group-title="PE",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
-#EXTINF:-1 tvg-id="NativaTVSatipo.pe" group-title="PE",Nativa TV Satipo
+#EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-name="Nativa TV Satipo" tvg-country="PE" group-title="PE",Nativa TV Satipo
 https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NeoTV.pe" group-title="PE",Neo TV
+#EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" tvg-country="PE" group-title="PE",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ONDADIGITAL.pe" group-title="PE",ONDA DIGITAL
+#EXTINF:-1 tvg-id="ONDADIGITAL.pe" tvg-name="ONDA DIGITAL" tvg-country="PE" group-title="PE",ONDA DIGITAL
 https://tv.ondadigital.pe/ondadigital/index.m3u8
 
-#EXTINF:-1 tvg-id="OndaTV.pe" group-title="PE",Onda TV
+#EXTINF:-1 tvg-id="OndaTV.pe" tvg-name="Onda TV" tvg-country="PE" group-title="PE",Onda TV
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe" group-title="PE",Ovacion TV
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-name="Ovacion TV" tvg-country="PE" group-title="PE",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OzonoTV.pe" group-title="PE",Ozono TV
+#EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" tvg-country="PE" group-title="PE",Ozono TV
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OzonoTV.pe" group-title="PE",Ozono TV
+#EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" tvg-country="PE" group-title="PE",Ozono TV
 http://vps.chasquirouter.com/salida/ozono.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="PE",Panamericana TV
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" group-title="PE",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="PE",Panamericana TV
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-country="PE" group-title="PE",Panamericana TV
 http://190.93.224.42/PANAMERICANA/index.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe" group-title="PE",PBO
+#EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-country="PE" group-title="PE",PBO
 http://190.93.224.42/PBO/index.m3u8
 
-#EXTINF:-1 tvg-id="PBO.pe" group-title="PE",PBO
+#EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO" tvg-country="PE" group-title="PE",PBO
 https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PequesTV.pe" group-title="PE",Peques TV
+#EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" tvg-country="PE" group-title="PE",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PiuraTV.pe" group-title="PE",PiuraTV
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-name="PiuraTV" tvg-country="PE" group-title="PE",PiuraTV
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlaneaTV.pe" group-title="PE",Planea TV
+#EXTINF:-1 tvg-id="PlaneaTV.pe" tvg-name="Planea TV" tvg-country="PE" group-title="PE",Planea TV
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Primavera15.pe" group-title="PE",Primavera 15
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" tvg-country="PE" group-title="PE",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
 
-#EXTINF:-1 tvg-id="QollasuyoTV.pe" group-title="PE",Qollasuyo TV
+#EXTINF:-1 tvg-id="QollasuyoTV.pe" tvg-name="Qollasuyo TV" tvg-country="PE" group-title="PE",Qollasuyo TV
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QosqoTimes.pe" group-title="PE",Qosqo Times
+#EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-name="Qosqo Times" tvg-country="PE" group-title="PE",Qosqo Times
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QosqoTimes.pe" group-title="PE",Qosqo Times
+#EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-name="Qosqo Times" tvg-country="PE" group-title="PE",Qosqo Times
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioChalaca.pe" group-title="PE",Radio Chalaca
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-name="Radio Chalaca" tvg-country="PE" group-title="PE",Radio Chalaca
 https://servilive.com:3414/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioMaster.pe" group-title="PE",Radio Master
+#EXTINF:-1 tvg-id="RadioMaster.pe" tvg-name="Radio Master" tvg-country="PE" group-title="PE",Radio Master
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 
-#EXTINF:-1 tvg-id="RadioOndaDigital.pe" group-title="PE",Radio Onda Digital
+#EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-name="Radio Onda Digital" tvg-country="PE" group-title="PE",Radio Onda Digital
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioRumbaTV.pe" group-title="PE",Radio Rumba TV
+#EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-country="PE" group-title="PE",Radio Rumba TV
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioRumbaTV.pe" group-title="PE",Radio Rumba TV
+#EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-country="PE" group-title="PE",Radio Rumba TV
 https://tv.sistemasandinos.org/rumbatv/video.m3u8
 
-#EXTINF:-1 tvg-id="RadioTropical.pe" group-title="PE",Radio Tropical
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-name="Radio Tropical" tvg-country="PE" group-title="PE",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVOriente.pe" group-title="PE",RadioTV Oriente
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-name="RadioTV Oriente" tvg-country="PE" group-title="PE",RadioTV Oriente
 https://live.obslivestream.com/tvoriente/index.m3u8
 
-#EXTINF:-1 tvg-id="RadioUnoTacna.pe" group-title="PE",Radio Uno Tacna
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" tvg-country="PE" group-title="PE",Radio Uno Tacna
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RealTelevision.pe" group-title="PE",Real Television
+#EXTINF:-1 tvg-id="RealTelevision.pe" tvg-name="Real Television" tvg-country="PE" group-title="PE",Real Television
 https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="PE",Region TV Callao
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-country="PE" group-title="PE",Region TV Callao
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="PE",Region TV Callao
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-country="PE" group-title="PE",Region TV Callao
 https://servilive.com:3757/live/regiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="RNTelevision.pe" group-title="PE",RN Television
+#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="RN Television" tvg-country="PE" group-title="PE",RN Television
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
-#EXTINF:-1 tvg-id="RPPTV.pe" group-title="PE",RPP TV
+#EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-country="PE" group-title="PE",RPP TV
 http://190.93.224.42/RPP/index.m3u8
 
-#EXTINF:-1 tvg-id="RPPTV.pe" group-title="PE",RPP TV
+#EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-country="PE" group-title="PE",RPP TV
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RSelvaTV.pe" group-title="PE",RSelvaTV
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-name="RSelvaTV" tvg-country="PE" group-title="PE",RSelvaTV
 https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RSelvaTV.pe" group-title="PE",RSelvaTV
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-name="RSelvaTV" tvg-country="PE" group-title="PE",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-id="RTP.pe" group-title="PE",RTP
+#EXTINF:-1 tvg-id="RTP.pe" tvg-name="RTP" tvg-country="PE" group-title="PE",RTP
 https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RumbaMixTV.pe" group-title="PE",RumbaMix TV
+#EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" tvg-country="PE" group-title="PE",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RumboMineroTV.pe" group-title="PE",Rumbo Minero TV
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" tvg-country="PE" group-title="PE",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-id="SenalPeruTV.pe" group-title="PE",Senal Peru TV
+#EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-name="Senal Peru TV" tvg-country="PE" group-title="PE",Senal Peru TV
 https://livestream.perucast.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="SiscomTV.pe" group-title="PE",Siscom TV
+#EXTINF:-1 tvg-id="SiscomTV.pe" tvg-name="Siscom TV" tvg-country="PE" group-title="PE",Siscom TV
 https://video2.lhdserver.es/siscomtv/live.m3u8
 
-#EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="PE",Solar Television
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-country="PE" group-title="PE",Solar Television
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="PE",Solar Television
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-country="PE" group-title="PE",Solar Television
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 
-#EXTINF:-1 tvg-id="SolTV.pe" group-title="PE",SolTV
+#EXTINF:-1 tvg-id="SolTV.pe" tvg-name="SolTV" tvg-country="PE" group-title="PE",SolTV
 https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SqalaTV.pe" group-title="PE",Sqala TV
+#EXTINF:-1 tvg-id="SqalaTV.pe" tvg-name="Sqala TV" tvg-country="PE" group-title="PE",Sqala TV
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StudioPascoTV.pe" group-title="PE",Studio Pasco TV
+#EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-country="PE" group-title="PE",Studio Pasco TV
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperCanal.pe" group-title="PE",Super Canal
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-name="Super Canal" tvg-country="PE" group-title="PE",Super Canal
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SuperCanal.pe" group-title="PE",Super Canal
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-name="Super Canal" tvg-country="PE" group-title="PE",Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" group-title="PE",Telecolor Yurimaguas
+#EXTINF:-1 tvg-id="TelecolorYurimaguas.pe" tvg-name="Telecolor Yurimaguas" tvg-country="PE" group-title="PE",Telecolor Yurimaguas
 https://live.obslivestream.com/telecolormux/index.m3u8
 
-#EXTINF:-1 tvg-id="Telelima.pe" group-title="PE",Telelima
+#EXTINF:-1 tvg-id="Telelima.pe" tvg-name="Telelima" tvg-country="PE" group-title="PE",Telelima
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleselva.pe" group-title="PE",Teleselva
+#EXTINF:-1 tvg-id="Teleselva.pe" tvg-name="Teleselva" tvg-country="PE" group-title="PE",Teleselva
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleselva.pe" group-title="PE",Teleselva
+#EXTINF:-1 tvg-id="Teleselva.pe" tvg-name="Teleselva" tvg-country="PE" group-title="PE",Teleselva
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
-#EXTINF:-1 tvg-id="TelesystemTV.pe" group-title="PE",Telesystem TV
+#EXTINF:-1 tvg-id="TelesystemTV.pe" tvg-name="Telesystem TV" tvg-country="PE" group-title="PE",Telesystem TV
 https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" group-title="PE",Television Tarapoto
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-name="Television Tarapoto" tvg-country="PE" group-title="PE",Television Tarapoto
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tevesur.pe" group-title="PE",Tevesur
+#EXTINF:-1 tvg-id="Tevesur.pe" tvg-name="Tevesur" tvg-country="PE" group-title="PE",Tevesur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TopTV.pe" group-title="PE",Top TV
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" tvg-country="PE" group-title="PE",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" group-title="PE",Trivu
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-country="PE" group-title="PE",Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" group-title="PE",Trivu
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-country="PE" group-title="PE",Trivu
 https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trivu.pe" group-title="PE",Trivu
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-country="PE" group-title="PE",Trivu
 https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
 
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" group-title="PE",Turbo Mix Radio TV
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-country="PE" group-title="PE",Turbo Mix Radio TV
 https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" group-title="PE",Turbo Mix Radio TV
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-country="PE" group-title="PE",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" group-title="PE",TV Bella Asuncion
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-name="TV Bella Asuncion" tvg-country="PE" group-title="PE",TV Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="TVCosmos.pe" group-title="PE",TV Cosmos
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-country="PE" group-title="PE",TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
-#EXTINF:-1 tvg-id="TVMAR.pe" group-title="PE",TV MAR
+#EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-country="PE" group-title="PE",TV MAR
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMAX.pe" group-title="PE",TV MAX
+#EXTINF:-1 tvg-id="TVMAX.pe" tvg-name="TV MAX" tvg-country="PE" group-title="PE",TV MAX
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" group-title="PE",TV Norte Chiclayo
+#EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-country="PE" group-title="PE",TV Norte Chiclayo
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPeru.pe" group-title="PE",TV Peru
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-country="PE" group-title="PE",TV Peru
 http://190.93.224.42/TV-PERU/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" group-title="PE",TV Peruanisima
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-name="TV Peruanisima" tvg-country="PE" group-title="PE",TV Peruanisima
 https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 
-#EXTINF:-1 tvg-id="TVPeruNoticias.pe" group-title="PE",TV Peru Noticias
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-country="PE" group-title="PE",TV Peru Noticias
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 
-#EXTINF:-1 tvg-id="TVUNO.pe" group-title="PE",TVUNO
+#EXTINF:-1 tvg-id="TVUNO.pe" tvg-name="TVUNO" tvg-country="PE" group-title="PE",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe" group-title="PE",Ucayalina de Television
+#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe" tvg-name="Ucayalina de Television" tvg-country="PE" group-title="PE",Ucayalina de Television
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UchuTV.pe" group-title="PE",Uchu TV
+#EXTINF:-1 tvg-id="UchuTV.pe" tvg-name="Uchu TV" tvg-country="PE" group-title="PE",Uchu TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnicentroTV.pe" group-title="PE",Unicentro TV
+#EXTINF:-1 tvg-id="UnicentroTV.pe" tvg-name="Unicentro TV" tvg-country="PE" group-title="PE",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Unitel.pe" group-title="PE",Unitel
+#EXTINF:-1 tvg-id="Unitel.pe" tvg-name="Unitel" tvg-country="PE" group-title="PE",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 
-#EXTINF:-1 tvg-id="UniversitariaTV.pe" group-title="PE",Universitaria TV
+#EXTINF:-1 tvg-id="UniversitariaTV.pe" tvg-name="Universitaria TV" tvg-country="PE" group-title="PE",Universitaria TV
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UranioTV.pe" group-title="PE",Uranio TV
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-name="Uranio TV" tvg-country="PE" group-title="PE",Uranio TV
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UranioTV.pe" group-title="PE",Uranio TV
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-name="Uranio TV" tvg-country="PE" group-title="PE",Uranio TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-1 tvg-id="USMPTV.pe" group-title="PE",USMPTV
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" tvg-country="PE" group-title="PE",USMPTV
 http://187.102.210.46/USMP/index.m3u8
 
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" group-title="PE",Via Altomayo
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Via Altomayo" tvg-country="PE" group-title="PE",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-id="ViaTelevision.pe" group-title="PE",Via Television
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" tvg-country="PE" group-title="PE",Via Television
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
-#EXTINF:-1 tvg-id="VisionSur.pe" group-title="PE",Vision Sur
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-name="Vision Sur" tvg-country="PE" group-title="PE",Vision Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" group-title="PE",Viva TV Yurimaguas
+#EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" tvg-name="Viva TV Yurimaguas" tvg-country="PE" group-title="PE",Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
 
-#EXTINF:-1 tvg-id="WayraTV.pe" group-title="PE",Wayra TV
+#EXTINF:-1 tvg-id="WayraTV.pe" tvg-name="Wayra TV" tvg-country="PE" group-title="PE",Wayra TV
 https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="PE",Willax TV
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-country="PE" group-title="PE",Willax TV
 http://190.93.224.42/WILLAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Wtv.pe" group-title="PE",Wtv
+#EXTINF:-1 tvg-id="Wtv.pe" tvg-name="Wtv" tvg-country="PE" group-title="PE",Wtv
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YurimaguasTV.pe" group-title="PE",Yurimaguas TV
+#EXTINF:-1 tvg-id="YurimaguasTV.pe" tvg-name="Yurimaguas TV" tvg-country="PE" group-title="PE",Yurimaguas TV
 https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Yurivision.pe" group-title="PE",Yurivision
+#EXTINF:-1 tvg-id="Yurivision.pe" tvg-name="Yurivision" tvg-country="PE" group-title="PE",Yurivision
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="PE",Zeleve TV
+#EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-name="Zeleve TV" tvg-country="PE" group-title="PE",Zeleve TV
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="PE",Zeleve TV
+#EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-name="Zeleve TV" tvg-country="PE" group-title="PE",Zeleve TV
 https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 

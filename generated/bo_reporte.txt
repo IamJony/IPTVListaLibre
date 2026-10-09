@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:06:01.210088
+  Fecha: 2026-10-09 17:15:53.121014
 =============================================
 
 Nombre: Abya Yala TV
@@ -345,7 +345,7 @@ Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Centro
 Calidad: 720p
@@ -653,14 +653,14 @@ Calidad: 1080p
 Idioma: No especificado
 Logo: No disponible
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV
 Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vos TV
 Calidad: 720p
@@ -708,6 +708,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 100
-  Funcionan: 54
-  Fallan: 46
+  Funcionan: 55
+  Fallan: 45
 =============================================

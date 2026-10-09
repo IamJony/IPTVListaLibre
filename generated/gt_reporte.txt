@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:06:01.309851
+  Fecha: 2026-10-09 17:15:53.216504
 =============================================
 
 Nombre: Amigos TV Chiquimula
@@ -527,7 +527,7 @@ Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Tun
 Calidad: 240p
@@ -555,7 +555,7 @@ Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: World TV Guatemala
 Calidad: 720p
@@ -568,6 +568,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 80
-  Funcionan: 39
-  Fallan: 41
+  Funcionan: 41
+  Fallan: 39
 =============================================

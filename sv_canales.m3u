@@ -1,89 +1,89 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - SV
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 17:06:01.285982
+# Fecha: 2026-10-09 17:15:53.198384
 
-#EXTINF:-1 tvg-id="AgapeTV.sv" group-title="SV",Agape TV
+#EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-country="SV" group-title="SV",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AgapeTV.sv" group-title="SV",Agape TV
+#EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-country="SV" group-title="SV",Agape TV
 https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="SV",Canal 2
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-name="Canal 2" tvg-country="SV" group-title="SV",Canal 2
 http://186.33.26.18:8000/play/a0qp/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Impresionante.sv" group-title="SV",Canal 3 Impresionante
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" tvg-country="SV" group-title="SV",Canal 3 Impresionante
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="SV",Canal 6
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-name="Canal 6" tvg-country="SV" group-title="SV",Canal 6
 http://45.167.2.101:8000/play/a0qs/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal9LaUnion.sv" group-title="SV",Canal 9 La Union
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv" tvg-name="Canal 9 La Union" tvg-country="SV" group-title="SV",Canal 9 La Union
 http://45.167.2.101:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="SV",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-country="SV" group-title="SV",Canal 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="SV",Canal 10
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-country="SV" group-title="SV",Canal 10
 http://45.167.2.101:8000/play/a0r8/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal11TuTV.sv" group-title="SV",Canal 11 TuTV
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" tvg-country="SV" group-title="SV",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="SV",Canal 12
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" tvg-country="SV" group-title="SV",Canal 12
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalTRV.sv" group-title="SV",Canal TRV
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-name="Canal TRV" tvg-country="SV" group-title="SV",Canal TRV
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElCaminoTV.sv" group-title="SV",El Camino TV
+#EXTINF:-1 tvg-id="ElCaminoTV.sv" tvg-name="El Camino TV" tvg-country="SV" group-title="SV",El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ElimTV.sv" group-title="SV",Elim TV
+#EXTINF:-1 tvg-id="ElimTV.sv" tvg-name="Elim TV" tvg-country="SV" group-title="SV",Elim TV
 http://38.252.238.18:8000/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-id="JFVTV.sv" group-title="SV",JFV TV
+#EXTINF:-1 tvg-id="JFVTV.sv" tvg-name="JFV TV" tvg-country="SV" group-title="SV",JFV TV
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="SV",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-country="SV" group-title="SV",Megavision Canal 19
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="SV",Megavision Canal 19
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-country="SV" group-title="SV",Megavision Canal 19
 http://45.167.1.138:8000/play/a02b
 
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" group-title="SV",Megavision Canal 21
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-name="Megavision Canal 21" tvg-country="SV" group-title="SV",Megavision Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="MizpaTV.sv" group-title="SV",Mizpa TV
+#EXTINF:-1 tvg-id="MizpaTV.sv" tvg-name="Mizpa TV" tvg-country="SV" group-title="SV",Mizpa TV
 http://45.167.2.101:8000/play/a0r7/index.m3u8
 
-#EXTINF:-1 tvg-id="RTVCanal57.sv" group-title="SV",RTV Canal 57
+#EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-name="RTV Canal 57" tvg-country="SV" group-title="SV",RTV Canal 57
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1 tvg-id="SVPlus.sv" group-title="SV",SV+
+#EXTINF:-1 tvg-id="SVPlus.sv" tvg-name="SV+" tvg-country="SV" group-title="SV",SV+
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="SVPlus.sv" group-title="SV",SV+
+#EXTINF:-1 tvg-id="SVPlus.sv" tvg-name="SV+" tvg-country="SV" group-title="SV",SV+
 http://186.33.26.18:8000/play/a0qx/index.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.sv" group-title="SV",Tigo Sports
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-name="Tigo Sports" tvg-country="SV" group-title="SV",Tigo Sports
 http://45.167.2.101:8000/play/a0pp/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCa.sv" group-title="SV",TVCa
+#EXTINF:-1 tvg-id="TVCa.sv" tvg-name="TVCa" tvg-country="SV" group-title="SV",TVCa
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCRET.sv" group-title="SV",TV CRET
+#EXTINF:-1 tvg-id="TVCRET.sv" tvg-name="TV CRET" tvg-country="SV" group-title="SV",TV CRET
 https://radiocret.net:8082/hls/tvcret.m3u8
 
-#EXTINF:-1 tvg-id="TVGetsemani.sv" group-title="SV",TV Getsemani
+#EXTINF:-1 tvg-id="TVGetsemani.sv" tvg-name="TV Getsemani" tvg-country="SV" group-title="SV",TV Getsemani
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 
-#EXTINF:-1 tvg-id="TVLeondeJuda.sv" group-title="SV",TV Leon de Juda
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv" tvg-name="TV Leon de Juda" tvg-country="SV" group-title="SV",TV Leon de Juda
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" group-title="SV",TVO Canal 23
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-country="SV" group-title="SV",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 
-#EXTINF:-1 tvg-id="TVOCanal23.sv" group-title="SV",TVO Canal 23
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-country="SV" group-title="SV",TVO Canal 23
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 

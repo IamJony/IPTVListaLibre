@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:06:01.264275
+  Fecha: 2026-10-09 17:15:53.175963
 =============================================
 
 Nombre: A7 TV
@@ -1556,7 +1556,7 @@ Calidad: 1080p
 Idioma: No especificado
 Logo: No disponible
 URL: https://soportedvb.click:3413/live/televerlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televiaducto Canal 3
 Calidad: 720p
@@ -1640,7 +1640,7 @@ Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turismo RDTV
 Calidad: 720p
@@ -1668,7 +1668,7 @@ Calidad: 1080p
 Idioma: No especificado
 Logo: No disponible
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Daja
 Calidad: 1080p
@@ -1856,6 +1856,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 264
-  Funcionan: 205
-  Fallan: 59
+  Funcionan: 202
+  Fallan: 62
 =============================================

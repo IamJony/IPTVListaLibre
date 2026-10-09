@@ -2,7 +2,7 @@
   REPORTE UNIFICADO DE CANALES IPTV EN ESPAÑOL
   Países: AR, BO, CL, CO, CR, CU, DO, EC, SV, GQ, GT, HN, MX, NI, PA, PY, PE, PR, ES, UY, VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:06:01.435062
+  Fecha: 2026-10-09 17:15:53.317703
 ============================================================
 
 Nombre: 5tv
@@ -381,7 +381,7 @@ País: AR
 Calidad: 720p
 Logo: No disponible
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Link
 País: AR
@@ -570,7 +570,7 @@ País: AR
 Calidad: No especificada
 Logo: No disponible
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Santa Maria
 País: AR
@@ -1151,7 +1151,7 @@ País: AR
 Calidad: 1080p
 Logo: No disponible
 URL: https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Yguazu TV
 País: AR
@@ -1207,7 +1207,7 @@ País: AR
 Calidad: No especificada
 Logo: No disponible
 URL: https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Senillosa TV
 País: AR
@@ -1886,7 +1886,7 @@ País: BO
 Calidad: 720p
 Logo: No disponible
 URL: https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Centro
 País: BO
@@ -2180,14 +2180,14 @@ País: BO
 Calidad: 1080p
 Logo: No disponible
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV
 País: BO
 Calidad: 720p
 Logo: No disponible
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vos TV
 País: BO
@@ -3356,7 +3356,7 @@ País: CL
 Calidad: 720p
 Logo: No disponible
 URL: https://v2.tustreaming.cl/armoniamovil/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Chiloe
 País: CL
@@ -4112,7 +4112,7 @@ País: CO
 Calidad: 720p
 Logo: No disponible
 URL: https://live.amelbatv.co:81/anctvlive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Aupur Television
 País: CO
@@ -4266,7 +4266,7 @@ País: CO
 Calidad: No especificada
 Logo: No disponible
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Cine Dios
 País: CO
@@ -4455,7 +4455,7 @@ País: CO
 Calidad: 720p
 Logo: No disponible
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canica TV
 País: CO
@@ -4490,7 +4490,7 @@ País: CO
 Calidad: 1080p
 Logo: No disponible
 URL: http://167.249.23.102:8000/play/a0ax/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Caracol Internacional
 País: CO
@@ -4616,7 +4616,7 @@ País: CO
 Calidad: 1080p
 Logo: No disponible
 URL: https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CNC Valledupar
 País: CO
@@ -4791,7 +4791,7 @@ País: CO
 Calidad: No especificada
 Logo: No disponible
 URL: https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Noticias RCN
 País: CO
@@ -5162,7 +5162,7 @@ País: CO
 Calidad: 720p
 Logo: No disponible
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeleNostalgia
 País: CO
@@ -5253,7 +5253,7 @@ País: CO
 Calidad: 480p
 Logo: No disponible
 URL: https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVAgro
 País: CO
@@ -7591,7 +7591,7 @@ País: DO
 Calidad: 1080p
 Logo: No disponible
 URL: https://soportedvb.click:3413/live/televerlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televiaducto Canal 3
 País: DO
@@ -7675,7 +7675,7 @@ País: DO
 Calidad: 720p
 Logo: No disponible
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turismo RDTV
 País: DO
@@ -7703,7 +7703,7 @@ País: DO
 Calidad: 1080p
 Logo: No disponible
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Daja
 País: DO
@@ -9474,7 +9474,7 @@ País: GT
 Calidad: 720p
 Logo: No disponible
 URL: https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Tun
 País: GT
@@ -9502,7 +9502,7 @@ País: GT
 Calidad: 720p
 Logo: No disponible
 URL: https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: World TV Guatemala
 País: GT
@@ -9565,7 +9565,7 @@ País: HN
 Calidad: 720p
 Logo: No disponible
 URL: https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 El Lider
 País: HN
@@ -10083,7 +10083,7 @@ País: HN
 Calidad: 720p
 Logo: No disponible
 URL: https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Centro HD
 País: HN
@@ -14241,7 +14241,7 @@ País: PR
 Calidad: 1080p
 Logo: No disponible
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CDM Internacional
 País: PR
@@ -14857,7 +14857,7 @@ País: ES
 Calidad: 576p
 Logo: No disponible
 URL: https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Donana
 País: ES
@@ -17194,30 +17194,30 @@ Estado: FUNCIONA
 ============================================================
   RESUMEN GLOBAL
   Total de streams probados: 2455
-  Funcionan: 1663
-  Fallan:    792
-  Canales únicos: 1445
+  Funcionan: 1652
+  Fallan:    803
+  Canales únicos: 1432
 
   DESGLOSE POR PAÍS
-    AR: 174 OK / 46 FAIL (total 220)
-    BO: 54 OK / 44 FAIL (total 98)
-    CL: 202 OK / 64 FAIL (total 266)
-    CO: 139 OK / 43 FAIL (total 182)
+    AR: 170 OK / 50 FAIL (total 220)
+    BO: 55 OK / 43 FAIL (total 98)
+    CL: 201 OK / 65 FAIL (total 266)
+    CO: 133 OK / 49 FAIL (total 182)
     CR: 60 OK / 32 FAIL (total 92)
     CU: 1 OK / 3 FAIL (total 4)
-    DO: 205 OK / 59 FAIL (total 264)
+    DO: 202 OK / 62 FAIL (total 264)
     EC: 66 OK / 31 FAIL (total 97)
     SV: 28 OK / 26 FAIL (total 54)
     GQ: 1 OK / 1 FAIL (total 2)
-    GT: 39 OK / 40 FAIL (total 79)
-    HN: 54 OK / 35 FAIL (total 89)
+    GT: 41 OK / 38 FAIL (total 79)
+    HN: 56 OK / 33 FAIL (total 89)
     MX: 142 OK / 73 FAIL (total 215)
     NI: 11 OK / 10 FAIL (total 21)
     PA: 15 OK / 8 FAIL (total 23)
     PY: 69 OK / 10 FAIL (total 79)
     PE: 179 OK / 66 FAIL (total 245)
-    PR: 20 OK / 9 FAIL (total 29)
-    ES: 150 OK / 160 FAIL (total 310)
+    PR: 19 OK / 10 FAIL (total 29)
+    ES: 149 OK / 161 FAIL (total 310)
     UY: 3 OK / 1 FAIL (total 4)
     VE: 51 OK / 31 FAIL (total 82)
 ============================================================

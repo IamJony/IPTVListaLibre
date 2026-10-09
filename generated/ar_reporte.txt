@@ -1,7 +1,7 @@
 =============================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:06:01.198240
+  Fecha: 2026-10-09 17:15:53.109708
 =============================================
 
 Nombre: 5tv
@@ -380,7 +380,7 @@ Calidad: 720p
 Idioma: No especificado
 Logo: No disponible
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Link
 Calidad: No especificada
@@ -569,7 +569,7 @@ Calidad: No especificada
 Idioma: No especificado
 Logo: No disponible
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Santa Maria
 Calidad: 360p
@@ -1248,7 +1248,7 @@ Calidad: 1080p
 Idioma: No especificado
 Logo: No disponible
 URL: https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Yguazu TV
 Calidad: 480p
@@ -1304,7 +1304,7 @@ Calidad: No especificada
 Idioma: No especificado
 Logo: No disponible
 URL: https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Senillosa TV
 Calidad: No especificada
@@ -1660,6 +1660,6 @@ Estado: FUNCIONA
 =============================================
   RESUMEN
   Total de streams: 236
-  Funcionan: 174
-  Fallan: 62
+  Funcionan: 170
+  Fallan: 66
 =============================================

@@ -1,50 +1,50 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PA
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-09 17:06:01.358199
+# Fecha: 2026-10-09 17:15:53.254462
 
-#EXTINF:-1 tvg-id="ARCanal.pa" group-title="PA",A&R Canal
+#EXTINF:-1 tvg-id="ARCanal.pa" tvg-name="A&R Canal" tvg-country="PA" group-title="PA",A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="CorazonTV.pa" group-title="PA",Corazon TV
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" tvg-country="PA" group-title="PA",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
 
-#EXTINF:-1 tvg-id="DreikoTV.pa" group-title="PA",Dreiko TV
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-name="Dreiko TV" tvg-country="PA" group-title="PA",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
-#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" group-title="PA",Fabulosa Estereo 100.5 FM
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-name="Fabulosa Estereo 100.5 FM" tvg-country="PA" group-title="PA",Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 
-#EXTINF:-1 tvg-id="HosannaVision.pa" group-title="PA",Hosanna Vision
+#EXTINF:-1 tvg-id="HosannaVision.pa" tvg-name="Hosanna Vision" tvg-country="PA" group-title="PA",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mas23TV.pa" group-title="PA",Mas23 TV
+#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-name="Mas23 TV" tvg-country="PA" group-title="PA",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
 
-#EXTINF:-1 tvg-id="NexTVCanal21.pa" group-title="PA",Nex TV Canal 21
+#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-name="Nex TV Canal 21" tvg-country="PA" group-title="PA",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
 
-#EXTINF:-1 tvg-id="PindinTV.pa" group-title="PA",Pindin TV
+#EXTINF:-1 tvg-id="PindinTV.pa" tvg-name="Pindin TV" tvg-country="PA" group-title="PA",Pindin TV
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 
-#EXTINF:-1 tvg-id="Planet1009FM.pa" group-title="PA",Planet 100.9 FM
+#EXTINF:-1 tvg-id="Planet1009FM.pa" tvg-name="Planet 100.9 FM" tvg-country="PA" group-title="PA",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioAncon.pa" group-title="PA",Radio Ancon
+#EXTINF:-1 tvg-id="RadioAncon.pa" tvg-name="Radio Ancon" tvg-country="PA" group-title="PA",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 
-#EXTINF:-1 tvg-id="RadioHogar.pa" group-title="PA",Radio Hogar
+#EXTINF:-1 tvg-id="RadioHogar.pa" tvg-name="Radio Hogar" tvg-country="PA" group-title="PA",Radio Hogar
 https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8
 
-#EXTINF:-1 tvg-id="SuperQPanama.pa" group-title="PA",Super Q Panama
+#EXTINF:-1 tvg-id="SuperQPanama.pa" tvg-name="Super Q Panama" tvg-country="PA" group-title="PA",Super Q Panama
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemetro.pa" group-title="PA",Telemetro
+#EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="Telemetro" tvg-country="PA" group-title="PA",Telemetro
 http://181.78.121.15:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="TropiQ997FM.pa" group-title="PA",Tropi Q 99.7 FM
+#EXTINF:-1 tvg-id="TropiQ997FM.pa" tvg-name="Tropi Q 99.7 FM" tvg-country="PA" group-title="PA",Tropi Q 99.7 FM
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 
-#EXTINF:-1 tvg-id="VisionLatina.pa" group-title="PA",Vision Latina
+#EXTINF:-1 tvg-id="VisionLatina.pa" tvg-name="Vision Latina" tvg-country="PA" group-title="PA",Vision Latina
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
 

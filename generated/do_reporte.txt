@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:32:45.770246
+  Fecha: 2026-10-09 20:19:38.988842
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -30,7 +30,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg
 URL: https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ahora TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -114,7 +114,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: No disponible
 URL: https://edge.essastream.com/bebetotelevision/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bellavision (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -352,7 +352,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://colometv.com/assets/images/logo.png
 URL: https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Color Vision (720p) [Geo-blocked]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -366,7 +366,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4uV90gw.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coral 39 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -800,7 +800,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg
 URL: https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Manaclar Television [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -989,7 +989,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg
 URL: https://streamunoapp.com:3255/live/palmartvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Peravia Vision (480p) [Geo-blocked]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1563,7 +1563,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sMF7JDm.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Daja (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1744,6 +1744,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 248
-  Funcionan: 200
-  Fallan: 48
+  Funcionan: 199
+  Fallan: 49
 ==================================================

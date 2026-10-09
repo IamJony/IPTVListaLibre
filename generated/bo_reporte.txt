@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:32:45.767356
+  Fecha: 2026-10-09 20:19:38.985984
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Audiokiss (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -51,7 +51,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tKLYYys.png
 URL: http://190.181.61.93:8000/play/a001/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bolivision (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -317,7 +317,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I7yB176.png
 URL: https://master.tucableip.com/redtvshop/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Uno (1080p) [Geo-blocked]
 Categoría: 🇧🇴 Bolivia
@@ -471,7 +471,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -512,6 +512,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 72
-  Funcionan: 39
-  Fallan: 33
+  Funcionan: 41
+  Fallan: 31
 ==================================================

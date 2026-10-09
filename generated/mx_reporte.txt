@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:32:45.773398
+  Fecha: 2026-10-09 20:19:38.991921
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -72,7 +72,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ClqIQ4M.png
 URL: http://38.252.238.18:8000/play/a01g/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Az Corazon (720p)
 Categoría: 🇲🇽 México
@@ -387,7 +387,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hywjKNo.jpg
 URL: https://video2.lhdserver.es/despiertatv/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Distrito Comedia (1080p)
 Categoría: 🇲🇽 México
@@ -450,7 +450,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Golden (1080p)
 Categoría: 🇲🇽 México
@@ -555,7 +555,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -576,7 +576,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TAjbaml.png
 URL: http://168.196.127.137:6001/play/a070/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mexiquense TV (720p)
 Categoría: 🇲🇽 México
@@ -737,7 +737,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/960px-PX_Sports_-_Logo.png
 URL: http://38.252.238.18:8000/play/a02f/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio y Television Crisol de la Alegria (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1087,7 +1087,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/brCSiGh.png
 URL: https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UACJ-TV [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1171,7 +1171,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9ZXCQvy.png
 URL: https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: XHGV-TDT (360p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 118
-  Fallan: 55
+  Funcionan: 112
+  Fallan: 61
 ==================================================

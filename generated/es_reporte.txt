@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 17:32:45.776434
+  Fecha: 2026-10-09 20:19:38.994852
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -184,7 +184,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png
 URL: http://38.252.238.18:8000/play/a04a/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Arabi TV (1080p)
 Categoría: 🇪🇸 España
@@ -352,7 +352,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg
 URL: https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 45 (576p)
 Categoría: 🇪🇸 España
@@ -1955,7 +1955,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png
 URL: https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVReus (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -2052,6 +2052,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 292
-  Funcionan: 141
-  Fallan: 151
+  Funcionan: 142
+  Fallan: 150
 ==================================================

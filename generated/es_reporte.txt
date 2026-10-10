@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.994852
+  Fecha: 2026-10-10 19:29:05.100158
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -303,7 +303,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cnKCZkK.png
 URL: https://avantstreaming.es/hls/canal3.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Catalunya (1080p)
 Categoría: 🇪🇸 España
@@ -1836,7 +1836,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png
 URL: https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",TV Ripolles (1080p)
 Categoría: 🇪🇸 España
@@ -1955,7 +1955,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png
 URL: https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVReus (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -2052,6 +2052,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 292
-  Funcionan: 142
-  Fallan: 150
+  Funcionan: 141
+  Fallan: 151
 ==================================================

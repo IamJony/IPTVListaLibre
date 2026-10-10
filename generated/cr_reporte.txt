@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.987962
+  Fecha: 2026-10-10 19:29:05.091782
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -324,14 +324,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/P4kpMgk/1689344714578.jpg
 URL: https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Super Cable
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KYtJp8F.png
 URL: http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TDtv (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -408,7 +408,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7HbISMV.png
 URL: http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Sur Canal 14 (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -471,12 +471,12 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XvktUBB.jpg
 URL: https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 50
-  Fallan: 17
+  Funcionan: 51
+  Fallan: 16
 ==================================================

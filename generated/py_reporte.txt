@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.993277
+  Fecha: 2026-10-10 19:29:05.098249
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -44,7 +44,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
 URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bruno Masi TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -149,7 +149,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -240,14 +240,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8IRBA9h.png
 URL: https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oviedo TV
 Categoría: 🇵🇾 Paraguay
@@ -310,14 +310,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -387,7 +387,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Sports",Tigo Sports+ (1280p)
 Categoría: 🇵🇾 Paraguay
@@ -415,7 +415,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Mfypr0t.png
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Canindeyu (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -436,7 +436,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/No9YzNC.png
 URL: https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UniRadio TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -450,7 +450,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XwmUbfp.png
 URL: https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Villa Elisa Radio TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 54
-  Fallan: 11
+  Funcionan: 58
+  Fallan: 7
 ==================================================

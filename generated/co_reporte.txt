@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.987359
+  Fecha: 2026-10-10 19:29:05.091066
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -23,7 +23,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/xjTU14t.jpg
 URL: https://live.amelbatv.co:81/anctvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Aupur Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -107,14 +107,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5e1d8k.png
 URL: https://video2.lhdserver.es/canal9cosespu/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 14 Codazzi (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wNSUMhJ.png
 URL: https://eu1.servers10.com:8081/8056/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Calima TV (720p)
 Categoría: 🇨🇴 Colombia
@@ -247,7 +247,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canica TV (240p)
 Categoría: 🇨🇴 Colombia
@@ -268,7 +268,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/h7LWbt5.png
 URL: http://167.249.23.102:8000/play/a0ax/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Caracol TV (1080p)
 Categoría: 🇨🇴 Colombia
@@ -373,7 +373,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SQ79Wsb.png
 URL: https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Eureka (1080p) [Geo-blocked]
 Categoría: 🇨🇴 Colombia
@@ -408,7 +408,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MO4w3OT.jpeg
 URL: https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Hermandad Salsera (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -604,7 +604,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3IhYd7G.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Santel TV
 Categoría: 🇨🇴 Colombia
@@ -625,7 +625,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -800,7 +800,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tMl4ISO.png
 URL: https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ultra Casanare TV (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -848,6 +848,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 120
-  Funcionan: 94
-  Fallan: 26
+  Funcionan: 96
+  Fallan: 24
 ==================================================

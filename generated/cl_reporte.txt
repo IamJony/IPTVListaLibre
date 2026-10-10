@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.986447
+  Fecha: 2026-10-10 19:29:05.090000
 ==================================================
 
 Nombre: 13C (1080p)
@@ -79,7 +79,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CEE9zPe.png
 URL: http://187.102.208.209:8000/play/a0a1/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ADA TV (720p)
 Categoría: 🇨🇱 Chile
@@ -163,7 +163,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DmdBf9S.png
 URL: https://v1.tustreaming.cl/aysentv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bio Bio TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -233,7 +233,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -324,7 +324,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -772,7 +772,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c1ME00r.png
 URL: http://15.204.246.24:8080/Mega2HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mega (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -842,7 +842,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1552_Nina_TV.png
 URL: https://tv1.ninatv.cl/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nublevision (720p)
 Categoría: 🇨🇱 Chile
@@ -1206,7 +1206,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BDKgDZG.png
 URL: https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sabor TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1451,7 +1451,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1542,7 +1542,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png
 URL: http://45.170.130.224:8000/play/a025/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vida Nueva TV
 Categoría: 🇨🇱 Chile
@@ -1570,7 +1570,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kBRbCUb.png
 URL: https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VTV Valle de Aconcagua (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1591,7 +1591,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lMyZZtk.png
 URL: http://45.170.130.224:8000/play/a00x/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zona Play TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1618,6 +1618,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 230
-  Funcionan: 176
-  Fallan: 54
+  Funcionan: 184
+  Fallan: 46
 ==================================================

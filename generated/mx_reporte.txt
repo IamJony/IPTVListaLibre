@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-09 20:19:38.991921
+  Fecha: 2026-10-10 19:29:05.096544
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -23,7 +23,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dhiNIng.png
 URL: https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ADN 40 (720p)
 Categoría: 🇲🇽 México
@@ -156,7 +156,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -555,7 +555,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -569,14 +569,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GylOPxE.png
 URL: http://200.122.223.13:55000/play/a022/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MC (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TAjbaml.png
 URL: http://168.196.127.137:6001/play/a070/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mexiquense TV (720p)
 Categoría: 🇲🇽 México
@@ -849,7 +849,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1087,7 +1087,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/brCSiGh.png
 URL: https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UACJ-TV [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 112
-  Fallan: 61
+  Funcionan: 113
+  Fallan: 60
 ==================================================

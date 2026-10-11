@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.094535
+  Fecha: 2026-10-11 19:41:04.562142
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -114,7 +114,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZSktjGB.png
 URL: https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Elim TV (720p)
 Categoría: 🇸🇻 El Salvador
@@ -256,11 +256,11 @@ Logo: https://i.imgur.com/uPWWtCA.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TVM El Salvador (720p)
+Nombre: TVM El Salvador [Not 24/7]
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/fyCC8R6.png
-URL: https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
+URL: http://201.247.102.189/tmp_hls/stream/index.m3u8
 Estado: FALLA
 ---
 Nombre: TVO Canal 23 (720p)
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 22
-  Fallan: 17
+  Funcionan: 21
+  Fallan: 18
 ==================================================

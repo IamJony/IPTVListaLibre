@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.098808
+  Fecha: 2026-10-11 19:41:04.563685
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cF7gJ2Q.jpeg
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ABTelevision (720p)
 Categoría: 🇵🇪 Perú
@@ -107,7 +107,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7bGVFBa.png
 URL: https://video2.lhdserver.es/asiritv/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atlantis Radio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -247,7 +247,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tFRmMkf.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chikitoonz (1080p)
 Categoría: 🇵🇪 Perú
@@ -380,7 +380,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -464,7 +464,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: L1 (1080p)
 Categoría: 🇵🇪 Perú
@@ -541,7 +541,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/K2ZimRv.png
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Media TV (720p)
 Categoría: 🇵🇪 Perú
@@ -779,7 +779,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -884,7 +884,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DJ05m8s.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Studio Pasco TV (720p)
 Categoría: 🇵🇪 Perú
@@ -940,7 +940,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tevesur (720p)
 Categoría: 🇵🇪 Perú
@@ -1066,7 +1066,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/xYGkUR9.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unicentro TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 141
-  Fallan: 31
+  Funcionan: 133
+  Fallan: 39
 ==================================================

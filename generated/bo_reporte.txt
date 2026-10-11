@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.089386
+  Fecha: 2026-10-11 19:41:04.559739
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Audiokiss (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -123,13 +123,6 @@ Logo: https://i.imgur.com/FcciYMD.png
 URL: https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Dialogo La Red Educativa (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://dialogolarededucativa.com/wp-content/uploads/2024/02/cropped-cropped-314708081_105832265676231_8790041320160213071_n.jpg
-URL: https://twitch-m3u8.bastypro112.workers.dev/dialogolarededucativacbba/index.m3u8
-Estado: FALLA
----
 Nombre: Dmoda Channel (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -144,13 +137,6 @@ Logo: https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clff
 URL: https://master.tucableip.com/eldebertv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Erbol (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/hn1KI7t.png
-URL: https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
-Estado: FALLA
----
 Nombre: F10 HD (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -163,21 +149,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jZ7g58e.png
 URL: https://edge.enhdtv.com/faptv/index.m3u8
-Estado: FALLA
----
-Nombre: Fides TV (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/fsDdvXx.png
-URL: https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8
-Estado: FALLA
----
-Nombre: Fortaleza TV Cueto (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/z4TfuxB.jpg
-URL: https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: FTV (Bolivia) (720p)
 Categoría: 🇧🇴 Bolivia
@@ -200,25 +172,11 @@ Logo: https://i.imgur.com/sGOSDo2.jpeg
 URL: https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
 Estado: FALLA
 ---
-Nombre: Megavision (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/IAQXCak.png
-URL: https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
-Estado: FALLA
----
 Nombre: Palenque TV (576p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wAIBvaO.png
 URL: http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
-Estado: FALLA
----
-Nombre: PLUS Television (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://static-cdn.jtvnw.net/jtv_user_pictures/255c280c-fd59-466c-bf00-aeb973d78505-profile_banner-480.jpeg
-URL: https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
 Estado: FALLA
 ---
 Nombre: Plus TLT (720p)
@@ -269,13 +227,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/yzSNWZ3.png
 URL: https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Radio San Gabriel (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg
-URL: https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
-Estado: FALLA
 ---
 Nombre: Radio Universitaria San Andres (720p)
 Categoría: 🇧🇴 Bolivia
@@ -387,7 +338,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/p7tt72X.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Fe Bolivia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -471,7 +422,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -511,7 +462,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 72
+  Total de streams: 65
   Funcionan: 41
-  Fallan: 31
+  Fallan: 24
 ==================================================

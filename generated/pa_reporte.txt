@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PA
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.097797
+  Fecha: 2026-10-11 19:41:04.563312
 ==================================================
 
 Nombre: A&R Canal (720p)
@@ -114,14 +114,14 @@ Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ocTnqi7.png
 URL: https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telemetro (720p)
 Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vJJrGgV.png
 URL: http://181.78.121.15:8000/play/a001/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tropi Q 99.7 FM (1080p)
 Categoría: 🇵🇦 Panamá
@@ -169,6 +169,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 23
-  Funcionan: 14
-  Fallan: 9
+  Funcionan: 12
+  Fallan: 11
 ==================================================

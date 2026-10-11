@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.095423
+  Fecha: 2026-10-11 19:41:04.562387
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -212,7 +212,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vHfb3Z4.png
 URL: http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Jacal Canal 5 (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -282,14 +282,14 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mBNOSzl.png
 URL: https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Nuestra Imagen TV
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sknLXZI.jpeg
 URL: https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Peniel K&Y (480p)
 Categoría: 🇬🇹 Guatemala
@@ -359,14 +359,14 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/YXYv8sf/logo-soltv2.png
 URL: https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telecosta (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png
 URL: https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telemax (Guatemala) (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 29
-  Fallan: 37
+  Funcionan: 32
+  Fallan: 34
 ==================================================

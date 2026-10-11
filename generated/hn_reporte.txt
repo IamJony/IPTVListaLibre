@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.095977
+  Fecha: 2026-10-11 19:41:04.562604
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -247,7 +247,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZqwLPag.jpg
 URL: https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Top 107.7 (720p)
 Categoría: 🇭🇳 Honduras
@@ -289,7 +289,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png
 URL: https://media.streambrothers.com:19360/8036/8036.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Metro TV (Honduras) (720p)
 Categoría: 🇭🇳 Honduras
@@ -338,7 +338,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -464,7 +464,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QaocW5x.png
 URL: https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Olanchana (1080p)
 Categoría: 🇭🇳 Honduras
@@ -499,7 +499,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wo2scQf.jpg
 URL: https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Centro HD (720p)
 Categoría: 🇭🇳 Honduras
@@ -554,6 +554,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 78
-  Funcionan: 49
-  Fallan: 29
+  Funcionan: 46
+  Fallan: 32
 ==================================================

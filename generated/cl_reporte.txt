@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-10 19:29:05.090000
+  Fecha: 2026-10-11 19:41:04.559978
 ==================================================
 
 Nombre: 13C (1080p)
@@ -359,7 +359,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H0XNbMS.png
 URL: https://v2.tustreaming.cl/clicktv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Club TV
 Categoría: 🇨🇱 Chile
@@ -541,6 +541,13 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1649_EPA__TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Sports",ESPN Premium (Chile)
+Categoría: 🇨🇱 Chile
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
+URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Estacion Limache TV (720p)
@@ -842,7 +849,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1552_Nina_TV.png
 URL: https://tv1.ninatv.cl/hls/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Nublevision (720p)
 Categoría: 🇨🇱 Chile
@@ -1220,7 +1227,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z94YCpH.png
 URL: https://v4.tustreaming.cl/sannicolastv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Santa Maria Television (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1367,7 +1374,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1617,7 +1624,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 230
-  Funcionan: 184
+  Total de streams: 231
+  Funcionan: 185
   Fallan: 46
 ==================================================

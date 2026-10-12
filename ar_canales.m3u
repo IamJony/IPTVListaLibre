@@ -1,7 +1,7 @@
 #EXTM3U
-# REPORTE DE CANALES IPTV - AR
+# CANALES IPTV - 🇦🇷 Argentina
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 23:03:04.063572
+# Fecha: 2026-10-12 23:08:34.743251
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -138,6 +138,9 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12Web.ar@SD" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="🇦🇷 Argentina",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
+
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="🇦🇷 Argentina",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="🇦🇷 Argentina",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8

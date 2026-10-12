@@ -1,7 +1,7 @@
 #EXTM3U
-# REPORTE DE CANALES IPTV - MX
+# CANALES IPTV - 🇲🇽 México
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 23:03:04.070320
+# Fecha: 2026-10-12 23:08:34.747256
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽 México",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -101,6 +101,9 @@ http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="EclipseTV.mx@SD" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="🇲🇽 México",Eclipse TV (720p)
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
+
+#EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="🇲🇽 México",El Chavo TV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElSonorense.mx@SD" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="🇲🇽 México",El Sonorense (1080p) [Not 24/7]
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8

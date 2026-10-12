@@ -1,7 +1,7 @@
 ==================================================
-  CANALES IPTV - 🇨🇴 Colombia
+  REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:08:34.744806
+  Fecha: 2026-10-12 23:15:56.795822
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -135,7 +135,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -198,7 +198,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qxBDhV.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal RCN (1080p)
 Categoría: 🇨🇴 Colombia
@@ -744,7 +744,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 99
-  Fallan: 22
+  Funcionan: 96
+  Fallan: 25
 ==================================================

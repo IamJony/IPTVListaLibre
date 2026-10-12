@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.893947
+  Fecha: 2026-10-12 22:34:51.148787
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -660,7 +660,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qdlW6cg.png
 URL: https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",El 9 TV (1080p)
 Categoría: 🇪🇸 España
@@ -1941,7 +1941,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png
 URL: https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVReus (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -2038,6 +2038,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 290
-  Funcionan: 137
-  Fallan: 153
+  Funcionan: 135
+  Fallan: 155
 ==================================================

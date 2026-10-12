@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.885543
+  Fecha: 2026-10-12 22:34:51.143739
 ==================================================
 
 Nombre: 13C (1080p)
@@ -156,7 +156,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kD6badL.png
 URL: https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Aysen TV (720p)
 Categoría: 🇨🇱 Chile
@@ -457,7 +457,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1759_Docevision.png
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EGM Channel (480p)
 Categoría: 🇨🇱 Chile
@@ -1625,6 +1625,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 231
-  Funcionan: 185
-  Fallan: 46
+  Funcionan: 183
+  Fallan: 48
 ==================================================

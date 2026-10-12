@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 21:44:43.893952
+# Fecha: 2026-10-12 22:34:51.148789
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 España",3Cat Cameres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -145,9 +145,6 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
 #EXTINF:-1 tvg-id="DistritoTV.es@SD" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="🇪🇸 España",Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-
-#EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD" tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="🇪🇸 España",Durangaldeko Telebista (576p)
-https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 
 #EXTINF:-1 tvg-id="El33.es@Originals" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="🇪🇸 España",El 33 Originals (1080p) [Not 24/7]
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
@@ -399,9 +396,6 @@ https://cloud.tvomix.com/TVOJESUS/index.m3u8
 
 #EXTINF:-1 tvg-id="TVOMIX.es@HD" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="🇪🇸 España",TVOMIX (1080p)
 https://cloud.tvomix.com/TVOMIX/index.m3u8
-
-#EXTINF:-1 tvg-id="TVR.es@SD" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="🇪🇸 España",TVR (Spain) (360p) [Not 24/7]
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVReus.es@SD" tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="🇪🇸 España",TVReus (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8166/index.m3u8

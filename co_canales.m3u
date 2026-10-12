@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 21:44:43.886479
+# Fecha: 2026-10-12 22:34:51.144347
 
 #EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="🇨🇴 Colombia",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
@@ -45,6 +45,9 @@ https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="🇨🇴 Colombia",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 
+#EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="🇨🇴 Colombia",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="🇨🇴 Colombia",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
@@ -65,9 +68,6 @@ https://movil.ejeserver.com/live/nets.m3u8
 
 #EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="🇨🇴 Colombia",Canal Oracion Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
-
-#EXTINF:-1 tvg-id="CanalPyC.co@SD" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="🇨🇴 Colombia",Canal PyC (720p)
-https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="🇨🇴 Colombia",Canal RCN (1080p)
 http://138.121.15.230:9002/RCN/index.m3u8
@@ -164,6 +164,9 @@ https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="Momento24.co@SD" tvg-logo="https://i.imgur.com/kLy6w9e.jpeg" group-title="🇨🇴 Colombia",Momento24
 https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 
+#EXTINF:-1 tvg-id="NexoTV.co@SD" tvg-logo="https://i.imgur.com/tkEFZWo.png" group-title="🇨🇴 Colombia",Nexo TV
+https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
+
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" tvg-logo="https://i.imgur.com/ThaRRCN.png" group-title="🇨🇴 Colombia",Noticiero 90 Minutos (1080p)
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 
@@ -233,6 +236,9 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co@SD" tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="🇨🇴 Colombia",Tele Amiga (720p)
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
 
+#EXTINF:-1 tvg-id="TeleMocoaCanal10.co@SD" tvg-logo="https://i.imgur.com/XHtpEfu.png" group-title="🇨🇴 Colombia",Tele Mocoa Canal 10 (720p)
+https://live.amelbatv.co:81/telemocoalive/index.m3u8
+
 #EXTINF:-1 tvg-id="TeleVid.co@SD" tvg-logo="https://i.imgur.com/OZ4kiXP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇨🇴 Colombia",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Religious",Tele Vid (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
@@ -280,6 +286,9 @@ https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://i.imgur.com/Nd5axnS.png" group-title="🇨🇴 Colombia",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGracia.co@SD" tvg-logo="https://i.imgur.com/tMl4ISO.png" group-title="🇨🇴 Colombia",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 
 #EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="🇨🇴 Colombia",Ultra Casanare TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/8072/index.m3u8

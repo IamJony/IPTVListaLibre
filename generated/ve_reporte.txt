@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.895171
+  Fecha: 2026-10-12 22:34:51.149592
 ==================================================
 
 Nombre: AbejalesTV (720p)
@@ -170,7 +170,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -457,14 +457,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://intervenhosting.net/imagenes/tvmparati.jpg
 URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVS (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -533,6 +533,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 75
-  Funcionan: 51
-  Fallan: 24
+  Funcionan: 54
+  Fallan: 21
 ==================================================

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 21:44:43.892910
+# Fecha: 2026-10-12 22:34:51.148103
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe@SD" tvg-logo="https://i.imgur.com/F4NZM3s.jpeg" group-title="🇵🇪 Perú",36 TV Huacho (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -14,6 +14,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AgroTV.pe@SD" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="🇵🇪 Perú",Agro TV (Peru) (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmazoniaTV.pe@SD" tvg-logo="https://i.imgur.com/sSW7d8e.png" group-title="🇵🇪 Perú",Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
 
 #EXTINF:-1 tvg-id="AmazonicaTV.pe@SD" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" group-title="🇵🇪 Perú",Amazonica TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
@@ -103,9 +106,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.pe@SD" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="🇵🇪 Perú",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
-#EXTINF:-1 tvg-id="DobleCTelevision.pe@SD" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="🇵🇪 Perú",Doble C Television (720p)
-https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DTV.pe@SD" tvg-logo="https://i.imgur.com/OSvegAq.png" group-title="🇵🇪 Perú",DTV (Peru) (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 
@@ -118,6 +118,9 @@ https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.pe@SD" tvg-logo="https://i.imgur.com/1LuNEX4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="🇵🇪 Perú",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GalacticaTV.pe@SD" tvg-logo="https://i.imgur.com/byL1zCV.jpeg" group-title="🇵🇪 Perú",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 
 #EXTINF:-1 tvg-id="GeniosTV.pe@SD" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="🇵🇪 Perú",Genios TV (1080p)
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
@@ -174,6 +177,9 @@ https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3
 #EXTINF:-1 tvg-id="LiderTV.pe@SD" tvg-logo="https://i.imgur.com/naZXUdR.jpeg" group-title="🇵🇪 Perú",Lider TV (Peru) (720p)
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
 
+#EXTINF:-1 tvg-id="MasterTV.pe@SD" tvg-logo="https://i.imgur.com/K2ZimRv.png" group-title="🇵🇪 Perú",Master TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MediaTV.pe@SD" tvg-logo="https://i.imgur.com/BAaR5T5.png" group-title="🇵🇪 Perú",Media TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 
@@ -215,6 +221,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="🇵🇪 Perú",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
+
+#EXTINF:-1 tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="🇵🇪 Perú",PBO (1080p)
+http://190.93.224.42/PBO/index.m3u8
 
 #EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" group-title="🇵🇪 Perú",Peques TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
@@ -361,6 +370,9 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="🇵🇪 Perú",Universitaria TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="🇵🇪 Perú",Uranio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USMPTV.pe@SD" tvg-logo="https://i.imgur.com/9cmIv3q.png" group-title="🇵🇪 Perú",USMPTV (720p)
 http://187.102.210.46/USMP/index.m3u8
 
@@ -397,6 +409,12 @@ http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Wtv.pe@SD" tvg-logo="https://i.imgur.com/V10iVeh.png" group-title="🇵🇪 Perú",Wtv (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YurimaguasTV.pe@SD" tvg-logo="https://i.imgur.com/VWC6Pt1.png" group-title="🇵🇪 Perú",Yurimaguas TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yurivision.pe@SD" tvg-logo="https://i.imgur.com/VhWuaER.jpeg" group-title="🇵🇪 Perú",Yurivision (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeleveTV.pe@SD" tvg-logo="https://i.imgur.com/CGWaunJ.jpeg" group-title="🇵🇪 Perú",Zeleve TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8

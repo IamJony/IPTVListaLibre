@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.887107
+  Fecha: 2026-10-12 22:34:51.144728
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgRDRBK.jpg
 URL: https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 (Costa Rica) (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -429,7 +429,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KVVU9PI.png
 URL: https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Video Tour Channel
 Categoría: 🇨🇷 Costa Rica
@@ -477,6 +477,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 54
-  Fallan: 13
+  Funcionan: 52
+  Fallan: 15
 ==================================================

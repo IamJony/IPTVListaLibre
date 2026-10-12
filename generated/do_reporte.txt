@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.887920
+  Fecha: 2026-10-12 22:34:51.145096
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -170,7 +170,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3d8cLm9.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cana TV Digital (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -198,7 +198,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/LfcHA2d.jpg
 URL: https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Catorce (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -380,7 +380,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4uV90gw.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coral 39 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1024,7 +1024,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9ORO1G.png
 URL: https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pula TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1759,12 +1759,12 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/B3PrrMH.png
 URL: https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 251
-  Funcionan: 199
-  Fallan: 52
+  Funcionan: 196
+  Fallan: 55
 ==================================================

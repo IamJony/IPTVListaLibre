@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.891118
+  Fecha: 2026-10-12 22:34:51.146977
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -499,7 +499,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ILCE Canal 15 Summa Saberes (720p)
 Categoría: 🇲🇽 México
@@ -926,7 +926,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jYMpVQA.png
 URL: http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TRC TV (720p)
 Categoría: 🇲🇽 México
@@ -1206,7 +1206,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RxhABeK.png
 URL: https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ZAZ (1080p)
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 112
-  Fallan: 61
+  Funcionan: 111
+  Fallan: 62
 ==================================================

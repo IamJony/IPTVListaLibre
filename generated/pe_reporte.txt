@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 21:44:43.892903
+  Fecha: 2026-10-12 22:34:51.148101
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -44,7 +44,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sSW7d8e.png
 URL: https://servilive.com:3199/live/amazoniatvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Amazonica TV (720p)
 Categoría: 🇵🇪 Perú
@@ -317,7 +317,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/2zCD4TB.png
 URL: https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: DTV (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -380,7 +380,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -541,7 +541,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/K2ZimRv.png
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Media TV (720p)
 Categoría: 🇵🇪 Perú
@@ -681,7 +681,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vBpxX4S.png
 URL: http://190.93.224.42/PBO/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Peques TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1094,7 +1094,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EeNpfIr.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: USMPTV (720p)
 Categoría: 🇵🇪 Perú
@@ -1192,14 +1192,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VWC6Pt1.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Yurivision (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VhWuaER.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zeleve TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 131
-  Fallan: 41
+  Funcionan: 137
+  Fallan: 35
 ==================================================

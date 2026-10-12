@@ -105,9 +105,87 @@ def descargar_texto(url):
         log(f"Error al descargar {url}: {e}", C.RED)
         sys.exit(1)
 
+
+def _sanitizar_ua(ua: str) -> str:
+    """Reemplaza comillas dobles por simples para no romper el M3U."""
+    if not ua:
+        return ""
+    return ua.replace('"', "'").replace('\n', ' ').replace('\r', ' ').strip()
+
 # ============================================================
-# PARSER M3U
+# PARSER M3U (ROBUSTO ANTE COMILAS ANIDADAS)
 # ============================================================
+def _parsear_attrs(header: str) -> dict:
+    """
+    Parser robusto de atributos M3U tipo clave="valor".
+    Soporta valores con comillas internas mal escapadas
+    (común en iptv-org cuando el UA contiene comillas).
+    """
+    attrs = {}
+    i = 0
+    n = len(header)
+    while i < n:
+        # Saltar espacios
+        while i < n and header[i].isspace():
+            i += 1
+        if i >= n:
+            break
+
+        # Leer clave
+        key_start = i
+        while i < n and (header[i].isalnum() or header[i] in "_-"):
+            i += 1
+        if i == key_start:
+            i += 1
+            continue
+        key = header[key_start:i]
+
+        # Saltar espacios antes de '='
+        while i < n and header[i].isspace():
+            i += 1
+
+        if i >= n or header[i] != '=':
+            continue
+        i += 1  # saltar '='
+
+        # Saltar espacios
+        while i < n and header[i].isspace():
+            i += 1
+
+        if i >= n or header[i] != '"':
+            # valor sin comillas
+            val_start = i
+            while i < n and not header[i].isspace():
+                i += 1
+            attrs[key] = header[val_start:i]
+            continue
+
+        # Valor entre comillas. Buscamos la comilla de cierre
+        # que va seguida de un espacio + clave= o fin de string.
+        i += 1  # saltar comilla de apertura
+        val_start = i
+        while i < n:
+            if header[i] == '"':
+                # ¿Es comilla de cierre o interna?
+                j = i + 1
+                while j < n and header[j].isspace():
+                    j += 1
+                if j >= n:
+                    break  # fin de string → cierre
+                # Buscar siguiente '='
+                k = j
+                while k < n and (header[k].isalnum() or header[k] in "_-"):
+                    k += 1
+                if k < n and header[k] == '=':
+                    break  # comilla de cierre
+                # si no, es comilla interna → seguir
+            i += 1
+        attrs[key] = header[val_start:i]
+        if i < n and header[i] == '"':
+            i += 1  # saltar comilla de cierre
+    return attrs
+
+
 def parsear_m3u(contenido_m3u):
     canales = []
     lineas = contenido_m3u.splitlines()
@@ -115,27 +193,53 @@ def parsear_m3u(contenido_m3u):
     i = 0
     total_lineas = len(lineas)
 
-    regex_attr = re.compile(r'([a-zA-Z0-9_-]+)="([^"]*)"')
-
     while i < total_lineas:
         linea = lineas[i].strip()
 
         if linea.startswith('#EXTINF:'):
             extinf_data = linea[8:]
 
-            partes_coma = extinf_data.split(',', 1)
-            header_attrs = partes_coma[0] if len(partes_coma) > 0 else ""
-            nombre = partes_coma[1].strip() if len(partes_coma) > 1 else "Canal Sin Nombre"
+            # Encontrar la coma que separa atributos del nombre.
+            # Estrategia: buscar la última comilla de cierre y desde ahí
+            # la primera coma. Si no hay comillas, la primera coma.
+            idx_ultima_comilla = extinf_data.rfind('"')
+            if idx_ultima_comilla != -1:
+                idx_coma = extinf_data.find(',', idx_ultima_comilla)
+                if idx_coma == -1:
+                    idx_coma = extinf_data.rfind(',')
+            else:
+                idx_coma = extinf_data.find(',')
 
-            attrs = dict(regex_attr.findall(header_attrs))
+            if idx_coma == -1:
+                header_attrs = extinf_data
+                nombre = "Canal Sin Nombre"
+            else:
+                header_attrs = extinf_data[:idx_coma]
+                nombre = extinf_data[idx_coma + 1:].strip()
 
-            tvg_id = attrs.get('tvg-id', '')
-            tvg_logo = attrs.get('tvg-logo', '')
-            user_agent = attrs.get('http-user-agent', '')
-            tvg_country = attrs.get('tvg-country', '')
+            # Limpieza de nombre: quitar residuos de group-title mal parseados
+            # o restos de User-Agent que hayan quedado pegados al nombre.
+            nombre = re.sub(
+                r'"?\s*group-title\s*=\s*"[^"]*"\s*,?\s*$',
+                '', nombre, flags=re.IGNORECASE,
+            ).strip()
+            nombre = re.sub(
+                r'^(?:like|como)\s+Gecko\)[^,]*,\s*',
+                '', nombre, flags=re.IGNORECASE,
+            ).strip()
+            nombre = re.sub(
+                r'^"[^"]*"\s*,\s*', '', nombre, flags=re.IGNORECASE,
+            ).strip()
 
-            # NUNCA propagamos categorías originales (Kids, Movies, Religious, etc.)
-            _ = attrs.get('group-title', '')  # se ignora deliberadamente
+            attrs = _parsear_attrs(header_attrs)
+
+            tvg_id      = (attrs.get('tvg-id', '') or '').strip('"')
+            tvg_logo    = (attrs.get('tvg-logo', '') or '').strip('"')
+            user_agent  = (attrs.get('http-user-agent', '') or '').strip('"')
+            tvg_country = (attrs.get('tvg-country', '') or '').strip('"')
+
+            # Nunca propagamos group-title original
+            _ = attrs.get('group-title', '')
 
             vlc_opt = ""
             url = ""
@@ -157,10 +261,9 @@ def parsear_m3u(contenido_m3u):
                     url = sub_linea
                     break
 
-            # --- Inferencia de país ---
+            # Inferencia de país
             country = (tvg_country or "").strip().upper()
 
-            # 1) Inferir desde tvg-id (ej: La1.TV.es@SD, ESPN.mx)
             if not country and '.' in tvg_id:
                 try:
                     codigo = tvg_id.split('.')[1].split('@')[0].upper()
@@ -169,7 +272,6 @@ def parsear_m3u(contenido_m3u):
                 except Exception:
                     pass
 
-            # 2) Fallback: inferir por TLD de la URL
             if not country and url:
                 m = re.search(r'https?://([^/]+)', url)
                 if m:
@@ -187,7 +289,7 @@ def parsear_m3u(contenido_m3u):
                     'vlc_opt': vlc_opt,
                     'nombre': nombre,
                     'url': url,
-                    'country': country
+                    'country': country,
                 })
         else:
             i += 1
@@ -200,7 +302,7 @@ def parsear_m3u(contenido_m3u):
 def probar_stream(canal_item):
     url = canal_item["url"]
     ua = canal_item.get("user_agent") or 'IPTVManager/2.0'
-    headers = {'User-Agent': ua}
+    headers = {'User-Agent': _sanitizar_ua(ua) or 'IPTVManager/2.0'}
 
     try:
         req = urllib.request.Request(url, method='HEAD', headers=headers)
@@ -350,13 +452,14 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                 ftxt.write("---\n")
 
             if fm3u and estado != "FALLA":
+                ua_limpio = _sanitizar_ua(ua)
                 attrs = []
                 if ch_id:
                     attrs.append(f'tvg-id="{ch_id}"')
                 if logo:
                     attrs.append(f'tvg-logo="{logo}"')
-                if ua:
-                    attrs.append(f'http-user-agent="{ua}"')
+                if ua_limpio:
+                    attrs.append(f'http-user-agent="{ua_limpio}"')
 
                 # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
@@ -365,9 +468,9 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                 fm3u.write(f"{linea_extinf}\n")
 
                 if vlc_opt:
-                    fm3u.write(f"{vlc_opt}\n")
-                elif ua:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio or 'IPTVManager/2.0'}\n")
+                elif ua_limpio:
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio}\n")
 
                 fm3u.write(f"{url}\n\n")
 
@@ -474,13 +577,14 @@ def generar_unificado(paises, todos_canales, resultados=None):
             ftxt.write("---\n")
 
             if estado != "FALLA":
+                ua_limpio = _sanitizar_ua(ua)
                 attrs = []
                 if ch_id:
                     attrs.append(f'tvg-id="{ch_id}"')
                 if logo:
                     attrs.append(f'tvg-logo="{logo}"')
-                if ua:
-                    attrs.append(f'http-user-agent="{ua}"')
+                if ua_limpio:
+                    attrs.append(f'http-user-agent="{ua_limpio}"')
 
                 # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
@@ -489,9 +593,9 @@ def generar_unificado(paises, todos_canales, resultados=None):
                 fm3u.write(f"{linea_extinf}\n")
 
                 if vlc_opt:
-                    fm3u.write(f"{vlc_opt}\n")
-                elif ua:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio or 'IPTVManager/2.0'}\n")
+                elif ua_limpio:
+                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio}\n")
 
                 fm3u.write(f"{url}\n\n")
 

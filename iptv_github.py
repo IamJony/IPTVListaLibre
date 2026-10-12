@@ -82,6 +82,13 @@ NOMBRES_PAISES = {
     "VE": "🇻🇪 Venezuela",
 }
 
+# TLDs de países hispanohablantes para inferencia por URL
+TLDS_ES = (
+    '.ar', '.bo', '.cl', '.co', '.cr', '.cu', '.do',
+    '.ec', '.sv', '.gt', '.hn', '.mx', '.ni', '.pa',
+    '.py', '.pe', '.pr', '.es', '.uy', '.ve',
+)
+
 # ============================================================
 # UTILIDADES
 # ============================================================
@@ -104,32 +111,35 @@ def descargar_texto(url):
 def parsear_m3u(contenido_m3u):
     canales = []
     lineas = contenido_m3u.splitlines()
-    
+
     i = 0
     total_lineas = len(lineas)
-    
+
     regex_attr = re.compile(r'([a-zA-Z0-9_-]+)="([^"]*)"')
 
     while i < total_lineas:
         linea = lineas[i].strip()
-        
+
         if linea.startswith('#EXTINF:'):
             extinf_data = linea[8:]
-            
+
             partes_coma = extinf_data.split(',', 1)
             header_attrs = partes_coma[0] if len(partes_coma) > 0 else ""
             nombre = partes_coma[1].strip() if len(partes_coma) > 1 else "Canal Sin Nombre"
-            
+
             attrs = dict(regex_attr.findall(header_attrs))
-            
+
             tvg_id = attrs.get('tvg-id', '')
             tvg_logo = attrs.get('tvg-logo', '')
             user_agent = attrs.get('http-user-agent', '')
             tvg_country = attrs.get('tvg-country', '')
-            
+
+            # NUNCA propagamos categorías originales (Kids, Movies, Religious, etc.)
+            _ = attrs.get('group-title', '')  # se ignora deliberadamente
+
             vlc_opt = ""
             url = ""
-            
+
             i += 1
             while i < total_lineas:
                 sub_linea = lineas[i].strip()
@@ -146,16 +156,28 @@ def parsear_m3u(contenido_m3u):
                 else:
                     url = sub_linea
                     break
-            
-            # Inferir país
-            country = tvg_country
+
+            # --- Inferencia de país ---
+            country = (tvg_country or "").strip().upper()
+
+            # 1) Inferir desde tvg-id (ej: La1.TV.es@SD, ESPN.mx)
             if not country and '.' in tvg_id:
                 try:
                     codigo = tvg_id.split('.')[1].split('@')[0].upper()
-                    if len(codigo) == 2:
+                    if len(codigo) == 2 and codigo.isalpha():
                         country = codigo
                 except Exception:
                     pass
+
+            # 2) Fallback: inferir por TLD de la URL
+            if not country and url:
+                m = re.search(r'https?://([^/]+)', url)
+                if m:
+                    host = m.group(1).lower()
+                    for tld in TLDS_ES:
+                        if host.endswith(tld) or f"{tld}/" in host or f"{tld}:" in host:
+                            country = tld[1:].upper()
+                            break
 
             if url:
                 canales.append({
@@ -169,7 +191,7 @@ def parsear_m3u(contenido_m3u):
                 })
         else:
             i += 1
-            
+
     return canales
 
 # ============================================================
@@ -179,7 +201,7 @@ def probar_stream(canal_item):
     url = canal_item["url"]
     ua = canal_item.get("user_agent") or 'IPTVManager/2.0'
     headers = {'User-Agent': ua}
-    
+
     try:
         req = urllib.request.Request(url, method='HEAD', headers=headers)
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
@@ -249,24 +271,26 @@ def filtrar_por_paises(canales, paises):
     contador_canal = defaultdict(int)
     todos_filtrados = []
 
-    set_paises = set(paises)
+    set_paises = set(p.upper() for p in paises)
 
     for c in canales:
-        pais = c.get("country", "").upper()
-        url = c.get("url", "")
+        pais = (c.get("country") or "").strip().upper()
+        url = (c.get("url") or "").strip()
         ch_id = c.get("tvg_id") or c.get("nombre")
 
-        if pais in set_paises:
-            if not url or url in vistos_url:
-                continue
-            if contador_canal[ch_id] >= MAX_POR_CANAL:
-                continue
+        # Descartar si no hay país válido o no está en la lista
+        if not pais or pais not in set_paises:
+            continue
+        if not url or url in vistos_url:
+            continue
+        if contador_canal[ch_id] >= MAX_POR_CANAL:
+            continue
 
-            vistos_url.add(url)
-            contador_canal[ch_id] += 1
-            
-            canales_por_pais[pais].append(c)
-            todos_filtrados.append(c)
+        vistos_url.add(url)
+        contador_canal[ch_id] += 1
+
+        canales_por_pais[pais].append(c)
+        todos_filtrados.append(c)
 
     return canales_por_pais, todos_filtrados
 
@@ -333,18 +357,18 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                     attrs.append(f'tvg-logo="{logo}"')
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
-                
+
                 # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
-                
+
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
                 fm3u.write(f"{linea_extinf}\n")
-                
+
                 if vlc_opt:
                     fm3u.write(f"{vlc_opt}\n")
                 elif ua:
                     fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
-                    
+
                 fm3u.write(f"{url}\n\n")
 
         if ftxt:
@@ -411,14 +435,18 @@ def generar_unificado(paises, todos_canales, resultados=None):
         for c in todos_canales:
             url = c["url"]
             nombre = c["nombre"]
-            country = c["country"]
+            country = (c["country"] or "").upper()
             logo = c["tvg_logo"]
             ch_id = c["tvg_id"]
             ua = c["user_agent"]
             vlc_opt = c["vlc_opt"]
-            
+
+            # Solo canales con país válido (doble seguridad)
+            if country not in NOMBRES_PAISES:
+                continue
+
             # Obtener categoría por país en español
-            categoria_espanol = NOMBRES_PAISES.get(country, country)
+            categoria_espanol = NOMBRES_PAISES[country]
 
             if PROBAR:
                 estado = "FUNCIONA" if resultados.get(url) else "FALLA"
@@ -453,18 +481,18 @@ def generar_unificado(paises, todos_canales, resultados=None):
                     attrs.append(f'tvg-logo="{logo}"')
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
-                
+
                 # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
-                
+
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
                 fm3u.write(f"{linea_extinf}\n")
-                
+
                 if vlc_opt:
                     fm3u.write(f"{vlc_opt}\n")
                 elif ua:
                     fm3u.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
-                    
+
                 fm3u.write(f"{url}\n\n")
 
         ftxt.write("\n" + "=" * 60 + "\n")
@@ -542,7 +570,7 @@ def main():
 
     log("\n[1/5] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
     m3u_raw = descargar_texto(INDEX_M3U_URL)
-    
+
     log("[2/5] Parseando canales y atributos...", C.BLUE)
     todos_canales_raw = parsear_m3u(m3u_raw)
     log(f"Canales totales parseados: {len(todos_canales_raw)}", C.GREEN)

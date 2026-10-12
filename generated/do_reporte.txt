@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:55:15.489372
+  Fecha: 2026-10-12 23:03:04.067117
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -226,7 +226,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/puOrL7B.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canalda 26 HD [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -380,7 +380,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4uV90gw.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coral 39 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -604,7 +604,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PBgQi9a.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Haina Vision (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1765,6 +1765,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 251
-  Funcionan: 195
-  Fallan: 56
+  Funcionan: 196
+  Fallan: 55
 ==================================================

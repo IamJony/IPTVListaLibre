@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:55:15.488408
+  Fecha: 2026-10-12 23:03:04.065837
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -198,7 +198,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qxBDhV.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal RCN (1080p)
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 96
-  Fallan: 25
+  Funcionan: 98
+  Fallan: 23
 ==================================================

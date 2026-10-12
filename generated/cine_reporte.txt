@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - 🎬 CINE (Películas y Series en Español)
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:55:18.997808
+  Fecha: 2026-10-12 23:03:06.757448
 ==================================================
 
 Nombre: AXN (Spain) (1080p)
@@ -46,20 +46,6 @@ Logo: https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.sv
 URL: https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
 Estado: FALLA
 ---
-Nombre: Bandamax (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/4DfnOTA.png
-URL: http://181.78.106.127:5000/play/ca064/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Canal 5 TV Max (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/6oihaDM.png
-URL: https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
-Estado: FUNCIONA
----
 Nombre: CineLatino (720p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -74,25 +60,11 @@ Logo: https://i.imgur.com/SOLGQxQ.jpg
 URL: http://158.172.217.18:8000/play/a00d/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: eSports Max TV
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/OprRgQN.png
-URL: https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
-Estado: FUNCIONA
----
 Nombre: Europa Europa (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5SOfyJ.png
 URL: https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Fox Sports (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
-URL: http://138.59.227.20:8000/play/a085/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Golden (1080p)
@@ -130,55 +102,6 @@ Logo: https://i.imgur.com/JMa7jws.png
 URL: http://200.229.147.210:9999/play/a00k/index.m3u8
 Estado: FALLA
 ---
-Nombre: Imagen Universal TV
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/DP6HmDV.png
-URL: https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-Estado: FUNCIONA
----
-Nombre: L1 Max (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/2fziU2B.png
-URL: http://190.93.224.42/LIGA-1-MAX/index.m3u8
-Estado: FUNCIONA
----
-Nombre: MAX Anime (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/Oj3hEBh.jpg
-URL: https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: Maxima TV
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/HMZRVL5.jpeg
-URL: https://maximatv.net/hls/stream.m3u8
-Estado: FALLA
----
-Nombre: Maxivision TV (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/UC8WrEN.jpg
-URL: https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: MaxTV [Not 24/7]
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://gia.tv/streams/pstream/209851.png
-URL: https://inliveserver.com:1936/8078/8078/playlist.m3u8
-Estado: FALLA
----
-Nombre: Movistar Deportes (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/Zt3iE86.png
-URL: http://45.4.1.201:8000/play/a13e/index.m3u8
-Estado: FALLA
----
 Nombre: Movistar Plus (576p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -191,13 +114,6 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H3PzGZW.png
 URL: http://168.196.127.137:6001/play/a08n/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Power Max Radio TV (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg
-URL: https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
@@ -228,34 +144,6 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_202
 URL: http://190.61.47.54:8000/play/a035/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telemax (Argentina)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png
-URL: https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-Estado: FUNCIONA
----
-Nombre: Telemax (Dominican Republic) (1080p) [Not 24/7]
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/QvKmjvV.png
-URL: https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-Estado: FUNCIONA
----
-Nombre: Telemax (Guatemala) (720p) [Not 24/7]
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/HisGao7.png
-URL: https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
-Estado: FALLA
----
-Nombre: Telemax (Mexico) XEWH-TDT (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/klhTyDU.png
-URL: https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
-Estado: FUNCIONA
----
 Nombre: Tlnovelas Latin America (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -269,20 +157,6 @@ User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png
 URL: http://167.249.23.102:8000/play/a0g8/index.m3u8
 Estado: FUNCIONA
----
-Nombre: TV MAX (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/JFBpDJ1.jpeg
-URL: https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: TVMax (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/XcrkfGh.png
-URL: https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-Estado: FALLA
 ---
 Nombre: Cine Adrenalina (720p)
 Categoría: 🎬 Cine
@@ -359,7 +233,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png
 URL: http://15.204.246.24:8080/AMCHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: AMC Series Latin America (1080p)
 Categoría: 🎬 Cine
@@ -373,7 +247,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
 URL: http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: FX Latin America South (720p)
 Categoría: 🎬 Cine
@@ -429,21 +303,21 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png
 URL: http://15.204.246.24:8080/FXHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel Latin America (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png
 URL: http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Studio Universal Latin America (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
 URL: http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNT Series Latin America (1080p)
 Categoría: 🎬 Cine
@@ -457,7 +331,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png
 URL: http://15.204.246.24:8080/UniversalHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: A&E Latin America Brazil (720p)
 Categoría: 🎬 Cine
@@ -527,7 +401,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 URL: http://15.204.246.24:8080/TNTHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNT Novelas Brazil (720p)
 Categoría: 🎬 Cine
@@ -541,7 +415,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png
 URL: http://15.204.246.24:8080/CinecanalHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNT Latin America Colombia (1080p)
 Categoría: 🎬 Cine
@@ -588,7 +462,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 83
-  Funcionan: 57
-  Fallan: 26
+  Total de streams: 65
+  Funcionan: 52
+  Fallan: 13
 ==================================================

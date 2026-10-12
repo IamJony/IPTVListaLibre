@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:55:15.491545
+  Fecha: 2026-10-12 23:03:04.070314
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -324,7 +324,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8ign49i.png
 URL: https://video.cdmx.gob.mx/redes/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CB TV Michoacan
 Categoría: 🇲🇽 México
@@ -555,7 +555,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -1206,7 +1206,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RxhABeK.png
 URL: https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ZAZ (1080p)
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 109
-  Fallan: 64
+  Funcionan: 110
+  Fallan: 63
 ==================================================

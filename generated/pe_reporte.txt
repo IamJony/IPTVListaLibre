@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:55:15.493018
+  Fecha: 2026-10-12 23:03:04.073077
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -317,7 +317,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/2zCD4TB.png
 URL: https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: DTV (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -996,7 +996,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
@@ -1094,7 +1094,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EeNpfIr.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: USMPTV (720p)
 Categoría: 🇵🇪 Perú
@@ -1199,7 +1199,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VhWuaER.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zeleve TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 134
-  Fallan: 38
+  Funcionan: 136
+  Fallan: 36
 ==================================================

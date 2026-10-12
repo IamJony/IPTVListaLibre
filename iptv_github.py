@@ -58,12 +58,16 @@ PAISES_ES = [
 
 # Canales de cine a buscar en la M3U secundaria (regex, case-insensitive)
 CINE_PATRONES = [
+    r"AMC\s+Latin",
     r"AMC\s+Series",
     r"TNT\s+Latin\s+America",
     r"TNT\s+Series",
     r"FX\s+Latin\s+America",
     r"HBO\s+Latin",
     r"Golden\s+Edge",
+    r"Star\s+Channel",
+    r"Studio\s+Universal",
+    r"Cinemax\s+Latin",
     r"\bSpace\b",
 ]
 

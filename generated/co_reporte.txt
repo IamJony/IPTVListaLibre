@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:34:51.144344
+  Fecha: 2026-10-12 22:55:15.488408
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -135,7 +135,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -807,7 +807,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tMl4ISO.png
 URL: https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ultra Casanare TV (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 99
-  Fallan: 22
+  Funcionan: 96
+  Fallan: 25
 ==================================================

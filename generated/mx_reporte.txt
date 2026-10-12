@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 22:34:51.146977
+  Fecha: 2026-10-12 22:55:15.491545
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -408,7 +408,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/211465.png
 URL: https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Sonorense (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -555,7 +555,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 111
-  Fallan: 62
+  Funcionan: 109
+  Fallan: 64
 ==================================================

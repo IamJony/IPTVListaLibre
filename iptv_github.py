@@ -6,7 +6,8 @@
 #              hispanohablantes, categoriza ÚNICAMENTE por país
 #              en español, prueba los streams y genera M3U + README.
 #              ADEMÁS genera una categoría "Cine" combinando
-#              canales de iptv-org + M3Us externas (romaxa55).
+#              canales de iptv-org + M3Us externas (romaxa55),
+#              con filtros anti-falsos-positivos.
 # Autor: IamJony https://github.com/IamJony
 # Licencia: MIT
 # ============================================================
@@ -49,10 +50,8 @@ WORK_DIR.mkdir(parents=True, exist_ok=True)
 INDEX_M3U_URL = "https://iptv-org.github.io/iptv/index.m3u"
 
 # --- M3Us EXTERNAS para la categoría Cine ---
-# Añade aquí todas las fuentes externas que quieras usar para Cine.
 CINE_M3U_URLS = [
     "https://raw.githubusercontent.com/romaxa55/world_ip_tv/master/output/index.m3u",
-    # "https://otra-fuente.com/lista.m3u",
 ]
 
 # Países hispanohablantes (ISO 3166-1 alpha-2)
@@ -62,7 +61,6 @@ PAISES_ES = [
 ]
 
 # --- PAÍSES DE LATINOAMÉRICA (para filtrar la M3U externa de Cine) ---
-# Se usan como texto porque la M3U externa usa group-title con nombres, no ISO.
 PAISES_LATAM_TXT = [
     "argentina", "mexico", "méxico", "colombia", "chile", "peru", "perú",
     "venezuela", "ecuador", "bolivia", "paraguay", "uruguay", "brasil",
@@ -109,43 +107,91 @@ NOMBRES_PAISES = {
 }
 
 # ============================================================
-# LISTA DE CANALES DE CINE / SERIES (coincidencia parcial)
+# CANALES DE CINE / SERIES (coincidencia por PALABRA COMPLETA)
 # ============================================================
 CANALES_CINE = [
     # --- Señales principales ---
-    "AMC", "AMC Series",
-    "TNT", "TNT Series", "TNT Novelas",
-    "Space", "Warner", "Warner Channel",
-    "Sony", "Sony Channel", "Sony Movies",
-    "Cinecanal", "Cinemax",
-    "Studio Universal", "Universal TV",
-    "Universal Premiere", "Universal Cinema",
-    "Universal Crime", "Universal Comedy",
-    "A&E", "AXN", "FX", "FXM",
-    "Fox", "Fox Channel", "Fox Premium",
-    "Golden", "Golden Edge", "Golden Premier", "Golden Plus",
-    "HBO", "Max", "Paramount", "Paramount Channel",
-    "Syfy", "TCM", "TBS",
-    "I-Sat", "Eurochannel", "Europa Europa",
-    "De Película", "De Película Clásico",
-    "Multipremier", "Multicinema",
-    "Cine Latino", "Cinelatino",
-    "Cine en Español", "Cine de Horror",
-    "Star Channel", "Star Life",
-    "DHE", "Movistar",
-    "Atrescine", "Azteca Cinema", "Claro Cinema",
-    "Tlnovelas", "Pasiones", "Comedy Central",
-    "Lifetime", "Investiga", "Investigation Discovery",
-    "Discovery Theater", "Discovery Home",
-    "Beverly Hills Movies", "Movieworld",
-    "X-Time", "Cinema +", "Cine Click",
-    "Cine Premium", "Clover Channel",
-    "Cine Familiar", "FMH Movies",
-    "Novelisima", "Cine Adrenalina",
-    "Cine Clásico", "Cine Premiere",
-    "Cine Terror", "Cine XOXO",
-    "CSI en Español",
+    r"\bAMC\b", r"\bAMC Series\b",
+    r"\bTNT\b", r"\bTNT Series\b", r"\bTNT Novelas\b",
+    r"\bSpace\b", r"\bWarner\b", r"\bWarner Channel\b",
+    r"\bSony\b", r"\bSony Channel\b", r"\bSony Movies\b",
+    r"\bCinecanal\b", r"\bCinemax\b",
+    r"\bStudio Universal\b", r"\bUniversal TV\b",
+    r"\bUniversal Premiere\b", r"\bUniversal Cinema\b",
+    r"\bUniversal Crime\b", r"\bUniversal Comedy\b",
+    r"\bA&E\b", r"\bAXN\b", r"\bFX\b", r"\bFXM\b",
+    r"\bFox\b", r"\bFox Channel\b", r"\bFox Premium\b",
+    r"\bGolden\b", r"\bGolden Edge\b", r"\bGolden Premier\b", r"\bGolden Plus\b",
+    r"\bHBO\b", r"\bHBO 2\b", r"\bHBO Plus\b", r"\bHBO Family\b",
+    r"\bHBO Signature\b", r"\bHBO Mundi\b", r"\bHBO Xtreme\b", r"\bHBO Pop\b",
+    r"\bMax\b", r"\bMax Up\b",
+    r"\bParamount\b", r"\bParamount Channel\b", r"\bParamount Network\b",
+    r"\bSyfy\b", r"\bTCM\b", r"\bTBS\b",
+    r"\bI-Sat\b", r"\bEurochannel\b", r"\bEuropa Europa\b",
+    r"\bDe Película\b", r"\bDe Película Clásico\b",
+    r"\bMultipremier\b", r"\bMulticinema\b", r"\bMultiPremier\b",
+    r"\bCine Latino\b", r"\bCinelatino\b",
+    r"\bCine en Español\b", r"\bCine de Horror\b",
+    r"\bStar Channel\b", r"\bStar Life\b",
+    r"\bDHE\b", r"\bMovistar\b",
+    r"\bAtrescine\b", r"\bAzteca Cinema\b", r"\bClaro Cinema\b",
+    r"\bTlnovelas\b", r"\bPasiones\b", r"\bComedy Central\b",
+    r"\bLifetime\b", r"\bInvestiga\b", r"\bInvestigation Discovery\b",
+    r"\bDiscovery Theater\b", r"\bDiscovery Home\b",
+    r"\bBeverly Hills Movies\b", r"\bMovieworld\b",
+    r"\bX-Time\b", r"\bCinema \+", r"\bCine Click\b",
+    r"\bCine Premium\b", r"\bClover Channel\b",
+    r"\bCine Familiar\b", r"\bFMH Movies\b",
+    r"\bNovelisima\b", r"\bCine Adrenalina\b",
+    r"\bCine Clásico\b", r"\bCine Premiere\b",
+    r"\bCine Terror\b", r"\bCine XOXO\b",
+    r"\bCSI en Español\b",
 ]
+
+# ============================================================
+# PALABRAS QUE EXCLUYEN (canales que NO son de cine)
+# ============================================================
+EXCLUIR_CINE = [
+    # --- Deportes ---
+    r"\bSports?\b", r"\bFox Sports\b", r"\bESPN\b", r"\bDSports\b",
+    r"\bTyC Sports\b", r"\bDirectv Sports\b", r"\bGol\b", r"\bFutbol\b",
+    r"\bFútbol\b", r"\bLiga\b", r"\bL1\b", r"\bL1 Max\b",
+    r"\bESPN 2\b", r"\bESPN 3\b", r"\bESPN Premium\b",
+    r"\bWin Sports\b", r"\bTUDN\b", r"\bTNT Sports\b",
+    r"\bFox Deportes\b", r"\bEurosport\b", r"\bDAZN\b",
+    r"\bDirecTV Sports\b", r"\bMovistar Deportes\b",
+    r"\bFox Sports Premium\b", r"\bFox Sports 2\b", r"\bFox Sports 3\b",
+    # --- Música / radio / otros ---
+    r"\bBandamax\b", r"\bTelemax\b", r"\bTV MAX\b", r"\bMaxivision\b",
+    r"\bPower Max\b", r"\bRadio\b", r"\bFM\b", r"\bMúsica\b",
+    r"\bMusic\b", r"\bMTV\b", r"\bTelehit\b",
+    r"\bHTV\b", r"\bRitmoson\b", r"\bVH1\b", r"\bMuchMusic\b",
+    # --- Canales locales / no-cine ---
+    r"\bCanal 5\b", r"\bCanal 4\b", r"\bCanal 2\b", r"\bCanal 3\b",
+    r"\bImagen Universal\b", r"\bTV Max\b", r"\bMaxivision\b",
+    r"\beSports\b", r"\bMAX Anime\b", r"\bAnime\b",
+    r"\bNoticias\b", r"\bNews\b",
+    r"\bTVE\b", r"\bTelevisa\b", r"\bAzteca\b",
+    r"\bCanal 22\b", r"\bCanal Once\b", r"\bCanal 14\b",
+    r"\bTelemax Argentina\b", r"\bTelemax Dominican\b",
+    r"\bTelemax Mexico\b",
+    # --- Géneros que NO son cine ---
+    r"\bInfantil\b", r"\bKids\b", r"\bDiscovery Kids\b",
+    r"\bCartoon\b", r"\bNickelodeon\b", r"\bDisney\b",
+    r"\bBabyFirst\b", r"\bBaby TV\b",
+    r"\bDocumentales?\b", r"\bDocumentary\b",
+    r"\bNat Geo\b", r"\bNational Geographic\b",
+    r"\bHistory\b", r"\bDiscovery Channel\b", r"\bAnimal Planet\b",
+    r"\bCocina\b", r"\bFood\b", r"\bEl Gourmet\b",
+    r"\bHome & Health\b", r"\bTLC\b", r"\bE!\b",
+    r"\bReligioso\b", r"\bCristiano\b", r"\bCatólico\b",
+    r"\bEWTN\b", r"\bEnlace\b", r"\bNuevo Tiempo\b",
+]
+
+# Compilar regex una sola vez (mucho más rápido)
+_RE_CINE    = re.compile("|".join(CANALES_CINE), re.IGNORECASE)
+_RE_EXCLUIR = re.compile("|".join(EXCLUIR_CINE), re.IGNORECASE)
+
 
 # ============================================================
 # UTILIDADES
@@ -165,12 +211,19 @@ def descargar_texto(url, timeout=90):
 
 
 def es_canal_de_cine(nombre: str) -> bool:
-    """Devuelve True si el nombre del canal coincide con la lista de cine."""
-    n = nombre.lower()
-    for kw in CANALES_CINE:
-        if kw.lower() in n:
-            return True
-    return False
+    """
+    Devuelve True si el nombre del canal es de cine/series.
+    - Usa \\b (word boundary) para evitar falsos positivos como
+      "Bandamax" matcheando con "Max".
+    - Excluye deportes, música, radio, noticias, infantiles, etc.
+    """
+    if not nombre:
+        return False
+    # Primero verificar exclusiones
+    if _RE_EXCLUIR.search(nombre):
+        return False
+    # Luego verificar si es de cine
+    return bool(_RE_CINE.search(nombre))
 
 
 def es_pais_latam(group_title: str) -> bool:
@@ -182,6 +235,7 @@ def es_pais_latam(group_title: str) -> bool:
         if pais in g:
             return True
     return False
+
 
 # ============================================================
 # PARSER M3U
@@ -267,6 +321,7 @@ def parsear_m3u(contenido_m3u, parsear_group_title=False):
             
     return canales
 
+
 # ============================================================
 # PRUEBA DE STREAMS (USANDO SU USER-AGENT)
 # ============================================================
@@ -335,6 +390,7 @@ def probar_streams_concurrente(canales, etiqueta="streams"):
     print()
     return resultados
 
+
 # ============================================================
 # FILTRADO DE CANALES POR PAÍS (iptv-org)
 # ============================================================
@@ -364,6 +420,7 @@ def filtrar_por_paises(canales, paises):
             todos_filtrados.append(c)
 
     return canales_por_pais, todos_filtrados
+
 
 # ============================================================
 # ESCRIBIR ARCHIVOS M3U Y TXT
@@ -473,8 +530,9 @@ def generar_listados(pais, canales_pais, resultados=None):
         titulo=f"REPORTE DE CANALES IPTV - {pais}",
     )
 
+
 # ============================================================
-# NUEVA FUNCIÓN: DESCARGAR Y PARSEAR M3Us EXTERNAS DE CINE
+# DESCARGAR Y PARSEAR M3Us EXTERNAS DE CINE
 # ============================================================
 def descargar_y_parsear_externos(urls):
     """
@@ -493,8 +551,9 @@ def descargar_y_parsear_externos(urls):
         todos.extend(canales)
     return todos
 
+
 # ============================================================
-# NUEVA FUNCIÓN: GENERAR CATEGORÍA "CINE" (iptv-org + externas)
+# GENERAR CATEGORÍA "CINE" (iptv-org + externas)
 # ============================================================
 def generar_cine(todos_canales_iptvorg, resultados=None):
     """
@@ -540,7 +599,7 @@ def generar_cine(todos_canales_iptvorg, resultados=None):
         log("No se encontraron canales de cine.", C.YELLOW)
         return None
 
-    # --- 4) Probar streams de los canales externos (los de iptv-org ya están probados) ---
+    # --- 4) Probar streams de los canales externos ---
     if PROBAR:
         urls_externas = [c["url"] for c in cine_externos if c["url"] not in resultados]
         if urls_externas:
@@ -561,6 +620,7 @@ def generar_cine(todos_canales_iptvorg, resultados=None):
         titulo="REPORTE DE CANALES IPTV - 🎬 CINE (Películas y Series en Español)",
         categoria_override=CINE_NOMBRE_CATEGORIA,
     )
+
 
 # ============================================================
 # GENERACIÓN DE LISTA UNIFICADA
@@ -667,6 +727,7 @@ def generar_unificado(paises, todos_canales, resultados=None):
     log(f"M3U unificado: {UNIFICADO_M3U} — {total_ok}/{len(todos_canales)} canales", C.CYAN)
     return UNIFICADO_M3U, paises_stats
 
+
 # ============================================================
 # GENERACIÓN DEL README
 # ============================================================
@@ -719,6 +780,7 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
     README_OUT.write_text(contenido, encoding="utf-8")
     log(f"README generado: {README_OUT}", C.WHITE)
     return README_OUT
+
 
 # ============================================================
 # MAIN

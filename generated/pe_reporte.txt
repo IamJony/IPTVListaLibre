@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:20:14.922659
+  Fecha: 2026-10-12 23:25:35.291361
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -81,7 +81,7 @@ Logo: https://i.imgur.com/05gwtk2.png
 URL: https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Antena 1 (Peru) (1080p)
+Nombre: Antena 1 (Peru) (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/Bt0yGtw.jpeg
@@ -368,7 +368,7 @@ Logo: https://i.imgur.com/jVkzHw0.png
 URL: https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
 Estado: FALLA
 ---
-Nombre: like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV (1080p)
+Nombre: FuegoTV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/1LuNEX4.png
@@ -387,7 +387,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -438,7 +438,7 @@ Logo: https://i.imgur.com/b25XfCj.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV (Peru) (1080p)
+Nombre: Juntos TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png
@@ -907,7 +907,7 @@ Logo: https://i.imgur.com/Ug6XNIU.png
 URL: https://live.obslivestream.com/telecolormux/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",Telelima (720p)
+Nombre: Telelima (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/HzWRvXc.png
@@ -1138,7 +1138,7 @@ Logo: https://i.imgur.com/GkSoxhx.png
 URL: https://live.obslivestream.com/vivatv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="General",VivaTV (1080p)
+Nombre: VivaTV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/m44jTZK.png
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 137
-  Fallan: 35
+  Funcionan: 136
+  Fallan: 36
 ==================================================

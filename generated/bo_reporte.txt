@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.559739
+  Fecha: 2026-10-12 21:44:43.885112
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Audiokiss (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -240,7 +240,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qYNmeDe.png
 URL: https://edge.enhdtv.com/redamerica/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red CCTV (480p)
 Categoría: 🇧🇴 Bolivia
@@ -317,7 +317,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -338,7 +338,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/p7tt72X.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Fe Bolivia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -422,7 +422,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 41
-  Fallan: 24
+  Funcionan: 40
+  Fallan: 25
 ==================================================

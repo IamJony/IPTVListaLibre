@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.563465
+  Fecha: 2026-10-12 21:44:43.892442
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -9,7 +9,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ABC-TV Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -37,7 +37,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Paraguay (720p)
 Categoría: 🇵🇾 Paraguay
@@ -191,7 +191,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgrEt9z.png
 URL: http://190.128.214.97:64333/play/a02w/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Monumental TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -240,7 +240,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
@@ -254,7 +254,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -310,7 +310,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -401,7 +401,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgIv5QK.png
 URL: http://45.170.130.224:8000/play/a050/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Aire (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 58
-  Fallan: 7
+  Funcionan: 59
+  Fallan: 6
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.562604
+  Fecha: 2026-10-12 21:44:43.890633
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png
 URL: https://amixtv.com:8081/talangavision/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 11 (Honduras) (1080p)
 Categoría: 🇭🇳 Honduras
@@ -247,7 +247,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZqwLPag.jpg
 URL: https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Top 107.7 (720p)
 Categoría: 🇭🇳 Honduras
@@ -303,7 +303,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AGFeu7r.png
 URL: http://45.167.2.101:8000/play/a0sd/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Puringla TV
 Categoría: 🇭🇳 Honduras
@@ -415,7 +415,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PTN7fCa.png
 URL: http://45.167.2.101:8000/play/a07n/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teleceiba (720p)
 Categoría: 🇭🇳 Honduras
@@ -499,7 +499,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wo2scQf.jpg
 URL: https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Centro HD (720p)
 Categoría: 🇭🇳 Honduras
@@ -554,6 +554,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 78
-  Funcionan: 46
-  Fallan: 32
+  Funcionan: 47
+  Fallan: 31
 ==================================================

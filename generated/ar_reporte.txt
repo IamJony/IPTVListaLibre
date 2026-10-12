@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.559049
+  Fecha: 2026-10-12 21:44:43.884164
 ==================================================
 
 Nombre: 5tv
@@ -121,7 +121,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vBsry35.png
 URL: https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 2 de Ushuaia (1080p)
 Categoría: 🇦🇷 Argentina
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rVDrNIy.png
 URL: https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 La Pampa (1080p)
 Categoría: 🇦🇷 Argentina
@@ -226,7 +226,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyiNvbY.png
 URL: https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Villa Dolores
 Categoría: 🇦🇷 Argentina
@@ -268,7 +268,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/liyTNzK.png
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Jujuy
 Categoría: 🇦🇷 Argentina
@@ -520,7 +520,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7dl4yQY.jpeg
 URL: https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Catamarca TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -541,7 +541,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/b6RerDw.png
 URL: https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chacra TV
 Categoría: 🇦🇷 Argentina
@@ -632,7 +632,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://181.78.8.199:8000/play/a0dn/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Mexico (720p)
 Categoría: 🇦🇷 Argentina
@@ -660,7 +660,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
 URL: http://190.14.10.19:16000/play/a02d/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Jr. Latin America North HD (1080p)
 Categoría: 🇦🇷 Argentina
@@ -688,7 +688,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V2ldYVd.jpg
 URL: https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet (1080p)
 Categoría: 🇦🇷 Argentina
@@ -765,7 +765,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Fox Sports (1080p)
 Categoría: 🇦🇷 Argentina
@@ -814,7 +814,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QIGSf4L.png
 URL: https://edge.enhdtv.com/litustv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mas FM (720p)
 Categoría: 🇦🇷 Argentina
@@ -877,7 +877,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lJCIqYn.png
 URL: http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Norte TV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1192,7 +1192,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png
 URL: https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Mana Argentina (576p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1206,6 +1206,13 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4dUvFqa.png
 URL: https://nd106.republicaservers.com/hls/c8094/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: TV Publica Marcos Paz (720p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CRmY4Oi.png
+URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TV Solidaria (576p)
@@ -1323,7 +1330,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 188
-  Funcionan: 141
-  Fallan: 47
+  Total de streams: 189
+  Funcionan: 153
+  Fallan: 36
 ==================================================

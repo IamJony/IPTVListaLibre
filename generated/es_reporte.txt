@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.581964
+  Fecha: 2026-10-12 21:44:43.893947
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -212,7 +212,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: http://88.212.15.19/live/axn_hun/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AXN CEE Bulgary
 Categoría: 🇪🇸 España
@@ -226,7 +226,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: http://88.212.15.19/live/test_axn/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN CEE Romania
 Categoría: 🇪🇸 España
@@ -387,7 +387,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uWhVKL3.png
 URL: https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Donana (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -975,14 +975,14 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hBswXYZ.png
 URL: https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Lleida Televisio (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/xWY2568.png
 URL: https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Logos TV (Spain) (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1521,7 +1521,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5pMo7dL.png
 URL: http://88.212.15.19/live/real_madrid_tv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ribera TV (576p)
 Categoría: 🇪🇸 España
@@ -1563,7 +1563,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EqUfEAh.png
 URL: https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Undefined",RTVC Cardedeu (1080p)
 Categoría: 🇪🇸 España
@@ -1801,7 +1801,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vLpm8tN.png
 URL: https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="Undefined",TV Costa Brava (1080p)
 Categoría: 🇪🇸 España
@@ -1822,7 +1822,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png
 URL: https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",TV Ripolles (1080p)
 Categoría: 🇪🇸 España
@@ -1941,7 +1941,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png
 URL: https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVReus (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -2038,6 +2038,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 290
-  Funcionan: 139
-  Fallan: 151
+  Funcionan: 137
+  Fallan: 153
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PA
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.563312
+  Fecha: 2026-10-12 21:44:43.892135
 ==================================================
 
 Nombre: A&R Canal (720p)
@@ -37,7 +37,7 @@ Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YFmzkOp.png
 URL: https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Hosanna Vision (720p) [Not 24/7]
 Categoría: 🇵🇦 Panamá
@@ -121,7 +121,7 @@ Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vJJrGgV.png
 URL: http://181.78.121.15:8000/play/a001/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tropi Q 99.7 FM (1080p)
 Categoría: 🇵🇦 Panamá
@@ -169,6 +169,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 23
-  Funcionan: 12
-  Fallan: 11
+  Funcionan: 14
+  Fallan: 9
 ==================================================

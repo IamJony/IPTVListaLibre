@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.561898
+  Fecha: 2026-10-12 21:44:43.889060
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -219,7 +219,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/19FN4Lp.png
 URL: https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Perla Radio TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -387,7 +387,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a97MaV2.png
 URL: https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red TVE Ventanas (432p)
 Categoría: 🇪🇨 Ecuador
@@ -534,7 +534,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1rluyB7.png
 URL: https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unsion TV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 52
-  Fallan: 29
+  Funcionan: 55
+  Fallan: 26
 ==================================================

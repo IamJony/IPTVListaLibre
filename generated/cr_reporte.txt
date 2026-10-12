@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-11 19:41:04.560959
+  Fecha: 2026-10-12 21:44:43.887107
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -23,7 +23,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/300c1ZH.png
 URL: https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Agrotendencia TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -408,7 +408,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7HbISMV.png
 URL: http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Sur Canal 14 (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -477,6 +477,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 52
-  Fallan: 15
+  Funcionan: 54
+  Fallan: 13
 ==================================================

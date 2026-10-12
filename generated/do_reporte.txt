@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:25:35.286969
+  Fecha: 2026-10-12 23:34:58.425923
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -485,7 +485,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FnshExB.jpg
 URL: https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Seis 6 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -919,7 +919,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wMse6cT.png
 URL: https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Naranja TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1556,7 +1556,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/208343.jpg
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turismo RDTV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1765,6 +1765,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 251
-  Funcionan: 197
-  Fallan: 54
+  Funcionan: 196
+  Fallan: 55
 ==================================================

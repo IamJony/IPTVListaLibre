@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PA
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-12 23:25:35.290651
+# Fecha: 2026-10-12 23:34:58.430150
 
 #EXTINF:-1 tvg-id="ARCanal.pa@SD" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="🇵🇦 Panamá",A&R Canal (720p)
 http://51.222.9.192:3589/stream/play.m3u8
@@ -14,6 +14,9 @@ https://cloudvideo.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="🇵🇦 Panamá",Fabulosa Estereo 100.5 FM (720p)
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
+
+#EXTINF:-1 tvg-id="HosannaVision.pa@SD" tvg-logo="https://i.imgur.com/v0tc51l.png" group-title="🇵🇦 Panamá",Hosanna Vision (720p) [Not 24/7]
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mas23TV.pa@SD" tvg-logo="https://i.imgur.com/y0h8dlX.png" group-title="🇵🇦 Panamá",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8

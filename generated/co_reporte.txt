@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:25:35.285641
+  Fecha: 2026-10-12 23:34:58.423983
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -135,7 +135,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -604,7 +604,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3IhYd7G.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Santel TV
 Categoría: 🇨🇴 Colombia
@@ -751,7 +751,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeveColombia (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -772,7 +772,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/e6esjLZ.jpg
 URL: https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV3 La Plata (480p)
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 98
-  Fallan: 23
+  Funcionan: 96
+  Fallan: 25
 ==================================================

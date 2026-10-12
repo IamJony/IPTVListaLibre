@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:25:35.290940
+  Fecha: 2026-10-12 23:34:58.430459
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -359,7 +359,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg
 URL: https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Suceso TV (720p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 59
-  Fallan: 6
+  Funcionan: 58
+  Fallan: 7
 ==================================================

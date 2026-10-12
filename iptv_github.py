@@ -5,6 +5,8 @@
 #              logos y User-Agents, filtra por países
 #              hispanohablantes, categoriza ÚNICAMENTE por país
 #              en español, prueba los streams y genera M3U + README.
+#              ADEMÁS genera una categoría "Cine" combinando
+#              canales de iptv-org + M3Us externas (romaxa55).
 # Autor: IamJony https://github.com/IamJony
 # Licencia: MIT
 # ============================================================
@@ -46,10 +48,29 @@ WORK_DIR.mkdir(parents=True, exist_ok=True)
 # M3U maestra oficial de iptv-org
 INDEX_M3U_URL = "https://iptv-org.github.io/iptv/index.m3u"
 
+# --- M3Us EXTERNAS para la categoría Cine ---
+# Añade aquí todas las fuentes externas que quieras usar para Cine.
+CINE_M3U_URLS = [
+    "https://raw.githubusercontent.com/romaxa55/world_ip_tv/master/output/index.m3u",
+    # "https://otra-fuente.com/lista.m3u",
+]
+
 # Países hispanohablantes (ISO 3166-1 alpha-2)
 PAISES_ES = [
     "AR", "BO", "CL", "CO", "CR", "CU", "DO", "EC", "SV", "GQ", "GT",
     "HN", "MX", "NI", "PA", "PY", "PE", "PR", "ES", "UY", "VE",
+]
+
+# --- PAÍSES DE LATINOAMÉRICA (para filtrar la M3U externa de Cine) ---
+# Se usan como texto porque la M3U externa usa group-title con nombres, no ISO.
+PAISES_LATAM_TXT = [
+    "argentina", "mexico", "méxico", "colombia", "chile", "peru", "perú",
+    "venezuela", "ecuador", "bolivia", "paraguay", "uruguay", "brasil",
+    "brazil", "costa rica", "panama", "panamá", "guatemala", "honduras",
+    "el salvador", "nicaragua", "cuba", "republica dominicana",
+    "república dominicana", "puerto rico", "haiti", "haití",
+    "alto parana", "ancash", "apurimac", "arequipa", "amazonas",
+    "antioquia", "aragua", "alagoas", "aguascalientes",
 ]
 
 PROBAR       = True
@@ -58,6 +79,11 @@ GENERAR_M3U  = True
 
 UNIFICADO_M3U = WORK_DIR / "es_unificado.m3u"
 UNIFICADO_TXT = WORK_DIR / "es_unificado.txt"
+
+# --- CINE ---
+CINE_M3U  = WORK_DIR / "cine_canales.m3u"
+CINE_TXT  = WORK_DIR / "cine_reporte.txt"
+CINE_NOMBRE_CATEGORIA = "🎬 Cine"
 
 README_TEMPLATE = BASE_DIR / "README.md.template"
 README_OUT      = WORK_DIR / "README.md"
@@ -83,25 +109,88 @@ NOMBRES_PAISES = {
 }
 
 # ============================================================
+# LISTA DE CANALES DE CINE / SERIES (coincidencia parcial)
+# ============================================================
+CANALES_CINE = [
+    # --- Señales principales ---
+    "AMC", "AMC Series",
+    "TNT", "TNT Series", "TNT Novelas",
+    "Space", "Warner", "Warner Channel",
+    "Sony", "Sony Channel", "Sony Movies",
+    "Cinecanal", "Cinemax",
+    "Studio Universal", "Universal TV",
+    "Universal Premiere", "Universal Cinema",
+    "Universal Crime", "Universal Comedy",
+    "A&E", "AXN", "FX", "FXM",
+    "Fox", "Fox Channel", "Fox Premium",
+    "Golden", "Golden Edge", "Golden Premier", "Golden Plus",
+    "HBO", "Max", "Paramount", "Paramount Channel",
+    "Syfy", "TCM", "TBS",
+    "I-Sat", "Eurochannel", "Europa Europa",
+    "De Película", "De Película Clásico",
+    "Multipremier", "Multicinema",
+    "Cine Latino", "Cinelatino",
+    "Cine en Español", "Cine de Horror",
+    "Star Channel", "Star Life",
+    "DHE", "Movistar",
+    "Atrescine", "Azteca Cinema", "Claro Cinema",
+    "Tlnovelas", "Pasiones", "Comedy Central",
+    "Lifetime", "Investiga", "Investigation Discovery",
+    "Discovery Theater", "Discovery Home",
+    "Beverly Hills Movies", "Movieworld",
+    "X-Time", "Cinema +", "Cine Click",
+    "Cine Premium", "Clover Channel",
+    "Cine Familiar", "FMH Movies",
+    "Novelisima", "Cine Adrenalina",
+    "Cine Clásico", "Cine Premiere",
+    "Cine Terror", "Cine XOXO",
+    "CSI en Español",
+]
+
+# ============================================================
 # UTILIDADES
 # ============================================================
 def log(msg, color=C.NC):
     print(f"{color}{msg}{C.NC}", flush=True)
 
 
-def descargar_texto(url):
+def descargar_texto(url, timeout=90):
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'IPTVManager/2.0'})
-        with urllib.request.urlopen(req, timeout=90) as resp:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
             return resp.read().decode('utf-8', errors='ignore')
     except Exception as e:
         log(f"Error al descargar {url}: {e}", C.RED)
-        sys.exit(1)
+        return None
+
+
+def es_canal_de_cine(nombre: str) -> bool:
+    """Devuelve True si el nombre del canal coincide con la lista de cine."""
+    n = nombre.lower()
+    for kw in CANALES_CINE:
+        if kw.lower() in n:
+            return True
+    return False
+
+
+def es_pais_latam(group_title: str) -> bool:
+    """Devuelve True si el group-title corresponde a un país de Latinoamérica."""
+    if not group_title:
+        return False
+    g = group_title.lower()
+    for pais in PAISES_LATAM_TXT:
+        if pais in g:
+            return True
+    return False
 
 # ============================================================
 # PARSER M3U
 # ============================================================
-def parsear_m3u(contenido_m3u):
+def parsear_m3u(contenido_m3u, parsear_group_title=False):
+    """
+    Parsea un M3U. Si parsear_group_title=True, extrae group-title
+    y lo guarda en 'country' cuando no hay tvg-country.
+    """
     canales = []
     lineas = contenido_m3u.splitlines()
     
@@ -126,6 +215,7 @@ def parsear_m3u(contenido_m3u):
             tvg_logo = attrs.get('tvg-logo', '')
             user_agent = attrs.get('http-user-agent', '')
             tvg_country = attrs.get('tvg-country', '')
+            group_title = attrs.get('group-title', '')
             
             vlc_opt = ""
             url = ""
@@ -157,6 +247,10 @@ def parsear_m3u(contenido_m3u):
                 except Exception:
                     pass
 
+            # Si no hay país pero hay group-title y se pidió parsearlo
+            if not country and parsear_group_title and group_title:
+                country = group_title
+
             if url:
                 canales.append({
                     'tvg_id': tvg_id,
@@ -165,7 +259,8 @@ def parsear_m3u(contenido_m3u):
                     'vlc_opt': vlc_opt,
                     'nombre': nombre,
                     'url': url,
-                    'country': country
+                    'country': country,
+                    'group_title': group_title,
                 })
         else:
             i += 1
@@ -241,7 +336,7 @@ def probar_streams_concurrente(canales, etiqueta="streams"):
     return resultados
 
 # ============================================================
-# FILTRADO DE CANALES POR PAÍS
+# FILTRADO DE CANALES POR PAÍS (iptv-org)
 # ============================================================
 def filtrar_por_paises(canales, paises):
     canales_por_pais = defaultdict(list)
@@ -273,11 +368,12 @@ def filtrar_por_paises(canales, paises):
 # ============================================================
 # ESCRIBIR ARCHIVOS M3U Y TXT
 # ============================================================
-def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo):
+def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo,
+                       categoria_override=None):
     total_ok = 0
     total_fail = 0
 
-    categoria_espanol = NOMBRES_PAISES.get(pais, pais)
+    categoria_espanol = categoria_override or NOMBRES_PAISES.get(pais, pais)
 
     ftxt = open(txt_file, "w", encoding="utf-8") if GENERAR_TXT else None
     fm3u = open(m3u_file, "w", encoding="utf-8") if GENERAR_M3U else None
@@ -334,7 +430,6 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
                 
-                # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
                 
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
@@ -379,6 +474,95 @@ def generar_listados(pais, canales_pais, resultados=None):
     )
 
 # ============================================================
+# NUEVA FUNCIÓN: DESCARGAR Y PARSEAR M3Us EXTERNAS DE CINE
+# ============================================================
+def descargar_y_parsear_externos(urls):
+    """
+    Descarga cada URL M3U externa, la parsea y devuelve una lista
+    de canales en formato estándar (dict).
+    """
+    todos = []
+    for url in urls:
+        log(f"  Descargando M3U externa: {url}", C.CYAN)
+        contenido = descargar_texto(url, timeout=60)
+        if not contenido:
+            log(f"  No se pudo descargar: {url}", C.YELLOW)
+            continue
+        canales = parsear_m3u(contenido, parsear_group_title=True)
+        log(f"  Canales parseados: {len(canales)}", C.GREEN)
+        todos.extend(canales)
+    return todos
+
+# ============================================================
+# NUEVA FUNCIÓN: GENERAR CATEGORÍA "CINE" (iptv-org + externas)
+# ============================================================
+def generar_cine(todos_canales_iptvorg, resultados=None):
+    """
+    Combina:
+      1) Canales de cine detectados en iptv-org (ya filtrados por países hispanos).
+      2) Canales de cine detectados en las M3Us externas (filtrados por países LATAM).
+    Genera cine_canales.m3u y cine_reporte.txt con la categoría "🎬 Cine".
+    """
+    log(f"\n[+] Generando categoría CINE...", C.BLUE)
+
+    # --- 1) Canales de cine de iptv-org ---
+    cine_iptvorg = [c for c in todos_canales_iptvorg if es_canal_de_cine(c["nombre"])]
+    log(f"  Canales de cine desde iptv-org: {len(cine_iptvorg)}", C.CYAN)
+
+    # --- 2) Canales de cine desde M3Us externas ---
+    log(f"  Descargando M3Us externas para Cine...", C.CYAN)
+    canales_externos_raw = descargar_y_parsear_externos(CINE_M3U_URLS)
+
+    # Filtrar: solo canales de cine Y de países LATAM
+    cine_externos = []
+    for c in canales_externos_raw:
+        if not es_canal_de_cine(c["nombre"]):
+            continue
+        if not es_pais_latam(c.get("group_title", "")):
+            continue
+        cine_externos.append(c)
+
+    log(f"  Canales de cine desde externas (LATAM): {len(cine_externos)}", C.CYAN)
+
+    # --- 3) Combinar y deduplicar por URL ---
+    combinados = []
+    vistos_url = set()
+    for c in cine_iptvorg + cine_externos:
+        url = c["url"]
+        if url in vistos_url:
+            continue
+        vistos_url.add(url)
+        combinados.append(c)
+
+    log(f"  Total canales de cine (únicos): {len(combinados)}", C.GREEN)
+
+    if not combinados:
+        log("No se encontraron canales de cine.", C.YELLOW)
+        return None
+
+    # --- 4) Probar streams de los canales externos (los de iptv-org ya están probados) ---
+    if PROBAR:
+        urls_externas = [c["url"] for c in cine_externos if c["url"] not in resultados]
+        if urls_externas:
+            log(f"  Probando {len(urls_externas)} streams externos de cine...", C.CYAN)
+            resultados_externos = probar_streams_concurrente(
+                [c for c in cine_externos if c["url"] in urls_externas],
+                etiqueta="streams cine externos"
+            )
+            resultados.update(resultados_externos)
+
+    # --- 5) Escribir archivos ---
+    return _escribir_archivos(
+        pais="cine",
+        canales_pais=combinados,
+        resultados=resultados or {},
+        txt_file=CINE_TXT,
+        m3u_file=CINE_M3U,
+        titulo="REPORTE DE CANALES IPTV - 🎬 CINE (Películas y Series en Español)",
+        categoria_override=CINE_NOMBRE_CATEGORIA,
+    )
+
+# ============================================================
 # GENERACIÓN DE LISTA UNIFICADA
 # ============================================================
 def generar_unificado(paises, todos_canales, resultados=None):
@@ -417,7 +601,6 @@ def generar_unificado(paises, todos_canales, resultados=None):
             ua = c["user_agent"]
             vlc_opt = c["vlc_opt"]
             
-            # Obtener categoría por país en español
             categoria_espanol = NOMBRES_PAISES.get(country, country)
 
             if PROBAR:
@@ -454,7 +637,6 @@ def generar_unificado(paises, todos_canales, resultados=None):
                 if ua:
                     attrs.append(f'http-user-agent="{ua}"')
                 
-                # Asignar estrictamente el Nombre del País en Español como categoría
                 attrs.append(f'group-title="{categoria_espanol}"')
                 
                 linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
@@ -510,6 +692,14 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
             f"| {nombre} | {ok_pais} | [📥 Descargar]({REPO_URL_RAW}/{archivo}) |"
         )
 
+    # Añadir fila de Cine
+    cine_ok = _contar_canales_m3u(CINE_M3U)
+    if cine_ok > 0:
+        filas.append(
+            f"| 🎬 Cine (Películas y Series) | {cine_ok} | "
+            f"[📥 Descargar]({REPO_URL_RAW}/cine_canales.m3u) |"
+        )
+
     tabla_paises = "\n".join(filas) if filas else "| _Sin datos_ | 0 | — |"
 
     if not README_TEMPLATE.exists():
@@ -536,34 +726,41 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
 def main():
     inicio = datetime.now()
     log("=" * 60, C.CYAN)
-    log("IPTV Manager - Categorías por País", C.WHITE)
+    log("IPTV Manager - Categorías por País + Cine", C.WHITE)
     log(f"Inicio: {inicio:%Y-%m-%d %H:%M:%S}", C.CYAN)
     log("=" * 60, C.CYAN)
 
-    log("\n[1/5] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
+    log("\n[1/6] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
     m3u_raw = descargar_texto(INDEX_M3U_URL)
+    if not m3u_raw:
+        log("No se pudo descargar el M3U de iptv-org.", C.RED)
+        sys.exit(1)
     
-    log("[2/5] Parseando canales y atributos...", C.BLUE)
+    log("[2/6] Parseando canales y atributos...", C.BLUE)
     todos_canales_raw = parsear_m3u(m3u_raw)
     log(f"Canales totales parseados: {len(todos_canales_raw)}", C.GREEN)
 
-    log(f"\n[3/5] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
+    log(f"\n[3/6] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
     canales_por_pais, todos_canales = filtrar_por_paises(todos_canales_raw, PAISES_ES)
     log(f"Streams filtrados únicos: {len(todos_canales)}", C.GREEN)
 
-    log(f"\n[4/5] Probando streams con sus User-Agents...", C.BLUE)
+    log(f"\n[4/6] Probando streams con sus User-Agents...", C.BLUE)
     resultados_globales = {}
     if PROBAR and todos_canales:
         resultados_globales = probar_streams_concurrente(
             todos_canales, etiqueta="streams en español"
         )
 
-    log(f"\n[5/5] Generando archivos M3U por país y unificado...", C.BLUE)
+    log(f"\n[5/6] Generando archivos M3U por país...", C.BLUE)
     for pais in PAISES_ES:
         canales_pais = canales_por_pais.get(pais, [])
         if canales_pais:
             generar_listados(pais, canales_pais, resultados=resultados_globales)
 
+    # --- Generar categoría CINE (combina iptv-org + M3Us externas) ---
+    generar_cine(todos_canales, resultados=resultados_globales)
+
+    log(f"\n[6/6] Generando lista unificada y README...", C.BLUE)
     unificado_m3u, paises_stats = generar_unificado(
         PAISES_ES, todos_canales, resultados=resultados_globales
     )

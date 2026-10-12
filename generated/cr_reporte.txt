@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:34:58.424997
+  Fecha: 2026-10-12 23:41:05.430147
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -477,6 +477,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 52
-  Fallan: 15
+  Funcionan: 51
+  Fallan: 16
 ==================================================

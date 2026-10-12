@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:34:58.425923
+  Fecha: 2026-10-12 23:41:05.431045
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -226,7 +226,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/puOrL7B.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canalda 26 HD [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -289,7 +289,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ybud4dI.png
 URL: https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cibaena TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -485,7 +485,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FnshExB.jpg
 URL: https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Seis 6 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -527,7 +527,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/U9OsybQ.jpg
 URL: https://soportedvb.click:3442/live/entunotvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra 86 TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1556,7 +1556,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/208343.jpg
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Turismo RDTV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1584,7 +1584,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sMF7JDm.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Daja (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1765,6 +1765,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 251
-  Funcionan: 196
-  Fallan: 55
+  Funcionan: 198
+  Fallan: 53
 ==================================================

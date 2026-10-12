@@ -5,6 +5,7 @@
 #              logos y User-Agents, filtra por países
 #              hispanohablantes, categoriza ÚNICAMENTE por país
 #              en español, prueba los streams y genera M3U + README.
+#              Además integra canales de CINE desde world_ip_tv.
 # Autor: IamJony https://github.com/IamJony
 # Licencia: MIT
 # ============================================================
@@ -46,11 +47,27 @@ WORK_DIR.mkdir(parents=True, exist_ok=True)
 # M3U maestra oficial de iptv-org
 INDEX_M3U_URL = "https://iptv-org.github.io/iptv/index.m3u"
 
+# M3U secundaria para canales de CINE
+CINE_M3U_URL = "https://raw.githubusercontent.com/romaxa55/world_ip_tv/master/output/index.m3u"
+
 # Países hispanohablantes (ISO 3166-1 alpha-2)
 PAISES_ES = [
     "AR", "BO", "CL", "CO", "CR", "CU", "DO", "EC", "SV", "GQ", "GT",
     "HN", "MX", "NI", "PA", "PY", "PE", "PR", "ES", "UY", "VE",
 ]
+
+# Canales de cine a buscar en la M3U secundaria (regex, case-insensitive)
+CINE_PATRONES = [
+    r"AMC\s+Series",
+    r"TNT\s+Latin\s+America",
+    r"TNT\s+Series",
+    r"FX\s+Latin\s+America",
+    r"HBO\s+Latin",
+    r"Golden\s+Edge",
+    r"\bSpace\b",
+]
+
+NOMBRE_CATEGORIA_CINE = "🎬 Cine"
 
 PROBAR       = True
 GENERAR_TXT  = True
@@ -103,7 +120,7 @@ def descargar_texto(url):
             return resp.read().decode('utf-8', errors='ignore')
     except Exception as e:
         log(f"Error al descargar {url}: {e}", C.RED)
-        sys.exit(1)
+        return None
 
 
 def _sanitizar_ua(ua: str) -> str:
@@ -113,25 +130,22 @@ def _sanitizar_ua(ua: str) -> str:
     return ua.replace('"', "'").replace('\n', ' ').replace('\r', ' ').strip()
 
 # ============================================================
-# PARSER M3U (ROBUSTO ANTE COMILAS ANIDADAS)
+# PARSER M3U (ROBUSTO ANTE COMILLAS ANIDADAS)
 # ============================================================
 def _parsear_attrs(header: str) -> dict:
     """
     Parser robusto de atributos M3U tipo clave="valor".
-    Soporta valores con comillas internas mal escapadas
-    (común en iptv-org cuando el UA contiene comillas).
+    Soporta valores con comillas internas mal escapadas.
     """
     attrs = {}
     i = 0
     n = len(header)
     while i < n:
-        # Saltar espacios
         while i < n and header[i].isspace():
             i += 1
         if i >= n:
             break
 
-        # Leer clave
         key_start = i
         while i < n and (header[i].isalnum() or header[i] in "_-"):
             i += 1
@@ -140,49 +154,41 @@ def _parsear_attrs(header: str) -> dict:
             continue
         key = header[key_start:i]
 
-        # Saltar espacios antes de '='
         while i < n and header[i].isspace():
             i += 1
 
         if i >= n or header[i] != '=':
             continue
-        i += 1  # saltar '='
+        i += 1
 
-        # Saltar espacios
         while i < n and header[i].isspace():
             i += 1
 
         if i >= n or header[i] != '"':
-            # valor sin comillas
             val_start = i
             while i < n and not header[i].isspace():
                 i += 1
             attrs[key] = header[val_start:i]
             continue
 
-        # Valor entre comillas. Buscamos la comilla de cierre
-        # que va seguida de un espacio + clave= o fin de string.
-        i += 1  # saltar comilla de apertura
+        i += 1
         val_start = i
         while i < n:
             if header[i] == '"':
-                # ¿Es comilla de cierre o interna?
                 j = i + 1
                 while j < n and header[j].isspace():
                     j += 1
                 if j >= n:
-                    break  # fin de string → cierre
-                # Buscar siguiente '='
+                    break
                 k = j
                 while k < n and (header[k].isalnum() or header[k] in "_-"):
                     k += 1
                 if k < n and header[k] == '=':
-                    break  # comilla de cierre
-                # si no, es comilla interna → seguir
+                    break
             i += 1
         attrs[key] = header[val_start:i]
         if i < n and header[i] == '"':
-            i += 1  # saltar comilla de cierre
+            i += 1
     return attrs
 
 
@@ -199,9 +205,6 @@ def parsear_m3u(contenido_m3u):
         if linea.startswith('#EXTINF:'):
             extinf_data = linea[8:]
 
-            # Encontrar la coma que separa atributos del nombre.
-            # Estrategia: buscar la última comilla de cierre y desde ahí
-            # la primera coma. Si no hay comillas, la primera coma.
             idx_ultima_comilla = extinf_data.rfind('"')
             if idx_ultima_comilla != -1:
                 idx_coma = extinf_data.find(',', idx_ultima_comilla)
@@ -217,8 +220,6 @@ def parsear_m3u(contenido_m3u):
                 header_attrs = extinf_data[:idx_coma]
                 nombre = extinf_data[idx_coma + 1:].strip()
 
-            # Limpieza de nombre: quitar residuos de group-title mal parseados
-            # o restos de User-Agent que hayan quedado pegados al nombre.
             nombre = re.sub(
                 r'"?\s*group-title\s*=\s*"[^"]*"\s*,?\s*$',
                 '', nombre, flags=re.IGNORECASE,
@@ -237,9 +238,9 @@ def parsear_m3u(contenido_m3u):
             tvg_logo    = (attrs.get('tvg-logo', '') or '').strip('"')
             user_agent  = (attrs.get('http-user-agent', '') or '').strip('"')
             tvg_country = (attrs.get('tvg-country', '') or '').strip('"')
+            group_title = (attrs.get('group-title', '') or '').strip('"')
 
-            # Nunca propagamos group-title original
-            _ = attrs.get('group-title', '')
+            _ = group_title
 
             vlc_opt = ""
             url = ""
@@ -261,7 +262,6 @@ def parsear_m3u(contenido_m3u):
                     url = sub_linea
                     break
 
-            # Inferencia de país
             country = (tvg_country or "").strip().upper()
 
             if not country and '.' in tvg_id:
@@ -297,7 +297,36 @@ def parsear_m3u(contenido_m3u):
     return canales
 
 # ============================================================
-# PRUEBA DE STREAMS (USANDO SU USER-AGENT)
+# FILTRADO DE CANALES DE CINE (FUENTE SECUNDARIA)
+# ============================================================
+def extraer_canales_cine(contenido_m3u):
+    """
+    Parsea la M3U de world_ip_tv y devuelve únicamente los canales
+    cuyo nombre coincida con alguno de los patrones de CINE_PATRONES.
+    Todos quedarán con categoría 'Cine' (sin importar su país original).
+    """
+    canales = parsear_m3u(contenido_m3u)
+
+    regex = re.compile("|".join(CINE_PATRONES), re.IGNORECASE)
+
+    cine = []
+    vistos = set()
+
+    for c in canales:
+        nombre = c.get("nombre", "")
+        url = c.get("url", "")
+        if not url or url in vistos:
+            continue
+        if regex.search(nombre):
+            vistos.add(url)
+            # Forzamos la categoría Cine
+            c["country"] = "CINE"
+            cine.append(c)
+
+    return cine
+
+# ============================================================
+# PRUEBA DE STREAMS
 # ============================================================
 def probar_stream(canal_item):
     url = canal_item["url"]
@@ -380,7 +409,6 @@ def filtrar_por_paises(canales, paises):
         url = (c.get("url") or "").strip()
         ch_id = c.get("tvg_id") or c.get("nombre")
 
-        # Descartar si no hay país válido o no está en la lista
         if not pais or pais not in set_paises:
             continue
         if not url or url in vistos_url:
@@ -397,7 +425,41 @@ def filtrar_por_paises(canales, paises):
     return canales_por_pais, todos_filtrados
 
 # ============================================================
-# ESCRIBIR ARCHIVOS M3U Y TXT
+# ESCRITURA DE UN CANAL EN M3U
+# ============================================================
+def _escribir_canal_m3u(fm3u, c, categoria):
+    """Escribe un canal en el archivo M3U con la categoría indicada."""
+    url = c["url"]
+    nombre = c["nombre"]
+    logo = c["tvg_logo"]
+    ch_id = c["tvg_id"]
+    ua = c["user_agent"]
+    vlc_opt = c["vlc_opt"]
+
+    ua_limpio = _sanitizar_ua(ua)
+    attrs = []
+    if ch_id:
+        attrs.append(f'tvg-id="{ch_id}"')
+    if logo:
+        attrs.append(f'tvg-logo="{logo}"')
+    if ua_limpio:
+        attrs.append(f'http-user-agent="{ua_limpio}"')
+
+    attrs.append(f'group-title="{categoria}"')
+
+    linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
+    fm3u.write(f"{linea_extinf}\n")
+
+    if vlc_opt:
+        fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio or 'IPTVManager/2.0'}\n")
+    elif ua_limpio:
+        fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio}\n")
+
+    fm3u.write(f"{url}\n\n")
+
+
+# ============================================================
+# ESCRIBIR ARCHIVOS POR PAÍS (M3U Y TXT)
 # ============================================================
 def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titulo):
     total_ok = 0
@@ -426,9 +488,7 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
             url = c["url"]
             nombre = c["nombre"]
             logo = c["tvg_logo"]
-            ch_id = c["tvg_id"]
             ua = c["user_agent"]
-            vlc_opt = c["vlc_opt"]
 
             if PROBAR:
                 estado = "FUNCIONA" if resultados.get(url) else "FALLA"
@@ -452,27 +512,7 @@ def _escribir_archivos(pais, canales_pais, resultados, txt_file, m3u_file, titul
                 ftxt.write("---\n")
 
             if fm3u and estado != "FALLA":
-                ua_limpio = _sanitizar_ua(ua)
-                attrs = []
-                if ch_id:
-                    attrs.append(f'tvg-id="{ch_id}"')
-                if logo:
-                    attrs.append(f'tvg-logo="{logo}"')
-                if ua_limpio:
-                    attrs.append(f'http-user-agent="{ua_limpio}"')
-
-                # Asignar estrictamente el Nombre del País en Español como categoría
-                attrs.append(f'group-title="{categoria_espanol}"')
-
-                linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
-                fm3u.write(f"{linea_extinf}\n")
-
-                if vlc_opt:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio or 'IPTVManager/2.0'}\n")
-                elif ua_limpio:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio}\n")
-
-                fm3u.write(f"{url}\n\n")
+                _escribir_canal_m3u(fm3u, c, categoria_espanol)
 
         if ftxt:
             ftxt.write("\n" + "=" * 50 + "\n")
@@ -505,14 +545,89 @@ def generar_listados(pais, canales_pais, resultados=None):
         titulo=f"REPORTE DE CANALES IPTV - {pais}",
     )
 
+
+# ============================================================
+# GENERAR M3U SOLO DE CINE
+# ============================================================
+def generar_cine(canales_cine, resultados=None):
+    """Genera un M3U y TXT exclusivo con los canales de cine."""
+    if not canales_cine:
+        log("No se encontraron canales de cine.", C.YELLOW)
+        return None
+
+    cine_m3u = WORK_DIR / "cine.m3u"
+    cine_txt = WORK_DIR / "cine_reporte.txt"
+
+    resultados = resultados or {}
+
+    total_ok = 0
+    total_fail = 0
+
+    with open(cine_txt, "w", encoding="utf-8") as ftxt, \
+         open(cine_m3u, "w", encoding="utf-8") as fm3u:
+
+        ftxt.write("=" * 50 + "\n")
+        ftxt.write("  REPORTE DE CANALES DE CINE\n")
+        ftxt.write("  Fuente: world_ip_tv\n")
+        ftxt.write("  Generado por IamJony (https://github.com/IamJony)\n")
+        ftxt.write(f"  Fecha: {datetime.now()}\n")
+        ftxt.write("=" * 50 + "\n\n")
+
+        fm3u.write("#EXTM3U\n")
+        fm3u.write("# Canales de Cine\n")
+        fm3u.write("# Generada por IamJony (https://github.com/IamJony)\n")
+        fm3u.write(f"# Fecha: {datetime.now()}\n\n")
+
+        for c in canales_cine:
+            url = c["url"]
+            nombre = c["nombre"]
+            logo = c["tvg_logo"]
+            ua = c["user_agent"]
+
+            if PROBAR:
+                estado = "FUNCIONA" if resultados.get(url) else "FALLA"
+            else:
+                estado = "SIN PROBAR"
+
+            if estado == "FUNCIONA":
+                total_ok += 1
+            elif estado == "FALLA":
+                total_fail += 1
+            else:
+                total_ok += 1
+
+            ftxt.write(f"Nombre: {nombre}\n")
+            ftxt.write(f"Categoría: {NOMBRE_CATEGORIA_CINE}\n")
+            ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
+            ftxt.write(f"Logo: {logo or 'No disponible'}\n")
+            ftxt.write(f"URL: {url}\n")
+            ftxt.write(f"Estado: {estado}\n")
+            ftxt.write("---\n")
+
+            if estado != "FALLA":
+                _escribir_canal_m3u(fm3u, c, NOMBRE_CATEGORIA_CINE)
+
+        ftxt.write("\n" + "=" * 50 + "\n")
+        ftxt.write("  RESUMEN\n")
+        ftxt.write(f"  Total de streams: {len(canales_cine)}\n")
+        ftxt.write(f"  Funcionan: {total_ok}\n")
+        if PROBAR:
+            ftxt.write(f"  Fallan: {total_fail}\n")
+        ftxt.write("=" * 50 + "\n")
+
+    log(f"M3U Cine: {cine_m3u} — {total_ok}/{len(canales_cine)} canales", C.CYAN)
+    return cine_m3u
+
+
 # ============================================================
 # GENERACIÓN DE LISTA UNIFICADA
 # ============================================================
-def generar_unificado(paises, todos_canales, resultados=None):
+def generar_unificado(paises, todos_canales, canales_cine=None, resultados=None):
     log(f"\nGENERANDO LISTA UNIFICADA EN ESPAÑOL", C.CYAN)
     log(f"Total de streams únicos: {len(todos_canales)}", C.CYAN)
 
     resultados = resultados or {}
+    canales_cine = canales_cine or []
 
     total_ok = 0
     total_fail = 0
@@ -535,20 +650,17 @@ def generar_unificado(paises, todos_canales, resultados=None):
         fm3u.write("# Generada por IamJony (https://github.com/IamJony)\n")
         fm3u.write(f"# Fecha: {datetime.now()}\n\n")
 
+        # --- Canales por país ---
         for c in todos_canales:
             url = c["url"]
             nombre = c["nombre"]
             country = (c["country"] or "").upper()
             logo = c["tvg_logo"]
-            ch_id = c["tvg_id"]
             ua = c["user_agent"]
-            vlc_opt = c["vlc_opt"]
 
-            # Solo canales con país válido (doble seguridad)
             if country not in NOMBRES_PAISES:
                 continue
 
-            # Obtener categoría por país en español
             categoria_espanol = NOMBRES_PAISES[country]
 
             if PROBAR:
@@ -560,13 +672,13 @@ def generar_unificado(paises, todos_canales, resultados=None):
             if estado == "FUNCIONA":
                 total_ok += 1
                 paises_stats[country]["ok"] += 1
-                canales_unicos.add(ch_id or nombre)
+                canales_unicos.add(c.get("tvg_id") or nombre)
             elif estado == "FALLA":
                 total_fail += 1
                 paises_stats[country]["fail"] += 1
             else:
                 total_ok += 1
-                canales_unicos.add(ch_id or nombre)
+                canales_unicos.add(c.get("tvg_id") or nombre)
 
             ftxt.write(f"Nombre: {nombre}\n")
             ftxt.write(f"País: {categoria_espanol}\n")
@@ -577,31 +689,48 @@ def generar_unificado(paises, todos_canales, resultados=None):
             ftxt.write("---\n")
 
             if estado != "FALLA":
-                ua_limpio = _sanitizar_ua(ua)
-                attrs = []
-                if ch_id:
-                    attrs.append(f'tvg-id="{ch_id}"')
-                if logo:
-                    attrs.append(f'tvg-logo="{logo}"')
-                if ua_limpio:
-                    attrs.append(f'http-user-agent="{ua_limpio}"')
+                _escribir_canal_m3u(fm3u, c, categoria_espanol)
 
-                # Asignar estrictamente el Nombre del País en Español como categoría
-                attrs.append(f'group-title="{categoria_espanol}"')
+        # --- Canales de CINE (integrados en el unificado) ---
+        cine_ok = 0
+        cine_fail = 0
+        for c in canales_cine:
+            url = c["url"]
+            nombre = c["nombre"]
+            logo = c["tvg_logo"]
+            ua = c["user_agent"]
 
-                linea_extinf = f'#EXTINF:-1 {" ".join(attrs)},{nombre}'
-                fm3u.write(f"{linea_extinf}\n")
+            if PROBAR:
+                estado = "FUNCIONA" if resultados.get(url) else "FALLA"
+            else:
+                estado = "SIN PROBAR"
 
-                if vlc_opt:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio or 'IPTVManager/2.0'}\n")
-                elif ua_limpio:
-                    fm3u.write(f"#EXTVLCOPT:http-user-agent={ua_limpio}\n")
+            if estado == "FUNCIONA":
+                cine_ok += 1
+                total_ok += 1
+                canales_unicos.add(c.get("tvg_id") or nombre)
+            elif estado == "FALLA":
+                cine_fail += 1
+                total_fail += 1
+            else:
+                cine_ok += 1
+                total_ok += 1
+                canales_unicos.add(c.get("tvg_id") or nombre)
 
-                fm3u.write(f"{url}\n\n")
+            ftxt.write(f"Nombre: {nombre}\n")
+            ftxt.write(f"Categoría: {NOMBRE_CATEGORIA_CINE}\n")
+            ftxt.write(f"User-Agent: {ua or 'Predeterminado'}\n")
+            ftxt.write(f"Logo: {logo or 'No disponible'}\n")
+            ftxt.write(f"URL: {url}\n")
+            ftxt.write(f"Estado: {estado}\n")
+            ftxt.write("---\n")
+
+            if estado != "FALLA":
+                _escribir_canal_m3u(fm3u, c, NOMBRE_CATEGORIA_CINE)
 
         ftxt.write("\n" + "=" * 60 + "\n")
         ftxt.write("  RESUMEN GLOBAL\n")
-        ftxt.write(f"  Total de streams probados: {len(todos_canales)}\n")
+        ftxt.write(f"  Total de streams probados: {len(todos_canales) + len(canales_cine)}\n")
         ftxt.write(f"  Funcionan: {total_ok}\n")
         ftxt.write(f"  Fallan:    {total_fail}\n")
         ftxt.write(f"  Canales únicos: {len(canales_unicos)}\n")
@@ -612,10 +741,12 @@ def generar_unificado(paises, todos_canales, resultados=None):
                 continue
             ftxt.write(f"    {NOMBRES_PAISES.get(p, p)}: {st['ok']} OK / {st['fail']} FAIL "
                        f"(total {st['total']})\n")
+        ftxt.write(f"\n  CINE: {cine_ok} OK / {cine_fail} FAIL "
+                   f"(total {len(canales_cine)})\n")
         ftxt.write("=" * 60 + "\n")
 
-    log(f"M3U unificado: {UNIFICADO_M3U} — {total_ok}/{len(todos_canales)} canales", C.CYAN)
-    return UNIFICADO_M3U, paises_stats
+    log(f"M3U unificado: {UNIFICADO_M3U} — {total_ok} canales", C.CYAN)
+    return UNIFICADO_M3U, paises_stats, cine_ok
 
 # ============================================================
 # GENERACIÓN DEL README
@@ -627,7 +758,7 @@ def _contar_canales_m3u(m3u_path: Path) -> int:
         return sum(1 for line in f if line.startswith("#EXTINF"))
 
 
-def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
+def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail, cine_ok=0):
     filas = []
     for p in paises:
         st = paises_stats.get(p)
@@ -640,6 +771,11 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
         archivo = f"{p.lower()}_canales.m3u"
         filas.append(
             f"| {nombre} | {ok_pais} | [📥 Descargar]({REPO_URL_RAW}/{archivo}) |"
+        )
+
+    if cine_ok > 0:
+        filas.append(
+            f"| {NOMBRE_CATEGORIA_CINE} | {cine_ok} | [📥 Descargar]({REPO_URL_RAW}/cine.m3u) |"
         )
 
     tabla_paises = "\n".join(filas) if filas else "| _Sin datos_ | 0 | — |"
@@ -668,40 +804,66 @@ def generar_readme(paises, paises_stats, total_ok, total_probados, total_fail):
 def main():
     inicio = datetime.now()
     log("=" * 60, C.CYAN)
-    log("IPTV Manager - Categorías por País", C.WHITE)
+    log("IPTV Manager - Categorías por País + Cine", C.WHITE)
     log(f"Inicio: {inicio:%Y-%m-%d %H:%M:%S}", C.CYAN)
     log("=" * 60, C.CYAN)
 
-    log("\n[1/5] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
+    # [1/6] Descargar M3U principal
+    log("\n[1/6] Descargando archivo M3U maestro de iptv-org...", C.BLUE)
     m3u_raw = descargar_texto(INDEX_M3U_URL)
+    if not m3u_raw:
+        log("No se pudo descargar la lista principal. Abortando.", C.RED)
+        return 1
 
-    log("[2/5] Parseando canales y atributos...", C.BLUE)
+    # [2/6] Parsear
+    log("[2/6] Parseando canales y atributos...", C.BLUE)
     todos_canales_raw = parsear_m3u(m3u_raw)
     log(f"Canales totales parseados: {len(todos_canales_raw)}", C.GREEN)
 
-    log(f"\n[3/5] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
+    # [3/6] Filtrar países
+    log(f"\n[3/6] Filtrando países en español ({len(PAISES_ES)})...", C.BLUE)
     canales_por_pais, todos_canales = filtrar_por_paises(todos_canales_raw, PAISES_ES)
     log(f"Streams filtrados únicos: {len(todos_canales)}", C.GREEN)
 
-    log(f"\n[4/5] Probando streams con sus User-Agents...", C.BLUE)
+    # [4/6] Descargar y extraer canales de CINE
+    log(f"\n[4/6] Descargando lista de CINE (world_ip_tv)...", C.BLUE)
+    cine_raw = descargar_texto(CINE_M3U_URL)
+    canales_cine = []
+    if cine_raw:
+        canales_cine = extraer_canales_cine(cine_raw)
+        log(f"Canales de CINE encontrados: {len(canales_cine)}", C.GREEN)
+    else:
+        log("No se pudo descargar la lista de CINE. Se omite esa sección.", C.YELLOW)
+
+    # [5/6] Probar streams (países + cine en una sola pasada)
+    log(f"\n[5/6] Probando streams con sus User-Agents...", C.BLUE)
     resultados_globales = {}
-    if PROBAR and todos_canales:
+    a_probar = todos_canales + canales_cine
+    if PROBAR and a_probar:
         resultados_globales = probar_streams_concurrente(
-            todos_canales, etiqueta="streams en español"
+            a_probar, etiqueta="streams en español + cine"
         )
 
-    log(f"\n[5/5] Generando archivos M3U por país y unificado...", C.BLUE)
+    # [6/6] Generar archivos
+    log(f"\n[6/6] Generando archivos M3U por país, Cine y unificado...", C.BLUE)
+
     for pais in PAISES_ES:
         canales_pais = canales_por_pais.get(pais, [])
         if canales_pais:
             generar_listados(pais, canales_pais, resultados=resultados_globales)
 
-    unificado_m3u, paises_stats = generar_unificado(
-        PAISES_ES, todos_canales, resultados=resultados_globales
+    # M3U exclusivo de Cine
+    generar_cine(canales_cine, resultados=resultados_globales)
+
+    # Unificado (países + cine)
+    unificado_m3u, paises_stats, cine_ok = generar_unificado(
+        PAISES_ES, todos_canales,
+        canales_cine=canales_cine,
+        resultados=resultados_globales,
     )
 
     total_ok_uni = _contar_canales_m3u(unificado_m3u)
-    total_probados = len(todos_canales)
+    total_probados = len(todos_canales) + len(canales_cine)
     total_fail_uni = total_probados - total_ok_uni
 
     generar_readme(
@@ -710,6 +872,7 @@ def main():
         total_ok=total_ok_uni,
         total_probados=total_probados,
         total_fail=total_fail_uni,
+        cine_ok=cine_ok,
     )
 
     fin = datetime.now()

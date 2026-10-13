@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.440262
+  Fecha: 2026-10-13 20:48:59.633523
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -30,7 +30,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Jytpy32.png
 URL: https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azteca Honduras (720p)
 Categoría: 🇭🇳 Honduras
@@ -156,7 +156,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IC30j61.png
 URL: https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EDN TV (1080p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -338,7 +338,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -457,7 +457,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/X5C1GzB.png
 URL: https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Metropolis 19.2 (1080p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -534,7 +534,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V9Fpd3Y.png
 URL: https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VTV (Honduras) (480p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -554,6 +554,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 78
-  Funcionan: 46
-  Fallan: 32
+  Funcionan: 45
+  Fallan: 33
 ==================================================

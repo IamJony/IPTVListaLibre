@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.426850
+  Fecha: 2026-10-13 20:48:59.624617
 ==================================================
 
 Nombre: 5tv
@@ -37,7 +37,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/60vSWW0.png
 URL: https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AlternaTV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -282,7 +282,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png
 URL: https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Salta (1080p)
 Categoría: 🇦🇷 Argentina
@@ -310,7 +310,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/f7jbdo.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Link
 Categoría: 🇦🇷 Argentina
@@ -680,15 +680,15 @@ Nombre: Disney Jr. Latin America South HD (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
-URL: http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-Estado: FUNCIONA
+URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+Estado: FALLA
 ---
 Nombre: Eco TV
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V2ldYVd.jpg
 URL: https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Gourmet (1080p)
 Categoría: 🇦🇷 Argentina
@@ -765,7 +765,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Fox Sports (1080p)
 Categoría: 🇦🇷 Argentina
@@ -905,7 +905,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MYc8srh.png
 URL: http://200.115.120.1:8000/play/ca091/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Power Max Radio TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -926,7 +926,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6f8EYC2.jpeg
 URL: https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Conexion Web TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -975,7 +975,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kVi0ICm.png
 URL: https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radiocanal (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1052,7 +1052,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1331,6 +1331,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 189
-  Funcionan: 153
-  Fallan: 36
+  Funcionan: 147
+  Fallan: 42
 ==================================================

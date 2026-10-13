@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.429416
+  Fecha: 2026-10-13 20:48:59.627519
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -107,7 +107,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5e1d8k.png
 URL: https://video2.lhdserver.es/canal9cosespu/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 14 Codazzi (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -156,7 +156,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BYsyNHZ.jpg
 URL: http://131.221.41.94/hls/canal2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Institucional (1080p)
 Categoría: 🇨🇴 Colombia
@@ -184,7 +184,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/edaAexc.png
 URL: https://movil.ejeserver.com/live/nets.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Oracion Con Son (1080p)
 Categoría: 🇨🇴 Colombia
@@ -198,7 +198,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qxBDhV.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal RCN (1080p)
 Categoría: 🇨🇴 Colombia
@@ -247,7 +247,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canica TV (240p)
 Categoría: 🇨🇴 Colombia
@@ -317,7 +317,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5vJ0aXH.png
 URL: https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Santander de Quilichao (480p)
 Categoría: 🇨🇴 Colombia
@@ -331,14 +331,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/NCzpcqm.png
 URL: https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Valledupar (720p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -485,7 +485,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FMX4QCM.png
 URL: https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Noticiero 90 Minutos (1080p)
 Categoría: 🇨🇴 Colombia
@@ -716,7 +716,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aKHGRyk.png
 URL: http://190.61.47.54:8000/play/a015/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telemedellin (720p)
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 95
-  Fallan: 26
+  Funcionan: 101
+  Fallan: 20
 ==================================================

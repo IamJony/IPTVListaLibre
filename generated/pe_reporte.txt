@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.442748
+  Fecha: 2026-10-13 20:48:59.636324
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -184,7 +184,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pC57NYv.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 Catacaos (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -380,7 +380,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -583,7 +583,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sfNL6Bv.png
 URL: https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Monterrico TV
 Categoría: 🇵🇪 Perú
@@ -599,12 +599,12 @@ Logo: https://i.imgur.com/Zt3iE86.png
 URL: http://45.4.1.201:8000/play/a13e/index.m3u8
 Estado: FALLA
 ---
-Nombre: Movistar Plus (576p)
+Nombre: Movistar Plus (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yGQGDoi.png
-URL: http://45.4.1.201:8000/play/a19y/index.m3u8
-Estado: FALLA
+URL: http://200.62.239.170:830/play/a08z/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Nacional Tv Peru (720p)
 Categoría: 🇵🇪 Perú
@@ -779,7 +779,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -898,7 +898,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eotfCMd.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecolor Yurimaguas (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -940,7 +940,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tevesur (720p)
 Categoría: 🇵🇪 Perú
@@ -1075,7 +1075,7 @@ Logo: https://i.imgur.com/lhewC3K.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Unitel (1080p)
+Nombre: Unitel (Peru) (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/F0PWpyc.png
@@ -1094,7 +1094,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EeNpfIr.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: USMPTV (720p)
 Categoría: 🇵🇪 Perú
@@ -1122,7 +1122,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gyuoNZk.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vision Sur (720p)
 Categoría: 🇵🇪 Perú
@@ -1192,14 +1192,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VWC6Pt1.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Yurivision (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VhWuaER.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zeleve TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 137
-  Fallan: 35
+  Funcionan: 140
+  Fallan: 32
 ==================================================

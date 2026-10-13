@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.435121
+  Fecha: 2026-10-13 20:48:59.632940
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -16,7 +16,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DVC5w6H.png
 URL: https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Barbe TV (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -93,7 +93,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ygNKJXx.png
 URL: https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Iglesia Luz y Verdad (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -142,7 +142,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Drn8nql.png
 URL: https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cristo TV (480p)
 Categoría: 🇬🇹 Guatemala
@@ -268,7 +268,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6bdj2BV.jpg
 URL: https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Multivision Sports (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -352,7 +352,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 Logo: https://i.imgur.com/tWZXRVu.png
 URL: https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sol TV (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
@@ -366,7 +366,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png
 URL: https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telemax (Guatemala) (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala

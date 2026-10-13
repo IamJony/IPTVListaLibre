@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-12 23:41:05.427906
+  Fecha: 2026-10-13 20:48:59.625802
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -240,7 +240,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qYNmeDe.png
 URL: https://edge.enhdtv.com/redamerica/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red CCTV (480p)
 Categoría: 🇧🇴 Bolivia
@@ -270,19 +270,19 @@ Logo: https://i.imgur.com/I7yB176.png
 URL: https://master.tucableip.com/redtvshop/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Red Uno (1080p) [Geo-blocked]
+Nombre: Red Uno (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfNaEV9.png
-URL: http://15.204.246.24:8080/RedUnoSCZHD/index.m3u8
-Estado: FALLA
+URL: http://190.181.61.93:8000/play/a002/index.m3u8
+Estado: FUNCIONA
 ---
-Nombre: Red Uno La Paz (1080p) [Geo-blocked]
+Nombre: Red Uno La Paz (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfNaEV9.png
-URL: http://15.204.246.24:8080/RedUnoLPZHD/index.m3u8
-Estado: FALLA
+URL: http://190.181.61.93:8000/play/a003/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: RedADvenir TV (360p) [Not 24/7]
 Categoría: 🇧🇴 Bolivia
@@ -298,11 +298,11 @@ Logo: https://i.imgur.com/970zAEn.png
 URL: https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: RTP (Bolivia) (576p)
+Nombre: RTP (Bolivia) (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cECNvvr.png
-URL: https://rtp.noxun.net/hls720/stream3.m3u8
+URL: http://190.181.61.93:8000/play/a00n/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Sol TV (Bolivia) (720p)
@@ -317,7 +317,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -415,6 +415,13 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg
 URL: https://edge.enhdtv.com/8192/index.m3u8
+Estado: FALLA
+---
+Nombre: Unitel (Bolivia) (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/B9wg1zj.png
+URL: http://190.181.61.93:8000/play/1909/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Univalle Television (1080p)
@@ -422,7 +429,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -462,7 +469,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 65
-  Funcionan: 41
-  Fallan: 24
+  Total de streams: 66
+  Funcionan: 44
+  Fallan: 22
 ==================================================

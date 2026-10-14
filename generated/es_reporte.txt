@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.637660
+  Fecha: 2026-10-14 19:39:28.846944
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -198,13 +198,6 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512
 URL: https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-Estado: FALLA
----
-Nombre: AXN (Spain) (1080p)
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
-URL: http://193.254.245.162/AXN/index.m3u8
 Estado: FALLA
 ---
 Nombre: AXN CEE
@@ -1969,7 +1962,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V23bltn.png
 URL: https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Valles Visio (1080p)
 Categoría: 🇪🇸 España
@@ -2037,7 +2030,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 290
-  Funcionan: 145
-  Fallan: 145
+  Total de streams: 289
+  Funcionan: 146
+  Fallan: 143
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.635763
+  Fecha: 2026-10-14 19:39:28.845375
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -44,14 +44,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
 URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bruno Masi TV (720p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/QFmyjZN/unnamed-1.png
 URL: https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: C9N (720p)
 Categoría: 🇵🇾 Paraguay
@@ -72,14 +72,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6oihaDM.png
 URL: https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 C&C Producciones
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 8 Vision TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -149,7 +149,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -205,7 +205,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Nandejara Ne'e TV
 Categoría: 🇵🇾 Paraguay
@@ -254,7 +254,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -268,7 +268,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yd9Dw2G.png
 URL: http://45.170.130.224:8000/play/a032/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Popu TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -289,7 +289,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LniNLO1.jpeg
 URL: https://tvdatta.com:3041/live/colmenarlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Guaira TV
 Categoría: 🇵🇾 Paraguay
@@ -352,14 +352,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/qYRw4JP/Captura.png
 URL: https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SNT (480p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg
 URL: https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Suceso TV (720p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -373,7 +373,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ltJQvZd.png
 URL: http://45.170.130.224:8000/play/a036/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefuturo (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -408,14 +408,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Mfypr0t.png
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Canindeyu (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -429,7 +429,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgTD2TW.png
 URL: http://45.170.130.224:8000/play/a04y/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Union TV
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 53
-  Fallan: 12
+  Funcionan: 52
+  Fallan: 13
 ==================================================

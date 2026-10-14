@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.624617
+  Fecha: 2026-10-14 19:39:28.837054
 ==================================================
 
 Nombre: 5tv
@@ -39,6 +39,13 @@ Logo: https://i.imgur.com/60vSWW0.png
 URL: https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 Estado: FALLA
 ---
+Nombre: Allegro HD (1080p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/bRH34Rn.png
+URL: http://158.172.155.130:8000/play/a0dn/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: AlternaTV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -65,7 +72,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BfaCaZF.png
 URL: http://190.128.214.97:64333/play/a057/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azahares Radiovisual Multimedia (720p)
 Categoría: 🇦🇷 Argentina
@@ -254,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -536,13 +543,6 @@ Logo: https://i.imgur.com/rwoIF4w.png
 URL: https://vivo.solumedia.com:19360/celta/celta.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Chaco TV (720p) [Not 24/7]
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/b6RerDw.png
-URL: https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-Estado: FUNCIONA
----
 Nombre: Chacra TV
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -604,7 +604,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png
 URL: http://190.128.214.97:64333/play/a010/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cumbia Mix (720p)
 Categoría: 🇦🇷 Argentina
@@ -619,6 +619,13 @@ User-Agent: Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, li
 Logo: https://i.imgur.com/UKMR625.png
 URL: https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 Estado: FALLA
+---
+Nombre: DeporTV (1080p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/THk9ARS.png
+URL: http://158.172.155.130:8000/play/a09y/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America (1080p)
 Categoría: 🇦🇷 Argentina
@@ -655,6 +662,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_te
 URL: http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Disney Channel Latin America South
+Categoría: 🇦🇷 Argentina
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
+URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+Estado: FUNCIONA
+---
 Nombre: Disney Jr. Latin America (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -688,7 +702,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V2ldYVd.jpg
 URL: https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet (1080p)
 Categoría: 🇦🇷 Argentina
@@ -905,7 +919,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MYc8srh.png
 URL: http://200.115.120.1:8000/play/ca091/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Power Max Radio TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -926,7 +940,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6f8EYC2.jpeg
 URL: https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
+---
+Nombre: Quiero Musica en mi Idioma (1080p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/RO9Dz3X.png
+URL: http://158.172.155.130:8000/play/a00a/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Radio Conexion Web TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -1024,7 +1045,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png
 URL: https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Senillosa TV
 Categoría: 🇦🇷 Argentina
@@ -1066,6 +1087,13 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: http://45.171.64.30:6060/play/a04n/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Space South (720p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
+URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: T5 Satelital
@@ -1129,7 +1157,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png
 URL: https://canal11saltatv.unpocodeawita.workers.dev/
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telefe Tucuman (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1164,7 +1192,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XGrkzN3.png
 URL: http://190.128.214.97:64333/play/a008/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: The Cabbin FM
 Categoría: 🇦🇷 Argentina
@@ -1184,8 +1212,8 @@ Nombre: TN (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
-URL: http://15.204.246.24:8080/TNHD/index.m3u8
-Estado: FALLA
+URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TV Canal 72
 Categoría: 🇦🇷 Argentina
@@ -1241,7 +1269,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png
 URL: http://45.170.130.224:8000/play/a020/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Unife TV
 Categoría: 🇦🇷 Argentina
@@ -1330,7 +1358,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 189
-  Funcionan: 147
-  Fallan: 42
+  Total de streams: 193
+  Funcionan: 150
+  Fallan: 43
 ==================================================

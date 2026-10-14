@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.626403
+  Fecha: 2026-10-14 19:39:28.838683
 ==================================================
 
 Nombre: 13C (1080p)
@@ -114,7 +114,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KCrSbgv.png
 URL: https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AM Canal
 Categoría: 🇨🇱 Chile
@@ -191,7 +191,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KL6pgaL.png
 URL: https://v2.tustreaming.cl/catvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CampusTV (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -515,19 +515,26 @@ Logo: https://enlineamaule.cl/wp-content/uploads/2025/08/En-linea-Maule841351465
 URL: https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: EnerGeek FAN (1080p)
+Nombre: EnerGeek (1080p) [Geo-blocked]
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
+URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+Estado: FUNCIONA
+---
+Nombre: EnerGeek FAN (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
-URL: https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-Estado: FALLA
+URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+Estado: FUNCIONA
 ---
-Nombre: EnerGeek Radio (1080p)
+Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
-URL: https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-Estado: FALLA
+URL: https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
+Estado: FUNCIONA
 ---
 Nombre: Enfoque Digital TV
 Categoría: 🇨🇱 Chile
@@ -541,7 +548,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1649_EPA__TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ESPN Premium (Chile)
 Categoría: 🇨🇱 Chile
@@ -870,7 +877,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8SCnoiZ.png
 URL: https://v2.tustreaming.cl/odiseatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oli TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -926,7 +933,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4exfvPt.png
 URL: https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Preludio TV
 Categoría: 🇨🇱 Chile
@@ -934,13 +941,6 @@ User-Agent: Predeterminado
 Logo: https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png
 URL: https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: PRIDEtv LATAM (1080p)
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: No disponible
-URL: https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-Estado: FALLA
 ---
 Nombre: Primicia Vida (720p)
 Categoría: 🇨🇱 Chile
@@ -982,7 +982,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png
 URL: https://v2.tustreaming.cl/radioancoatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Armonia TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1122,7 +1122,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png
 URL: https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Universal (720p)
 Categoría: 🇨🇱 Chile
@@ -1159,12 +1159,26 @@ Logo: https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png
 URL: https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Retro Plus 2 (720p)
+Nombre: Retro Plus 2 (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5G5kian.png
-URL: https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-Estado: FALLA
+URL: http://181.119.97.124:8080/play/a00n/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Retro Plus 3 (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/i0rZsgG.png
+URL: http://181.119.97.124:8080/play/retroplus_3/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Retro Plus (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/fkCasXI.png
+URL: http://181.119.97.124:8080/play/a00t/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Retromusica Television (720p)
 Categoría: 🇨🇱 Chile
@@ -1285,6 +1299,13 @@ Logo: https://i.imgur.com/ZQRb3L3.png
 URL: https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Suyai TV (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png
+URL: https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
+Estado: FUNCIONA
+---
 Nombre: T13 En Vivo (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -1374,7 +1395,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1395,7 +1416,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XuSeHBt.png
 URL: https://redirector.dps.live/hls/turno/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV5 Linares (720p)
 Categoría: 🇨🇱 Chile
@@ -1549,7 +1570,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png
 URL: http://45.170.130.224:8000/play/a025/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vida Nueva TV
 Categoría: 🇨🇱 Chile
@@ -1598,7 +1619,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lMyZZtk.png
 URL: http://45.170.130.224:8000/play/a00x/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Zona Play TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1624,7 +1645,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 231
-  Funcionan: 179
-  Fallan: 52
+  Total de streams: 234
+  Funcionan: 188
+  Fallan: 46
 ==================================================

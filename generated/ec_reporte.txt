@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.631544
+  Fecha: 2026-10-14 19:39:28.841963
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -37,7 +37,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PCN6iZJ.png
 URL: https://tvdatta.com:3578/live/antenaunolive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Asomavision (614p)
 Categoría: 🇪🇨 Ecuador
@@ -198,7 +198,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1nHxdkR.png
 URL: https://s2.tvdatta.com:3753/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Inti TV (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -277,6 +277,13 @@ Logo: https://i.imgur.com/9rU6yWo.jpg
 URL: https://eu1.servers10.com:8081/8028/index.m3u8
 Estado: FALLA
 ---
+Nombre: Maxivision Canal 8 (1080p)
+Categoría: 🇪🇨 Ecuador
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rlFAtnO.jpeg
+URL: http://181.119.97.124:8080/play/a00w/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Mel Radio TV (360p)
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
@@ -338,7 +345,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyBKaXI.png
 URL: https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Plus TV (Ecuador) (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -574,7 +581,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 81
-  Funcionan: 52
-  Fallan: 29
+  Total de streams: 82
+  Funcionan: 54
+  Fallan: 28
 ==================================================

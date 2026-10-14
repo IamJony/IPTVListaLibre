@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.634084
+  Fecha: 2026-10-14 19:39:28.844035
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -114,14 +114,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -135,7 +135,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4DfnOTA.png
 URL: http://181.78.106.127:5000/play/ca064/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: bitMe (1080p)
 Categoría: 🇲🇽 México
@@ -156,7 +156,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -499,7 +499,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ILCE Canal 15 Summa Saberes (720p)
 Categoría: 🇲🇽 México
@@ -961,7 +961,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Of044Jx.png
 URL: https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Cuatro 4.2 (1080p)
 Categoría: 🇲🇽 México
@@ -975,14 +975,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Of044Jx.png
 URL: https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Cuatro 4.4 (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Of044Jx.png
 URL: https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Guanajuato (720p)
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 113
-  Fallan: 60
+  Funcionan: 109
+  Fallan: 64
 ==================================================

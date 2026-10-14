@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.628304
+  Fecha: 2026-10-14 19:39:28.840271
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -37,7 +37,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9Nh2mo9.png
 URL: https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: BestClasicosTV (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -65,7 +65,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgRDRBK.jpg
 URL: https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 (Costa Rica) (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -156,14 +156,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jjTodXj.png
 URL: https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extrema Kids TV [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -233,14 +233,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ti5Fg5D.png
 URL: https://latamvdo.com:3626/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Limon TV (1080p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/rdpcv7C/1689421727166.jpg
 URL: http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Los Santos TV (1080i)
 Categoría: 🇨🇷 Costa Rica
@@ -324,7 +324,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/P4kpMgk/1689344714578.jpg
 URL: https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Super Cable
 Categoría: 🇨🇷 Costa Rica
@@ -445,11 +445,11 @@ Logo: https://i.imgur.com/KImqYnN.jpeg
 URL: https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: VM Latino (720p) [Not 24/7]
+Nombre: VM Latino (1080p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Dvo1b82.png
-URL: https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+URL: http://45.163.139.42:8000/play/a03d/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: VoiceOver Radio TV (720p)
@@ -457,6 +457,13 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HzGs1Eh.png
 URL: https://cloudvideo.servers10.com:8081/8198/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: XperTV (1080p)
+Categoría: 🇨🇷 Costa Rica
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/0Aftiln.png
+URL: http://45.163.139.42:8000/play/a02x/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Zona Music TV (1080p)
@@ -476,7 +483,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 67
-  Funcionan: 51
-  Fallan: 16
+  Total de streams: 68
+  Funcionan: 48
+  Fallan: 20
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.625802
+  Fecha: 2026-10-14 19:39:28.838072
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -51,7 +51,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tKLYYys.png
 URL: http://190.181.61.93:8000/play/a001/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bolivision (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -158,6 +158,13 @@ Logo: https://i.imgur.com/YOr1Oac.png
 URL: https://master.tucableip.com/ftvhd/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Gigavision (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/fE3BkcT.png
+URL: http://158.172.155.130:8000/play/a0e7/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Imperial TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -178,6 +185,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/wAIBvaO.png
 URL: http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 Estado: FALLA
+---
+Nombre: PAT (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/4A7R2Jt.png
+URL: http://158.172.155.130:8000/play/a0e6/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Plus TLT (720p)
 Categoría: 🇧🇴 Bolivia
@@ -317,7 +331,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,7 +443,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -469,7 +483,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 66
-  Funcionan: 44
-  Fallan: 22
+  Total de streams: 68
+  Funcionan: 45
+  Fallan: 23
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PA
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-13 20:48:59.635360
+  Fecha: 2026-10-14 19:39:28.845091
 ==================================================
 
 Nombre: A&R Canal (720p)
@@ -144,6 +144,13 @@ Logo: https://i.imgur.com/RklPmml.png
 URL: https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 Estado: FALLA
 ---
+Nombre: Tropical Moon Urban TV [Not 24/7]
+Categoría: 🇵🇦 Panamá
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/WcM7BP5.png
+URL: https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+Estado: FUNCIONA
+---
 Nombre: TVMax (720p)
 Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
@@ -168,7 +175,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 23
-  Funcionan: 13
+  Total de streams: 24
+  Funcionan: 14
   Fallan: 10
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.838683
+  Fecha: 2026-10-15 19:21:54.011067
 ==================================================
 
 Nombre: 13C (1080p)
@@ -114,7 +114,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KCrSbgv.png
 URL: https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: AM Canal
 Categoría: 🇨🇱 Chile
@@ -352,7 +352,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png
 URL: https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ClickTV Chile (720p)
 Categoría: 🇨🇱 Chile
@@ -387,7 +387,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lz2OlKf.png
 URL: https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cooperativa (720p)
 Categoría: 🇨🇱 Chile
@@ -695,7 +695,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1270_La_Clave.png
 URL: https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Comarca TV (720p)
 Categoría: 🇨🇱 Chile
@@ -933,7 +933,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4exfvPt.png
 URL: https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Preludio TV
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1108,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350
 URL: https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio UC (720p)
 Categoría: 🇨🇱 Chile
@@ -1199,7 +1199,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zcwQyPI.png
 URL: https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ritoque TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1570,7 +1570,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png
 URL: http://45.170.130.224:8000/play/a025/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vida Nueva TV
 Categoría: 🇨🇱 Chile
@@ -1619,7 +1619,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lMyZZtk.png
 URL: http://45.170.130.224:8000/play/a00x/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zona Play TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1646,6 +1646,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 234
-  Funcionan: 188
-  Fallan: 46
+  Funcionan: 195
+  Fallan: 39
 ==================================================

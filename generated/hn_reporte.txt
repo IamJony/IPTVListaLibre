@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.843462
+  Fecha: 2026-10-15 19:21:54.016115
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -338,7 +338,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -464,14 +464,14 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QaocW5x.png
 URL: https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Olanchana (1080p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8LnLEQz.png
 URL: https://viewhn.com/canal30/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TEN Canal 10 (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -554,6 +554,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 78
-  Funcionan: 47
-  Fallan: 31
+  Funcionan: 44
+  Fallan: 34
 ==================================================

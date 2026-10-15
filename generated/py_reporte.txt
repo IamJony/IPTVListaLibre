@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.845375
+  Fecha: 2026-10-15 19:21:54.017724
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -44,7 +44,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
 URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bruno Masi TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -65,14 +65,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lafmmRa.jpeg
 URL: https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 TV Max (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6oihaDM.png
 URL: https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 8 C&C Producciones
 Categoría: 🇵🇾 Paraguay
@@ -142,14 +142,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GO TV (720p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -268,7 +268,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yd9Dw2G.png
 URL: http://45.170.130.224:8000/play/a032/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Popu TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -317,7 +317,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -373,7 +373,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ltJQvZd.png
 URL: http://45.170.130.224:8000/play/a036/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telefuturo (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -401,7 +401,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgIv5QK.png
 URL: http://45.170.130.224:8000/play/a050/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Aire (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -415,7 +415,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Mfypr0t.png
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Canindeyu (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -429,7 +429,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgTD2TW.png
 URL: http://45.170.130.224:8000/play/a04y/index.m3u8?hls
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Union TV
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 52
-  Fallan: 13
+  Funcionan: 59
+  Fallan: 6
 ==================================================

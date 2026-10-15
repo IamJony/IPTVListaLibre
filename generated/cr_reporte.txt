@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.840271
+  Fecha: 2026-10-15 19:21:54.012797
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgRDRBK.jpg
 URL: https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 (Costa Rica) (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -324,7 +324,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/P4kpMgk/1689344714578.jpg
 URL: https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Super Cable
 Categoría: 🇨🇷 Costa Rica
@@ -484,6 +484,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 68
-  Funcionan: 48
-  Fallan: 20
+  Funcionan: 52
+  Fallan: 16
 ==================================================

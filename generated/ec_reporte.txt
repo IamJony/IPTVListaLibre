@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.841963
+  Fecha: 2026-10-15 19:21:54.014708
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -30,7 +30,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gUqKymM.png
 URL: https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Antena Uno Radiovideo (360p)
 Categoría: 🇪🇨 Ecuador
@@ -198,7 +198,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1nHxdkR.png
 URL: https://s2.tvdatta.com:3753/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Inti TV (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -562,7 +562,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/294FDCB.png
 URL: https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Wuan+
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 54
-  Fallan: 28
+  Funcionan: 55
+  Fallan: 27
 ==================================================

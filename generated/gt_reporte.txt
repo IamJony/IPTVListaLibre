@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.843031
+  Fecha: 2026-10-15 19:21:54.015661
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -268,7 +268,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6bdj2BV.jpg
 URL: https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Multivision Sports (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -366,7 +366,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png
 URL: https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telemax (Guatemala) (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -450,7 +450,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oPJlbNf.png
 URL: http://181.78.106.127:5000/play/ca090/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision TV (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 29
-  Fallan: 37
+  Funcionan: 32
+  Fallan: 34
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-14 19:39:28.845806
+  Fecha: 2026-10-15 19:21:54.018143
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -107,7 +107,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7bGVFBa.png
 URL: https://video2.lhdserver.es/asiritv/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Atlantis Radio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -317,7 +317,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/2zCD4TB.png
 URL: https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: DTV (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -639,7 +639,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IqsB6VR.jpeg
 URL: https://eu1.servers10.com:8081/8258/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ONDA DIGITAL (720p)
 Categoría: 🇵🇪 Perú
@@ -702,7 +702,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EoLhvBN.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Prattel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -751,7 +751,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lid5RTv.png
 URL: https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Rumba TV (720p)
 Categoría: 🇵🇪 Perú
@@ -926,7 +926,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Tarapoto (720p)
 Categoría: 🇵🇪 Perú
@@ -996,7 +996,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
@@ -1122,7 +1122,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gyuoNZk.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vision Sur (720p)
 Categoría: 🇵🇪 Perú
@@ -1157,7 +1157,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rxzz6kD.jpeg
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Wayra TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 137
-  Fallan: 35
+  Funcionan: 139
+  Fallan: 33
 ==================================================

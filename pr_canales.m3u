@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-15 19:21:54.018878
+# Fecha: 2026-10-16 18:58:59.458527
 
 #EXTINF:-1 tvg-id="AmericaTeVe.pr@SD" tvg-logo="https://i.imgur.com/K9o3mLP.png" group-title="🇵🇷 Puerto Rico",America TeVe (1080p)
 https://live.gideo.video/americateve2/master.m3u8
@@ -17,6 +17,9 @@ https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playl
 
 #EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698943bac4421ebc533695/images/logo_20231219_193005_68.png" group-title="🇵🇷 Puerto Rico",DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" group-title="🇵🇷 Puerto Rico",Familia Vision HD [Not 24/7]
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-logo="https://i.imgur.com/GoNBFzI.png" group-title="🇵🇷 Puerto Rico",Faro de Santidad TV (720p)
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8

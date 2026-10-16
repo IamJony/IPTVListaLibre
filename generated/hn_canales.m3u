@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - HN
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-15 19:21:54.016121
+# Fecha: 2026-10-16 18:58:59.456095
 
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias Television (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -93,6 +93,9 @@ https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="🇭🇳 Honduras",Radio Ideal (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="RadioOmegaTV.hn@SD" tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="🇭🇳 Honduras",Radio Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="🇭🇳 Honduras",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 
@@ -108,11 +111,17 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuyapaTV.hn@SD" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="🇭🇳 Honduras",Suyapa TV (1080p)
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="🇭🇳 Honduras",Teleceiba (1080p)
+http://45.238.141.222:8000/play/a0pf/index.m3u8
+
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="🇭🇳 Honduras",Telemas (1080p)
 https://s.emisoras.tv:8081/telemas/index.m3u8
 
 #EXTINF:-1 tvg-id="Telerayo.hn@SD" tvg-logo="https://i.imgur.com/jLQsU1u.png" group-title="🇭🇳 Honduras",Telerayo (1080p)
 https://s.emisoras.tv:8081/telerayo/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="🇭🇳 Honduras",Television Olanchana (1080p)
+https://viewhn.com/canal30/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TENCanal10.hn@SD" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="🇭🇳 Honduras",TEN Canal 10 (720p) [Not 24/7]
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8

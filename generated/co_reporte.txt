@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.012117
+  Fecha: 2026-10-16 18:58:59.452901
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -16,7 +16,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hvpbfzG.png
 URL: https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ANC Television (720p)
 Categoría: 🇨🇴 Colombia
@@ -121,7 +121,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6YxtyUR.jpeg
 URL: https://movil.ejeserver.com/live/calimatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Capital (1080p)
 Categoría: 🇨🇴 Colombia
@@ -163,7 +163,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hqfQVrU.png
 URL: http://190.61.47.54:8000/play/a00v/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Mas Television (720p)
 Categoría: 🇨🇴 Colombia
@@ -198,7 +198,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qxBDhV.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal RCN (1080p)
 Categoría: 🇨🇴 Colombia
@@ -247,7 +247,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canica TV (240p)
 Categoría: 🇨🇴 Colombia
@@ -555,7 +555,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qWNSxq8.png
 URL: http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCN HD2 (1080p)
 Categoría: 🇨🇴 Colombia
@@ -639,7 +639,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png
 URL: http://190.61.47.54:8000/play/a035/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: StreamForce 360 (1080p)
 Categoría: 🇨🇴 Colombia
@@ -667,7 +667,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gBZFZNv.png
 URL: http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Mocoa Canal 10 (720p)
 Categoría: 🇨🇴 Colombia
@@ -716,7 +716,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aKHGRyk.png
 URL: http://190.61.47.54:8000/play/a015/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telemedellin (720p)
 Categoría: 🇨🇴 Colombia
@@ -751,7 +751,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeveColombia (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -855,6 +855,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 121
-  Funcionan: 98
-  Fallan: 23
+  Funcionan: 102
+  Fallan: 19
 ==================================================

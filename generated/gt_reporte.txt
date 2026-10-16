@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.015661
+  Fecha: 2026-10-16 18:58:59.455739
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -282,7 +282,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mBNOSzl.png
 URL: https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nuestra Imagen TV
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 32
-  Fallan: 34
+  Funcionan: 31
+  Fallan: 35
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.011067
+  Fecha: 2026-10-16 18:58:59.452106
 ==================================================
 
 Nombre: 13C (1080p)
@@ -352,7 +352,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png
 URL: https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ClickTV Chile (720p)
 Categoría: 🇨🇱 Chile
@@ -520,7 +520,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EnerGeek FAN (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -1646,6 +1646,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 234
-  Funcionan: 195
-  Fallan: 39
+  Funcionan: 193
+  Fallan: 41
 ==================================================

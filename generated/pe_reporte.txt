@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.018143
+  Fecha: 2026-10-16 18:58:59.457887
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -387,7 +387,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -604,7 +604,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yGQGDoi.png
 URL: http://200.62.239.170:830/play/a08z/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nacional Tv Peru (720p)
 Categoría: 🇵🇪 Perú
@@ -667,7 +667,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wkdibpv.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Panamericana TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -702,7 +702,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EoLhvBN.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Prattel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -870,7 +870,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ufnWpUf.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SolTV (Peru)
 Categoría: 🇵🇪 Perú
@@ -996,7 +996,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
@@ -1192,7 +1192,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VWC6Pt1.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Yurivision (720p)
 Categoría: 🇵🇪 Perú
@@ -1206,12 +1206,12 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CGWaunJ.jpeg
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 139
-  Fallan: 33
+  Funcionan: 140
+  Fallan: 32
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.019155
+  Fecha: 2026-10-16 18:58:59.458790
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -968,7 +968,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hBswXYZ.png
 URL: https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lleida Televisio (1080p)
 Categoría: 🇪🇸 España
@@ -1136,7 +1136,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sOBMnby.png
 URL: https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Onda Valencia TV (720p)
 Categoría: 🇪🇸 España
@@ -2031,6 +2031,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 289
-  Funcionan: 147
-  Fallan: 142
+  Funcionan: 145
+  Fallan: 144
 ==================================================

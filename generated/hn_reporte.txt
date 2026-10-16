@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-15 19:21:54.016115
+  Fecha: 2026-10-16 18:58:59.456090
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -338,7 +338,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -417,12 +417,12 @@ Logo: https://i.imgur.com/PTN7fCa.png
 URL: http://45.167.2.101:8000/play/a07n/index.m3u8
 Estado: FALLA
 ---
-Nombre: Teleceiba (720p)
+Nombre: Teleceiba (1080p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oPSfsvy.png
-URL: https://teleceiba.com/stream/tlcb720.m3u8
-Estado: FALLA
+URL: http://45.238.141.222:8000/play/a0pf/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TeleDanli (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -471,7 +471,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8LnLEQz.png
 URL: https://viewhn.com/canal30/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TEN Canal 10 (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -554,6 +554,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 78
-  Funcionan: 44
-  Fallan: 34
+  Funcionan: 47
+  Fallan: 31
 ==================================================

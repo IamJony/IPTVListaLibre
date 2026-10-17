@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-16 18:58:59.458522
+  Fecha: 2026-10-17 17:55:51.724414
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -30,7 +30,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CDM Internacional (480p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -100,7 +100,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nl5vyIw.png
 URL: https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Isla TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -183,6 +183,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 25
-  Funcionan: 19
-  Fallan: 6
+  Funcionan: 17
+  Fallan: 8
 ==================================================

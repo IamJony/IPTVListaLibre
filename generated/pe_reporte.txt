@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-16 18:58:59.457887
+  Fecha: 2026-10-17 17:55:51.723972
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -240,7 +240,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/42aE0nm.jpeg
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Charapa TV (720p)
 Categoría: 🇵🇪 Perú
@@ -289,14 +289,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QF5VUcy.png
 URL: https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Dac TV (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g4pZ3ZW.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: DeltaTV
 Categoría: 🇵🇪 Perú
@@ -324,7 +324,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OSvegAq.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ECO Television (720p)
 Categoría: 🇵🇪 Perú
@@ -380,14 +380,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -429,7 +429,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dudxyqk.png
 URL: http://187.102.210.46/JN19/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: JNE TV (720p)
 Categoría: 🇵🇪 Perú
@@ -870,14 +870,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ufnWpUf.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SolTV (Peru)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GtNkuAc.png
 URL: https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sqala TV (720p)
 Categoría: 🇵🇪 Perú
@@ -947,7 +947,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LcZ2Hhd.jpeg
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Top TV (Peru) (240p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -1192,7 +1192,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VWC6Pt1.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Yurivision (720p)
 Categoría: 🇵🇪 Perú
@@ -1206,12 +1206,12 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CGWaunJ.jpeg
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 140
-  Fallan: 32
+  Funcionan: 136
+  Fallan: 36
 ==================================================

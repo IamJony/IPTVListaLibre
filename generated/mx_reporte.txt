@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-16 18:58:59.456466
+  Fecha: 2026-10-17 17:55:51.723052
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -93,7 +93,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg
 URL: http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azteca Internacional (1080p)
 Categoría: 🇲🇽 México
@@ -324,7 +324,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8ign49i.png
 URL: https://video.cdmx.gob.mx/redes/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CB TV Michoacan
 Categoría: 🇲🇽 México
@@ -394,7 +394,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png
 URL: http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Eclipse TV (720p)
 Categoría: 🇲🇽 México
@@ -555,7 +555,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -702,7 +702,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XOJzlfS.png
 URL: http://181.78.8.199:8000/play/a0bt/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Popcorn Central (1080p)
 Categoría: 🇲🇽 México
@@ -849,7 +849,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -877,7 +877,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CofYjWh.png
 URL: http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telemax (Mexico) XEWH-TDT (1080p)
 Categoría: 🇲🇽 México
@@ -1199,7 +1199,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LbZkdca.png
 URL: https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: XHZHZ-TDT (720p)
 Categoría: 🇲🇽 México
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 111
-  Fallan: 62
+  Funcionan: 107
+  Fallan: 66
 ==================================================

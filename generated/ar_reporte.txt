@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-17 17:55:51.718734
+  Fecha: 2026-10-18 18:16:18.190530
 ==================================================
 
 Nombre: 5tv
@@ -16,7 +16,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4hDCB1M.png
 URL: https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: A24 (1080p)
 Categoría: 🇦🇷 Argentina
@@ -366,7 +366,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VYcTRbd.png
 URL: https://nd106.republicaservers.com:4433/c7827.mp4
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 Jujuy (720p)
 Categoría: 🇦🇷 Argentina
@@ -457,7 +457,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PblsZxz.jpeg
 URL: https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal E (720p)
 Categoría: 🇦🇷 Argentina
@@ -520,7 +520,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/trmPKYw.png
 URL: https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Caras TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -599,13 +599,6 @@ Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://canaletaplus.com:3922/live/cosmoslive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Cronica TV (1080p)
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png
-URL: http://190.128.214.97:64333/play/a010/index.m3u8
-Estado: FALLA
----
 Nombre: Cumbia Mix (720p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -632,21 +625,21 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://181.78.8.199:8000/play/a0dn/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Mexico (720p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://45.166.93.156:9999/play/a0f3/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Channel Latin America North (576p)
 Categoría: 🇦🇷 Argentina
@@ -709,7 +702,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -723,7 +716,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -835,7 +828,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sfd87LX.png
 URL: https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Metro TV (Argentina) (720p)
 Categoría: 🇦🇷 Argentina
@@ -884,7 +877,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lJCIqYn.png
 URL: http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Norte TV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1080,7 +1073,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: http://45.171.64.30:6060/play/a04n/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Space South (720p)
 Categoría: 🇦🇷 Argentina
@@ -1199,7 +1192,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/2vlskg.png
 URL: https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TIV Television (720p)
 Categoría: 🇦🇷 Argentina
@@ -1365,7 +1358,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 194
-  Funcionan: 149
-  Fallan: 45
+  Total de streams: 193
+  Funcionan: 152
+  Fallan: 41
 ==================================================

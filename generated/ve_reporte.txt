@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-17 17:55:51.725281
+  Fecha: 2026-10-18 18:16:18.224304
 ==================================================
 
 Nombre: AbejalesTV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Qm88HT0.png
 URL: http://181.78.8.199:8000/play/a0fo/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Anzoategui TV (360p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -79,7 +79,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ew44KOZ.png
 URL: https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Diplomatico
 Categoría: 🇻🇪 Venezuela
@@ -128,14 +128,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/v6nRdxQ.png
 URL: http://181.78.8.199:8000/play/a09k/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Grande TV
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guaro TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -177,7 +177,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png
 URL: http://181.78.8.199:8000/play/a0fs/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: LaPuraCrema Television
 Categoría: 🇻🇪 Venezuela
@@ -233,7 +233,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I6gsUqD.png
 URL: http://181.78.8.199:8000/play/a0fr/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Monagas Vision (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -282,7 +282,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -296,7 +296,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png
 URL: https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Reforma TV (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -457,14 +457,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://intervenhosting.net/imagenes/tvmparati.jpg
 URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVS (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -506,7 +506,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gm1m8hW.png
 URL: http://181.78.8.199:8000/play/a0if/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Venevision Internacional (720p)
 Categoría: 🇻🇪 Venezuela
@@ -533,6 +533,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 75
-  Funcionan: 45
-  Fallan: 30
+  Funcionan: 50
+  Fallan: 25
 ==================================================

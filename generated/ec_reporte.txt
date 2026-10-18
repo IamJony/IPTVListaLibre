@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-17 17:55:51.722072
+  Fecha: 2026-10-18 18:16:18.213644
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -268,7 +268,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ez1NxwJ.jpg
 URL: http://200.7.219.221:8088/live/livetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mario Pinto TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -401,7 +401,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pzf2ZAW.png
 URL: https://s2.tvdatta.com:3825/live/redtvelive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RTRTV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -429,7 +429,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DzxGHRZ.png
 URL: https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sono Onda TV (720p)
 Categoría: 🇪🇨 Ecuador
@@ -492,7 +492,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/xIuFSnx.png
 URL: https://video2.lhdserver.es/tvcisne/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Color Canal 36 (720p)
 Categoría: 🇪🇨 Ecuador
@@ -527,7 +527,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9d02qUU.jpeg
 URL: http://45.187.0.19:9090/tvusa/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UEBI TV Online (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 53
-  Fallan: 29
+  Funcionan: 54
+  Fallan: 28
 ==================================================

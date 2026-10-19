@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.217328
+  Fecha: 2026-10-19 20:41:57.113771
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -67,6 +67,13 @@ Logo: https://i.imgur.com/yu3Bpbd.png
 URL: http://168.196.127.137:6001/play/a06v/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Az Cinema (1080p)
+Categoría: 🇲🇽 México
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/B5UN7C8.png
+URL: http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+Estado: FUNCIONA
+---
 Nombre: Az Clic (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
@@ -79,7 +86,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KIpSdQC.png
 URL: http://200.115.120.1:8000/play/ca020/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azteca 7 (1080p)
 Categoría: 🇲🇽 México
@@ -128,7 +135,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ntK4D64.png
 URL: https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bandamax (1080p)
 Categoría: 🇲🇽 México
@@ -177,7 +184,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0nzNMuP.jpeg
 URL: https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 10 Cancun (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -324,7 +331,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8ign49i.png
 URL: https://video.cdmx.gob.mx/redes/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CB TV Michoacan
 Categoría: 🇲🇽 México
@@ -422,7 +429,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JWOqr1a.png
 URL: http://190.61.90.17:40000/play/a0hk/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Expresa TV (720p)
 Categoría: 🇲🇽 México
@@ -450,7 +457,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Golden (1080p)
 Categoría: 🇲🇽 México
@@ -534,7 +541,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/N4meE8I.png
 URL: https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Justicia TV (Mexico) (720p)
 Categoría: 🇲🇽 México
@@ -555,7 +562,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -849,7 +856,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1045,7 +1052,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pxkDpTU.jpeg
 URL: https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV UJAT (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1218,7 +1225,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 173
-  Funcionan: 107
-  Fallan: 66
+  Total de streams: 174
+  Funcionan: 104
+  Fallan: 70
 ==================================================

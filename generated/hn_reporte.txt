@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.216588
+  Fecha: 2026-10-19 20:41:57.113517
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -228,6 +228,13 @@ Logo: https://i.imgur.com/ylZKG57.png
 URL: https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
 Estado: FALLA
 ---
+Nombre: JEMR TV (1080p) [Geo-blocked]
+Categoría: 🇭🇳 Honduras
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CnR2m66.png
+URL: https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Kerusso TV (720p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
@@ -338,7 +345,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -352,7 +359,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yr7Ellh.jpg
 URL: https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: San Ignacio TV (720p)
 Categoría: 🇭🇳 Honduras
@@ -457,14 +464,14 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/X5C1GzB.png
 URL: https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Metropolis 19.2 (1080p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QaocW5x.png
 URL: https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Olanchana (1080p)
 Categoría: 🇭🇳 Honduras
@@ -553,7 +560,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 78
-  Funcionan: 48
-  Fallan: 30
+  Total de streams: 79
+  Funcionan: 47
+  Fallan: 32
 ==================================================

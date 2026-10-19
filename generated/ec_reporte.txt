@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.213644
+  Fecha: 2026-10-19 20:41:57.112683
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -282,7 +282,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rlFAtnO.jpeg
 URL: http://181.119.97.124:8080/play/a00w/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mel Radio TV (360p)
 Categoría: 🇪🇨 Ecuador
@@ -562,14 +562,14 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/294FDCB.png
 URL: https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Wuan+
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pJNx1za.png
 URL: https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Zaracay TV (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 54
-  Fallan: 28
+  Funcionan: 53
+  Fallan: 29
 ==================================================

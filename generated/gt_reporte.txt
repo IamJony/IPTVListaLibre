@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.215759
+  Fecha: 2026-10-19 20:41:57.113302
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -9,7 +9,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png
 URL: https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Aurora Media Films (720p)
 Categoría: 🇬🇹 Guatemala
@@ -205,7 +205,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mbmHPnO.png
 URL: http://200.115.120.1:8000/play/ca066/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Iglesia Del Camino (480p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -289,7 +289,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sknLXZI.jpeg
 URL: https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Peniel K&Y (480p)
 Categoría: 🇬🇹 Guatemala
@@ -331,14 +331,14 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/569xc5o.png
 URL: https://s2.tvdatta.com:3112/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Rhema TV (1080p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5o821rT.png
 URL: http://45.171.64.30:6060/play/a04k/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SAS TV (720p)
 Categoría: 🇬🇹 Guatemala
@@ -359,7 +359,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/YXYv8sf/logo-soltv2.png
 URL: https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telecosta (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
@@ -436,7 +436,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jdnHci0.png
 URL: https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unica TV (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -457,7 +457,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/S0JrfIl.png
 URL: https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: World TV Guatemala (720p)
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 28
-  Fallan: 38
+  Funcionan: 26
+  Fallan: 40
 ==================================================

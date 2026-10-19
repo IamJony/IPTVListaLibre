@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.210715
+  Fecha: 2026-10-19 20:41:57.004507
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgRDRBK.jpg
 URL: https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 (Costa Rica) (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -128,7 +128,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/N4pFVVF.png
 URL: https://video0.rogohosting.com:19360/8006/8006.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coto Brus TV (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -184,7 +184,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/f8BkLql.png
 URL: http://190.61.90.17:40000/play/a03v/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: GAMTV.cr (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -198,7 +198,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sAYNKJ8.png
 URL: https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Gex TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -261,7 +261,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GC2lubh.png
 URL: https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: NicoyaTV (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -443,7 +443,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zEi8eMC.png
 URL: https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vintage Music (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 49
-  Fallan: 20
+  Funcionan: 54
+  Fallan: 15
 ==================================================

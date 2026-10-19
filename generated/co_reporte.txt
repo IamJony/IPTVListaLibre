@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-18 18:16:18.209521
+  Fecha: 2026-10-19 20:41:57.003971
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -184,7 +184,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/edaAexc.png
 URL: https://movil.ejeserver.com/live/nets.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Oracion Con Son (1080p)
 Categoría: 🇨🇴 Colombia
@@ -289,7 +289,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vrSFUwv.png
 URL: http://45.171.64.30:6060/play/a010
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CMB Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -303,7 +303,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zJAwnvd.png
 URL: https://movil.ejeserver.com/live/cncbuga.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Medellin (1080p)
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -366,7 +366,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/xG2apUG.jpeg
 URL: https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Emisora Comunitaria 104.1 FM
 Categoría: 🇨🇴 Colombia
@@ -429,7 +429,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/E3wDEX5.png
 URL: https://movil.ejeserver.com/live/lamoradatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Marsella TV
 Categoría: 🇨🇴 Colombia
@@ -450,7 +450,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tCg7owd.png
 URL: https://movil.ejeserver.com/live/masmusica.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MaxTV [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -492,7 +492,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ThaRRCN.png
 URL: https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NSTV (1080p)
 Categoría: 🇨🇴 Colombia
@@ -632,7 +632,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -690,6 +690,13 @@ Logo: https://i.imgur.com/6WMV2Az.png
 URL: http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Teleantioquia Plus (1080p)
+Categoría: 🇨🇴 Colombia
+User-Agent: Predeterminado
+Logo: https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es
+URL: http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Telecafe (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
@@ -718,11 +725,11 @@ Logo: https://i.imgur.com/aKHGRyk.png
 URL: http://190.61.47.54:8000/play/a015/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telemedellin (720p)
+Nombre: Telemedellin (1080p)
 Categoría: 🇨🇴 Colombia
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+User-Agent: Predeterminado
 Logo: https://i.imgur.com/GnxzRTC.png
-URL: https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+URL: http://181.78.82.130:8000/play/a0ru/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TeleNostalgia (1080p)
@@ -751,7 +758,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeveColombia (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -842,7 +849,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0UN87vB.png
 URL: http://181.78.12.119:16123/play/ch19/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zoom (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -854,7 +861,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 121
+  Total de streams: 122
   Funcionan: 99
-  Fallan: 22
+  Fallan: 23
 ==================================================

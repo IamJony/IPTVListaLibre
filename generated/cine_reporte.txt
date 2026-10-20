@@ -2,7 +2,7 @@
   REPORTE DE CANALES DE CINE
   Fuente: world_ip_tv
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.215024
+  Fecha: 2026-10-20 19:33:32.518424
 ==================================================
 
 Nombre: AMC Latin America (1080p)
@@ -17,7 +17,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png
 URL: http://45.171.64.30:6060/play/a005/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel International (720p)
 Categoría: 🎬 Cine
@@ -38,7 +38,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: http://45.171.64.30:6060/play/a04n/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel Latin America (1080p)
 Categoría: 🎬 Cine
@@ -117,13 +117,6 @@ Logo: https://i.imgur.com/cZWoJWD.png
 URL: https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Cinemax Latin America HD (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/cZWoJWD.png
-URL: http://38.65.175.84:8000/play/a093/index.m3u8
-Estado: FUNCIONA
----
 Nombre: Golden Edge (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -136,12 +129,12 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 URL: http://45.171.64.30:6060/play/a03i/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
-  Total de streams: 19
-  Funcionan: 11
-  Fallan: 8
+  Total de streams: 18
+  Funcionan: 13
+  Fallan: 5
 ==================================================

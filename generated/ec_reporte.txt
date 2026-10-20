@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.112683
+  Fecha: 2026-10-20 19:33:32.514360
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -72,7 +72,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mkf2TJ6.png
 URL: https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Curiquingue TV (720p)
 Categoría: 🇪🇨 Ecuador
@@ -184,7 +184,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TyckDSV.png
 URL: https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Imperio TV Canal 6 (720p)
 Categoría: 🇪🇨 Ecuador
@@ -268,7 +268,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ez1NxwJ.jpg
 URL: http://200.7.219.221:8088/live/livetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mario Pinto TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -394,7 +394,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a97MaV2.png
 URL: https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red TVE Ventanas (432p)
 Categoría: 🇪🇨 Ecuador
@@ -492,7 +492,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/xIuFSnx.png
 URL: https://video2.lhdserver.es/tvcisne/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Color Canal 36 (720p)
 Categoría: 🇪🇨 Ecuador
@@ -562,14 +562,14 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/294FDCB.png
 URL: https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Wuan+
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pJNx1za.png
 URL: https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Zaracay TV (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 53
-  Fallan: 29
+  Funcionan: 50
+  Fallan: 32
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.213898
+  Fecha: 2026-10-20 19:33:32.517307
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -44,6 +44,48 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png
 URL: https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://especial7tv.gestec-video.com/hls/regional.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV Cordoba
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV Jaen
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV Jerez
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV Malaga
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+Estado: FUNCIONA
+---
+Nombre: 7TV Sevilla
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rnzMR9R.png
+URL: https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 Estado: FUNCIONA
 ---
 Nombre: 8 La Marina TV (576p)
@@ -282,7 +324,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3yeGDTP.png
 URL: https://cloudvideo.servers10.com:8081/8004/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 1 Mar Menor Torre Pacheco (1080p)
 Categoría: 🇪🇸 España
@@ -877,7 +919,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ulSkAjZ.png
 URL: https://interalmeria.tv/directo/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Intercomarcal TV (576p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1962,7 +2004,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V23bltn.png
 URL: https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Valles Visio (1080p)
 Categoría: 🇪🇸 España
@@ -2030,7 +2072,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 289
-  Funcionan: 149
-  Fallan: 140
+  Total de streams: 295
+  Funcionan: 154
+  Fallan: 141
 ==================================================

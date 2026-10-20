@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:56.951221
+  Fecha: 2026-10-20 19:33:32.510932
 ==================================================
 
 Nombre: 5tv
@@ -51,7 +51,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tv.alterna.ar/alternatv.png
 URL: https://tv.alterna.ar/stream/hls/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -114,7 +114,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I06TSx0.png
 URL: https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cable Imagen Armstrong (540p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -275,7 +275,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/liyTNzK.png
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 Jujuy
 Categoría: 🇦🇷 Argentina
@@ -760,6 +760,13 @@ Logo: https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ul
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Fox Sports 2 (576i)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/oG7HzEf.png
+URL: https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Fox Sports (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -1024,7 +1031,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png
 URL: https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Senillosa TV
 Categoría: 🇦🇷 Argentina
@@ -1052,7 +1059,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1073,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: http://45.171.64.30:6060/play/a04n/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Space South (720p)
 Categoría: 🇦🇷 Argentina
@@ -1085,14 +1092,14 @@ Estado: FUNCIONA
 Nombre: Tele Posadas (720p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/88MVgwX.png
+Logo: No disponible
 URL: https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Tele Posadas SD (576p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/88MVgwX.png
+Logo: https://i.imgur.com/sfUBb7I.jpeg
 URL: https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 Estado: FUNCIONA
 ---
@@ -1129,7 +1136,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HNcCX3h.png
 URL: http://200.115.120.1:8000/play/ca016/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telefe Rosario (720p) [Geo-blocked]
 Categoría: 🇦🇷 Argentina
@@ -1199,7 +1206,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Canal 72
 Categoría: 🇦🇷 Argentina
@@ -1241,7 +1248,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0MXsQ25.png
 URL: https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TyC Sports (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1351,7 +1358,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 192
-  Funcionan: 149
-  Fallan: 43
+  Total de streams: 193
+  Funcionan: 151
+  Fallan: 42
 ==================================================

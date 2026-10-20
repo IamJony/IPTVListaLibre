@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.113059
+  Fecha: 2026-10-20 19:33:32.514659
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/960px-Canal_2_TCS.png
 URL: http://186.33.26.18:8000/play/a0qp/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Impresionante (480p)
 Categoría: 🇸🇻 El Salvador
@@ -79,7 +79,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WMv3yEf.png
 URL: http://186.33.26.18:8000/play/a0nw/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 15 El Zamorano [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 18
-  Fallan: 21
+  Funcionan: 16
+  Fallan: 23
 ==================================================

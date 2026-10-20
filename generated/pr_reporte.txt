@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.213711
+  Fecha: 2026-10-20 19:33:32.517121
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tsajuxi.png
 URL: https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Candelita TV (480p)
 Categoría: 🇵🇷 Puerto Rico
@@ -52,6 +52,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/YqTcGJZ.png
 URL: https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 Estado: FALLA
+---
+Nombre: EBN Television WIDP (1080p)
+Categoría: 🇵🇷 Puerto Rico
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/4OCptwT.png
+URL: https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Familia Vision HD [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -135,14 +142,14 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png
 URL: https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WAPA-TV 4.1 (1080p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kqq7tD9.png
 URL: https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WECN (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -182,7 +189,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 25
+  Total de streams: 26
   Funcionan: 20
-  Fallan: 5
+  Fallan: 6
 ==================================================

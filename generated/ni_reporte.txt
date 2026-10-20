@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - NI
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.114200
+  Fecha: 2026-10-20 19:33:32.515971
 ==================================================
 
 Nombre: Canal 6 (Nicaragua) (480p) [Not 24/7]
@@ -18,11 +18,11 @@ Logo: https://i.imgur.com/chXNX9k.jpeg
 URL: https://cdn.amixtv.com/c7boaco/index.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 10 (Nicaragua) (360p) [Geo-blocked]
+Nombre: Canal 10 (Nicaragua)
 Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ztp781b.png
-URL: https://www.canal10.com.ni/envivo
+URL: https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Canal 15 (1080p) [Not 24/7]
@@ -93,7 +93,7 @@ Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/m0Zdxiz.png
 URL: https://streamingcws30.com/tn8/videotn8/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV 45 (720p) [Not 24/7]
 Categoría: 🇳🇮 Nicaragua
@@ -114,7 +114,7 @@ Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9q7Ajz4.png
 URL: https://cdn.vivamediosni.com/viva_720p/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Viva TV [Not 24/7]
 Categoría: 🇳🇮 Nicaragua

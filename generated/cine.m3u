@@ -1,10 +1,16 @@
 #EXTM3U
 # Canales de Cine
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-19 20:41:57.215027
+# Fecha: 2026-10-20 19:33:32.518426
+
+#EXTINF:-1 tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="🎬 Cine",AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="🎬 Cine",Star Channel International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="🎬 Cine",Space (1080p)
+http://45.171.64.30:6060/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="🎬 Cine",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
@@ -30,9 +36,9 @@ http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="🎬 Cine",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="🎬 Cine",Cinemax Latin America HD (1080p)
-http://38.65.175.84:8000/play/a093/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="🎬 Cine",Golden Edge (1080p)
 http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="🎬 Cine",TNT Latin America (1080p)
+http://45.171.64.30:6060/play/a03i/index.m3u8
 

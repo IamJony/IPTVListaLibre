@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.002861
+  Fecha: 2026-10-20 19:33:32.511752
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -58,13 +58,6 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/U98Z5zn.png
 URL: http://15.204.246.24:8080/BolivisionHD/index.m3u8
-Estado: FALLA
----
-Nombre: Bolivision Santa Cruz (720p)
-Categoría: 🇧🇴 Bolivia
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png
-URL: https://d1mws3umreue1g.cloudfront.net/index.m3u8
 Estado: FALLA
 ---
 Nombre: Canal 15 Teleor (720p)
@@ -128,7 +121,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png
 URL: https://master.tucableip.com/dmoda/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EL DEBER (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -191,7 +184,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4A7R2Jt.png
 URL: http://158.172.155.130:8000/play/a0e6/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Plus TLT (720p)
 Categoría: 🇧🇴 Bolivia
@@ -240,7 +233,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yzSNWZ3.png
 URL: https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Universitaria San Andres (720p)
 Categoría: 🇧🇴 Bolivia
@@ -443,14 +436,14 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vos TV (Bolivia) (720p)
 Categoría: 🇧🇴 Bolivia
@@ -483,7 +476,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 68
-  Funcionan: 47
-  Fallan: 21
+  Total de streams: 67
+  Funcionan: 42
+  Fallan: 25
 ==================================================

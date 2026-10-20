@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-19 20:41:57.113771
+  Fecha: 2026-10-20 19:33:32.515520
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -86,7 +86,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KIpSdQC.png
 URL: http://200.115.120.1:8000/play/ca020/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Azteca 7 (1080p)
 Categoría: 🇲🇽 México
@@ -163,7 +163,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -184,7 +184,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0nzNMuP.jpeg
 URL: https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Cancun (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -394,7 +394,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hywjKNo.jpg
 URL: https://video2.lhdserver.es/despiertatv/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Distrito Comedia (1080p)
 Categoría: 🇲🇽 México
@@ -457,7 +457,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Golden (1080p)
 Categoría: 🇲🇽 México
@@ -541,7 +541,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/N4meE8I.png
 URL: https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Justicia TV (Mexico) (720p)
 Categoría: 🇲🇽 México
@@ -877,7 +877,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/NVxHxJn.png
 URL: http://190.61.47.54:8000/play/a029/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telehit Musica (1080p)
 Categoría: 🇲🇽 México
@@ -933,7 +933,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jYMpVQA.png
 URL: http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TRC TV (720p)
 Categoría: 🇲🇽 México
@@ -1052,7 +1052,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pxkDpTU.jpeg
 URL: https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV UJAT (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1178,7 +1178,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9ZXCQvy.png
 URL: https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: XHGV-TDT (360p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1226,6 +1226,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 174
-  Funcionan: 104
-  Fallan: 70
+  Funcionan: 108
+  Fallan: 66
 ==================================================

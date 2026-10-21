@@ -1,7 +1,7 @@
 #EXTM3U
 # Canales de Cine
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-20 19:33:32.518426
+# Fecha: 2026-10-21 19:32:37.782428
 
 #EXTINF:-1 tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="🎬 Cine",AMC Series Latin America (1080p)
 http://45.171.64.30:6060/play/a005/index.m3u8
@@ -35,6 +35,9 @@ http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="🎬 Cine",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZWoJWD.png" group-title="🎬 Cine",Cinemax Latin America HD (1080p)
+http://38.65.175.84:8000/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="🎬 Cine",Golden Edge (1080p)
 http://38.19.41.46:8081/GOLDENEDGE/index.m3u8

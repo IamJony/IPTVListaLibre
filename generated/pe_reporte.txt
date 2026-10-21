@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-20 19:33:32.516606
+  Fecha: 2026-10-21 19:32:37.779623
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -86,7 +86,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/Bt0yGtw.jpeg
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Antena SUR (720p)
 Categoría: 🇵🇪 Perú
@@ -373,7 +373,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/1LuNEX4.png
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Galactica TV
 Categoría: 🇵🇪 Perú
@@ -443,7 +443,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Justicia TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -653,7 +653,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gbjdiLW.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ovacion TV (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -877,7 +877,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GtNkuAc.png
 URL: https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sqala TV (720p)
 Categoría: 🇵🇪 Perú
@@ -891,14 +891,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zgyNuVE.jpeg
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Super Canal (Peru) (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eotfCMd.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecolor Yurimaguas (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -912,7 +912,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/HzWRvXc.png
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teleselva (720p)
 Categoría: 🇵🇪 Perú
@@ -926,7 +926,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Tarapoto (720p)
 Categoría: 🇵🇪 Perú
@@ -1143,7 +1143,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/m44jTZK.png
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VNP
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 139
-  Fallan: 33
+  Funcionan: 135
+  Fallan: 37
 ==================================================

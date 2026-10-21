@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-20 19:33:32.510932
+  Fecha: 2026-10-21 19:32:37.769910
 ==================================================
 
 Nombre: 5tv
@@ -191,7 +191,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IABFaH1.png
 URL: http://intelincloud01.com.ar/hls/cn3/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Tacural
 Categoría: 🇦🇷 Argentina
@@ -660,7 +660,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Jr. Latin America (1080p)
 Categoría: 🇦🇷 Argentina
@@ -674,7 +674,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
 URL: http://181.78.14.26:4000/play/a073/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Jr. Latin America South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -765,7 +765,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oG7HzEf.png
 URL: https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Fox Sports (1080p)
 Categoría: 🇦🇷 Argentina
@@ -842,7 +842,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HXRpRlK.png
 URL: https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MusicTop (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1045,7 +1045,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/W2EUIL2.png
 URL: https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Solive TV
 Categoría: 🇦🇷 Argentina
@@ -1059,7 +1059,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1080,7 +1080,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: T5 Satelital
 Categoría: 🇦🇷 Argentina
@@ -1359,6 +1359,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 193
-  Funcionan: 151
-  Fallan: 42
+  Funcionan: 145
+  Fallan: 48
 ==================================================

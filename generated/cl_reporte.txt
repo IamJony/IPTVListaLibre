@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-20 19:33:32.512102
+  Fecha: 2026-10-21 19:32:37.772703
 ==================================================
 
 Nombre: 13C (1080p)
@@ -163,7 +163,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DmdBf9S.png
 URL: https://v1.tustreaming.cl/aysentv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bio Bio TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -240,7 +240,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dgUHqrQ.png
 URL: https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 74 San Antonio
 Categoría: 🇨🇱 Chile
@@ -310,14 +310,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/F1it6fh.png
 URL: https://v2.tustreaming.cl/chilechannel/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ChileVision (1080p)
 Categoría: 🇨🇱 Chile
@@ -359,7 +359,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H0XNbMS.png
 URL: https://v2.tustreaming.cl/clicktv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Club TV
 Categoría: 🇨🇱 Chile
@@ -387,14 +387,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lz2OlKf.png
 URL: https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cooperativa (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -555,7 +555,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
 URL: https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Estacion Limache TV (720p)
 Categoría: 🇨🇱 Chile
@@ -716,7 +716,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I0nzI1y.png
 URL: https://v1.tustreaming.cl/melinkana/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Metro TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -877,7 +877,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8SCnoiZ.png
 URL: https://v2.tustreaming.cl/odiseatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oli TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1031,7 +1031,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png
 URL: https://v2.tustreaming.cl/fantasiatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Fiessta (720p)
 Categoría: 🇨🇱 Chile
@@ -1122,7 +1122,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png
 URL: https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Universal (720p)
 Categoría: 🇨🇱 Chile
@@ -1199,7 +1199,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zcwQyPI.png
 URL: https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ritoque TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1220,7 +1220,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w91IBj7.png
 URL: https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RTV Nuble
 Categoría: 🇨🇱 Chile
@@ -1353,7 +1353,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNYDqhp.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Teletrak TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1381,7 +1381,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FnInQRd.png
 URL: https://v2.tustreaming.cl/tevex/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Thema Television (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1584,7 +1584,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mpNcG5F.png
 URL: https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision TV (Chile)
 Categoría: 🇨🇱 Chile
@@ -1646,6 +1646,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 234
-  Funcionan: 176
-  Fallan: 58
+  Funcionan: 179
+  Fallan: 55
 ==================================================

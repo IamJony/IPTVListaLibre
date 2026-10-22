@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-21 19:32:37.773667
+  Fecha: 2026-10-22 19:24:56.802977
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -114,7 +114,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wNSUMhJ.png
 URL: https://eu1.servers10.com:8081/8056/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Calima TV (720p)
 Categoría: 🇨🇴 Colombia
@@ -135,7 +135,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -184,7 +184,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/edaAexc.png
 URL: https://movil.ejeserver.com/live/nets.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Oracion Con Son (1080p)
 Categoría: 🇨🇴 Colombia
@@ -324,7 +324,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LNl2o9q.jpg
 URL: https://movil.ejeserver.com/live/cncsantander.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Tulua (1080p)
 Categoría: 🇨🇴 Colombia
@@ -632,7 +632,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -674,7 +674,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XHtpEfu.png
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Vid (1080p)
 Categoría: 🇨🇴 Colombia
@@ -862,6 +862,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 122
-  Funcionan: 101
-  Fallan: 21
+  Funcionan: 103
+  Fallan: 19
 ==================================================

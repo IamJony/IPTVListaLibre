@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-21 19:32:37.777849
+  Fecha: 2026-10-22 19:24:56.807107
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -142,7 +142,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4DfnOTA.png
 URL: http://181.78.106.127:5000/play/ca064/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: bitMe (1080p)
 Categoría: 🇲🇽 México
@@ -331,7 +331,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8ign49i.png
 URL: https://video.cdmx.gob.mx/redes/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CB TV Michoacan
 Categoría: 🇲🇽 México
@@ -863,7 +863,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XkpDSmO.png
 URL: https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleFormula (720p)
 Categoría: 🇲🇽 México
@@ -926,7 +926,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png
 URL: http://167.249.23.102:8000/play/a0g8/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Transmedia Television Morelia (614p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1226,6 +1226,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 174
-  Funcionan: 109
-  Fallan: 65
+  Funcionan: 111
+  Fallan: 63
 ==================================================

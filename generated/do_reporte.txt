@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-21 19:32:37.774978
+  Fecha: 2026-10-22 19:24:56.804325
 ==================================================
 
 Nombre: A7 TV (1080p)
@@ -191,14 +191,14 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png
 URL: https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 70 (720p)
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/LfcHA2d.jpg
 URL: https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Catorce (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -289,14 +289,14 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ybud4dI.png
 URL: https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cibaena TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iHjdckl.png
 URL: https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cielo TV (1080p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -324,7 +324,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/fJD7OxB.png
 URL: https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Claro Vision TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -842,7 +842,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg
 URL: https://soportedvb.click:3877/live/merlavisionlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mega Cine TV (1080p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -926,7 +926,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g7iFN3s.png
 URL: https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Navarrete Television (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -975,7 +975,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QghtwMB.jpeg
 URL: https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Onda TV (Dominican Republic) (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1052,7 +1052,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png
 URL: https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: R Television [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1605,7 +1605,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ptQyOMi.png
 URL: https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Luz (480p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1647,7 +1647,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MhloaFB.png
 URL: https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVS (Dominican Republic) (540p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1724,7 +1724,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://xtratvrd.com/logo512.png
 URL: https://edge.essastream.com/xtratv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Xtremo Channel (720p) [Geo-blocked]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1765,6 +1765,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 251
-  Funcionan: 201
-  Fallan: 50
+  Funcionan: 199
+  Fallan: 52
 ==================================================

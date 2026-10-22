@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-21 19:32:37.769910
+  Fecha: 2026-10-22 19:24:56.800555
 ==================================================
 
 Nombre: 5tv
@@ -23,7 +23,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LnXQkIU.png
 URL: http://138.59.227.20:8000/play/a05u/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ABTV Bariloche
 Categoría: 🇦🇷 Argentina
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -191,7 +191,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IABFaH1.png
 URL: http://intelincloud01.com.ar/hls/cn3/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Tacural
 Categoría: 🇦🇷 Argentina
@@ -261,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -534,7 +534,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CEuPoqG.png
 URL: https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Celta TV (240p)
 Categoría: 🇦🇷 Argentina
@@ -737,6 +737,13 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBBZR1X.png
 URL: http://138.59.227.20:8000/play/a05s/index.m3u8
+Estado: FALLA
+---
+Nombre: ESPN Premium (Argentina) HD (1080p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
+URL: http://158.172.155.130:8000/play/a0ao/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Europa Europa (1080p)
@@ -760,7 +767,7 @@ Logo: https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ul
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Fox Sports 2 (576i)
+Nombre: Fox Sports 2 (Argentina) (576i)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oG7HzEf.png
@@ -772,7 +779,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
 URL: http://138.59.227.20:8000/play/a085/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Garage TV Latin America
 Categoría: 🇦🇷 Argentina
@@ -842,7 +849,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HXRpRlK.png
 URL: https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: MusicTop (1080p)
 Categoría: 🇦🇷 Argentina
@@ -891,7 +898,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GJbRWwH.png
 URL: http://138.59.227.20:8000/play/a05t/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Panc TV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -940,7 +947,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pXS38zo.png
 URL: https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Maria TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1045,7 +1052,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/W2EUIL2.png
 URL: https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Solive TV
 Categoría: 🇦🇷 Argentina
@@ -1059,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1089,7 +1096,7 @@ Logo: https://i.imgur.com/ZcD0rUP.png
 URL: https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Tele Posadas (720p)
+Nombre: Tele Posadas (576p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: No disponible
@@ -1192,7 +1199,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/2vlskg.png
 URL: https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TIV Television (720p)
 Categoría: 🇦🇷 Argentina
@@ -1358,7 +1365,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 193
-  Funcionan: 145
-  Fallan: 48
+  Total de streams: 194
+  Funcionan: 139
+  Fallan: 55
 ==================================================

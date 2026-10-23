@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.802977
+  Fecha: 2026-10-23 19:31:29.730027
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -121,7 +121,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6YxtyUR.jpeg
 URL: https://movil.ejeserver.com/live/calimatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Capital (1080p)
 Categoría: 🇨🇴 Colombia
@@ -198,7 +198,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qxBDhV.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal RCN (1080p)
 Categoría: 🇨🇴 Colombia
@@ -422,7 +422,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://www.tdtparatodos.tv/sites/default/files/la_kalle.png
 URL: http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Morada Radio TV (720p)
 Categoría: 🇨🇴 Colombia
@@ -555,7 +555,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qWNSxq8.png
 URL: http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCN HD2 (1080p)
 Categoría: 🇨🇴 Colombia
@@ -632,7 +632,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -667,14 +667,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gBZFZNv.png
 URL: http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Mocoa Canal 10 (720p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XHtpEfu.png
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Vid (1080p)
 Categoría: 🇨🇴 Colombia
@@ -695,7 +695,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es
 URL: http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecafe (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -814,7 +814,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tMl4ISO.png
 URL: https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ultra Casanare TV (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -862,6 +862,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 122
-  Funcionan: 103
-  Fallan: 19
+  Funcionan: 100
+  Fallan: 22
 ==================================================

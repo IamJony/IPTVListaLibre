@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.808702
+  Fecha: 2026-10-23 19:31:29.738810
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -184,7 +184,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pC57NYv.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 Catacaos (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -296,7 +296,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g4pZ3ZW.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: DeltaTV
 Categoría: 🇵🇪 Perú
@@ -359,7 +359,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s
 URL: https://mc.servidor.stream:19360/8274/8274.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Frecuencia Amazonica
 Categoría: 🇵🇪 Perú
@@ -583,7 +583,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sfNL6Bv.png
 URL: https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Monterrico TV
 Categoría: 🇵🇪 Perú
@@ -667,7 +667,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wkdibpv.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Panamericana TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -716,7 +716,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wsJ8Ag2.png
 URL: https://mc.servidor.stream:19360/8244/8244.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Qollasuyo TV (720p)
 Categoría: 🇵🇪 Perú
@@ -926,7 +926,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Tarapoto (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 130
-  Fallan: 42
+  Funcionan: 136
+  Fallan: 36
 ==================================================

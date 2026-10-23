@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.805332
+  Fecha: 2026-10-23 19:31:29.732975
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -44,7 +44,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VqwyCV1.png
 URL: https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Austral TV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -345,7 +345,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyBKaXI.png
 URL: https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Plus TV (Ecuador) (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -562,7 +562,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/294FDCB.png
 URL: https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Wuan+
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 54
-  Fallan: 28
+  Funcionan: 53
+  Fallan: 29
 ==================================================

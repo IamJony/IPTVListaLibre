@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.800555
+  Fecha: 2026-10-23 19:31:29.727178
 ==================================================
 
 Nombre: 5tv
@@ -23,7 +23,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LnXQkIU.png
 URL: http://138.59.227.20:8000/play/a05u/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ABTV Bariloche
 Categoría: 🇦🇷 Argentina
@@ -51,7 +51,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tv.alterna.ar/alternatv.png
 URL: https://tv.alterna.ar/stream/hls/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -261,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -459,13 +459,6 @@ Logo: https://i.imgur.com/PblsZxz.jpeg
 URL: https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal E (720p)
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg
-URL: https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-Estado: FUNCIONA
----
 Nombre: Canal Luz
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -534,7 +527,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CEuPoqG.png
 URL: https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Celta TV (240p)
 Categoría: 🇦🇷 Argentina
@@ -625,7 +618,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
@@ -674,7 +667,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
 URL: http://181.78.14.26:4000/play/a073/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Jr. Latin America South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -702,7 +695,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -716,7 +709,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -737,7 +730,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBBZR1X.png
 URL: http://138.59.227.20:8000/play/a05s/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ESPN Premium (Argentina) HD (1080p)
 Categoría: 🇦🇷 Argentina
@@ -779,7 +772,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
 URL: http://138.59.227.20:8000/play/a085/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Garage TV Latin America
 Categoría: 🇦🇷 Argentina
@@ -851,6 +844,13 @@ Logo: https://i.imgur.com/HXRpRlK.png
 URL: https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Multivision Federal
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/jX0lqy3.png
+URL: https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+Estado: FUNCIONA
+---
 Nombre: MusicTop (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -891,14 +891,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jTX2vp0.png
 URL: https://ntvcanal7.com.ar:81/dash/stream.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GJbRWwH.png
 URL: http://138.59.227.20:8000/play/a05t/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Panc TV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -933,7 +933,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6f8EYC2.jpeg
 URL: https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Quiero Musica en mi Idioma (1080p)
 Categoría: 🇦🇷 Argentina
@@ -947,7 +947,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pXS38zo.png
 URL: https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Maria TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1366,6 +1366,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 194
-  Funcionan: 139
-  Fallan: 55
+  Funcionan: 150
+  Fallan: 44
 ==================================================

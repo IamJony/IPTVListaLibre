@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.806651
+  Fecha: 2026-10-23 19:31:29.734961
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png
 URL: https://amixtv.com:8081/talangavision/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 11 (Honduras) (1080p)
 Categoría: 🇭🇳 Honduras
@@ -219,7 +219,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4EbHIvf.png
 URL: https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Jehova TV
 Categoría: 🇭🇳 Honduras
@@ -541,7 +541,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V9Fpd3Y.png
 URL: https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VTV (Honduras) (480p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -561,6 +561,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 79
-  Funcionan: 48
-  Fallan: 31
+  Funcionan: 47
+  Fallan: 32
 ==================================================

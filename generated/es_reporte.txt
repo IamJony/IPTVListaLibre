@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-22 19:24:56.809698
+  Fecha: 2026-10-23 19:31:29.740146
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -247,7 +247,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: http://88.212.15.17/live/axn_hun/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AXN CEE Bulgary
 Categoría: 🇪🇸 España
@@ -261,7 +261,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: http://88.212.15.17/live/test_axn/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AXN CEE Romania
 Categoría: 🇪🇸 España
@@ -310,6 +310,13 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/khytcgd.png
 URL: https://tvdatta.com:3021/live/biosferatvlive.m3u8
+Estado: FALLA
+---
+Nombre: Boing (Spain)
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/nUYuCAP.png
+URL: http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 Estado: FALLA
 ---
 Nombre: Bon Dia TV (1080p)
@@ -366,7 +373,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -541,13 +548,6 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tbboALa.png
 URL: http://89.140.229.5/hls1/cancionero.m3u8
-Estado: FALLA
----
-Nombre: Cap Terre (1080p)
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/capterre_white.png
-URL: http://145.239.5.177/359a/index.m3u8
 Estado: FALLA
 ---
 Nombre: Cetelmon TV (404p)
@@ -1094,7 +1094,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/FTGbu8A.png
 URL: https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mijas 3.40TV (720p)
 Categoría: 🇪🇸 España
@@ -1556,7 +1556,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5pMo7dL.png
 URL: http://88.212.15.17/live/real_madrid_tv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ribera TV (576p)
 Categoría: 🇪🇸 España
@@ -2073,6 +2073,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 295
-  Funcionan: 157
-  Fallan: 138
+  Funcionan: 156
+  Fallan: 139
 ==================================================

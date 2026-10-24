@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-23 19:31:29.738810
+  Fecha: 2026-10-24 18:20:11.632620
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -247,7 +247,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tFRmMkf.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chikitoonz (1080p)
 Categoría: 🇵🇪 Perú
@@ -380,7 +380,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -870,7 +870,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ufnWpUf.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SolTV (Peru)
 Categoría: 🇵🇪 Perú
@@ -989,14 +989,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MFQpLuQ.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV MAR (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
@@ -1122,7 +1122,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gyuoNZk.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision Sur (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 136
-  Fallan: 36
+  Funcionan: 138
+  Fallan: 34
 ==================================================

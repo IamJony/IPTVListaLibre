@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - MX
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-23 19:31:29.735561
+# Fecha: 2026-10-24 18:20:11.631226
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽 México",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -47,9 +47,6 @@ https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="🇲🇽 México",Bandamax (1080p)
 http://181.78.106.127:5000/play/ca064/index.m3u8
-
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx@SD" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="🇲🇽 México",California Medios TV (720p)
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="🇲🇽 México",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
@@ -104,9 +101,6 @@ http://200.115.120.1:8000/play/ca030/index.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="🇲🇽 México",Distrito Comedia (1080p)
 http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
-
-#EXTINF:-1 tvg-id="EclipseTV.mx@SD" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="🇲🇽 México",Eclipse TV (720p)
-https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="🇲🇽 México",El Chavo TV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -230,9 +224,6 @@ https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-id="TeleSaltillo.mx@SD" tvg-logo="https://i.imgur.com/PgBtvgO.png" group-title="🇲🇽 México",Tele Saltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
-
-#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="🇲🇽 México",Tele UV [Not 24/7]
-https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="🇲🇽 México",Tele Yucatan (1080p) [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8

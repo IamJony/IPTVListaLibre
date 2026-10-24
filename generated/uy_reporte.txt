@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - UY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-23 19:31:29.741340
+  Fecha: 2026-10-24 18:20:11.634345
 ==================================================
 
 Nombre: Canal 5 (Uruguay) (720p)
@@ -11,11 +11,53 @@ Logo: https://i.imgur.com/IpYxSr1.png
 URL: https://tinyurl.com/canal5uy
 Estado: FALLA
 ---
+Nombre: Canal ALMA
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rB7iFUF.jpg
+URL: https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Canal Mas (720p)
 Categoría: 🇺🇾 Uruguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gs1L1mW.png
 URL: https://canalmasuruguay.com/hls/master-abr.m3u8
+Estado: FUNCIONA
+---
+Nombre: Canal Once Plus
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/TYiMGUD.png
+URL: https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Desde El Sur TV
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/y3vNkEU.jpeg
+URL: https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: La Elegida Television
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/zdrbjDc.png
+URL: https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Mision Vida TV
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/8JgBuTm.png
+URL: https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: TV Universal Uruguay
+Categoría: 🇺🇾 Uruguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/KD4aZ7W.jpeg
+URL: https://stream.universal.org.uy/hls/0/stream.m3u8
 Estado: FUNCIONA
 ---
 Nombre: UCL (1080p)
@@ -28,7 +70,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 3
-  Funcionan: 2
+  Total de streams: 9
+  Funcionan: 8
   Fallan: 1
 ==================================================

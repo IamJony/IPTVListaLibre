@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-23 19:31:29.727178
+  Fecha: 2026-10-24 18:20:11.625719
 ==================================================
 
 Nombre: 5tv
@@ -198,7 +198,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RKvSa52.jpeg
 URL: http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 Esquel
 Categoría: 🇦🇷 Argentina
@@ -275,7 +275,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/liyTNzK.png
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Jujuy
 Categoría: 🇦🇷 Argentina
@@ -408,7 +408,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png
 URL: https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 50 Morteros
 Categoría: 🇦🇷 Argentina
@@ -485,7 +485,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://new.opencaster.com/uploads/logos/logo_306_1756336707.png
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Santa Maria (360p)
 Categoría: 🇦🇷 Argentina
@@ -667,7 +667,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
 URL: http://181.78.14.26:4000/play/a073/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Jr. Latin America South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -870,7 +870,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NET TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -933,7 +933,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6f8EYC2.jpeg
 URL: https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Quiero Musica en mi Idioma (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1157,7 +1157,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png
 URL: https://canal11saltatv.unpocodeawita.workers.dev/
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefe Tucuman (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1213,7 +1213,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Canal 72
 Categoría: 🇦🇷 Argentina
@@ -1366,6 +1366,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 194
-  Funcionan: 150
-  Fallan: 44
+  Funcionan: 146
+  Fallan: 48
 ==================================================

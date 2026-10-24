@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-23 19:31:29.737344
+  Fecha: 2026-10-24 18:20:11.632275
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -9,7 +9,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ABC-TV Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -44,7 +44,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
 URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bruno Masi TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -65,7 +65,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lafmmRa.jpeg
 URL: https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 TV Max (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -128,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0RypDUY.png
 URL: https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Educanal (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -142,7 +142,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GO TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -240,7 +240,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
@@ -254,7 +254,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -338,14 +338,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Regional TV Yaguaron (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iL5JnSy.jpeg
 URL: https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Republica TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -415,7 +415,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Mfypr0t.png
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Canindeyu (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 57
-  Fallan: 8
+  Funcionan: 53
+  Fallan: 12
 ==================================================

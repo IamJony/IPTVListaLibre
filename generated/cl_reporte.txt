@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-23 19:31:29.728920
+  Fecha: 2026-10-24 18:20:11.626995
 ==================================================
 
 Nombre: 13C (1080p)
@@ -331,7 +331,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -359,7 +359,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H0XNbMS.png
 URL: https://v2.tustreaming.cl/clicktv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Club TV
 Categoría: 🇨🇱 Chile
@@ -387,7 +387,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lz2OlKf.png
 URL: https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cooperativa (720p)
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1108,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350
 URL: https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio UC (720p)
 Categoría: 🇨🇱 Chile
@@ -1353,7 +1353,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNYDqhp.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teletrak TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1646,6 +1646,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 234
-  Funcionan: 184
-  Fallan: 50
+  Funcionan: 183
+  Fallan: 51
 ==================================================

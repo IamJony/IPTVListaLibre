@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.625719
+  Fecha: 2026-10-25 18:32:37.277614
 ==================================================
 
 Nombre: 5tv
@@ -191,7 +191,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IABFaH1.png
 URL: http://intelincloud01.com.ar/hls/cn3/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Tacural
 Categoría: 🇦🇷 Argentina
@@ -380,7 +380,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OI97Sgq.png
 URL: http://arcast.net:1935/mp/mp/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 13 San Luis
 Categoría: 🇦🇷 Argentina
@@ -408,7 +408,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png
 URL: https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 50 Morteros
 Categoría: 🇦🇷 Argentina
@@ -506,7 +506,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nPG38B2.png
 URL: https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Universidad
 Categoría: 🇦🇷 Argentina
@@ -576,7 +576,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7PBkvRp.png
 URL: https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmos Tv
 Categoría: 🇦🇷 Argentina
@@ -618,7 +618,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
@@ -667,7 +667,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
 URL: http://181.78.14.26:4000/play/a073/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Jr. Latin America South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -695,7 +695,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -709,7 +709,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -722,7 +722,7 @@ Nombre: El Trece (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TrgBAdA.png
-URL: http://15.204.246.24:8080/eltreceHD/index.m3u8
+URL: https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 Estado: FALLA
 ---
 Nombre: Encuentro (720p)
@@ -870,7 +870,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: NET TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1094,20 +1094,6 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZcD0rUP.png
 URL: https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
-Estado: FUNCIONA
----
-Nombre: Tele Posadas (576p) [Not 24/7]
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: No disponible
-URL: https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
-Estado: FALLA
----
-Nombre: Tele Posadas SD (576p) [Not 24/7]
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/sfUBb7I.jpeg
-URL: https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Telecinco (240p)
@@ -1213,7 +1199,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Canal 72
 Categoría: 🇦🇷 Argentina
@@ -1365,7 +1351,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 194
-  Funcionan: 146
-  Fallan: 48
+  Total de streams: 192
+  Funcionan: 141
+  Fallan: 51
 ==================================================

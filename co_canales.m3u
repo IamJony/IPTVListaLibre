@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-24 18:20:11.627782
+# Fecha: 2026-10-25 18:32:37.280199
 
 #EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="🇨🇴 Colombia",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
@@ -47,9 +47,6 @@ https://movil.ejeserver.com/live/calimatv.m3u8
 
 #EXTINF:-1 tvg-id="CanalCapital.co@SD" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="🇨🇴 Colombia",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-
-#EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="🇨🇴 Colombia",Canal CHD
-https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="🇨🇴 Colombia",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
@@ -146,6 +143,9 @@ https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co@SD" tvg-logo="https://i.imgur.com/SQ79Wsb.png" group-title="🇨🇴 Colombia",Emisora Comunitaria 104.1 FM
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="EnlaceTelevision.co@SD" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="🇨🇴 Colombia",Enlace Television (1080p)
+http://181.78.12.119:16123/play/ch33/index.m3u8
+
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" group-title="🇨🇴 Colombia",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
@@ -155,6 +155,9 @@ https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="HeliconiaRadioTV.co@SD" tvg-logo="https://i.imgur.com/AJ182BG.png" group-title="🇨🇴 Colombia",Heliconia Radio TV (720p)
 https://eu1.servers10.com:8081/8178/index.m3u8
 
+#EXTINF:-1 tvg-id="HogarTV.co@SD" tvg-logo="https://i.imgur.com/zqovMhf.png" group-title="🇨🇴 Colombia",Hogar TV (1080p)
+http://190.61.47.54:8000/play/a01n/index.m3u8
+
 #EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="🇨🇴 Colombia",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 
@@ -163,9 +166,6 @@ https://movil.ejeserver.com/live/lamoradatv.m3u8
 
 #EXTINF:-1 tvg-id="MarsellaTV.co@SD" tvg-logo="https://i.imgur.com/wwYOa00.png" group-title="🇨🇴 Colombia",Marsella TV
 https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MasNorteTV.co@SD" tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="🇨🇴 Colombia",Mas Norte TV [Not 24/7]
-https://live.arnoproducciones.com/hls/norte.m3u8
 
 #EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="🇨🇴 Colombia",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
@@ -199,6 +199,9 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 
 #EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" group-title="🇨🇴 Colombia",Radiola TV (1080p)
 http://158.172.217.18:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="RanchenatoTV.co@SD" tvg-logo="https://i.imgur.com/TCv5NqN.png" group-title="🇨🇴 Colombia",Ranchenato TV (1080p)
+http://181.78.12.119:16123/play/ch15/index.m3u8
 
 #EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="🇨🇴 Colombia",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
@@ -288,6 +291,9 @@ https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="TVGolfoUraba.co@SD" tvg-logo="https://i.imgur.com/Nd5axnS.png" group-title="🇨🇴 Colombia",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAgro.co@SD" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="🇨🇴 Colombia",TVAgro (1080p)
+http://190.61.47.54:8000/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" tvg-logo="https://i.imgur.com/1voWgLI.png" group-title="🇨🇴 Colombia",Ultra Casanare TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/8072/index.m3u8

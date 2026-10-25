@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-24 18:20:11.626591
+# Fecha: 2026-10-25 18:32:37.278633
 
 #EXTINF:-1 tvg-id="AmitelTV.bo@SD" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
@@ -78,17 +78,11 @@ http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="🇧🇴 Bolivia",Red Uno La Paz (1080p)
 http://190.181.61.93:8000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="RedADvenirTV.bo@SD" tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="🇧🇴 Bolivia",RedADvenir TV (360p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="🇧🇴 Bolivia",RedADvenir TV KSCE (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="🇧🇴 Bolivia",RTP (Bolivia) (1080p)
 http://190.181.61.93:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="SPCCanal15.bo@SD" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" group-title="🇧🇴 Bolivia",SPC Canal 15 (720p)
-https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 
 #EXTINF:-1 tvg-id="SucremantaTV.bo@SD" tvg-logo="https://i.imgur.com/noN0Yhe.png" group-title="🇧🇴 Bolivia",Sucremanta TV (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
@@ -128,6 +122,9 @@ http://190.181.61.93:8000/play/1909/index.m3u8
 
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="🇧🇴 Bolivia",Univalle Television (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UPEATV.bo@SD" tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="🇧🇴 Bolivia",UPEA TV (720p)
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV (720p)
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

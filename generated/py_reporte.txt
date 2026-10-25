@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.632275
+  Fecha: 2026-10-25 18:32:37.286103
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -65,7 +65,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lafmmRa.jpeg
 URL: https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 TV Max (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -128,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0RypDUY.png
 URL: https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Educanal (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -463,6 +463,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 65
-  Funcionan: 53
-  Fallan: 12
+  Funcionan: 55
+  Fallan: 10
 ==================================================

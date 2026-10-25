@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.626995
+  Fecha: 2026-10-25 18:32:37.279217
 ==================================================
 
 Nombre: 13C (1080p)
@@ -53,13 +53,6 @@ Logo: https://i.imgur.com/m0SuwMU.png
 URL: https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 Estado: FUNCIONA
 ---
-Nombre: 13Rec (576p)
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/WtBbxEf.png
-URL: http://45.4.1.201:8000/play/a11i/index.m3u8
-Estado: FALLA
----
 Nombre: 13T (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -73,13 +66,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/hyxkJYV.png
 URL: https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 Estado: FUNCIONA
----
-Nombre: 24 Horas (Chile) (1080p)
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/CEE9zPe.png
-URL: http://187.102.208.209:8000/play/a0a1/index.m3u8
-Estado: FALLA
 ---
 Nombre: ADA TV (720p)
 Categoría: 🇨🇱 Chile
@@ -233,7 +219,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +275,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ReZXqWR.png
 URL: https://v2.tustreaming.cl/canallocalcl/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Survision Alerce (720p)
 Categoría: 🇨🇱 Chile
@@ -324,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -345,7 +331,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/382_ChocolateFM.png
 URL: https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ciudadano Radio (720p)
 Categoría: 🇨🇱 Chile
@@ -387,7 +373,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lz2OlKf.png
 URL: https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cooperativa (720p)
 Categoría: 🇨🇱 Chile
@@ -786,7 +772,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c1ME00r.png
 URL: http://15.204.246.24:8080/Mega2HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mega (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1059,7 +1045,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png
 URL: https://v2.tustreaming.cl/rln/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Nuble (720p)
 Categoría: 🇨🇱 Chile
@@ -1395,7 +1381,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1479,7 +1465,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1645,7 +1631,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 234
-  Funcionan: 183
-  Fallan: 51
+  Total de streams: 232
+  Funcionan: 176
+  Fallan: 56
 ==================================================

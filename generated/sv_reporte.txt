@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.630114
+  Fecha: 2026-10-25 18:32:37.283120
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -43,7 +43,7 @@ Nombre: Canal 4 (El Salvador) (1080p)
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png
-URL: http://45.5.118.188:8000/play/a00j/index.m3u8
+URL: http://168.228.44.241:9999/play/a042/index.m3u8
 Estado: FALLA
 ---
 Nombre: Canal 6 (El Salvador) (720p)
@@ -65,7 +65,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y2ppMnY.png
 URL: https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 11 TuTV (349p)
 Categoría: 🇸🇻 El Salvador
@@ -114,7 +114,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZSktjGB.png
 URL: https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Elim TV (720p)
 Categoría: 🇸🇻 El Salvador
@@ -254,7 +254,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uPWWtCA.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVM El Salvador [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 15
-  Fallan: 24
+  Funcionan: 16
+  Fallan: 23
 ==================================================

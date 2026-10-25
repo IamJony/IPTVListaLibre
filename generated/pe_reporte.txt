@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.632620
+  Fecha: 2026-10-25 18:32:37.286555
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -23,7 +23,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tqMDscD.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Agro TV (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -57,8 +57,8 @@ Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png
-URL: http://45.171.108.253:8888/AMERICA/index.m3u8
-Estado: FALLA
+URL: http://190.93.224.42/AMERICA-TV/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Andes Television (720p)
 Categoría: 🇵🇪 Perú
@@ -149,7 +149,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bORM4rt.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bethel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -247,7 +247,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tFRmMkf.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chikitoonz (1080p)
 Categoría: 🇵🇪 Perú
@@ -380,14 +380,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -464,7 +464,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: L1 (1080p)
 Categoría: 🇵🇪 Perú
@@ -555,14 +555,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zK1YcpJ.png
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Metropolitana del Cuzco
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0B04qgM.png
 URL: https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Miel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -779,7 +779,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -996,14 +996,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JFBpDJ1.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Norte Chiclayo (720p)
 Categoría: 🇵🇪 Perú
@@ -1087,7 +1087,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OcDimHX.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Uranio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1212,6 +1212,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 172
-  Funcionan: 138
-  Fallan: 34
+  Funcionan: 129
+  Fallan: 43
 ==================================================

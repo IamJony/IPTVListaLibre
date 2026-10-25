@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-24 18:20:11.634541
+  Fecha: 2026-10-25 18:32:37.289331
 ==================================================
 
 Nombre: AbejalesTV (720p)
@@ -51,7 +51,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QtCgtZq.jpg
 URL: https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Barinas TV (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -170,7 +170,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -247,7 +247,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU
 URL: https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oasis Television (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -394,7 +394,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cxvkUvK.png
 URL: http://38.134.250.110:8000/play/a02i/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Televisora de Oriente (406p)
 Categoría: 🇻🇪 Venezuela
@@ -422,7 +422,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG
 URL: https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tu TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -457,7 +457,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -533,6 +533,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 75
-  Funcionan: 51
-  Fallan: 24
+  Funcionan: 49
+  Fallan: 26
 ==================================================

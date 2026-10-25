@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - HN
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-24 18:20:11.630856
+# Fecha: 2026-10-25 18:32:37.284105
 
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias Television (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -81,6 +81,9 @@ https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="🇭🇳 Honduras",Lenca TV (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="MayaTV.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png" group-title="🇭🇳 Honduras",Maya TV
+https://media.streambrothers.com:19360/8036/8036.m3u8
+
 #EXTINF:-1 tvg-id="MetroTV.hn@SD" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="🇭🇳 Honduras",Metro TV (Honduras) (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 
@@ -92,9 +95,6 @@ https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="🇭🇳 Honduras",Radio Ideal (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="RadioOmegaTV.hn@SD" tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="🇭🇳 Honduras",Radio Omega TV (720p) [Not 24/7]
-https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="🇭🇳 Honduras",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8

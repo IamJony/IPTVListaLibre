@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-25 18:32:37.280193
+  Fecha: 2026-10-26 20:43:22.908409
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -121,7 +121,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6YxtyUR.jpeg
 URL: https://movil.ejeserver.com/live/calimatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Capital (1080p)
 Categoría: 🇨🇴 Colombia
@@ -303,7 +303,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zJAwnvd.png
 URL: https://movil.ejeserver.com/live/cncbuga.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Medellin (1080p)
 Categoría: 🇨🇴 Colombia
@@ -380,7 +380,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://cdn.colombia.com/canales/enlace-television-3301.jpg
 URL: http://181.78.12.119:16123/play/ch33/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Eureka (1080p) [Geo-blocked]
 Categoría: 🇨🇴 Colombia
@@ -576,7 +576,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TCv5NqN.png
 URL: http://181.78.12.119:16123/play/ch15/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCN HD2 (1080p)
 Categoría: 🇨🇴 Colombia
@@ -772,7 +772,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
@@ -870,7 +870,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0UN87vB.png
 URL: http://181.78.12.119:16123/play/ch19/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Zoom (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 101
-  Fallan: 24
+  Funcionan: 97
+  Fallan: 28
 ==================================================

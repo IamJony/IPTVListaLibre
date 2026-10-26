@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-25 18:32:37.284700
+  Fecha: 2026-10-26 20:43:22.912599
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -121,14 +121,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -408,7 +408,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GiDD8xG.jpg
 URL: https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Chavo TV (720p)
 Categoría: 🇲🇽 México
@@ -422,7 +422,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aKvPd4g.jpg
 URL: https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Exa TV
 Categoría: 🇲🇽 México
@@ -457,7 +457,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Golden (1080p)
 Categoría: 🇲🇽 México
@@ -506,14 +506,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ILCE Canal 15 Summa Saberes (720p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/r7czgOc.png
 URL: https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Imagen TV (1080p)
 Categoría: 🇲🇽 México
@@ -562,7 +562,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -695,7 +695,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aZCTkjU.jpg
 URL: https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nueve TV (720p)
 Categoría: 🇲🇽 México
@@ -856,7 +856,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1038,7 +1038,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z9iVlMn.png
 URL: https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Migrante (720p)
 Categoría: 🇲🇽 México
@@ -1171,7 +1171,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: XHFGL-TDT (1080p)
 Categoría: 🇲🇽 México

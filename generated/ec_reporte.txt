@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-25 18:32:37.282604
+  Fecha: 2026-10-26 20:43:22.910726
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -9,7 +9,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gUqKymM.png
 URL: https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Estereo Ibarra (720p)
 Categoría: 🇪🇨 Ecuador
@@ -163,7 +163,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1vlZA6O.png
 URL: https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GM7 Digital [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -268,7 +268,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ez1NxwJ.jpg
 URL: http://200.7.219.221:8088/live/livetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mario Pinto TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -345,7 +345,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyBKaXI.png
 URL: https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Plus TV (Ecuador) (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -380,7 +380,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mpcIbrH.jpg
 URL: http://190.107.232.9:8082/livestream/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Impacto 2 (288p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 53
-  Fallan: 29
+  Funcionan: 52
+  Fallan: 30
 ==================================================

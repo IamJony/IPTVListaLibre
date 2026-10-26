@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-25 18:32:37.280837
+  Fecha: 2026-10-26 20:43:22.909045
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -408,7 +408,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/aadWnIx.jpg
 URL: https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Sur Canal 9 (620p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica

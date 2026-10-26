@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-25 18:32:37.287862
+  Fecha: 2026-10-26 20:43:22.915707
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -100,7 +100,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WQP3el2.png
 URL: https://9laloma.tv/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 12tv (720p)
 Categoría: 🇪🇸 España
@@ -246,8 +246,8 @@ Nombre: AXN CEE
 Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
-URL: http://88.212.15.17/live/axn_hun/index.m3u8
-Estado: FALLA
+URL: http://88.212.15.50/live/axn_hun/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: AXN CEE Bulgary
 Categoría: 🇪🇸 España
@@ -260,8 +260,8 @@ Nombre: AXN CEE Czech Republic
 Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
-URL: http://88.212.15.17/live/test_axn/playlist.m3u8
-Estado: FALLA
+URL: http://88.212.15.50/live/test_axn/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: AXN CEE Romania
 Categoría: 🇪🇸 España
@@ -373,7 +373,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -494,13 +494,6 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_20
 URL: https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal Sur
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/960px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png
-URL: https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
-Estado: FALLA
----
 Nombre: Canal Sur Andalucia (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
@@ -534,7 +527,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/5fc5ZyI.png
 URL: https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CanalCosta (1080p)
 Categoría: 🇪🇸 España
@@ -912,7 +905,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Interalmeria TV (1080p)
 Categoría: 🇪🇸 España
@@ -1555,8 +1548,8 @@ Nombre: Real Madrid TV English
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5pMo7dL.png
-URL: http://88.212.15.17/live/real_madrid_tv/index.m3u8
-Estado: FALLA
+URL: http://88.212.15.50/live/real_madrid_tv/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Ribera TV (576p)
 Categoría: 🇪🇸 España
@@ -1682,7 +1675,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/JcuV9ZE.png
 URL: https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Elx (1080p)
 Categoría: 🇪🇸 España
@@ -1710,7 +1703,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/0jxLdjnY/TDP.png
 URL: https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teleganes (720p)
 Categoría: 🇪🇸 España
@@ -1976,7 +1969,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png
 URL: https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVReus (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -2039,7 +2032,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/1g2Z64L.png
 URL: https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Voyages & Saveurs (720p)
 Categoría: 🇪🇸 España
@@ -2072,7 +2065,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 295
-  Funcionan: 150
-  Fallan: 145
+  Total de streams: 294
+  Funcionan: 157
+  Fallan: 137
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-26 20:43:22.907411
+  Fecha: 2026-10-27 20:13:29.840563
 ==================================================
 
 Nombre: 13C (1080p)
@@ -107,7 +107,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfi9NXL.png
 URL: https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Antofagasta TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -121,7 +121,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I67WOgT.png
 URL: https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atacama Noticias (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -296,7 +296,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -345,7 +345,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H0XNbMS.png
 URL: https://v2.tustreaming.cl/clicktv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Club TV
 Categoría: 🇨🇱 Chile
@@ -359,7 +359,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t4EXijz.png
 URL: http://190.110.96.238:8000/play/a0f5/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Concepcion TV (720p)
 Categoría: 🇨🇱 Chile
@@ -408,7 +408,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w8td5Lq.png
 URL: https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Dance FM (720p)
 Categoría: 🇨🇱 Chile
@@ -499,7 +499,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://enlineamaule.cl/wp-content/uploads/2025/08/En-linea-Maule841351465.png
 URL: https://v2.tustreaming.cl/enlineamauletv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EnerGeek (1080p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -513,14 +513,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enfoque Digital TV
 Categoría: 🇨🇱 Chile
@@ -926,7 +926,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png
 URL: https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Primicia Vida (720p)
 Categoría: 🇨🇱 Chile
@@ -1220,7 +1220,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/416_Sabor_TV.png
 URL: https://v1.tustreaming.cl/sabortv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: San Nicolas TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1632,6 +1632,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 232
-  Funcionan: 182
-  Fallan: 50
+  Funcionan: 181
+  Fallan: 51
 ==================================================

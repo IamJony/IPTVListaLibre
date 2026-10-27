@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-26 20:43:22.915707
+  Fecha: 2026-10-27 20:13:29.848685
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -373,7 +373,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -653,7 +653,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
 URL: https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cugat TV (1080p)
 Categoría: 🇪🇸 España
@@ -716,7 +716,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png
 URL: https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Toro TV (720p)
 Categoría: 🇪🇸 España
@@ -884,7 +884,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/56ZtCA1.png
 URL: https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HOLA! Play (1080p)
 Categoría: 🇪🇸 España
@@ -2066,6 +2066,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 294
-  Funcionan: 157
-  Fallan: 137
+  Funcionan: 153
+  Fallan: 141
 ==================================================

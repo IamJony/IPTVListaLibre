@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-26 20:43:22.915365
+  Fecha: 2026-10-27 20:13:29.848367
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tsajuxi.png
 URL: https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Candelita TV (480p)
 Categoría: 🇵🇷 Puerto Rico
@@ -65,7 +65,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uqTH7m5.jpg
 URL: https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Faro de Santidad TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -107,7 +107,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nl5vyIw.png
 URL: https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Isla TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -142,7 +142,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png
 URL: https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: WAPA-TV 4.1 (1080p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -190,6 +190,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 26
-  Funcionan: 16
-  Fallan: 10
+  Funcionan: 20
+  Fallan: 6
 ==================================================

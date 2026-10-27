@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-26 20:43:22.912599
+  Fecha: 2026-10-27 20:13:29.845682
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CZ8LKmA.png
 URL: https://servilive.com:3380/live/v3n6thy7glive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Acustik TV
 Categoría: 🇲🇽 México
@@ -163,7 +163,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -457,7 +457,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Golden (1080p)
 Categoría: 🇲🇽 México
@@ -506,14 +506,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ILCE Canal 15 Summa Saberes (720p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/r7czgOc.png
 URL: https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Imagen TV (1080p)
 Categoría: 🇲🇽 México
@@ -597,7 +597,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TG1T5Oh.png
 URL: https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Monte Maria (1080p)
 Categoría: 🇲🇽 México
@@ -695,7 +695,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aZCTkjU.jpg
 URL: https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Nueve TV (720p)
 Categoría: 🇲🇽 México
@@ -835,7 +835,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dLHIvKz.png
 URL: https://servilive.com:3263/live/channel12live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TELE 4 Ojocaliente (720p)
 Categoría: 🇲🇽 México
@@ -849,7 +849,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PgBtvgO.png
 URL: https://servilive.com:3879/live/telesaltillolive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele UV [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1171,7 +1171,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R3icGuG.png
 URL: https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: XHFGL-TDT (1080p)
 Categoría: 🇲🇽 México
@@ -1226,6 +1226,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 174
-  Funcionan: 107
-  Fallan: 67
+  Funcionan: 109
+  Fallan: 65
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-26 20:43:22.910726
+  Fecha: 2026-10-27 20:13:29.843955
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -9,7 +9,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gUqKymM.png
 URL: https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Estereo Ibarra (720p)
 Categoría: 🇪🇨 Ecuador
@@ -163,7 +163,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1vlZA6O.png
 URL: https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: GM7 Digital [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -345,7 +345,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyBKaXI.png
 URL: https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Plus TV (Ecuador) (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -394,14 +394,14 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a97MaV2.png
 URL: https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red TVE Ventanas (432p)
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pzf2ZAW.png
 URL: https://s2.tvdatta.com:3825/live/redtvelive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RTRTV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -499,7 +499,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QJW6khK.jpg
 URL: https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Legislativa (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador

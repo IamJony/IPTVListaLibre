@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-27 20:13:29.841517
+  Fecha: 2026-10-28 20:31:48.311875
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -100,7 +100,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/peOIG1F.png
 URL: https://movil.ejeserver.com/live/canal8tv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Cosespu
 Categoría: 🇨🇴 Colombia
@@ -121,7 +121,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6YxtyUR.jpeg
 URL: https://movil.ejeserver.com/live/calimatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Capital (1080p)
 Categoría: 🇨🇴 Colombia
@@ -170,7 +170,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ODMa27W.jpg
 URL: https://movil.ejeserver.com/live/teledoradahd.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Mundo Vision (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -247,7 +247,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canica TV (240p)
 Categoría: 🇨🇴 Colombia
@@ -289,7 +289,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vrSFUwv.png
 URL: http://45.171.64.30:6060/play/a010
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CMB Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -653,7 +653,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -695,7 +695,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XHtpEfu.png
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Vid (1080p)
 Categoría: 🇨🇴 Colombia
@@ -772,7 +772,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 97
-  Fallan: 28
+  Funcionan: 94
+  Fallan: 31
 ==================================================

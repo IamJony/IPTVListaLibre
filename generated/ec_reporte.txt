@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-27 20:13:29.843955
+  Fecha: 2026-10-28 20:31:48.314730
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -394,14 +394,14 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a97MaV2.png
 URL: https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red TVE Ventanas (432p)
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pzf2ZAW.png
 URL: https://s2.tvdatta.com:3825/live/redtvelive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RTRTV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -499,7 +499,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QJW6khK.jpg
 URL: https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Legislativa (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 52
-  Fallan: 30
+  Funcionan: 55
+  Fallan: 27
 ==================================================

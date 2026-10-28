@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-27 20:13:29.844397
+  Fecha: 2026-10-28 20:31:48.315296
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -74,7 +74,7 @@ Logo: https://i.imgur.com/itqQEux.png
 URL: https://stream.giostreaming.app/canal11/canal11.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 12 (576p)
+Nombre: Canal 12 (El Salvador) (576p)
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WMv3yEf.png
@@ -100,7 +100,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5QKQ2E.png
 URL: https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El 15 TV (720p) [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 17
-  Fallan: 22
+  Funcionan: 16
+  Fallan: 23
 ==================================================

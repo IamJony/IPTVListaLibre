@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-27 20:13:29.842157
+  Fecha: 2026-10-28 20:31:48.312642
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -179,11 +179,11 @@ Logo: https://i.imgur.com/E9AuhOU.png
 URL: https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: FUTV
+Nombre: FUTV (1080p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/f8BkLql.png
-URL: http://190.61.90.17:40000/play/a03v/index.m3u8
+URL: http://45.228.234.9:8000/play/a06o/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: GAMTV.cr (720p)
@@ -408,7 +408,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/aadWnIx.jpg
 URL: https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Sur Canal 9 (620p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 53
-  Fallan: 16
+  Funcionan: 54
+  Fallan: 15
 ==================================================

@@ -23,42 +23,43 @@
 
 ## 📊 Estado Actual
 
-**Última actualización:** `2026-10-28 20:31 UTC`
-**Canales activos totales:** **1424**
-**Países cubiertos:** **21**
-**Streams probados:** `2089` · **OK:** `1424` · **Fallidos:** `665`
+**Última actualización:** `2026-10-29 20:30 UTC`
+**Canales activos totales:** **1447**
+**Países cubiertos:** **22**
+**Streams probados:** `2089` · **OK:** `1447` · **Fallidos:** `642`
 
 ### 📡 Canales por país
 
 | País | Canales activos | Enlace M3U |
 |:-----|----------------:|:-----------|
-| 🇦🇷 Argentina | 143 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ar_canales.m3u) |
+| 🇦🇷 Argentina | 151 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ar_canales.m3u) |
 | 🇧🇴 Bolivia | 42 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/bo_canales.m3u) |
-| 🇨🇱 Chile | 175 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cl_canales.m3u) |
-| 🇨🇴 Colombia | 94 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u) |
-| 🇨🇷 Costa Rica | 54 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cr_canales.m3u) |
+| 🇨🇱 Chile | 184 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cl_canales.m3u) |
+| 🇨🇴 Colombia | 96 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/co_canales.m3u) |
+| 🇨🇷 Costa Rica | 50 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cr_canales.m3u) |
 | 🇨🇺 Cuba | 1 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cu_canales.m3u) |
-| 🇩🇴 Rep. Dominicana | 197 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/do_canales.m3u) |
+| 🇩🇴 Rep. Dominicana | 190 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/do_canales.m3u) |
 | 🇪🇨 Ecuador | 55 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ec_canales.m3u) |
-| 🇸🇻 El Salvador | 16 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/sv_canales.m3u) |
-| 🇬🇹 Guatemala | 28 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/gt_canales.m3u) |
-| 🇭🇳 Honduras | 48 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/hn_canales.m3u) |
-| 🇲🇽 México | 109 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/mx_canales.m3u) |
+| 🇸🇻 El Salvador | 17 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/sv_canales.m3u) |
+| 🇬🇶 Guinea Ecuatorial | 1 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/gq_canales.m3u) |
+| 🇬🇹 Guatemala | 31 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/gt_canales.m3u) |
+| 🇭🇳 Honduras | 47 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/hn_canales.m3u) |
+| 🇲🇽 México | 111 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/mx_canales.m3u) |
 | 🇳🇮 Nicaragua | 9 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ni_canales.m3u) |
 | 🇵🇦 Panamá | 16 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pa_canales.m3u) |
-| 🇵🇾 Paraguay | 56 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/py_canales.m3u) |
-| 🇵🇪 Perú | 137 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pe_canales.m3u) |
+| 🇵🇾 Paraguay | 55 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/py_canales.m3u) |
+| 🇵🇪 Perú | 136 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pe_canales.m3u) |
 | 🇵🇷 Puerto Rico | 20 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/pr_canales.m3u) |
-| 🇪🇸 España | 155 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_canales.m3u) |
-| 🇺🇾 Uruguay | 8 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/uy_canales.m3u) |
-| 🇻🇪 Venezuela | 49 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ve_canales.m3u) |
-| 🎬 Cine | 12 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cine.m3u) |
+| 🇪🇸 España | 154 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_canales.m3u) |
+| 🇺🇾 Uruguay | 7 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/uy_canales.m3u) |
+| 🇻🇪 Venezuela | 54 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/ve_canales.m3u) |
+| 🎬 Cine | 20 | [📥 Descargar](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/cine.m3u) |
 
 ### 🎯 Lista unificada en español
 
 | Lista | Canales | Enlace |
 |:------|--------:|:-------|
-| 🇪🇸 **Todos los países** | **1424** | [es_unificado.m3u](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_unificado.m3u) |
+| 🇪🇸 **Todos los países** | **1447** | [es_unificado.m3u](https://raw.githubusercontent.com/IamJony/IPTVListaLibre/refs/heads/main/es_unificado.m3u) |
 
 ---
 

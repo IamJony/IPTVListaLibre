@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - SV
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-28 20:31:48.315302
+# Fecha: 2026-10-29 20:30:41.944003
 
 #EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="🇸🇻 El Salvador",Agape TV (720p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
@@ -14,6 +14,9 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="🇸🇻 El Salvador",Canal 11 TuTV (349p)
 https://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="🇸🇻 El Salvador",Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="🇸🇻 El Salvador",El Camino TV (480p)
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8

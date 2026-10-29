@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-28 20:31:48.308949
+# Fecha: 2026-10-29 20:30:41.936857
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -54,6 +54,9 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 #EXTINF:-1 tvg-id="Canal2Misiones.ar@SD" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="🇦🇷 Argentina",Canal 2 Misiones (1080p)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="🇦🇷 Argentina",Canal 2 NexTV Rafaela (720p)
+https://edge.enhdtv.com/nexthd/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Formosa.ar@SD" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="🇦🇷 Argentina",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
@@ -117,9 +120,6 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar@SD" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="🇦🇷 Argentina",Canal 8 Mar del Plata (720p) [Not 24/7]
 https://canal8mdq.unpocodeawita.workers.dev/
-
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar@SD" tvg-logo="https://files.catbox.moe/f7jbdo.png" group-title="🇦🇷 Argentina",Canal 8 San Juan (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal9Link.ar@SD" tvg-logo="https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg" group-title="🇦🇷 Argentina",Canal 9 Link
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
@@ -217,6 +217,9 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Argentina",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="🇦🇷 Argentina",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="🇦🇷 Argentina",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 
@@ -241,17 +244,29 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 Argentina",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="🇦🇷 Argentina",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="🇦🇷 Argentina",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="🇦🇷 Argentina",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="🇦🇷 Argentina",El Trece (1080p)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷 Argentina",Encuentro (720p)
+http://138.59.227.20:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina",ESPN Premium (Argentina) HD (1080p)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar@SD" tvg-logo="https://i.imgur.com/w5SOfyJ.png" group-title="🇦🇷 Argentina",Europa Europa (1080p)
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FolcloreandoTV.ar@SD" tvg-logo="https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png" group-title="🇦🇷 Argentina",Folcloreando TV
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="🇦🇷 Argentina",Fox Sports (1080p)
 http://138.59.227.20:8000/play/a085/index.m3u8
@@ -288,6 +303,9 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MultivisionFederal.ar@SD" tvg-logo="https://i.imgur.com/jX0lqy3.png" group-title="🇦🇷 Argentina",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.ar@SD" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="🇦🇷 Argentina",Neo TV (Argentina)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="NeoxTV.ar@SD" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="🇦🇷 Argentina",Neox TV [Not 24/7]
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
@@ -355,8 +373,14 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="SoliveTV.ar@SD" tvg-logo="https://i.imgur.com/dyUxugT.png" group-title="🇦🇷 Argentina",Solive TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SomosEntreRios.ar@SD" tvg-logo="https://files.catbox.moe/ufv5z0.png" group-title="🇦🇷 Argentina",Somos Entre Rios (360p)
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SonyChannel.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="🇦🇷 Argentina",Sony Channel (Argentina) (1080p)
 http://138.121.15.230:9002/SONY/index.m3u8
+
+#EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="🇦🇷 Argentina",Space (1080p)
+http://45.171.64.30:6060/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="🇦🇷 Argentina",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
@@ -385,9 +409,6 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷 Argentina",TN (1080p)
 http://158.172.155.130:8000/play/a0dp/index.m3u8
 
-#EXTINF:-1 tvg-id="TVCanal72.ar@SD" tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png" group-title="🇦🇷 Argentina",TV Canal 72
-https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVManaArgentina.ar@SD" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="🇦🇷 Argentina",TV Mana Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
@@ -414,6 +435,9 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-id="UrbanMix.ar@SD" tvg-logo="https://tvomix.com/Logos/Urbanmix.png" group-title="🇦🇷 Argentina",Urban Mix (720p)
 https://cloud.tvomix.com/URBANMIX/index.m3u8
+
+#EXTINF:-1 tvg-id="VillaManteroTV.ar@SD" tvg-logo="https://i.imgur.com/mmEenTm.png" group-title="🇦🇷 Argentina",Villa Mantero TV
+https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 
 #EXTINF:-1 tvg-id="VIVETV.ar@HD" tvg-logo="https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png" group-title="🇦🇷 Argentina",VIVE TV (1080p)
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8

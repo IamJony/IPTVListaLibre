@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-28 20:31:48.316040
+  Fecha: 2026-10-29 20:30:41.945435
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -338,14 +338,14 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5o821rT.png
 URL: http://45.171.64.30:6060/play/a04k/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SAS TV (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VShjB3o.png
 URL: https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SIL TV (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -464,12 +464,12 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/G4cTmRgz/World-Tv-Guatemala.png
 URL: https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 28
-  Fallan: 38
+  Funcionan: 31
+  Fallan: 35
 ==================================================

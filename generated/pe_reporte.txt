@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-28 20:31:48.319220
+  Fecha: 2026-10-29 20:30:41.948979
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -107,7 +107,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7bGVFBa.png
 URL: https://video2.lhdserver.es/asiritv/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atlantis Radio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -247,7 +247,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tFRmMkf.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chikitoonz (1080p)
 Categoría: 🇵🇪 Perú
@@ -387,7 +387,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -562,7 +562,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0B04qgM.png
 URL: https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Miel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -898,7 +898,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eotfCMd.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telecolor Yurimaguas (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -926,7 +926,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Tarapoto (720p)
 Categoría: 🇵🇪 Perú
@@ -947,6 +947,13 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LcZ2Hhd.jpeg
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Top Latino TV
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/VRl8nPZ.png
+URL: http://38.87.224.20:2220/play/a02b/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Top TV (Peru) (240p) [Not 24/7]
@@ -1010,7 +1017,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0fg6m2L.png
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Peru (1080p)
 Categoría: 🇵🇪 Perú
@@ -1087,7 +1094,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OcDimHX.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Uranio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1211,7 +1218,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 172
-  Funcionan: 137
-  Fallan: 35
+  Total de streams: 173
+  Funcionan: 136
+  Fallan: 37
 ==================================================

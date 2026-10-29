@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-28 20:31:48.311875
+  Fecha: 2026-10-29 20:30:41.939965
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -135,7 +135,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -170,7 +170,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ODMa27W.jpg
 URL: https://movil.ejeserver.com/live/teledoradahd.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Mundo Vision (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -289,7 +289,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vrSFUwv.png
 URL: http://45.171.64.30:6060/play/a010
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CMB Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -373,7 +373,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SQ79Wsb.png
 URL: https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enlace Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -653,7 +653,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -793,7 +793,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jsuXXIg.png
 URL: http://190.60.46.228:8888/play/a030/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tu Universo TV (720p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 94
-  Fallan: 31
+  Funcionan: 96
+  Fallan: 29
 ==================================================

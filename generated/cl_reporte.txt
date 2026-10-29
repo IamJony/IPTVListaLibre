@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-28 20:31:48.310762
+  Fecha: 2026-10-29 20:30:41.938633
 ==================================================
 
 Nombre: 13C (1080p)
@@ -219,7 +219,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -380,7 +380,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -534,7 +534,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1649_EPA__TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ESPN Premium (Chile)
 Categoría: 🇨🇱 Chile
@@ -772,7 +772,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c1ME00r.png
 URL: http://15.204.246.24:8080/Mega2HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mega (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1031,7 +1031,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png
 URL: https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio La Serena TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1101,7 +1101,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1467_Radio_UC.png
 URL: https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio UNIACC (720p)
 Categoría: 🇨🇱 Chile
@@ -1346,14 +1346,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/NoJvlig.png
 URL: https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Televida (Chile) (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bmNA8hq.png
 URL: https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tendencias Prime (720p)
 Categoría: 🇨🇱 Chile
@@ -1465,7 +1465,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1570,7 +1570,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mpNcG5F.png
 URL: https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision TV (Chile)
 Categoría: 🇨🇱 Chile
@@ -1632,6 +1632,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 232
-  Funcionan: 175
-  Fallan: 57
+  Funcionan: 184
+  Fallan: 48
 ==================================================

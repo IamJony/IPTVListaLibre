@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - DO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-28 20:31:48.313569
+# Fecha: 2026-10-29 20:30:41.942151
 
 #EXTINF:-1 tvg-id="A7TV.do@HD" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="🇩🇴 Rep. Dominicana",A7 TV (1080p)
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
@@ -69,9 +69,6 @@ https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="🇩🇴 Rep. Dominicana",Canal 17 RTVD (1080p)
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal70.do@HD" tvg-logo="https://imgur.com/LfcHA2d.jpg" group-title="🇩🇴 Rep. Dominicana",Canal 70 (720p)
-https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="🇩🇴 Rep. Dominicana",Canal Catorce (1080p) [Not 24/7]
 https://stream.haislin.com/14tv/index.m3u8
 
@@ -105,9 +102,6 @@ http://190.61.90.17:40000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="🇩🇴 Rep. Dominicana",CDN Deportes (720p) [Not 24/7]
 https://hls.tvabierta.net/hls/036.m3u8
 
-#EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="🇩🇴 Rep. Dominicana",Cenovision HD (720p)
-https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="🇩🇴 Rep. Dominicana",Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
@@ -120,14 +114,17 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="🇩🇴 Rep. Dominicana",Citrico TV (480p) [Not 24/7]
 https://edge.essastream.com/citricotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="🇩🇴 Rep. Dominicana",Claro Television Dominicana (360p)
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+
+#EXTINF:-1 tvg-id="ClaroVisionTV.do@SD" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="🇩🇴 Rep. Dominicana",Claro Vision TV (720p)
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="CNTMasTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="🇩🇴 Rep. Dominicana",CNT Mas TV (720p) [Not 24/7]
 https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="🇩🇴 Rep. Dominicana",COCO TV (1080p) [Not 24/7]
 https://edge.essastream.com/canalcocotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CodigoTV.do@HD" tvg-logo="https://imgur.com/DbjywI3.png" group-title="🇩🇴 Rep. Dominicana",Codigo TV (1080p) [Not 24/7]
-https://edge.essastream.com/codigotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="🇩🇴 Rep. Dominicana",Colimdo TV (720p)
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
@@ -147,9 +144,6 @@ https://hls.tvabierta.net/hls/039.m3u8
 #EXTINF:-1 tvg-id="CotubanamaTV.do@SD" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="🇩🇴 Rep. Dominicana",Cotubanama TV (1080p)
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="CromTV.do@SD" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="🇩🇴 Rep. Dominicana",CromTV (1080p) [Not 24/7]
-https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="CTTCanal49.do@SD" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="🇩🇴 Rep. Dominicana",CTT Canal 49 (1080p) [Not 24/7]
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
 
@@ -162,9 +156,6 @@ https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-id="DelPuebloTV.do@HD" tvg-logo="https://imgur.com/Pw7ZUT1.jpg" group-title="🇩🇴 Rep. Dominicana",Del Pueblo TV [Not 24/7]
 https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD" tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="🇩🇴 Rep. Dominicana",Delta TV Canal 50 (720p) [Not 24/7]
-https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="🇩🇴 Rep. Dominicana",Digital Vision 63 (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 
@@ -173,9 +164,6 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="🇩🇴 Rep. Dominicana",Ecovision (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-
-#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do@SD" tvg-logo="https://i.imgur.com/yjuTl6N.png" group-title="🇩🇴 Rep. Dominicana",El Nuevo Diario TV (480p)
-https://nuevodiario01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ElPuertoTV.do@SD" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="🇩🇴 Rep. Dominicana",El Puerto TV (720p)
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
@@ -197,9 +185,6 @@ https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EntunoTV.do@HD" tvg-logo="https://imgur.com/U9OsybQ.jpg" group-title="🇩🇴 Rep. Dominicana",Entuno TV (1080p) [Not 24/7]
 https://soportedvb.click:3442/live/entunotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Extra86TV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="🇩🇴 Rep. Dominicana",Extra 86 TV (720p) [Not 24/7]
-https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 
 #EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="🇩🇴 Rep. Dominicana",Farovision (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
@@ -231,11 +216,11 @@ https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="InformeTV.do@HD" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="🇩🇴 Rep. Dominicana",Informe TV (1080p) [Not 24/7]
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="JARABACOATV.do@HD" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="🇩🇴 Rep. Dominicana",JARABACOA TV (1080p) [Not 24/7]
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="🇩🇴 Rep. Dominicana",Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
-
-#EXTINF:-1 tvg-id="LaCaletaTV.do@SD" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="🇩🇴 Rep. Dominicana",La Caleta TV (720p) [Not 24/7]
-https://edge.essastream.com/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaDescargaTV.do@HD" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="🇩🇴 Rep. Dominicana",La Descarga TV [Geo-blocked]
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
@@ -251,9 +236,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaVozdeMaria.do@SD" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="🇩🇴 Rep. Dominicana",La Voz de Maria (720p)
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-
-#EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="🇩🇴 Rep. Dominicana",Laguna TV (1080p) [Not 24/7]
-https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LatinaTVInternacional.do@SD" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="🇩🇴 Rep. Dominicana",Latina TV Internacional (720p)
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
@@ -315,11 +297,14 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="🇩🇴 Rep. Dominicana",Montones TV (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="🇩🇴 Rep. Dominicana",MorroTV (720p) [Not 24/7]
-https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="🇩🇴 Rep. Dominicana",Musavision (1080p)
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="🇩🇴 Rep. Dominicana",Naranja TV (720p)
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
+#EXTINF:-1 tvg-id="NavarreteTelevision.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="🇩🇴 Rep. Dominicana",Navarrete Television (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 
 #EXTINF:-1 tvg-id="NexxoTV.do@SD" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="🇩🇴 Rep. Dominicana",Nexxo TV
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
@@ -425,9 +410,6 @@ https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TarimaTV.do@HD" tvg-logo="https://vercanalesdominicanos.com/wp-content/uploads/2026/03/tarima.png" group-title="🇩🇴 Rep. Dominicana",Tarima TV (720p)
 http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
-
-#EXTINF:-1 tvg-id="TDNMedios.do@SD" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="🇩🇴 Rep. Dominicana",TDN Medios (720p) [Not 24/7]
-https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
 
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="🇩🇴 Rep. Dominicana",Tele Antillas (1080p)
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
@@ -537,11 +519,8 @@ https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV10SanJuan.do@SD" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="🇩🇴 Rep. Dominicana",TV 10 San Juan (720p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCotuiCanal31.do@SD" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="🇩🇴 Rep. Dominicana",TV Cotui Canal 31 (1080p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVExitos.do@SD" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="🇩🇴 Rep. Dominicana",TV Exitos (720p)
-https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="TVHigueyDigital.do@SD" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="🇩🇴 Rep. Dominicana",TV Higuey Digital (720p) [Not 24/7]
+https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 
 #EXTINF:-1 tvg-id="TVLuz.do@SD" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="🇩🇴 Rep. Dominicana",TV Luz (480p)
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
@@ -588,9 +567,9 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Yunavision.do@SD" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="🇩🇴 Rep. Dominicana",Yunavision (720p) [Not 24/7]
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="🇩🇴 Rep. Dominicana",ZAS TV
-https://cloud5.zastv.net/hls/zastv.m3u8
-
 #EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="🇩🇴 Rep. Dominicana",Zinc Nombre TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="🇩🇴 Rep. Dominicana",Zonavision TV [Not 24/7]
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 

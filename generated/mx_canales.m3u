@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - MX
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-28 20:31:48.317100
+# Fecha: 2026-10-29 20:30:41.946568
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽 México",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -50,6 +50,9 @@ https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax.mx@SD" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="🇲🇽 México",Bandamax (1080p)
 http://181.78.106.127:5000/play/ca064/index.m3u8
+
+#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx@SD" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="🇲🇽 México",California Medios TV (720p)
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx@XETTDT" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="🇲🇽 México",Canal 5 (Mexico) XET-TDT (1080p)
 http://45.5.118.152:8000/play/a03i/index.m3u8
@@ -152,6 +155,9 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 #EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="🇲🇽 México",Justicia TV (Mexico) (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="🇲🇽 México",Las Estrellas Latin America (1080p)
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx@SD" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="🇲🇽 México",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-10-28 20:31:48.321435
+# Fecha: 2026-10-29 20:30:41.950372
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 España",3Cat Cameres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -87,9 +87,6 @@ https://avantstreaming.es/hls/canal3.m3u8
 
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="🇪🇸 España",Canal 4 Mancha Centro (720p) [Not 24/7]
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="🇪🇸 España",Canal 7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Emporda.es@SD" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="🇪🇸 España",Canal 10 Emporda (360p) [Not 24/7]
 https://ventdelnord.tv:8080/escala/directe.m3u8

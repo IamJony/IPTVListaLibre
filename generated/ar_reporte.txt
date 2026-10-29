@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-28 20:31:48.308930
+  Fecha: 2026-10-29 20:30:41.936841
 ==================================================
 
 Nombre: 5tv
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -317,7 +317,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/f7jbdo.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Link
 Categoría: 🇦🇷 Argentina
@@ -618,7 +618,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
@@ -695,7 +695,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -709,7 +709,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -730,7 +730,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBBZR1X.png
 URL: http://138.59.227.20:8000/play/a05s/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ESPN Premium (Argentina) HD (1080p)
 Categoría: 🇦🇷 Argentina
@@ -758,7 +758,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://folcloreando.com/wp-content/uploads/elementor/thumbs/logo-qvcz16ulfxe7qqvftihvlcoku8l2hux59qcndiy3qo.png
 URL: https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Fox Sports 2 (Argentina) (576i)
 Categoría: 🇦🇷 Argentina
@@ -863,7 +863,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Xtu85tb.png
 URL: https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Neox TV [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1080,7 +1080,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png
 URL: http://45.171.64.30:6060/play/a04n/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Space South (720p)
 Categoría: 🇦🇷 Argentina
@@ -1206,7 +1206,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png
 URL: https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Mana Argentina (576p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1283,7 +1283,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mmEenTm.png
 URL: https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VIVE TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1352,6 +1352,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 192
-  Funcionan: 143
-  Fallan: 49
+  Funcionan: 151
+  Fallan: 41
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-29 20:30:41.938633
+  Fecha: 2026-10-30 20:05:03.656542
 ==================================================
 
 Nombre: 13C (1080p)
@@ -121,7 +121,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I67WOgT.png
 URL: https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atacama Noticias (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -296,7 +296,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -1094,7 +1094,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350
 URL: https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio UC (720p)
 Categoría: 🇨🇱 Chile
@@ -1346,7 +1346,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/NoJvlig.png
 URL: https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televida (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1632,6 +1632,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 232
-  Funcionan: 184
-  Fallan: 48
+  Funcionan: 182
+  Fallan: 50
 ==================================================

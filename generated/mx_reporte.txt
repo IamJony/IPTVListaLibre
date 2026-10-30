@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-29 20:30:41.946563
+  Fecha: 2026-10-30 20:05:03.659664
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -128,7 +128,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
@@ -380,7 +380,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Bnjj29f.png
 URL: https://stream.crealatv.com/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: De Pelicula Latin America (1080p)
 Categoría: 🇲🇽 México
@@ -702,7 +702,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aZCTkjU.jpg
 URL: https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nueve TV (720p)
 Categoría: 🇲🇽 México
@@ -1240,6 +1240,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 176
-  Funcionan: 111
-  Fallan: 65
+  Funcionan: 108
+  Fallan: 68
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-29 20:30:41.943357
+  Fecha: 2026-10-30 20:05:03.658626
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -44,7 +44,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VqwyCV1.png
 URL: https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Austral TV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -408,7 +408,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dvP2yqB.png
 URL: https://tv3ecuador.site/hls/stream/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RTS (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -429,7 +429,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DzxGHRZ.png
 URL: https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sono Onda TV (720p)
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 55
-  Fallan: 27
+  Funcionan: 52
+  Fallan: 30
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-29 20:30:41.936841
+  Fecha: 2026-10-30 20:05:03.655548
 ==================================================
 
 Nombre: 5tv
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -317,7 +317,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/f7jbdo.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 9 Link
 Categoría: 🇦🇷 Argentina
@@ -499,7 +499,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0L9tW3Z.png
 URL: https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal TDC
 Categoría: 🇦🇷 Argentina
@@ -863,7 +863,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Xtu85tb.png
 URL: https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Neox TV [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1108,7 +1108,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
 URL: http://45.173.231.22:8000/play/a053/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefe Buenos Aires (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1206,7 +1206,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1024x256.png
 URL: https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Mana Argentina (576p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1352,6 +1352,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 192
-  Funcionan: 151
-  Fallan: 41
+  Funcionan: 149
+  Fallan: 43
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-30 20:05:03.655548
+  Fecha: 2026-10-31 19:30:52.756308
 ==================================================
 
 Nombre: 5tv
@@ -79,7 +79,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g1BFoSs.png
 URL: https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bayres TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -373,7 +373,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lmKLiJ3.jpg
 URL: https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 La Rioja (480p)
 Categoría: 🇦🇷 Argentina
@@ -732,7 +732,7 @@ Logo: https://i.imgur.com/uBBZR1X.png
 URL: http://138.59.227.20:8000/play/a05s/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: ESPN Premium (Argentina) HD (1080p)
+Nombre: ESPN Premium HD (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
@@ -842,7 +842,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HXRpRlK.png
 URL: https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Multivision Federal
 Categoría: 🇦🇷 Argentina
@@ -863,7 +863,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Xtu85tb.png
 URL: https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Neox TV [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1108,7 +1108,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
 URL: http://45.173.231.22:8000/play/a053/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telefe Buenos Aires (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1143,7 +1143,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png
 URL: https://canal11saltatv.unpocodeawita.workers.dev/
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefe Tucuman (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1192,7 +1192,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gsgXGEj.png
 URL: https://videohd.live:19360/8008/8008.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TN (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1352,6 +1352,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 192
-  Funcionan: 149
-  Fallan: 43
+  Funcionan: 150
+  Fallan: 42
 ==================================================

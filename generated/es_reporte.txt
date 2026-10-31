@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-30 20:05:03.661422
+  Fecha: 2026-10-31 19:30:52.770346
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -345,7 +345,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cnKCZkK.png
 URL: https://avantstreaming.es/hls/canal3.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 Catalunya (1080p)
 Categoría: 🇪🇸 España
@@ -373,7 +373,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1150,7 +1150,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wPQVVtj.png
 URL: https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_1.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Onda 15 TV (224p)
 Categoría: 🇪🇸 España
@@ -1311,7 +1311,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cdpbkSo.png
 URL: https://eu1.servers10.com:8081/8116/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Television Marbella (720p)
 Categoría: 🇪🇸 España
@@ -1801,7 +1801,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png
 URL: https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV3 (Spain) (1080p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -2066,6 +2066,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 294
-  Funcionan: 153
-  Fallan: 141
+  Funcionan: 154
+  Fallan: 140
 ==================================================

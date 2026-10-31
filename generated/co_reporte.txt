@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-30 20:05:03.657137
+  Fecha: 2026-10-31 19:30:52.759320
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -303,14 +303,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zJAwnvd.png
 URL: https://movil.ejeserver.com/live/cncbuga.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Medellin (1080p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J1f4fNq.png
 URL: http://138.94.3.106:8000/play/a02o/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CNC Pereira (720p)
 Categoría: 🇨🇴 Colombia
@@ -324,7 +324,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LNl2o9q.jpg
 URL: https://movil.ejeserver.com/live/cncsantander.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Tulua (1080p)
 Categoría: 🇨🇴 Colombia
@@ -527,7 +527,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JoGQqmP.png
 URL: http://45.173.231.22:8000/play/a0cr/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oasis TV (Colombia) (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -548,7 +548,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BJVlOVA.jpeg
 URL: https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Parranda Vallenata (720p)
 Categoría: 🇨🇴 Colombia
@@ -613,7 +613,7 @@ Logo: https://i.imgur.com/YmFjnsF.png
 URL: https://eu1.servers10.com:8081/8090/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Rumba TV
+Nombre: Rumba TV (1080p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WtVpWwI.png
@@ -772,7 +772,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 100
-  Fallan: 25
+  Funcionan: 102
+  Fallan: 23
 ==================================================

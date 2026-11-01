@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-31 19:30:52.768378
+  Fecha: 2026-11-01 19:53:28.333322
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -11,12 +11,19 @@ Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: ABC-TV Paraguay (1080p)
+Nombre: 5Dias TV
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/AX25tmv.png
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+Estado: FUNCIONA
+---
+Nombre: ABC-TV Paraguay
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OqfBMGy.png
-URL: https://live2.eu-north-1a.cf.dmcdn.net/sec2(vig4KUMvzIpvL_0CGgNPG2QFE6DukpwGhRZzGj8aqOyedNaDjlOwv-qe03N1Bk5-7nB-V7Uv8gBwwy2h-0TCL_WRE6IWeUWiVcnYm587YcdKpnqvQZ3tYg9iGdqpySyX)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a
-Estado: FALLA
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+Estado: FUNCIONA
 ---
 Nombre: AGR FM TV
 Categoría: 🇵🇾 Paraguay
@@ -39,11 +46,11 @@ Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 Estado: FUNCIONA
 ---
-Nombre: America Paraguay (720p)
+Nombre: America Paraguay
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
-URL: http://45.170.130.224:8000/play/a02o/index.m3u8?hls
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Bruno Masi TV (720p)
@@ -121,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: E40 (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -149,7 +156,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -205,7 +212,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nandejara Ne'e TV
 Categoría: 🇵🇾 Paraguay
@@ -240,7 +247,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
@@ -400,7 +407,14 @@ Nombre: Trece (Paraguay)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgIv5QK.png
-URL: http://45.170.130.224:8000/play/a050/index.m3u8?hls
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+Estado: FUNCIONA
+---
+Nombre: Tropicalia 93.9 FM
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/oMML5Ue.png
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TV Aire (1080p)
@@ -428,7 +442,7 @@ Nombre: Unicanal
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cgTD2TW.png
-URL: http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Union TV
@@ -457,12 +471,12 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ryzCsvy.jpg
 URL: https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
-  Total de streams: 65
-  Funcionan: 54
-  Fallan: 11
+  Total de streams: 67
+  Funcionan: 52
+  Fallan: 15
 ==================================================

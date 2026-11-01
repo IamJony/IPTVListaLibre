@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-31 19:30:52.758293
+  Fecha: 2026-11-01 19:53:28.328034
 ==================================================
 
 Nombre: 13C (1080p)
@@ -184,7 +184,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PGSixH5.png
 URL: https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 2 Quellon (1080p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -226,7 +226,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdYIKyt.png
 URL: https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Claro (720p)
 Categoría: 🇨🇱 Chile
@@ -856,7 +856,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png
 URL: https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio La Serena TV (720p)
 Categoría: 🇨🇱 Chile
@@ -870,7 +870,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/870_Radio_Nuble.png
 URL: https://tv.telselec.cl:3376/live/nublefmlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Panoramica (720p)
 Categoría: 🇨🇱 Chile
@@ -940,7 +940,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Vida Curico (720p)
 Categoría: 🇨🇱 Chile
@@ -1159,6 +1159,20 @@ Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: TNT Sports (Chile) (480p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png
+URL: http://209.45.101.130:8040/play/a03s/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: TNT Sports Premium ArgentinaHD (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+URL: http://181.78.79.131:8000/play/a0q9
+Estado: FUNCIONA
+---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -1372,7 +1386,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 195
-  Funcionan: 178
-  Fallan: 17
+  Total de streams: 197
+  Funcionan: 181
+  Fallan: 16
 ==================================================

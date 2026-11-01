@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-31 19:30:52.756308
+  Fecha: 2026-11-01 19:53:28.326638
 ==================================================
 
 Nombre: 5tv
@@ -79,7 +79,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g1BFoSs.png
 URL: https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bayres TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -149,7 +149,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wlKFPBW.jpeg
 URL: https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 2 Misiones (1080p)
 Categoría: 🇦🇷 Argentina
@@ -261,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -317,7 +317,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/f7jbdo.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 Link
 Categoría: 🇦🇷 Argentina
@@ -373,7 +373,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lmKLiJ3.jpg
 URL: https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 13 La Rioja (480p)
 Categoría: 🇦🇷 Argentina
@@ -583,14 +583,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmos Tv SD
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://canaletaplus.com:3922/live/cosmoslive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cumbia Mix (720p)
 Categoría: 🇦🇷 Argentina
@@ -725,6 +725,13 @@ Logo: https://i.imgur.com/TrgBAdA.png
 URL: https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: El Trece Internacional Latin America
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/Vo6prbh.png
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
+Estado: FUNCIONA
+---
 Nombre: Encuentro (720p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -772,6 +779,13 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
 URL: http://138.59.227.20:8000/play/a085/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Fox Sports HD
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Garage TV Latin America
@@ -842,7 +856,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HXRpRlK.png
 URL: https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Multivision Federal
 Categoría: 🇦🇷 Argentina
@@ -947,7 +961,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pXS38zo.png
 URL: https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Maria TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1199,6 +1213,20 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
+Estado: FALLA
+---
+Nombre: TNT Sports (Argentina)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png
+URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+Estado: FUNCIONA
+---
+Nombre: TNT Sports (Argentina) SD (576p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png
+URL: http://181.78.79.131:8000/play/a0mo
 Estado: FUNCIONA
 ---
 Nombre: TV Canal 72
@@ -1351,7 +1379,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 192
-  Funcionan: 150
-  Fallan: 42
+  Total de streams: 196
+  Funcionan: 148
+  Fallan: 48
 ==================================================

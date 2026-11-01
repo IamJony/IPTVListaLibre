@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-31 19:30:52.759320
+  Fecha: 2026-11-01 19:53:28.328783
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -303,14 +303,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zJAwnvd.png
 URL: https://movil.ejeserver.com/live/cncbuga.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CNC Medellin (1080p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J1f4fNq.png
 URL: http://138.94.3.106:8000/play/a02o/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Pereira (720p)
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -373,7 +373,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SQ79Wsb.png
 URL: https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Enlace Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -401,7 +401,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Cw5k96N.png
 URL: https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Heliconia Radio TV (720p)
 Categoría: 🇨🇴 Colombia
@@ -772,7 +772,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
@@ -849,7 +849,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YQUK4wO.png
 URL: https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vive TV (1080p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 102
-  Fallan: 23
+  Funcionan: 101
+  Fallan: 24
 ==================================================

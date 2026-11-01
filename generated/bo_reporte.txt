@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-10-31 19:30:52.757722
+  Fecha: 2026-11-01 19:53:28.327631
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -205,7 +205,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vPvR7dX.png
 URL: https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Centro (720p)
 Categoría: 🇧🇴 Bolivia
@@ -219,7 +219,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png
 URL: https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Kollasuyo (720p)
 Categoría: 🇧🇴 Bolivia
@@ -240,7 +240,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg
 URL: https://edge.enhdtv.com/8054/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red America TV (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -324,7 +324,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -359,7 +359,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6wkmgGM.png
 URL: https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TL Estrella (720p)
 Categoría: 🇧🇴 Bolivia
@@ -477,6 +477,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 38
-  Fallan: 29
+  Funcionan: 41
+  Fallan: 26
 ==================================================

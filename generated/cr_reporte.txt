@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.329465
+  Fecha: 2026-11-02 23:12:30.358334
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -51,7 +51,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png
 URL: https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 2 (Costa Rica) (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -205,7 +205,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://gextv.com/LOGO-WHITE.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guatuso TV
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 50
-  Fallan: 19
+  Funcionan: 52
+  Fallan: 17
 ==================================================

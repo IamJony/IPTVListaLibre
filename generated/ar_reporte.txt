@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.326638
+  Fecha: 2026-11-02 23:12:30.354535
 ==================================================
 
 Nombre: 5tv
@@ -51,7 +51,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tv.alterna.ar/alternatv.png
 URL: https://tv.alterna.ar/stream/hls/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -149,7 +149,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wlKFPBW.jpeg
 URL: https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 2 Misiones (1080p)
 Categoría: 🇦🇷 Argentina
@@ -170,7 +170,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rVDrNIy.png
 URL: https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 La Pampa (1080p)
 Categoría: 🇦🇷 Argentina
@@ -233,7 +233,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XyiNvbY.png
 URL: https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 Villa Dolores
 Categoría: 🇦🇷 Argentina
@@ -261,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -275,7 +275,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/liyTNzK.png
 URL: https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 Jujuy
 Categoría: 🇦🇷 Argentina
@@ -317,7 +317,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/f7jbdo.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 9 Link
 Categoría: 🇦🇷 Argentina
@@ -366,7 +366,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VYcTRbd.png
 URL: https://nd106.republicaservers.com:4433/c7827.mp4
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 Jujuy (720p)
 Categoría: 🇦🇷 Argentina
@@ -583,14 +583,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cosmos Tv SD
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://canaletaplus.com:3922/live/cosmoslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cumbia Mix (720p)
 Categoría: 🇦🇷 Argentina
@@ -618,7 +618,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
@@ -695,7 +695,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -709,7 +709,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -884,7 +884,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NET TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -961,7 +961,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pXS38zo.png
 URL: https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Maria TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1213,7 +1213,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNT Sports (Argentina)
 Categoría: 🇦🇷 Argentina
@@ -1255,7 +1255,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CRmY4Oi.png
 URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Solidaria (576p)
 Categoría: 🇦🇷 Argentina
@@ -1380,6 +1380,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 196
-  Funcionan: 148
-  Fallan: 48
+  Funcionan: 147
+  Fallan: 49
 ==================================================

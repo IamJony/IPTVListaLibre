@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.333322
+  Fecha: 2026-11-02 23:12:30.365668
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -128,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: E40 (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -156,7 +156,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -247,21 +247,21 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8IRBA9h.png
 URL: https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oviedo TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -317,14 +317,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -477,6 +477,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 52
-  Fallan: 15
+  Funcionan: 57
+  Fallan: 10
 ==================================================

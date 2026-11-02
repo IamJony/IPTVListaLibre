@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.328034
+  Fecha: 2026-11-02 23:12:30.356421
 ==================================================
 
 Nombre: 13C (1080p)
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -331,7 +331,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Lz2OlKf.png
 URL: https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cooperativa (720p)
 Categoría: 🇨🇱 Chile
@@ -632,7 +632,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YinMA8c.png
 URL: https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Marga Marga TV (720p)
 Categoría: 🇨🇱 Chile
@@ -646,7 +646,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c1ME00r.png
 URL: http://15.204.246.24:8080/Mega2HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mega (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -723,7 +723,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8SCnoiZ.png
 URL: https://v2.tustreaming.cl/odiseatv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oli TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -814,7 +814,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/409_Radio_Chiloe.png
 URL: https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Contemporanea Coihueco (720p)
 Categoría: 🇨🇱 Chile
@@ -856,7 +856,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png
 URL: https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio La Serena TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1353,7 +1353,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mpNcG5F.png
 URL: https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VTV Valle de Aconcagua (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 181
-  Fallan: 16
+  Funcionan: 173
+  Fallan: 24
 ==================================================

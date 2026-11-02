@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.333649
+  Fecha: 2026-11-02 23:12:30.366390
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -114,7 +114,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1eB9roP.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ATV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -149,7 +149,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bORM4rt.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bethel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -380,7 +380,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -464,7 +464,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: L1 (1080p)
 Categoría: 🇵🇪 Perú
@@ -583,7 +583,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sfNL6Bv.png
 URL: https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Monterrico TV
 Categoría: 🇵🇪 Perú
@@ -814,7 +814,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oFGiW7u.png
 URL: https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RPP TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 134
-  Fallan: 39
+  Funcionan: 140
+  Fallan: 33
 ==================================================

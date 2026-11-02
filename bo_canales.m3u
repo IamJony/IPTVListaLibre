@@ -1,10 +1,13 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-01 19:53:28.327637
+# Fecha: 2026-11-02 23:12:30.355785
 
 #EXTINF:-1 tvg-id="AmitelTV.bo@SD" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AsContenidos.bo@SD" tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png" group-title="🇧🇴 Bolivia",As Contenidos (720p)
+https://master.tucableip.com/ascontenido/index.m3u8
 
 #EXTINF:-1 tvg-id="Audiokiss.bo@SD" tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png" group-title="🇧🇴 Bolivia",Audiokiss (1080p)
 https://master.tucableip.com/audiokisstv/index.m3u8
@@ -51,6 +54,9 @@ https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" group-title="🇧🇴 Bolivia",Radio Kollasuyo (720p)
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 
+#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD" tvg-logo="https://i.imgur.com/yzSNWZ3.png" group-title="🇧🇴 Bolivia",Radio Mega TV Amazonia (720p)
+https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" group-title="🇧🇴 Bolivia",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8
 
@@ -83,9 +89,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDTMultimedia.bo@SD" tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="🇧🇴 Bolivia",TDT Multimedia (720p)
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="🇧🇴 Bolivia",TELE 6 (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleFeBolivia.bo@SD" group-title="🇧🇴 Bolivia",Tele Fe Bolivia (720p)
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8

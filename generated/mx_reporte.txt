@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.332334
+  Fecha: 2026-11-02 23:12:30.363730
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -128,14 +128,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -303,7 +303,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://iili.io/JCt1Nbn.png
 URL: https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 44 (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -576,7 +576,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -954,7 +954,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jYMpVQA.png
 URL: http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TRC TV (720p)
 Categoría: 🇲🇽 México
@@ -1247,6 +1247,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 177
-  Funcionan: 108
-  Fallan: 69
+  Funcionan: 107
+  Fallan: 70
 ==================================================

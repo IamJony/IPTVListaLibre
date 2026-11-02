@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-01 19:53:28.333652
+# Fecha: 2026-11-02 23:12:30.366396
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe@SD" tvg-logo="https://i.imgur.com/F4NZM3s.jpeg" group-title="🇵🇪 Perú",36 TV Huacho (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -27,6 +27,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD" tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" group-title="🇵🇪 Perú",Antena SUR (720p)
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 
+#EXTINF:-1 tvg-id="AtlantisRadioTV.pe@SD" tvg-logo="https://i.imgur.com/1eB9roP.png" group-title="🇵🇪 Perú",Atlantis Radio TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🇵🇪 Perú",ATV (Peru) (1080p)
 http://190.93.224.42/ATV/index.m3u8
 
@@ -38,6 +41,9 @@ http://45.171.108.253:8888/ATV/index.m3u8
 
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="🇵🇪 Perú",Autentica Television (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe@SD" tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="🇵🇪 Perú",Bella Abanquina TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BethelTV.pe@SD" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="🇵🇪 Perú",Bethel TV (720p)
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
@@ -111,6 +117,9 @@ http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ForoTV.pe@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s" group-title="🇵🇪 Perú",Foro TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
 
+#EXTINF:-1 tvg-id="GalacticaTV.pe@SD" tvg-logo="https://i.imgur.com/byL1zCV.jpeg" group-title="🇵🇪 Perú",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
+
 #EXTINF:-1 tvg-id="GeniosTV.pe@SD" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="🇵🇪 Perú",Genios TV (1080p)
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 
@@ -137,6 +146,9 @@ http://190.93.224.42/JUSTICIA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe@SD" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="🇵🇪 Perú",Karibena (720p)
 http://187.102.210.46/KARIBENA/index.m3u8
+
+#EXTINF:-1 tvg-id="KoraTV.pe@SD" tvg-logo="https://i.imgur.com/ahBYv4x.png" group-title="🇵🇪 Perú",Kora TV
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 
 #EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="🇵🇪 Perú",L1 Max (1080p)
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
@@ -179,6 +191,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilenialTV.pe@SD" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="🇵🇪 Perú",Milenial TV
 https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe@SD" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="🇵🇪 Perú",Millenium 109 FM
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 #EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🇵🇪 Perú",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
@@ -248,6 +263,9 @@ https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RegionTVCallao.pe@SD" tvg-logo="https://i.imgur.com/I4grcqk.png" group-title="🇵🇪 Perú",Region TV Callao (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RNTelevision.pe@SD" tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="🇵🇪 Perú",RN Television (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 #EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="🇵🇪 Perú",RPP TV (1080p)
 http://190.93.224.42/RPP/index.m3u8

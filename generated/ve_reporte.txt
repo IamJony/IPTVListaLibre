@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.335547
+  Fecha: 2026-11-02 23:12:30.369668
 ==================================================
 
 Nombre: AbejalesTV (720p)
@@ -16,7 +16,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg
 URL: https://stream.aguacatetv.com:3949/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alcance TV (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -37,7 +37,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: AS3 Sport TV (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -135,7 +135,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guaro TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -170,7 +170,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -282,7 +282,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -317,7 +317,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zRX91Xr.png
 URL: https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Somos TV (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -394,7 +394,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cxvkUvK.png
 URL: http://38.134.250.110:8000/play/a02i/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Televisora de Oriente (406p)
 Categoría: 🇻🇪 Venezuela
@@ -457,7 +457,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -471,14 +471,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J8ztiAN.png
 URL: https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UniTV (720p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KLGeznX.png
 URL: https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vale TV (480p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -533,6 +533,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 75
-  Funcionan: 46
-  Fallan: 29
+  Funcionan: 54
+  Fallan: 21
 ==================================================

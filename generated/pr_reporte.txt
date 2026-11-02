@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-01 19:53:28.334275
+  Fecha: 2026-11-02 23:12:30.367369
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -30,7 +30,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CDM Internacional (480p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -58,14 +58,14 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4OCptwT.png
 URL: https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Familia Vision HD [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uqTH7m5.jpg
 URL: https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Faro de Santidad TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -149,7 +149,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kqq7tD9.png
 URL: https://wapa.hostless.app/WAPA-TV-4-1.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: WECN (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -163,7 +163,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/42UdwD0.png
 URL: https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WIPR-TV 6.1 (1080p)
 Categoría: 🇵🇷 Puerto Rico
@@ -190,6 +190,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 26
-  Funcionan: 18
-  Fallan: 8
+  Funcionan: 21
+  Fallan: 5
 ==================================================

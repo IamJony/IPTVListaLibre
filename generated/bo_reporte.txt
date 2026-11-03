@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-02 23:12:30.355779
+  Fecha: 2026-11-03 21:14:28.099181
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -156,7 +156,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png
 URL: https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Interactivo Television (720p)
 Categoría: 🇧🇴 Bolivia
@@ -338,7 +338,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/p7tt72X.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Fe Bolivia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,7 +429,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 42
-  Fallan: 24
+  Funcionan: 41
+  Fallan: 25
 ==================================================

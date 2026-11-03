@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-02 23:12:30.363730
+  Fecha: 2026-11-03 21:14:28.106313
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -123,6 +123,13 @@ Logo: https://i.imgur.com/rRxgBtI.png
 URL: http://38.44.109.41:8003/play/a033/index.m3u8
 Estado: FALLA
 ---
+Nombre: Azteca Uno +1 (720p)
+Categoría: 🇲🇽 México
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/rRxgBtI.png
+URL: https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: B15 Fresnillo (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
@@ -142,7 +149,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ntK4D64.png
 URL: https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bandamax (1080p)
 Categoría: 🇲🇽 México
@@ -170,7 +177,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -576,7 +583,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -877,7 +884,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -891,7 +898,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y0a0xwY.png
 URL: https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleHit (1080p)
 Categoría: 🇲🇽 México
@@ -1246,7 +1253,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 177
-  Funcionan: 107
-  Fallan: 70
+  Total de streams: 178
+  Funcionan: 111
+  Fallan: 67
 ==================================================

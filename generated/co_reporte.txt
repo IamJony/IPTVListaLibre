@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-02 23:12:30.357543
+  Fecha: 2026-11-03 21:14:28.100986
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -65,7 +65,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/URKDlOZ.png
 URL: https://canal.mediaserver.com.co/live/buenisimatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: BUM Television (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -380,7 +380,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://cdn.colombia.com/canales/enlace-television-3301.jpg
 URL: http://181.78.12.119:16123/play/ch33/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Eureka (1080p) [Geo-blocked]
 Categoría: 🇨🇴 Colombia
@@ -394,7 +394,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/42wImV2.png
 URL: https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Frecuencia F TV (1080p)
 Categoría: 🇨🇴 Colombia
@@ -772,14 +772,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeveColombia (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -835,7 +835,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tMl4ISO.png
 URL: https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ultra Casanare TV (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 101
-  Fallan: 24
+  Funcionan: 100
+  Fallan: 25
 ==================================================

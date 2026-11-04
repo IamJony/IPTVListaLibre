@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-03 21:14:28.109509
+  Fecha: 2026-11-04 21:28:00.950048
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -1087,7 +1087,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/FTGbu8A.png
 URL: https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mijas 3.40TV (720p)
 Categoría: 🇪🇸 España
@@ -1668,7 +1668,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oGvsUH9.png
 URL: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele 7 (720p)
 Categoría: 🇪🇸 España
@@ -1997,7 +1997,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V23bltn.png
 URL: https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Valles Visio (1080p)
 Categoría: 🇪🇸 España
@@ -2066,6 +2066,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 294
-  Funcionan: 152
-  Fallan: 142
+  Funcionan: 153
+  Fallan: 141
 ==================================================

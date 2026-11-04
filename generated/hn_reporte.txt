@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-03 21:14:28.105783
+  Fecha: 2026-11-04 21:28:00.945729
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -93,7 +93,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c6hm03f.png
 URL: https://livestream.mediacci.com/ccitv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cholusat Sur 36 (214p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -156,7 +156,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IC30j61.png
 URL: https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EDN TV (1080p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -184,7 +184,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cteBdAJ.jpg
 URL: https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HCH (720p)
 Categoría: 🇭🇳 Honduras
@@ -429,7 +429,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oPSfsvy.png
 URL: http://45.238.141.222:8000/play/a0pf/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleDanli (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -492,7 +492,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: http://168.196.127.137:6001/play/a0ay/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TSi
 Categoría: 🇭🇳 Honduras
@@ -541,7 +541,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V9Fpd3Y.png
 URL: https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VTV (Honduras) (480p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -561,6 +561,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 79
-  Funcionan: 45
-  Fallan: 34
+  Funcionan: 43
+  Fallan: 36
 ==================================================

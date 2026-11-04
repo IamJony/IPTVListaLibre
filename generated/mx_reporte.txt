@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-03 21:14:28.106313
+  Fecha: 2026-11-04 21:28:00.946353
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -65,7 +65,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yu3Bpbd.png
 URL: http://168.196.127.137:6001/play/a06v/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Az Cinema (1080p)
 Categoría: 🇲🇽 México
@@ -142,14 +142,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ntK4D64.png
 URL: https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bandamax (1080p)
 Categoría: 🇲🇽 México
@@ -429,7 +429,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GiDD8xG.jpg
 URL: https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Chavo TV (720p)
 Categoría: 🇲🇽 México
@@ -583,7 +583,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -786,7 +786,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/W8a1dIa.png
 URL: https://cloudvideo.servers10.com:8081/8072/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCG TV 2 (360p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1254,6 +1254,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 178
-  Funcionan: 111
-  Fallan: 67
+  Funcionan: 109
+  Fallan: 69
 ==================================================

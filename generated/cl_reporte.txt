@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-04 21:28:00.939855
+  Fecha: 2026-11-05 21:32:55.630322
 ==================================================
 
 Nombre: 13C (1080p)
@@ -44,7 +44,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R6D228s.png
 URL: https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 13 Realities (1080p)
 Categoría: 🇨🇱 Chile
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -338,14 +338,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png
 URL: https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CRTV (Chile) (720p)
 Categoría: 🇨🇱 Chile
@@ -534,14 +534,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZpXXLox.png
 URL: https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ISA TV
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/24qGdyn.jpeg
 URL: https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Islita TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -646,7 +646,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c1ME00r.png
 URL: http://15.204.246.24:8080/Mega2HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mega (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -898,7 +898,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZzUc6je.png
 URL: https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Ritmo FM (1080p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 173
-  Fallan: 24
+  Funcionan: 177
+  Fallan: 20
 ==================================================

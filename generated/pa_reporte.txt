@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PA
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-04 21:28:00.947628
+  Fecha: 2026-11-05 21:32:55.635296
 ==================================================
 
 Nombre: A&R Canal (720p)
@@ -58,7 +58,7 @@ Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y0h8dlX.png
 URL: https://movil.ejeserver.com/live/mas23tv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MINFAV TV
 Categoría: 🇵🇦 Panamá
@@ -72,7 +72,7 @@ Categoría: 🇵🇦 Panamá
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QQBd052.png
 URL: https://movil.ejeserver.com/live/nextv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pindin TV
 Categoría: 🇵🇦 Panamá
@@ -176,6 +176,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 24
-  Funcionan: 16
-  Fallan: 8
+  Funcionan: 14
+  Fallan: 10
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-04 21:28:00.944424
+  Fecha: 2026-11-05 21:32:55.633338
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -37,7 +37,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdfiWG9.png
 URL: https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 (El Salvador) (1080p)
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 16
-  Fallan: 23
+  Funcionan: 15
+  Fallan: 24
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-04 21:28:00.941684
+  Fecha: 2026-11-05 21:32:55.631560
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -135,7 +135,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png
 URL: https://cloudvideo.servers10.com:8081/8030/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cristo Vision Canal 31
 Categoría: 🇨🇷 Costa Rica
@@ -198,7 +198,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sAYNKJ8.png
 URL: https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Gex TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 53
-  Fallan: 16
+  Funcionan: 55
+  Fallan: 14
 ==================================================

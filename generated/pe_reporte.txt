@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-04 21:28:00.948647
+  Fecha: 2026-11-05 21:32:55.635875
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cF7gJ2Q.jpeg
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ABTelevision (720p)
 Categoría: 🇵🇪 Perú
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -961,7 +961,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tiNvihZ.png
 URL: https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Trivu (1080p)
 Categoría: 🇵🇪 Perú
@@ -1129,7 +1129,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gyuoNZk.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vision Sur (720p)
 Categoría: 🇵🇪 Perú
@@ -1178,7 +1178,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png
 URL: https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Willax TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 142
-  Fallan: 31
+  Funcionan: 139
+  Fallan: 34
 ==================================================

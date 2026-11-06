@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.635542
+  Fecha: 2026-11-06 21:01:47.995752
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -37,14 +37,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ymcWecA.png
 URL: https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alt Media TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Paraguay
 Categoría: 🇵🇾 Paraguay
@@ -86,7 +86,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 8 Vision TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -114,14 +114,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Del Rey TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Zjxvg9u.jpeg
 URL: https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Dismar Radio TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -176,7 +176,7 @@ Nombre: Latele (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Qcf6Qev.png
-URL: https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+URL: http://190.128.214.97:64333/play/a03i/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Los Angeles TV Radio
@@ -204,7 +204,7 @@ Nombre: Monumental TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kEcOYML.png
-URL: https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
+URL: http://190.128.214.97:64333/play/a046/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Nande Portetepe TV
@@ -214,7 +214,7 @@ Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 Estado: FALLA
 ---
-Nombre: Nandejara Ne'e TV
+Nombre: Nandejara Ne'e TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VFxuBdL.jpg
@@ -225,7 +225,7 @@ Nombre: Nanduti (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AsuVsLa.png
-URL: https://nanduti.b-cdn.net/Source.m3u8
+URL: http://190.128.214.97:64333/play/a02d/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Next HD (480p)
@@ -247,14 +247,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8IRBA9h.png
 URL: https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oviedo TV
 Categoría: 🇵🇾 Paraguay
@@ -310,7 +310,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zaJhBdj.png
 URL: https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio TV El Arca del Pacto (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -338,21 +338,21 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3jj0MQP.jpg
 URL: https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Interior TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Regional TV Yaguaron (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iL5JnSy.jpeg
-URL: https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
-Estado: FALLA
+URL: http://190.128.214.97:64333/play/a05o/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Republica TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -386,7 +386,7 @@ Nombre: Telefuturo (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6lVrFvb.png
-URL: https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Tigo Sports+ (1280p)
@@ -429,7 +429,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cateqjx.jpeg
 URL: https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unicanal
 Categoría: 🇵🇾 Paraguay
@@ -438,7 +438,7 @@ Logo: https://i.imgur.com/cgTD2TW.png
 URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Union TV
+Nombre: Union TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/No9YzNC.png
@@ -450,7 +450,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Co3YrU0.png
 URL: https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Venus Media (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 44
-  Fallan: 22
+  Funcionan: 57
+  Fallan: 9
 ==================================================

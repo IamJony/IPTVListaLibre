@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.636770
+  Fecha: 2026-11-06 21:01:47.997462
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -137,7 +137,7 @@ Logo: https://i.imgur.com/DyvK28q.png
 URL: https://streaming.28kanala.eus/hls/z.m3u8
 Estado: FUNCIONA
 ---
-Nombre: 101tv Antequera [Geo-blocked]
+Nombre: 101tv Antequera (720p) [Geo-blocked]
 Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/GzI3RC4.png
@@ -389,7 +389,7 @@ Logo: https://i.imgur.com/p6YA5k0.png
 URL: https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 33 Madrid
+Nombre: Canal 33 Madrid (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg
@@ -905,7 +905,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Interalmeria TV (1080p)
 Categoría: 🇪🇸 España
@@ -956,7 +956,7 @@ Logo: https://i.ibb.co/MxJNPHsn/La-1.png
 URL: https://ztnr.rtve.es/ztnr/3293681.m3u8
 Estado: FALLA
 ---
-Nombre: La 2
+Nombre: La 2 (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/rfsr9PSh/La-2.png
@@ -1542,7 +1542,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5pMo7dL.png
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Real Madrid TV English
 Categoría: 🇪🇸 España
@@ -1801,7 +1801,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png
 URL: https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV3 (Spain) (1080p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -1933,8 +1933,8 @@ Nombre: TVE Star HD (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/j98NY8Mr/starcolor.png
-URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-Estado: FUNCIONA
+URL: http://38.252.238.18:8000/play/a01h/index.m3u8
+Estado: FALLA
 ---
 Nombre: TVG2 (720p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -2066,6 +2066,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 294
-  Funcionan: 150
-  Fallan: 144
+  Funcionan: 152
+  Fallan: 142
 ==================================================

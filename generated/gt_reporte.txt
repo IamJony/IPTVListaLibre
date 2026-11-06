@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.633755
+  Fecha: 2026-11-06 21:01:47.993928
 ==================================================
 
 Nombre: Amigos TV Chiquimula (480p)
@@ -36,8 +36,8 @@ Nombre: Canal 3 (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yCykjIp.png
-URL: https://d3jocgwjuhw91y.cloudfront.net/ts:abr.m3u8
-Estado: FALLA
+URL: http://181.119.177.253:8000/play/a03o/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Canal 6 Panadish (720p)
 Categoría: 🇬🇹 Guatemala
@@ -50,8 +50,8 @@ Nombre: Canal 7 (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yVhUkot.png
-URL: https://d1zq2gydd8y59v.cloudfront.net/ts:abr.m3u8
-Estado: FALLA
+URL: http://181.119.177.253:8000/play/a03n/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Canal 11 (Guatemala) (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -64,7 +64,7 @@ Nombre: Canal 13 (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/C1yVU3J.png
-URL: http://190.61.101.11:7050/play/a07f/index.m3u8
+URL: http://168.196.127.137:6001/play/a064/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Canal 13 Esquipulas (720p)
@@ -331,7 +331,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/569xc5o.png
 URL: https://s2.tvdatta.com:3112/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Rhema TV (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 32
-  Fallan: 34
+  Funcionan: 33
+  Fallan: 33
 ==================================================

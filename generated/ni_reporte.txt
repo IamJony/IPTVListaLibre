@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - NI
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.635033
+  Fecha: 2026-11-06 21:01:47.995220
 ==================================================
 
 Nombre: Canal 6 (Nicaragua) (480p) [Not 24/7]
@@ -18,7 +18,7 @@ Logo: https://i.imgur.com/chXNX9k.jpeg
 URL: https://cdn.amixtv.com/c7boaco/index.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 10 (Nicaragua)
+Nombre: Canal 10 (Nicaragua) (480p)
 Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ztp781b.png
@@ -30,7 +30,7 @@ Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/UhEW8cj.png
 URL: http://45.228.234.9:8000/play/a06s/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 15 (1080p) [Not 24/7]
 Categoría: 🇳🇮 Nicaragua
@@ -148,6 +148,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 20
-  Funcionan: 8
-  Fallan: 12
+  Funcionan: 7
+  Fallan: 13
 ==================================================

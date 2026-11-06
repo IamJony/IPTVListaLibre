@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.635875
+  Fecha: 2026-11-06 21:01:47.996198
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cF7gJ2Q.jpeg
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ABTelevision (720p)
 Categoría: 🇵🇪 Perú
@@ -232,7 +232,7 @@ Nombre: Canal N (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Xytvw3J.png
-URL: http://187.102.208.209:8000/play/a0az/index.m3u8
+URL: http://170.244.209.30:8000/play/a1ib/index.m3u8
 Estado: FALLA
 ---
 Nombre: Casma TV (720p)
@@ -277,7 +277,7 @@ Logo: https://i.imgur.com/oxycMeA.png
 URL: https://live.obslivestream.com/crtvmux/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Cultura 24
+Nombre: Cultura 24 (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/h0LxXsx.png
@@ -344,8 +344,8 @@ Nombre: Exitosa TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pu0BSB7.png
-URL: http://190.93.224.42/EXITOSA/index.m3u8
-Estado: FUNCIONA
+URL: http://170.244.209.30:8000/play/a1ic/index.m3u8
+Estado: FALLA
 ---
 Nombre: Folklore TV (720p)
 Categoría: 🇵🇪 Perú
@@ -354,7 +354,7 @@ Logo: https://i.imgur.com/QdOGJes.png
 URL: https://play.folkloretv.pe/StreamSD/index.m3u8
 Estado: FALLA
 ---
-Nombre: Foro TV
+Nombre: Foro TV (576p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s
@@ -596,7 +596,7 @@ Nombre: Movistar Deportes (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Zt3iE86.png
-URL: http://195.178.110.110/movistar/index.m3u8
+URL: http://170.244.209.30:8000/play/a1i8/index.m3u8
 Estado: FALLA
 ---
 Nombre: Movistar Plus (576p)
@@ -872,11 +872,11 @@ Logo: https://i.imgur.com/ufnWpUf.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: SolTV (Peru)
+Nombre: SolTV (Peru) (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GtNkuAc.png
-URL: https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
+URL: https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Sqala TV (720p)
@@ -961,7 +961,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tiNvihZ.png
 URL: https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Trivu (1080p)
 Categoría: 🇵🇪 Perú
@@ -1023,7 +1023,7 @@ Nombre: TV Peru (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6io0IrX.png
-URL: http://190.93.224.42/TV-PERU/index.m3u8
+URL: http://181.224.200.5:2277/play/a0dx/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TV Peru Noticias (1080p)
@@ -1178,14 +1178,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png
 URL: https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Willax TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bZnDDPH.png
-URL: http://190.93.224.42/WILLAX/index.m3u8
-Estado: FUNCIONA
+URL: http://170.244.209.30:8000/play/a1id/index.m3u8
+Estado: FALLA
 ---
 Nombre: Wtv (720p)
 Categoría: 🇵🇪 Perú
@@ -1219,6 +1219,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 173
-  Funcionan: 139
-  Fallan: 34
+  Funcionan: 138
+  Fallan: 35
 ==================================================

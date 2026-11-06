@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - UY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.637595
+  Fecha: 2026-11-06 21:01:47.998732
 ==================================================
 
 Nombre: Canal 5 (Uruguay) (720p)
@@ -20,12 +20,12 @@ Estado: FUNCIONA
 ---
 Nombre: Canal Mas (720p)
 Categoría: 🇺🇾 Uruguay
-User-Agent: Predeterminado
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/gs1L1mW.png
-URL: https://canalmasuruguay.com/hls/master-abr.m3u8
+URL: https://canalmasuruguay.com/hls/720p/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal Once Plus
+Nombre: Canal Once Plus (720p)
 Categoría: 🇺🇾 Uruguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TYiMGUD.png
@@ -46,7 +46,7 @@ Logo: https://i.imgur.com/zdrbjDc.png
 URL: https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Mision Vida TV
+Nombre: Mision Vida TV (1080p)
 Categoría: 🇺🇾 Uruguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8JgBuTm.png

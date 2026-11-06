@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-05 21:32:55.633338
+  Fecha: 2026-11-06 21:01:47.993452
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -37,7 +37,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdfiWG9.png
 URL: https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 (El Salvador) (1080p)
 Categoría: 🇸🇻 El Salvador
@@ -155,7 +155,7 @@ Nombre: Megavision Canal 19 (720p)
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png
-URL: https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+URL: http://45.167.1.138:8000/play/a02b
 Estado: FUNCIONA
 ---
 Nombre: Megavision Canal 21 (720p)
@@ -254,7 +254,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uPWWtCA.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVM El Salvador [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -268,7 +268,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nsXXEUZ.png
 URL: https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WOW TV (1080p)
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 15
-  Fallan: 24
+  Funcionan: 16
+  Fallan: 23
 ==================================================

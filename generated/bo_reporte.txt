@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.989829
+  Fecha: 2026-11-07 19:35:09.470291
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Audiokiss (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -65,7 +65,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/l9kDNld.jpeg
 URL: http://45.5.118.152:8000/play/a08z/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CEACOM TV (1080p) [Not 24/7]
 Categoría: 🇧🇴 Bolivia
@@ -429,7 +429,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 42
-  Fallan: 24
+  Funcionan: 41
+  Fallan: 25
 ==================================================

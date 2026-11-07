@@ -2,7 +2,7 @@
   REPORTE DE CANALES DE CINE
   Fuente: world_ip_tv
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.999404
+  Fecha: 2026-11-07 19:35:09.476444
 ==================================================
 
 Nombre: AMC Latin America (1080p)
@@ -38,7 +38,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 URL: http://45.134.141.161:2200/ARG/TNT/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel International (720p)
 Categoría: 🎬 Cine
@@ -163,6 +163,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 22
-  Funcionan: 21
-  Fallan: 1
+  Funcionan: 20
+  Fallan: 2
 ==================================================

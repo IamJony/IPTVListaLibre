@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.996198
+  Fecha: 2026-11-07 19:35:09.474756
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -156,6 +156,13 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zCVh765.png
 URL: https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Bicolor+ Premium [Geo-blocked]
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png
+URL: https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
 Estado: FUNCIONA
 ---
 Nombre: BNB Digital (720p)
@@ -303,7 +310,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/crttwAR.png
 URL: https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Diaspora TV
 Categoría: 🇵🇪 Perú
@@ -380,14 +387,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iH2Lx6E.png
 URL: https://sc3.wasidata.com/Genios2_1902/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Global TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -919,7 +926,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cu7hTn8.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesystem TV (720p)
 Categoría: 🇵🇪 Perú
@@ -961,7 +968,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tiNvihZ.png
 URL: https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Trivu (1080p)
 Categoría: 🇵🇪 Perú
@@ -1129,7 +1136,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gyuoNZk.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision Sur (720p)
 Categoría: 🇵🇪 Perú
@@ -1218,7 +1225,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 173
+  Total de streams: 174
   Funcionan: 138
-  Fallan: 35
+  Fallan: 36
 ==================================================

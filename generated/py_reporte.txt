@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.995752
+  Fecha: 2026-11-07 19:35:09.474499
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -9,7 +9,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 5Dias TV
 Categoría: 🇵🇾 Paraguay
@@ -30,7 +30,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
@@ -149,7 +149,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GO TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -261,7 +261,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -317,7 +317,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -359,6 +359,13 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/qYRw4JP/Captura.png
 URL: https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Senado TV (576p)
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LzgODUS.png
+URL: https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
 Estado: FUNCIONA
 ---
 Nombre: SNT (480p)
@@ -469,7 +476,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 66
+  Total de streams: 67
   Funcionan: 57
-  Fallan: 9
+  Fallan: 10
 ==================================================

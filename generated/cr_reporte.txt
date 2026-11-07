@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.991666
+  Fecha: 2026-11-07 19:35:09.471546
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -205,14 +205,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://gextv.com/LOGO-WHITE.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guatuso TV (720p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://www.grupodgrajal.com/images/logoguatusochannel.png
 URL: https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Hope Channel PROYECTO JA (360p)
 Categoría: 🇨🇷 Costa Rica
@@ -226,7 +226,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YRRID7W.png
 URL: https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: IQ Channel (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -359,7 +359,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/m3xu6Ms.png
 URL: https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeleMas (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -443,14 +443,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zEi8eMC.png
 URL: https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vintage Music (720p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KImqYnN.jpeg
 URL: https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VM Latino (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 52
-  Fallan: 17
+  Funcionan: 50
+  Fallan: 19
 ==================================================

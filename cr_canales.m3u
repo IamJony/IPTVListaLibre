@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-06 21:01:47.991672
+# Fecha: 2026-11-07 19:35:09.471548
 
 #EXTINF:-1 tvg-id="88Stereo.cr@SD" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="🇨🇷 Costa Rica",88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -63,11 +63,14 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr@SD" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="🇨🇷 Costa Rica",Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GexTV.cr@HD" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="🇨🇷 Costa Rica",Gex TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuatusoTV.cr@SD" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="🇨🇷 Costa Rica",Guatuso TV (720p)
+https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr@SD" tvg-logo="https://i.imgur.com/VDyf36C.png" group-title="🇨🇷 Costa Rica",Hope Channel PROYECTO JA (360p)
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
-
-#EXTINF:-1 tvg-id="ImpactChannel.cr@SD" tvg-logo="https://i.imgur.com/YRRID7W.png" group-title="🇨🇷 Costa Rica",Impact Channel (1080p)
-https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IQChannel.cr@SD" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="🇨🇷 Costa Rica",IQ Channel (720p)
 https://rtmp.info/iqtv/envivo/playlist.m3u8
@@ -111,9 +114,6 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr@SD" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="🇨🇷 Costa Rica",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleBrunca.cr@SD" tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="🇨🇷 Costa Rica",TeleBrunca (720p) [Not 24/7]
-https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleMas.cr@SD" tvg-logo="https://i.imgur.com/5Rc8mA5.png" group-title="🇨🇷 Costa Rica",TeleMas (720p) [Not 24/7]
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 
@@ -140,12 +140,6 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UrbanoTV.cr@SD" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="🇨🇷 Costa Rica",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VideoTourChannel.cr@SD" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="🇨🇷 Costa Rica",Video Tour Channel
-https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VintageMusic.cr@SD" tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="🇨🇷 Costa Rica",Vintage Music (720p)
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VMLatino.cr@SD" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="🇨🇷 Costa Rica",VM Latino (1080p)
 http://45.163.139.42:8000/play/a03d/index.m3u8

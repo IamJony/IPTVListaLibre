@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.990981
+  Fecha: 2026-11-07 19:35:09.471140
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -86,7 +86,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YFywPLC.png
 URL: http://190.109.2.92:8000/play/a010/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 2 Alpavision Neiva (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -394,7 +394,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/42wImV2.png
 URL: https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Frecuencia F TV (1080p)
 Categoría: 🇨🇴 Colombia
@@ -653,7 +653,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -883,6 +883,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 125
-  Funcionan: 101
-  Fallan: 24
+  Funcionan: 102
+  Fallan: 23
 ==================================================

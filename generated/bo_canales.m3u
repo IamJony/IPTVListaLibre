@@ -1,22 +1,16 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-06 21:01:47.989835
+# Fecha: 2026-11-07 19:35:09.470294
 
 #EXTINF:-1 tvg-id="AmitelTV.bo@SD" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AsContenidos.bo@SD" tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png" group-title="🇧🇴 Bolivia",As Contenidos (720p)
-https://master.tucableip.com/ascontenido/index.m3u8
 
 #EXTINF:-1 tvg-id="Audiokiss.bo@SD" tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png" group-title="🇧🇴 Bolivia",Audiokiss (1080p)
 https://master.tucableip.com/audiokisstv/index.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="🇧🇴 Bolivia",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal56QuieroTV.bo@SD" tvg-logo="https://i.imgur.com/l9kDNld.jpeg" group-title="🇧🇴 Bolivia",Canal 56 Quiero TV (720p)
-http://45.5.118.152:8000/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="CEACOMTV.bo@SD" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="🇧🇴 Bolivia",CEACOM TV (1080p) [Not 24/7]
 https://eu1.servers10.com:8081/ceacom/index.m3u8
@@ -125,6 +119,9 @@ https://edge.enhdtv.com/8192/index.m3u8
 
 #EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) (1080p)
 http://190.181.61.93:8000/play/1909/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="🇧🇴 Bolivia",Univalle Television (1080p)
+https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV (720p)
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

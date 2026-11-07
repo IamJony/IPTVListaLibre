@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.998951
+  Fecha: 2026-11-07 19:35:09.476171
 ==================================================
 
 Nombre: AbejalesTV (720p)
@@ -247,7 +247,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU
 URL: https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oasis Television (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -317,7 +317,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zRX91Xr.png
 URL: https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Somos TV (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -394,7 +394,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cxvkUvK.png
 URL: http://38.134.250.110:8000/play/a02i/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televisora de Oriente (406p)
 Categoría: 🇻🇪 Venezuela
@@ -408,7 +408,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png
 URL: https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Torococo TV (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -533,6 +533,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 75
-  Funcionan: 52
-  Fallan: 23
+  Funcionan: 50
+  Fallan: 25
 ==================================================

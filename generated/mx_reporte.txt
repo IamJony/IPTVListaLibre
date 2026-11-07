@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.994641
+  Fecha: 2026-11-07 19:35:09.473693
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -149,7 +149,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ntK4D64.png
 URL: https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bandamax (1080p)
 Categoría: 🇲🇽 México
@@ -177,7 +177,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -884,7 +884,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1254,6 +1254,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 178
-  Funcionan: 114
-  Fallan: 64
+  Funcionan: 111
+  Fallan: 67
 ==================================================

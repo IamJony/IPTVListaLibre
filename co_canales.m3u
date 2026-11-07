@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - CO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-06 21:01:47.990986
+# Fecha: 2026-11-07 19:35:09.471143
 
 #EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="🇨🇴 Colombia",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
@@ -29,9 +29,6 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-id="Cablenoticias.co@SD" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="🇨🇴 Colombia",Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal1.co@SD" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="🇨🇴 Colombia",Canal 1 (Colombia) (1080p)
-http://190.109.2.92:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="🇨🇴 Colombia",Canal 2 Alpavision Neiva (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
@@ -139,6 +136,9 @@ https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="EnlaceTelevision.co@SD" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="🇨🇴 Colombia",Enlace Television (1080p)
 http://181.78.12.119:16123/play/ch33/index.m3u8
 
+#EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://i.imgur.com/42wImV2.png" group-title="🇨🇴 Colombia",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="🇨🇴 Colombia",Frecuencia F TV (1080p)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 
@@ -225,6 +225,9 @@ https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 
 #EXTINF:-1 tvg-id="SenalColombia.co@SD" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="🇨🇴 Colombia",Senal Colombia (1080p)
 http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8
+
+#EXTINF:-1 tvg-id="SoonaTV.co@SD" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" group-title="🇨🇴 Colombia",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.co@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="🇨🇴 Colombia",Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8

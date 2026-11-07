@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-06 21:01:47.990247
+  Fecha: 2026-11-07 19:35:09.470600
 ==================================================
 
 Nombre: 13C (1080p)
@@ -44,7 +44,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R6D228s.png
 URL: https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 13 Realities (1080p)
 Categoría: 🇨🇱 Chile
@@ -177,7 +177,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LvzLg33.png
 URL: https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 1 Nuble (1080p)
 Categoría: 🇨🇱 Chile
@@ -296,7 +296,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -534,7 +534,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZpXXLox.png
 URL: https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ISA TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -758,7 +758,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eaJVCwM.png
 URL: https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Polar TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -870,7 +870,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/870_Radio_Nuble.png
 URL: https://tv.telselec.cl:3376/live/nublefmlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Panoramica (720p)
 Categoría: 🇨🇱 Chile
@@ -1311,7 +1311,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/2AK61FQ.png
 URL: https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UTV (Chile) (720p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 178
-  Fallan: 19
+  Funcionan: 175
+  Fallan: 22
 ==================================================

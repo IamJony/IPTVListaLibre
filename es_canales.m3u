@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-07 19:35:09.475409
+# Fecha: 2026-11-08 19:55:12.302723
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 España",3Cat Cameres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -87,9 +87,6 @@ https://avantstreaming.es/hls/canal3.m3u8
 
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="🇪🇸 España",Canal 4 Mancha Centro (720p) [Not 24/7]
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="🇪🇸 España",Canal 7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Emporda.es@SD" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="🇪🇸 España",Canal 10 Emporda (360p) [Not 24/7]
 https://ventdelnord.tv:8080/escala/directe.m3u8
@@ -183,6 +180,10 @@ https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
 #EXTINF:-1 tvg-id="DistritoTV.es@SD" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="🇪🇸 España",Distrito TV (1080p)
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.es@SD" tvg-logo="https://i.imgur.com/En2sLlW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="🇪🇸 España",DMAX (Spain)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/51/index.m3u8
 
 #EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD" tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="🇪🇸 España",Durangaldeko Telebista (576p)
 https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
@@ -341,8 +342,9 @@ https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="RadioTelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="🇪🇸 España",Radio Television Marbella (720p)
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="🇪🇸 España",Real Madrid TV (726p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="🇪🇸 España",Real Madrid TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/26/index.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="🇪🇸 España",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8

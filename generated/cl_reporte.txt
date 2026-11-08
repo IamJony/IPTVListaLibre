@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-07 19:35:09.470600
+  Fecha: 2026-11-08 19:55:12.296195
 ==================================================
 
 Nombre: 13C (1080p)
@@ -100,7 +100,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KCrSbgv.png
 URL: https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AM Canal
 Categoría: 🇨🇱 Chile
@@ -296,7 +296,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/382_ChocolateFM.png
 URL: https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Club TV (720p)
 Categoría: 🇨🇱 Chile
@@ -534,14 +534,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZpXXLox.png
 URL: https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ISA TV (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/24qGdyn.jpeg
 URL: https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Islita TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -870,7 +870,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/870_Radio_Nuble.png
 URL: https://tv.telselec.cl:3376/live/nublefmlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Panoramica (720p)
 Categoría: 🇨🇱 Chile
@@ -968,7 +968,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OG0RC2e.png
 URL: https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Rial TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1108,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhPFGs8.png
 URL: https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecanal (720p)
 Categoría: 🇨🇱 Chile
@@ -1220,7 +1220,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tpI0WQH.png
 URL: https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Usach (720p)
 Categoría: 🇨🇱 Chile
@@ -1297,7 +1297,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/biXepTU.png
 URL: https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Uniregion TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 175
-  Fallan: 22
+  Funcionan: 173
+  Fallan: 24
 ==================================================

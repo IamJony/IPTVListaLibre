@@ -1,7 +1,7 @@
 #EXTM3U
 # Canales de Cine
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-07 19:35:09.476447
+# Fecha: 2026-11-08 19:55:12.304113
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="🎬 Cine",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
@@ -14,6 +14,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="🎬 Cine",Studio Universal Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="🎬 Cine",TNT Latin America Argentina (1080p)
+http://45.134.141.161:2200/ARG/TNT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="🎬 Cine",Star Channel International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
@@ -47,6 +50,9 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="🎬 Cine",TNT Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="🎬 Cine",STAR Channel (Finland) (720p)
+https://live-fi.tvkaista.net/star-channel/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NUpxhr.png" group-title="🎬 Cine",Star Channel (Greece) (1080p)
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - HN
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-07 19:35:09.473430
+# Fecha: 2026-11-08 19:55:12.300034
 
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias Television (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -14,6 +14,9 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
 #EXTINF:-1 tvg-id="CampusTV.hn@SD" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="🇭🇳 Honduras",Campus TV (480p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal7TalangaVision.hn@SD" tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="🇭🇳 Honduras",Canal 7 Talanga Vision (720p)
+https://amixtv.com:8081/talangavision/index.m3u8
 
 #EXTINF:-1 tvg-id="CCIChannel.hn@SD" tvg-logo="https://i.imgur.com/c6hm03f.png" group-title="🇭🇳 Honduras",CCI Channel (1080p)
 https://livestream.mediacci.com/ccitv/index.m3u8
@@ -47,6 +50,9 @@ https://s.emisoras.tv:8081/girasoltv/index.m3u8
 
 #EXTINF:-1 tvg-id="GuayapeTV.hn@SD" tvg-logo="https://i.imgur.com/cteBdAJ.jpg" group-title="🇭🇳 Honduras",Guayape TV
 https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+
+#EXTINF:-1 tvg-id="HCH.hn@SD" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="🇭🇳 Honduras",HCH (720p)
+http://45.228.234.9:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="ICNDigital.hn@SD" tvg-logo="https://i.imgur.com/UCZVQgj.png" group-title="🇭🇳 Honduras",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
@@ -83,9 +89,6 @@ https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="🇭🇳 Honduras",Radio Ideal (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="RadioOmegaTV.hn@SD" tvg-logo="https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg" group-title="🇭🇳 Honduras",Radio Omega TV (720p) [Not 24/7]
-https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCVTV.hn@SD" tvg-logo="https://i.imgur.com/0TEeEFG.jpg" group-title="🇭🇳 Honduras",RCV TV (712p)
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8

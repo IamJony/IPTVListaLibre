@@ -1,13 +1,13 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PA
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-07 19:35:09.474338
+# Fecha: 2026-11-08 19:55:12.301216
 
 #EXTINF:-1 tvg-id="ARCanal.pa@SD" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="🇵🇦 Panamá",A&R Canal (720p)
 http://51.222.9.192:3589/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="🇵🇦 Panamá",Corazon TV
-https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-id="CorazonTV.pa@SD" tvg-logo="https://i.imgur.com/HVdbXku.png" group-title="🇵🇦 Panamá",Corazon TV (720p)
+http://181.79.86.130:8000/play/a05d/index.m3u8
 
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="🇵🇦 Panamá",Dreiko TV (720p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8020/index.m3u8

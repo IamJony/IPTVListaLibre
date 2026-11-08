@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-07 19:35:09.475407
+  Fecha: 2026-11-08 19:55:12.302718
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -373,7 +373,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -681,6 +681,13 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AqGIoIt.png
 URL: https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+Estado: FUNCIONA
+---
+Nombre: DMAX (Spain)
+Categoría: 🇪🇸 España
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+Logo: https://i.imgur.com/En2sLlW.png
+URL: http://90.163.85.113:8093/stream/51/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Durangaldeko Telebista (576p)
@@ -1537,11 +1544,11 @@ Logo: https://i.imgur.com/Meew6eX.png
 URL: https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 Estado: FALLA
 ---
-Nombre: Real Madrid TV (726p)
+Nombre: Real Madrid TV (1080p)
 Categoría: 🇪🇸 España
-User-Agent: Predeterminado
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/5pMo7dL.png
-URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+URL: http://90.163.85.113:8093/stream/26/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Real Madrid TV English
@@ -2065,7 +2072,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 294
+  Total de streams: 295
   Funcionan: 152
-  Fallan: 142
+  Fallan: 143
 ==================================================

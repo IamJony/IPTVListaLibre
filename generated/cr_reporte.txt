@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-07 19:35:09.471546
+  Fecha: 2026-11-08 19:55:12.297468
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -184,7 +184,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/f8BkLql.png
 URL: http://45.228.234.9:8000/play/a06o/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: GAMTV.cr (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -226,7 +226,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YRRID7W.png
 URL: https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: IQ Channel (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -331,7 +331,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/P4kpMgk/1689344714578.jpg
 URL: https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Super Cable
 Categoría: 🇨🇷 Costa Rica
@@ -359,7 +359,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/m3xu6Ms.png
 URL: https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleMas (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -443,14 +443,14 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zEi8eMC.png
 URL: https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vintage Music (720p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KImqYnN.jpeg
 URL: https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VM Latino (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 50
-  Fallan: 19
+  Funcionan: 54
+  Fallan: 15
 ==================================================

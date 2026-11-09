@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.294854
+  Fecha: 2026-11-09 23:50:49.273120
 ==================================================
 
 Nombre: 5tv
@@ -163,7 +163,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hgj3CaR.jpeg
 URL: https://edge.enhdtv.com/nexthd/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Formosa
 Categoría: 🇦🇷 Argentina
@@ -198,7 +198,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RKvSa52.jpeg
 URL: http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 Esquel (720p)
 Categoría: 🇦🇷 Argentina
@@ -506,7 +506,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nPG38B2.png
 URL: https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Universidad
 Categoría: 🇦🇷 Argentina
@@ -555,7 +555,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HJkSz2U.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ciudad TV Resistencia (720p)
 Categoría: 🇦🇷 Argentina
@@ -879,11 +879,11 @@ Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: NET TV (720p)
+Nombre: NET TV (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IhJ0BjF.png
-URL: http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
+URL: http://45.226.205.96:48000/play/a09p/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: NG Federal (720p)
@@ -898,7 +898,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jTX2vp0.png
 URL: https://ntvcanal7.com.ar:81/dash/stream.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1045,7 +1045,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png
 URL: https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Senillosa TV (360p)
 Categoría: 🇦🇷 Argentina
@@ -1073,7 +1073,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://files.catbox.moe/ufv5z0.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sony Channel (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1123,13 +1123,6 @@ User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
 URL: http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 Estado: FUNCIONA
----
-Nombre: Telefe Interior (720p)
-Categoría: 🇦🇷 Argentina
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
-URL: http://200.91.32.158:8080/telefehdvalle/index.m3u8
-Estado: FALLA
 ---
 Nombre: Telefe Internacional (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1206,7 +1199,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNT Sports (Argentina)
 Categoría: 🇦🇷 Argentina
@@ -1248,7 +1241,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CRmY4Oi.png
 URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Solidaria (576p)
 Categoría: 🇦🇷 Argentina
@@ -1372,7 +1365,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 195
-  Funcionan: 153
-  Fallan: 42
+  Total de streams: 194
+  Funcionan: 150
+  Fallan: 44
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.302435
+  Fecha: 2026-11-09 23:50:49.282840
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -65,7 +65,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uqTH7m5.jpg
 URL: https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Faro de Santidad TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -93,7 +93,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png
 URL: https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraiso TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -149,7 +149,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kqq7tD9.png
 URL: https://wapa.hostless.app/WAPA-TV-4-1.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: WAPA-TV 4.2 (720p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -197,6 +197,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 27
-  Funcionan: 19
-  Fallan: 8
+  Funcionan: 22
+  Fallan: 5
 ==================================================

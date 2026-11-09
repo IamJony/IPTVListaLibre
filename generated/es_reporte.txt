@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.302718
+  Fecha: 2026-11-09 23:50:49.283206
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -436,7 +436,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0WrKIxm.png
 URL: https://secure5.todostreaming.es/live/division-alm.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Extremadura (576p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -912,7 +912,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Interalmeria TV (1080p)
 Categoría: 🇪🇸 España
@@ -1010,7 +1010,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hBswXYZ.png
 URL: https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lleida Televisio (1080p)
 Categoría: 🇪🇸 España
@@ -1122,7 +1122,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/Swd9NP7n/music-tv-granada.png
 URL: https://cloudvideo.servers10.com:8081/8032/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MyTime Movie Network (Spain) (1080p)
 Categoría: 🇪🇸 España
@@ -1164,7 +1164,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mUrZz9O.png
 URL: https://cloudvideo.servers10.com:8081/8034/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Onda Algeciras (576p)
 Categoría: 🇪🇸 España
@@ -1892,7 +1892,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/RpKLCMvp/tve.png
 URL: https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVE Internacional America HD (1080p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -2073,6 +2073,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 295
-  Funcionan: 152
-  Fallan: 143
+  Funcionan: 148
+  Fallan: 147
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.296195
+  Fecha: 2026-11-09 23:50:49.274738
 ==================================================
 
 Nombre: 13C (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/utI1tJV.png
 URL: https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 13 Festival (1080p)
 Categoría: 🇨🇱 Chile
@@ -233,7 +233,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
 URL: https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal ISB (720p)
 Categoría: 🇨🇱 Chile
@@ -380,7 +380,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1759_Docevision.png
 URL: https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El 3 de Conce (1080p)
 Categoría: 🇨🇱 Chile
@@ -436,14 +436,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EnerGeek FAN (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -541,7 +541,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/24qGdyn.jpeg
 URL: https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Islita TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -758,7 +758,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eaJVCwM.png
 URL: https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Polar TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -940,7 +940,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Vida Curico (720p)
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1108,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhPFGs8.png
 URL: https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telecanal (720p)
 Categoría: 🇨🇱 Chile
@@ -1122,7 +1122,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNYDqhp.png
 URL: https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televida (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1297,7 +1297,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/biXepTU.png
 URL: https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Uniregion TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 173
-  Fallan: 24
+  Funcionan: 170
+  Fallan: 27
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.296955
+  Fecha: 2026-11-09 23:50:49.275682
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -114,7 +114,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5e1d8k.png
 URL: https://video2.lhdserver.es/canal9cosespu/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 14 Codazzi (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -128,7 +128,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6YxtyUR.jpeg
 URL: https://movil.ejeserver.com/live/calimatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Capital (1080p)
 Categoría: 🇨🇴 Colombia
@@ -254,7 +254,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canica TV (240p)
 Categoría: 🇨🇴 Colombia
@@ -310,7 +310,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zJAwnvd.png
 URL: https://movil.ejeserver.com/live/cncbuga.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CNC Medellin (1080p)
 Categoría: 🇨🇴 Colombia
@@ -345,7 +345,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y5N6PCg.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmovision (720p)
 Categoría: 🇨🇴 Colombia
@@ -380,7 +380,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SQ79Wsb.png
 URL: https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enlace Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -485,7 +485,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg
 URL: https://video.ejeserver.com/live/mcitelevision.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Momento24
 Categoría: 🇨🇴 Colombia
@@ -555,7 +555,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BJVlOVA.jpeg
 URL: https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Parranda Vallenata (720p)
 Categoría: 🇨🇴 Colombia
@@ -632,7 +632,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3IhYd7G.jpg
 URL: https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Santel TV
 Categoría: 🇨🇴 Colombia
@@ -688,7 +688,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/2N9LCES.png
 URL: https://us.streaminghd.cl/suramtv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Amiga (720p)
 Categoría: 🇨🇴 Colombia
@@ -779,14 +779,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bJWj5ja.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesangil (720p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeveColombia (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -842,7 +842,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tMl4ISO.png
 URL: https://vs20.live.opencaster.com/diego_57244803/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ultra Casanare TV (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -890,6 +890,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 126
-  Funcionan: 99
-  Fallan: 27
+  Funcionan: 98
+  Fallan: 28
 ==================================================

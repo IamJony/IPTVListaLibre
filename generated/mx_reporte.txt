@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.300388
+  Fecha: 2026-11-09 23:50:49.280344
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -23,7 +23,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dhiNIng.png
 URL: https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ADN 40 (720p)
 Categoría: 🇲🇽 México
@@ -135,21 +135,21 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ntK4D64.png
 URL: https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bandamax (1080p)
 Categoría: 🇲🇽 México
@@ -352,7 +352,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oFeCIeD.png
 URL: https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CineLatino (720p)
 Categoría: 🇲🇽 México
@@ -429,14 +429,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GiDD8xG.jpg
 URL: https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Chavo TV (720p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/211465.png
 URL: https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Sonorense (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -891,7 +891,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1261,6 +1261,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 179
-  Funcionan: 113
-  Fallan: 66
+  Funcionan: 111
+  Fallan: 68
 ==================================================

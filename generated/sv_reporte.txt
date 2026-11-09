@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.299243
+  Fecha: 2026-11-09 23:50:49.278793
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -37,7 +37,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdfiWG9.png
 URL: https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 (El Salvador) (1080p)
 Categoría: 🇸🇻 El Salvador
@@ -65,7 +65,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/y2ppMnY.png
 URL: https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 11 TuTV (349p)
 Categoría: 🇸🇻 El Salvador
@@ -142,7 +142,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LNWGe1D.jpg
 URL: https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Legislative Assembly of El Salvador (1080p) [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -254,7 +254,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uPWWtCA.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVM El Salvador [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 15
-  Fallan: 24
+  Funcionan: 13
+  Fallan: 26
 ==================================================

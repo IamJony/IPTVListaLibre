@@ -2,7 +2,7 @@
   REPORTE DE CANALES DE CINE
   Fuente: world_ip_tv
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-08 19:55:12.304108
+  Fecha: 2026-11-09 23:50:49.284973
 ==================================================
 
 Nombre: AMC Latin America (1080p)
@@ -110,6 +110,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_202
 URL: http://190.61.47.54:8000/play/a035/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Studio Universal Latin America Colombia (1080p)
+Categoría: 🎬 Cine
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
+URL: http://45.171.64.30:2000/play/a04o/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: TNT Latin America Colombia (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -162,7 +169,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 22
-  Funcionan: 22
+  Total de streams: 23
+  Funcionan: 23
   Fallan: 0
 ==================================================

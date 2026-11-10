@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-09 23:50:49.284527
+  Fecha: 2026-11-10 21:25:00.519085
 ==================================================
 
 Nombre: 123TV (480p)
@@ -23,7 +23,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg
 URL: https://stream.aguacatetv.com:3949/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alcance TV (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -72,7 +72,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vygOosC.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 21 Tachira (360p)
 Categoría: 🇻🇪 Venezuela
@@ -107,7 +107,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LBI2la0.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Colombeia (576p)
 Categoría: 🇻🇪 Venezuela
@@ -149,7 +149,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guaro TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -191,7 +191,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -226,7 +226,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9E0DTY.jpeg
 URL: https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mas Talk (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -429,7 +429,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wFC6Xxq.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNO Radio (720p)
 Categoría: 🇻🇪 Venezuela
@@ -499,7 +499,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://intervenhosting.net/imagenes/tvmparati.jpg
 URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVS (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -555,7 +555,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0bqJksL.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vive (576p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 52
-  Fallan: 29
+  Funcionan: 49
+  Fallan: 32
 ==================================================

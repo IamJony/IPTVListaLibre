@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-09 23:50:49.280344
+  Fecha: 2026-11-10 21:25:00.513397
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -135,14 +135,14 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: BAMOS TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -177,7 +177,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -575,7 +575,7 @@ Nombre: Las Estrellas (1080p)
 Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
-URL: http://45.189.151.7:8000/play/a07s
+URL: https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 Estado: FALLA
 ---
 Nombre: Las Estrellas Latin America (1080p)
@@ -583,7 +583,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -828,7 +828,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uiTgClU.png
 URL: https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sistema Michoacano de TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1261,6 +1261,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 179
-  Funcionan: 111
-  Fallan: 68
+  Funcionan: 112
+  Fallan: 67
 ==================================================

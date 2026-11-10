@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-09 23:50:49.274738
+  Fecha: 2026-11-10 21:25:00.506064
 ==================================================
 
 Nombre: 13C (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/utI1tJV.png
 URL: https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: 13 Festival (1080p)
 Categoría: 🇨🇱 Chile
@@ -44,7 +44,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/R6D228s.png
 URL: https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: 13 Realities (1080p)
 Categoría: 🇨🇱 Chile
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/382_ChocolateFM.png
 URL: https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Club TV (720p)
 Categoría: 🇨🇱 Chile
@@ -345,7 +345,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png
 URL: https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CRTV (Chile) (720p)
 Categoría: 🇨🇱 Chile
@@ -436,14 +436,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EnerGeek FAN (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -1038,7 +1038,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mwUZBU9.png
 URL: https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Solo Bailalo (480p)
 Categoría: 🇨🇱 Chile
@@ -1173,12 +1173,19 @@ Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premiu
 URL: http://181.78.79.131:8000/play/a0q9
 Estado: FUNCIONA
 ---
+Nombre: TNT Sports Premium HD (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+URL: http://205.235.6.29:8000/play/a104/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TwIe4lK.png
 URL: https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Turismo Travel TV
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1255,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1339,7 +1346,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png
 URL: http://45.170.130.224:8000/play/a025/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vida Nueva TV
 Categoría: 🇨🇱 Chile
@@ -1386,7 +1393,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 197
-  Funcionan: 170
-  Fallan: 27
+  Total de streams: 198
+  Funcionan: 173
+  Fallan: 25
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-09 23:50:49.282106
+  Fecha: 2026-11-10 21:25:00.515855
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -149,7 +149,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bORM4rt.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Bethel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -296,7 +296,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QF5VUcy.png
 URL: https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Dac TV (720p)
 Categoría: 🇵🇪 Perú
@@ -387,7 +387,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -408,7 +408,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PevmfqK.png
 URL: https://tv.huachotv.com/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Impacto Television (360p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -499,6 +499,13 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png
 URL: http://190.93.224.42/LA-TELE/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: La Tremenda TV (1080p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg
+URL: https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Latina (1080p)
@@ -660,7 +667,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gbjdiLW.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ovacion TV (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -674,7 +681,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wkdibpv.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Panamericana TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -786,7 +793,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -898,7 +905,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zgyNuVE.jpeg
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Super Canal (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -954,7 +961,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LcZ2Hhd.jpeg
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Top Latino TV
 Categoría: 🇵🇪 Perú
@@ -1101,7 +1108,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OcDimHX.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Uranio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1225,7 +1232,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 174
-  Funcionan: 132
+  Total de streams: 175
+  Funcionan: 133
   Fallan: 42
 ==================================================

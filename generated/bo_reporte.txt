@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-10 21:25:00.505428
+  Fecha: 2026-11-11 22:13:30.346088
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -261,7 +261,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Y4KOypc.jpeg
 URL: https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red TV Shop (720p)
 Categoría: 🇧🇴 Bolivia
@@ -345,7 +345,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: No disponible
 URL: https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tigo Sports (Bolivia) (720p) [Geo-blocked]
 Categoría: 🇧🇴 Bolivia
@@ -359,7 +359,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: No disponible
 URL: https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TransMedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,14 +429,14 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Vos TV (Bolivia) (720p)
 Categoría: 🇧🇴 Bolivia
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 42
-  Fallan: 24
+  Funcionan: 37
+  Fallan: 29
 ==================================================

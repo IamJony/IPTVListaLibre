@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-10 21:25:00.512756
+  Fecha: 2026-11-11 22:13:30.352918
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -67,12 +67,12 @@ Logo: https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png
 URL: https://amixtv.com:8081/talangavision/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 11 (Honduras) (1080p)
+Nombre: Canal 11 (Honduras) (1080p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Sht2Rd4.png
-URL: http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
-Estado: FALLA
+URL: https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Canal 32 STO (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -184,7 +184,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cteBdAJ.jpg
 URL: https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HCH (720p)
 Categoría: 🇭🇳 Honduras
@@ -233,7 +233,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CnR2m66.png
 URL: https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Kerusso TV (720p)
 Categoría: 🇭🇳 Honduras
@@ -254,7 +254,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZqwLPag.jpg
 URL: https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Top 107.7 (720p)
 Categoría: 🇭🇳 Honduras
@@ -345,7 +345,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCV TV (712p)
 Categoría: 🇭🇳 Honduras
@@ -506,14 +506,14 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Wo2scQf.jpg
 URL: https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Centro HD (720p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bcfmqHb.png
 URL: https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Copan (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -536,11 +536,11 @@ Logo: https://i.imgur.com/GhzaYbK.png
 URL: https://live-utv.unah.edu.hn/web/salida.m3u8
 Estado: FALLA
 ---
-Nombre: UNE TV (720p)
+Nombre: UNE TV (1080p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V9Fpd3Y.png
-URL: https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
+URL: http://45.166.93.156:9999/play/a0jo/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: VTV (Honduras) (480p) [Not 24/7]
@@ -561,6 +561,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 79
-  Funcionan: 41
-  Fallan: 38
+  Funcionan: 44
+  Fallan: 35
 ==================================================

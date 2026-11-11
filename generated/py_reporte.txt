@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-10 21:25:00.515218
+  Fecha: 2026-11-11 22:13:30.355484
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -114,7 +114,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Del Rey TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -394,7 +394,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6lVrFvb.png
 URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tigo Sports+ (1280p)
 Categoría: 🇵🇾 Paraguay
@@ -422,7 +422,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -477,6 +477,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 67
-  Funcionan: 60
-  Fallan: 7
+  Funcionan: 57
+  Fallan: 10
 ==================================================

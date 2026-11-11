@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-10 21:25:00.506064
+  Fecha: 2026-11-11 22:13:30.346736
 ==================================================
 
 Nombre: 13C (1080p)
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -345,7 +345,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png
 URL: https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CRTV (Chile) (720p)
 Categoría: 🇨🇱 Chile
@@ -723,7 +723,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8SCnoiZ.png
 URL: https://v2.tustreaming.cl/odiseatv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oli TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1185,7 +1185,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TwIe4lK.png
 URL: https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turismo Travel TV
 Categoría: 🇨🇱 Chile
@@ -1207,13 +1207,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/PNKlJBj.png
 URL: https://v1.tustreaming.cl/tv5linares/index.m3u8
 Estado: FUNCIONA
----
-Nombre: TV Chile (576p)
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/oYFto0V.png
-URL: http://38.252.238.18:8000/play/a04b/index.m3u8
-Estado: FALLA
 ---
 Nombre: TV Senado (Chile) (360p)
 Categoría: 🇨🇱 Chile
@@ -1255,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1346,7 +1339,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/VIAX-oficial.png
 URL: http://45.170.130.224:8000/play/a025/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vida Nueva TV
 Categoría: 🇨🇱 Chile
@@ -1388,12 +1381,12 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GewcpHv.png
 URL: https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
-  Total de streams: 198
-  Funcionan: 173
-  Fallan: 25
+  Total de streams: 197
+  Funcionan: 175
+  Fallan: 22
 ==================================================

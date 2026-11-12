@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.359001
+  Fecha: 2026-11-12 21:54:53.114754
 ==================================================
 
 Nombre: 123TV (480p)
@@ -72,7 +72,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vygOosC.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 21 Tachira (360p)
 Categoría: 🇻🇪 Venezuela
@@ -191,7 +191,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -226,7 +226,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9E0DTY.jpeg
 URL: https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mas Talk (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -296,7 +296,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OSet4en.png
 URL: https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Portuguesa Television (480p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -492,7 +492,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 58
-  Fallan: 23
+  Funcionan: 53
+  Fallan: 28
 ==================================================

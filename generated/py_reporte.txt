@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.355484
+  Fecha: 2026-11-12 21:54:53.112990
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -16,6 +16,13 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AX25tmv.png
 URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
+Estado: FUNCIONA
+---
+Nombre: A24 Paraguay
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/XWBmjBk.png
+URL: https://tv.mitvparaguay.com/hls?type=hls&id=a24
 Estado: FUNCIONA
 ---
 Nombre: ABC-TV Paraguay
@@ -114,7 +121,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Del Rey TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -149,6 +156,13 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
+Estado: FUNCIONA
+---
+Nombre: Gen
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/vEMnZF4.png
+URL: https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py
 Estado: FUNCIONA
 ---
 Nombre: GO TV (720p)
@@ -212,7 +226,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Nandejara Ne'e TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -317,7 +331,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -394,7 +408,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6lVrFvb.png
 URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tigo Sports+ (1280p)
 Categoría: 🇵🇾 Paraguay
@@ -422,7 +436,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -476,7 +490,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 67
-  Funcionan: 57
-  Fallan: 10
+  Total de streams: 69
+  Funcionan: 62
+  Fallan: 7
 ==================================================

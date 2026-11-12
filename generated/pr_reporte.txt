@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.356966
+  Fecha: 2026-11-12 21:54:53.113770
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tsajuxi.png
 URL: https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Candelita TV (480p)
 Categoría: 🇵🇷 Puerto Rico
@@ -30,7 +30,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CDM Internacional (480p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -156,7 +156,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5WNBFmp.png
 URL: https://wapa.hostless.app/WAPA-TV-4-2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WECN (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -197,6 +197,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 27
-  Funcionan: 21
-  Fallan: 6
+  Funcionan: 20
+  Fallan: 7
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.344637
+  Fecha: 2026-11-12 21:54:53.108065
 ==================================================
 
 Nombre: 5tv
@@ -198,7 +198,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IABFaH1.png
 URL: http://intelincloud01.com.ar/hls/cn3/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 3 Tacural
 Categoría: 🇦🇷 Argentina
@@ -513,7 +513,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://new.opencaster.com/uploads/logos/logo_306_1756336707.png
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Santa Maria (360p)
 Categoría: 🇦🇷 Argentina
@@ -541,14 +541,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/trmPKYw.png
 URL: https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Caras TV (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7dl4yQY.jpeg
 URL: https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Catamarca TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -767,6 +767,13 @@ Logo: https://i.imgur.com/uBBZR1X.png
 URL: http://138.59.227.20:8000/play/a05s/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: ESPN Premium
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
+URL: http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+Estado: FUNCIONA
+---
 Nombre: ESPN Premium HD (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -926,7 +933,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jTX2vp0.png
 URL: https://ntvcanal7.com.ar:81/dash/stream.mpd
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1269,7 +1276,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CRmY4Oi.png
 URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Solidaria (576p)
 Categoría: 🇦🇷 Argentina
@@ -1386,7 +1393,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 197
-  Funcionan: 156
+  Total de streams: 198
+  Funcionan: 157
   Fallan: 41
 ==================================================

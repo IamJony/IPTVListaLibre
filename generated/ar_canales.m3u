@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-11 22:13:30.344656
+# Fecha: 2026-11-12 21:54:53.108077
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -72,6 +72,9 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar@SD" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="🇦🇷 Argentina",Canal 3 Las Heras (720p)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Pinamar.ar@SD" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="🇦🇷 Argentina",Canal 3 Pinamar
+http://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="🇦🇷 Argentina",Canal 3 Tacural
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
@@ -184,6 +187,9 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar@SD" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="🇦🇷 Argentina",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="🇦🇷 Argentina",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="🇦🇷 Argentina",Canal Santa Maria (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
@@ -192,12 +198,6 @@ https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 
 #EXTINF:-1 tvg-id="CanalTDC.ar@SD" tvg-logo="https://i.imgur.com/nPG38B2.png" group-title="🇦🇷 Argentina",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-
-#EXTINF:-1 tvg-id="CanalUniversidad.ar@SD" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="🇦🇷 Argentina",Canal Universidad
-https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-
-#EXTINF:-1 tvg-id="CarasTV.ar@SD" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="🇦🇷 Argentina",Caras TV (1080p)
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CatamarcaTV.ar@SD" tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="🇦🇷 Argentina",Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
@@ -271,6 +271,9 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="🇦🇷 Argentina",Encuentro (720p)
 http://138.59.227.20:8000/play/a05s/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="🇦🇷 Argentina",ESPN Premium HD (1080p)
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 
@@ -330,6 +333,9 @@ http://45.226.205.96:48000/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="🇦🇷 Argentina",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NorteTV.ar@SD" tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="🇦🇷 Argentina",Norte TV (720p) [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="🇦🇷 Argentina",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
@@ -435,9 +441,6 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="🇦🇷 Argentina",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="🇦🇷 Argentina",TV Publica Marcos Paz (720p)
-https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🇦🇷 Argentina",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8

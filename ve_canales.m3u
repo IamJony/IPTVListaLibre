@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - VE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-11 22:13:30.359008
+# Fecha: 2026-11-12 21:54:53.114756
 
 #EXTINF:-1 tvg-id="123TV.ve@SD" tvg-logo="https://i.imgur.com/xXGeZms.png" group-title="🇻🇪 Venezuela",123TV (480p)
 http://200.59.191.177:8000/play/a0lb/index.m3u8
@@ -17,9 +17,6 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="🇻🇪 Venezuela",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="🇻🇪 Venezuela",BTA TV (720p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
 #EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela",Canal 21 Tachira (360p)
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
@@ -60,9 +57,6 @@ https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="IVC.ve@Venezuela" tvg-logo="https://i.imgur.com/HyXYR2o.png" group-title="🇻🇪 Venezuela",IVC (480p)
 http://200.59.191.177:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 tvg-id="KandelaTV.ve@SD" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="🇻🇪 Venezuela",KandelaTV (480p)
-https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-
 #EXTINF:-1 tvg-id="LaTeleTuya.ve@SD" tvg-logo="https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png" group-title="🇻🇪 Venezuela",La Tele Tuya (576p)
 http://181.78.8.199:8000/play/a0fs/index.m3u8
 
@@ -72,9 +66,6 @@ https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LatinaTV.ve@SD" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="🇻🇪 Venezuela",Latina TV (1080p)
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
-#EXTINF:-1 tvg-id="LGDTelevision.ve@SD" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" group-title="🇻🇪 Venezuela",LGD Television (720p)
-https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="🇻🇪 Venezuela",Mas Talk (1080p)
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 
@@ -83,9 +74,6 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-logo="https://i.imgur.com/I6gsUqD.png" group-title="🇻🇪 Venezuela",Meridiano TV (576p)
 http://181.78.8.199:8000/play/a0fr/index.m3u8
-
-#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="🇻🇪 Venezuela",Plous TV (1080p)
-https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" tvg-logo="https://i.imgur.com/jHUSfGz.png" group-title="🇻🇪 Venezuela",Portuguesa Television (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
@@ -146,9 +134,6 @@ https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 
 #EXTINF:-1 tvg-id="TVFANB.ve@SD" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="🇻🇪 Venezuela",TV FANB (576p)
 http://200.59.191.177:8000/play/a0le/index.m3u8
-
-#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="🇻🇪 Venezuela",TVes (1080p)
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="🇻🇪 Venezuela",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8

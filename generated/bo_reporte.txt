@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.346088
+  Fecha: 2026-11-12 21:54:53.108805
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -317,7 +317,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,14 +429,14 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png
 URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vos TV (Bolivia) (720p)
 Categoría: 🇧🇴 Bolivia
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 37
-  Fallan: 29
+  Funcionan: 38
+  Fallan: 28
 ==================================================

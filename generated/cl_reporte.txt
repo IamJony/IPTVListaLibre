@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-11 22:13:30.346736
+  Fecha: 2026-11-12 21:54:53.109053
 ==================================================
 
 Nombre: 13C (1080p)
@@ -464,7 +464,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1649_EPA__TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Estacion Limache TV (720p)
 Categoría: 🇨🇱 Chile
@@ -613,12 +613,12 @@ Logo: https://i.imgur.com/AWdgMCC.png
 URL: https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: La Red (720p) [Not 24/7]
+Nombre: La Red (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nJOVM6e.png
-URL: https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-Estado: FALLA
+URL: https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Lila TV Pencahue (720p)
 Categoría: 🇨🇱 Chile
@@ -723,7 +723,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8SCnoiZ.png
 URL: https://v2.tustreaming.cl/odiseatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oli TV (Chile) (1080p)
 Categoría: 🇨🇱 Chile
@@ -1173,12 +1173,12 @@ Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premiu
 URL: http://181.78.79.131:8000/play/a0q9
 Estado: FUNCIONA
 ---
-Nombre: TNT Sports Premium HD (1080p)
+Nombre: TNT Sports Premium HD
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-URL: http://205.235.6.29:8000/play/a104/index.m3u8
-Estado: FUNCIONA
+URL: https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
+Estado: FALLA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile

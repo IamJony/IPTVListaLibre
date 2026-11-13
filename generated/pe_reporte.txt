@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.113288
+  Fecha: 2026-11-13 21:34:16.378839
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,14 +51,14 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Internacional (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4ZTKAGd.png
 URL: https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Television (1080p)
 Categoría: 🇵🇪 Perú
@@ -165,11 +165,25 @@ Logo: https://i.imgur.com/zCVh765.png
 URL: https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Bicolor+ (720p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png
+URL: https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Bicolor+ Premium 2 (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Bicolor+ Premium 3 (720p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png
+URL: https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Bicolor+ Premium [Geo-blocked]
@@ -184,7 +198,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MgEN1F8.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cadena TV (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -485,7 +499,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: L1 (1080p)
 Categoría: 🇵🇪 Perú
@@ -688,7 +702,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7Xndgxk.png
 URL: http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ozono TV (720p)
 Categoría: 🇵🇪 Perú
@@ -849,7 +863,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oBz3CgE.png
 URL: http://190.93.224.42/RPP/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RSelvaTV (720p)
 Categoría: 🇵🇪 Perú
@@ -898,7 +912,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ufnWpUf.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SolTV (Peru) (720p)
 Categoría: 🇵🇪 Perú
@@ -996,7 +1010,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QrUYjOS.png
 URL: http://190.93.224.42/TRIVU-TV/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turbo Mix Radio TV (720p)
 Categoría: 🇵🇪 Perú
@@ -1059,7 +1073,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png
 URL: http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Peruanisima (720p)
 Categoría: 🇵🇪 Perú
@@ -1164,7 +1178,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AbZYWEQ.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Viva TV Yurimaguas (720p)
 Categoría: 🇵🇪 Perú
@@ -1213,7 +1227,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bZnDDPH.png
 URL: http://190.93.224.42/WILLAX/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Wtv (720p)
 Categoría: 🇵🇪 Perú
@@ -1246,7 +1260,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 177
-  Funcionan: 136
-  Fallan: 41
+  Total de streams: 179
+  Funcionan: 137
+  Fallan: 42
 ==================================================

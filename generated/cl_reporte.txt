@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.109053
+  Fecha: 2026-11-13 21:34:16.350189
 ==================================================
 
 Nombre: 13C (1080p)
@@ -86,7 +86,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/425dj2i.jpeg
 URL: https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Agricultura TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -268,7 +268,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QGvfqug.png
 URL: https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Central TV (Chile) (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -338,7 +338,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -464,7 +464,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1649_EPA__TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Estacion Limache TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1178,7 +1178,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 URL: https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 175
-  Fallan: 22
+  Funcionan: 171
+  Fallan: 26
 ==================================================

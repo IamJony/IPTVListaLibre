@@ -1,15 +1,15 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.110475
+  Fecha: 2026-11-13 21:34:16.370108
 ==================================================
 
-Nombre: A7 TV (1080p)
+Nombre: A7 TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://a7tvjarabacoa.netlify.app/IMG_1968.PNG
-URL: https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Acento TV
 Categoría: 🇩🇴 Rep. Dominicana
@@ -18,12 +18,12 @@ Logo: https://i.imgur.com/jhiZfHf.png
 URL: https://acentotv01.streamprolive.com/hls/live.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Adoram TV (720p)
+Nombre: Adoram TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uU01KHz.png
-URL: https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Aguila TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -51,7 +51,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg
 URL: https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alegre TV RD (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -165,13 +165,6 @@ Logo: https://i.imgur.com/KSquHTG.png
 URL: https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Camu TV (480p) [Not 24/7]
-Categoría: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/3d8cLm9.jpg
-URL: https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
-Estado: FALLA
----
 Nombre: Cana TV Digital (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -192,13 +185,6 @@ User-Agent: Predeterminado
 Logo: https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png
 URL: https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Canal 70 (720p)
-Categoría: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://imgur.com/LfcHA2d.jpg
-URL: https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Canal Catorce (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -225,15 +211,15 @@ Nombre: Canal Multivision (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/puOrL7B.jpg
-URL: https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/canalmulti24/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Canalda 26 HD [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png
 URL: https://canalda.rgradio.net:3084/live/canaldalive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cananga TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -324,14 +310,14 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/fJD7OxB.png
 URL: https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Claro Vision TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MpTgJMJ.png
 URL: https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CNT Mas TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -352,7 +338,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/DbjywI3.png
 URL: https://edge.essastream.com/codigotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Colimdo TV (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -375,12 +361,12 @@ Logo: https://i.imgur.com/rkgWToA.jpg
 URL: https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8
 Estado: FUNCIONA
 ---
-Nombre: ConstanzaTV (1080p) [Not 24/7]
+Nombre: ConstanzaTV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4uV90gw.png
-URL: https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/ctv8hd/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Coral 39 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -555,7 +541,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VxeTREd.png
 URL: https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Fuego TV [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -569,7 +555,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://grupomediosdelnorte.com/iptv/galaxia.png
 URL: https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GH Television (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -598,13 +584,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/1rQaROm.png
 URL: https://vtm1.msinteractiva.com/globaltv/globaltv/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Guaymate TV (720p) [Not 24/7]
-Categoría: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/PBgQi9a.png
-URL: https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Haina Vision (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -653,7 +632,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/TmJaXrO.jpg
 URL: https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: JARABACOA TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -725,12 +704,12 @@ Logo: https://i.imgur.com/UNiyOvd.png
 URL: https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 Estado: FALLA
 ---
-Nombre: La Voz de Jesus HD (720p)
+Nombre: La Voz de Jesus HD (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pstream/208429.png
-URL: https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: La Voz de Maria (720p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -900,12 +879,12 @@ Logo: https://imgur.com/ExoOHQI.jpeg
 URL: https://soportedvb.click:3400/live/montecristitvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Montones TV (1080p)
+Nombre: Montones TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png
-URL: https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/montonestv1/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: MorroTV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -961,7 +940,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://rdomint.com/images/station/300.jpg
 URL: https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nueva Vision 14 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1059,7 +1038,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg
 URL: https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: R&E TV (480p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1213,7 +1192,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg
 URL: https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Supremateve (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1285,13 +1264,6 @@ Logo: https://imgur.com/LmBxN5x.png
 URL: https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telealtura (1080p) [Not 24/7]
-Categoría: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/Ql2eaP0.png
-URL: https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8
-Estado: FALLA
----
 Nombre: TeleBendicion (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -1345,8 +1317,8 @@ Nombre: Telefuturo (Dominican Republic) (480p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QpnctoU.png
-URL: http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-Estado: FALLA
+URL: https://hls.tvabierta.net/hls/023.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Teleimpacto (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1479,7 +1451,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/ejKctXc.png
 URL: https://soportedvb.click:3413/live/televerlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televiaducto Canal 3 (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1492,7 +1464,7 @@ Nombre: Televiaducto Canal 14 (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 Logo: https://i.imgur.com/M9A6hqR.png
-URL: https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b585fd65f/index.fmp4.m3u8
+URL: https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_a193cbb0a9f711f199075bad3dcd9dda/index.fmp4.m3u8
 Estado: FALLA
 ---
 Nombre: Televida (Dominican Republic) (1080p) [Not 24/7]
@@ -1530,12 +1502,12 @@ Logo: https://i.imgur.com/rSIB579.jpeg
 URL: https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8
 Estado: FALLA
 ---
-Nombre: Tom And Jerry (720p)
+Nombre: Tom And Jerry (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/208314.jpg?1750373428
-URL: https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Topical Moon RD (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1549,7 +1521,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png
 URL: https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tour Spot TV (1280p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1558,12 +1530,12 @@ Logo: https://imgur.com/khj869k.png
 URL: https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Turismo HD (720p)
+Nombre: Turismo HD (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://gia.tv/streams/pptv/208343.jpg
-URL: https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Turismo RDTV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1577,7 +1549,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/e2BXUdH.png
 URL: https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Canal Sur (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1590,8 +1562,8 @@ Nombre: TV Cotui Canal 31 (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sMF7JDm.png
-URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/tvcotui/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TV Daja (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1620,13 +1592,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/FZUQ2WP.png
 URL: https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 Estado: FUNCIONA
----
-Nombre: TV Montana Canal 10 (1080p) [Not 24/7]
-Categoría: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/DHyRWc0.png
-URL: https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: TV Plata (720p) [Geo-blocked]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1668,7 +1633,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg
 URL: https://www.uvatvhd.com/hls.php?file=live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Valle Nuevo TV
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1771,7 +1736,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 252
-  Funcionan: 187
-  Fallan: 65
+  Total de streams: 247
+  Funcionan: 194
+  Fallan: 53
 ==================================================

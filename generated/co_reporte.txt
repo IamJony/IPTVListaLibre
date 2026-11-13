@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.109706
+  Fecha: 2026-11-13 21:34:16.351547
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -72,7 +72,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I0eGYI0.png
 URL: https://movil.ejeserver.com/live/visiondorada.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cablenoticias (1080p)
 Categoría: 🇨🇴 Colombia
@@ -240,7 +240,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/Vs1H6bK.png
 URL: https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal TV3 (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -429,7 +429,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MO4w3OT.jpeg
 URL: https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Hermandad Salsera (1080p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -737,7 +737,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/su7Y5bC.png
 URL: https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Teleislas (720p)
 Categoría: 🇨🇴 Colombia

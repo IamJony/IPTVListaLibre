@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.113941
+  Fecha: 2026-11-13 21:34:16.380625
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -58,7 +58,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rnzMR9R.png
 URL: https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: 7TV Jaen
 Categoría: 🇪🇸 España
@@ -214,13 +214,6 @@ Logo: https://i.imgur.com/mTaiEE1.png
 URL: https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 Estado: FALLA
 ---
-Nombre: Antena 3
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png
-URL: https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-Estado: FALLA
----
 Nombre: Arabi TV (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
@@ -296,7 +289,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/ktasO33.png
 URL: https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Biosfera TV (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -359,7 +352,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
@@ -814,7 +807,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/Waf1SOq.png
 URL: https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EWTN Espana
 Categoría: 🇪🇸 España
@@ -1010,7 +1003,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/xWY2568.png
 URL: https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Logos TV (Spain) (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1199,7 +1192,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/mNuv3OL.png
 URL: https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Pequeradio (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1598,7 +1591,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/rrCJyza.png
 URL: https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sevilla FC TV (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1689,7 +1682,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EowJfr0.png
 URL: https://video.telesafor.com/hls/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleBilbao (384p)
 Categoría: 🇪🇸 España
@@ -1836,7 +1829,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/i6EnVZa.png
 URL: https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Girona (1080p)
 Categoría: 🇪🇸 España
@@ -1850,7 +1843,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png
 URL: https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Ripolles (1080p)
 Categoría: 🇪🇸 España
@@ -2065,7 +2058,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 294
-  Funcionan: 143
-  Fallan: 151
+  Total de streams: 293
+  Funcionan: 153
+  Fallan: 140
 ==================================================

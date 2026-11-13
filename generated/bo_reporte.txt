@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.108805
+  Fecha: 2026-11-13 21:34:16.349283
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -212,7 +212,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png
 URL: https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Kollasuyo (720p)
 Categoría: 🇧🇴 Bolivia
@@ -240,7 +240,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qYNmeDe.png
 URL: https://edge.enhdtv.com/redamerica/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red CCTV (480p)
 Categoría: 🇧🇴 Bolivia
@@ -317,7 +317,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sucremanta TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 38
-  Fallan: 28
+  Funcionan: 37
+  Fallan: 29
 ==================================================

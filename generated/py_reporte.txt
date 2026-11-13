@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.112990
+  Fecha: 2026-11-13 21:34:16.378066
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -170,7 +170,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -275,7 +275,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -331,7 +331,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -436,7 +436,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 62
-  Fallan: 7
+  Funcionan: 60
+  Fallan: 9
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.112109
+  Fecha: 2026-11-13 21:34:16.375587
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -23,7 +23,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dhiNIng.png
 URL: https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ADN 40 (720p)
 Categoría: 🇲🇽 México
@@ -149,7 +149,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4DfnOTA.png
 URL: http://181.78.106.127:5000/play/ca064/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: bitMe (1080p)
 Categoría: 🇲🇽 México
@@ -170,7 +170,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/IDvpRNI.png
 URL: https://s5.mexside.net:1936/medios/medios/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 Categoría: 🇲🇽 México
@@ -464,7 +464,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 URL: http://181.78.106.127:5000/play/a009/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: GikTVMX (720p)
 Categoría: 🇲🇽 México
@@ -576,7 +576,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -1247,6 +1247,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 177
-  Funcionan: 109
-  Fallan: 68
+  Funcionan: 108
+  Fallan: 69
 ==================================================

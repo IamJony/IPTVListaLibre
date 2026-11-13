@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-12 21:54:53.114754
+  Fecha: 2026-11-13 21:34:16.382733
 ==================================================
 
 Nombre: 123TV (480p)
@@ -44,7 +44,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AS3 Sport TV (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -72,7 +72,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vygOosC.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 21 Tachira (360p)
 Categoría: 🇻🇪 Venezuela
@@ -163,7 +163,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg
 URL: https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Isla TV (480p)
 Categoría: 🇻🇪 Venezuela
@@ -226,7 +226,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9E0DTY.jpeg
 URL: https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mas Talk (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -296,14 +296,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OSet4en.png
 URL: https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Portuguesa Television (480p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -345,7 +345,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jOroeJZ.png
 URL: https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SportsMax News (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -527,7 +527,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uc3zqcP.png
 URL: http://186.148.196.100:8000/play/a01d
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ve Plus Panregional (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 53
-  Fallan: 28
+  Funcionan: 51
+  Fallan: 30
 ==================================================

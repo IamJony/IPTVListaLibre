@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-13 21:34:16.378066
+  Fecha: 2026-11-14 20:03:41.847886
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -9,7 +9,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 5Dias TV
 Categoría: 🇵🇾 Paraguay
@@ -51,7 +51,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Paraguay
 Categoría: 🇵🇾 Paraguay
@@ -156,7 +156,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bXWzstH.png
 URL: https://stream.farra.com.py/live/farra_low.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Gen
 Categoría: 🇵🇾 Paraguay
@@ -275,7 +275,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -408,7 +408,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6lVrFvb.png
 URL: http://158.172.217.18:8000/play/a0ns/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tigo Sports+ (1280p)
 Categoría: 🇵🇾 Paraguay
@@ -436,7 +436,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 60
-  Fallan: 9
+  Funcionan: 58
+  Fallan: 11
 ==================================================

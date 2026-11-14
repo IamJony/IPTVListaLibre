@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-13 21:34:16.347871
+# Fecha: 2026-11-14 20:03:41.839690
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -20,9 +20,6 @@ https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
 #EXTINF:-1 tvg-id="AllegroHD.ar@SD" tvg-logo="https://i.imgur.com/bRH34Rn.png" group-title="🇦🇷 Argentina",Allegro HD (1080p)
 http://158.172.155.130:8000/play/a0dn/index.m3u8
-
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="🇦🇷 Argentina",AlternaTV (720p) [Not 24/7]
-https://tv.alterna.ar/stream/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="🇦🇷 Argentina",America TV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -75,6 +72,9 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar@SD" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="🇦🇷 Argentina",Canal 3 Pinamar
 http://intelincloud01.com.ar/hls/cn3/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="🇦🇷 Argentina",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Esquel.ar@SD" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="🇦🇷 Argentina",Canal 4 Esquel (720p)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
@@ -138,9 +138,6 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12Web.ar@SD" tvg-logo="https://i.imgur.com/VYcTRbd.png" group-title="🇦🇷 Argentina",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
-
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="🇦🇷 Argentina",Canal 13 La Rioja (480p)
-http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar@SD" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="🇦🇷 Argentina",Canal 20 Villa Maria (1080p)
 https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
@@ -208,6 +205,9 @@ https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar@SD" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="🇦🇷 Argentina",Ciudad TV Resistencia (720p)
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CorreaRadiovision.ar@SD" tvg-logo="https://i.imgur.com/bNCGzjf.jpeg" group-title="🇦🇷 Argentina",Correa Radiovision
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CorrientesTV.ar@SD" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="🇦🇷 Argentina",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
@@ -222,6 +222,9 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="🇦🇷 Argentina",DeporTV (1080p)
 http://158.172.155.130:8000/play/a09y/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="🇦🇷 Argentina",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="🇦🇷 Argentina",Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
@@ -247,8 +250,14 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 Argentina",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="🇦🇷 Argentina",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://i.imgur.com/ByMyRI9.png" group-title="🇦🇷 Argentina",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="🇦🇷 Argentina",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="🇦🇷 Argentina",El Trece (1080p)
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -321,9 +330,6 @@ http://45.226.205.96:48000/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="🇦🇷 Argentina",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NorteTV.ar@SD" tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="🇦🇷 Argentina",Norte TV (720p) [Not 24/7]
-https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="🇦🇷 Argentina",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
@@ -405,9 +411,6 @@ https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlis
 
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="🇦🇷 Argentina",Telemax (Argentina) (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-
-#EXTINF:-1 tvg-id="TIVTelevision.ar@SD" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="🇦🇷 Argentina",TIV Television (720p)
-https://videohd.live:19360/8008/8008.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷 Argentina",TN (1080p)
 http://158.172.155.130:8000/play/a0dp/index.m3u8

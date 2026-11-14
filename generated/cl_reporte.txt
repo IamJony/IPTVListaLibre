@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-13 21:34:16.350189
+  Fecha: 2026-11-14 20:03:41.841099
 ==================================================
 
 Nombre: 13C (1080p)
@@ -107,7 +107,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfi9NXL.png
 URL: https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Antofagasta TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -128,7 +128,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Avx4Ecf.png
 URL: https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atacama TV
 Categoría: 🇨🇱 Chile
@@ -212,14 +212,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dgUHqrQ.png
 URL: https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Chilote (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +289,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/382_ChocolateFM.png
 URL: https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Club TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 171
-  Fallan: 26
+  Funcionan: 170
+  Fallan: 27
 ==================================================

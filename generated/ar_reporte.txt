@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-13 21:34:16.347853
+  Fecha: 2026-11-14 20:03:41.839672
 ==================================================
 
 Nombre: 5tv
@@ -51,7 +51,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://tv.alterna.ar/alternatv.png
 URL: https://tv.alterna.ar/stream/hls/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -205,7 +205,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RKvSa52.jpeg
 URL: http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Esquel (720p)
 Categoría: 🇦🇷 Argentina
@@ -401,7 +401,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OI97Sgq.png
 URL: http://arcast.net:1935/mp/mp/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 13 San Luis
 Categoría: 🇦🇷 Argentina
@@ -597,7 +597,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bNCGzjf.jpeg
 URL: https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Corrientes TV
 Categoría: 🇦🇷 Argentina
@@ -646,7 +646,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://15.204.246.24:8080/DisneyHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Disney Channel Latin America Center (1080p)
 Categoría: 🇦🇷 Argentina
@@ -723,7 +723,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ByMyRI9.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -737,7 +737,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cJHP7bU.png
 URL: http://15.204.246.24:8080/elnueveHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Siete (1080p)
 Categoría: 🇦🇷 Argentina
@@ -933,7 +933,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jTX2vp0.png
 URL: https://ntvcanal7.com.ar:81/dash/stream.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1227,7 +1227,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gsgXGEj.png
 URL: https://videohd.live:19360/8008/8008.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TN (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1394,6 +1394,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 198
-  Funcionan: 153
-  Fallan: 45
+  Funcionan: 154
+  Fallan: 44
 ==================================================

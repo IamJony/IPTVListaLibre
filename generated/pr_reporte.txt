@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-13 21:34:16.380034
+  Fecha: 2026-11-14 20:03:41.849116
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -149,14 +149,14 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kqq7tD9.png
 URL: https://wapa.hostless.app/WAPA-TV-4-1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WAPA-TV 4.2 (720p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5WNBFmp.png
 URL: https://wapa.hostless.app/WAPA-TV-4-2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WECN (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -197,6 +197,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 27
-  Funcionan: 21
-  Fallan: 6
+  Funcionan: 19
+  Fallan: 8
 ==================================================

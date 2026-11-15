@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-14 20:03:41.839672
+  Fecha: 2026-11-15 20:32:05.320947
 ==================================================
 
 Nombre: 5tv
@@ -401,7 +401,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OI97Sgq.png
 URL: http://arcast.net:1935/mp/mp/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 13 San Luis
 Categoría: 🇦🇷 Argentina
@@ -926,7 +926,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/lJCIqYn.png
 URL: http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Norte TV (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -975,7 +975,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6f8EYC2.jpeg
 URL: https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Quiero Musica en mi Idioma (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1234,7 +1234,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNT Sports (Argentina)
 Categoría: 🇦🇷 Argentina
@@ -1394,6 +1394,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 198
-  Funcionan: 154
-  Fallan: 44
+  Funcionan: 152
+  Fallan: 46
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-14 20:03:41.841099
+  Fecha: 2026-11-15 20:32:05.322233
 ==================================================
 
 Nombre: 13C (1080p)
@@ -72,7 +72,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1638_ADA_TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ADN TV (720p)
 Categoría: 🇨🇱 Chile
@@ -128,7 +128,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Avx4Ecf.png
 URL: https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Atacama TV
 Categoría: 🇨🇱 Chile
@@ -219,14 +219,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dgUHqrQ.png
 URL: https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Chilote (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdYIKyt.png
 URL: https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Claro (720p)
 Categoría: 🇨🇱 Chile
@@ -296,7 +296,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -310,7 +310,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/382_ChocolateFM.png
 URL: https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Club TV (720p)
 Categoría: 🇨🇱 Chile
@@ -513,7 +513,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBC8e96.png
 URL: https://v1.tustreaming.cl/genialtv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GVision (288p)
 Categoría: 🇨🇱 Chile
@@ -926,7 +926,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/390_Radio_Universal.png
 URL: https://videostream.chileservidores.com:8081/universal/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio USACH (720p)
 Categoría: 🇨🇱 Chile
@@ -1157,7 +1157,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNT Sports (Chile) (480p)
 Categoría: 🇨🇱 Chile
@@ -1387,6 +1387,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 197
-  Funcionan: 170
-  Fallan: 27
+  Funcionan: 167
+  Fallan: 30
 ==================================================

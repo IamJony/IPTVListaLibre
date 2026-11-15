@@ -2,7 +2,7 @@
   REPORTE DE CANALES DE CINE
   Fuente: world_ip_tv
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-14 20:03:41.851226
+  Fecha: 2026-11-15 20:32:05.329084
 ==================================================
 
 Nombre: AMC Latin America (1080p)
@@ -129,7 +129,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png
 URL: https://live-fi.tvkaista.net/star-channel/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Greece) (1080p)
 Categoría: 🎬 Cine
@@ -145,13 +145,6 @@ Logo: https://i.imgur.com/cZWoJWD.png
 URL: https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Golden Edge (1080p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/SlSbcp3.png
-URL: http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-Estado: FUNCIONA
----
 Nombre: TNT Latin America (1080p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -162,7 +155,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 22
+  Total de streams: 21
   Funcionan: 21
-  Fallan: 1
+  Fallan: 0
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-15 20:32:05.322233
+  Fecha: 2026-11-16 23:49:38.647666
 ==================================================
 
 Nombre: 13C (1080p)
@@ -72,7 +72,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1638_ADA_TV.png
 URL: https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ADN TV (720p)
 Categoría: 🇨🇱 Chile
@@ -107,7 +107,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfi9NXL.png
 URL: https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Antofagasta TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -226,7 +226,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdYIKyt.png
 URL: https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Claro (720p)
 Categoría: 🇨🇱 Chile
@@ -289,14 +289,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -338,7 +338,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -443,7 +443,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -513,7 +513,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBC8e96.png
 URL: https://v1.tustreaming.cl/genialtv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: GVision (288p)
 Categoría: 🇨🇱 Chile
@@ -695,7 +695,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cGNgvOD.png
 URL: https://vdochile.com:3194/live/mvqutymylive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NCTV (1080p)
 Categoría: 🇨🇱 Chile
@@ -926,7 +926,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/390_Radio_Universal.png
 URL: https://videostream.chileservidores.com:8081/universal/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio USACH (720p)
 Categoría: 🇨🇱 Chile
@@ -1073,7 +1073,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZQRb3L3.png
 URL: https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Suyai TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1108,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhPFGs8.png
 URL: https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecanal (720p)
 Categoría: 🇨🇱 Chile
@@ -1157,7 +1157,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNT Sports (Chile) (480p)
 Categoría: 🇨🇱 Chile
@@ -1178,7 +1178,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 URL: https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile

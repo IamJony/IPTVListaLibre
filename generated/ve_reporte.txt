@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-15 20:32:05.328807
+  Fecha: 2026-11-16 23:49:38.654929
 ==================================================
 
 Nombre: 123TV (480p)
@@ -86,14 +86,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ew44KOZ.png
 URL: https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Diplomatico
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png
 URL: https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal I (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -492,7 +492,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QX5DVUB.png
 URL: https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVM para ti (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -506,7 +506,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J8ztiAN.png
 URL: https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UniTV (720p)
 Categoría: 🇻🇪 Venezuela

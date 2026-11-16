@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - VE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-15 20:32:05.328810
+# Fecha: 2026-11-16 23:49:38.654933
 
 #EXTINF:-1 tvg-id="123TV.ve@SD" tvg-logo="https://i.imgur.com/xXGeZms.png" group-title="🇻🇪 Venezuela",123TV (480p)
 http://200.59.191.177:8000/play/a0lb/index.m3u8
@@ -18,8 +18,8 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela",Canal 21 Tachira (360p)
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-logo="https://i.imgur.com/ew44KOZ.png" group-title="🇻🇪 Venezuela",Canal C del Zulia (1080p)
-https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" group-title="🇻🇪 Venezuela",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 
 #EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="🇻🇪 Venezuela",Canal I (1080p)
 https://streaming.canal-i.com/canal-i/live/master.m3u8
@@ -120,11 +120,11 @@ https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 #EXTINF:-1 tvg-id="TVFANB.ve@SD" tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="🇻🇪 Venezuela",TV FANB (576p)
 http://200.59.191.177:8000/play/a0le/index.m3u8
 
-#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="🇻🇪 Venezuela",TVes (1080p)
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
-
 #EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="🇻🇪 Venezuela",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+
+#EXTINF:-1 tvg-id="TVS.ve@SD" tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="🇻🇪 Venezuela",TVS (Venezuela) (720p)
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="🇻🇪 Venezuela",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8

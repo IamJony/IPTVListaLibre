@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-16 23:49:38.652642
+  Fecha: 2026-11-17 23:06:46.697984
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -18,12 +18,12 @@ Logo: https://i.imgur.com/AX25tmv.png
 URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
 Estado: FUNCIONA
 ---
-Nombre: A24 Paraguay
+Nombre: A24 Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XWBmjBk.png
-URL: https://tv.mitvparaguay.com/hls?type=hls&id=a24
-Estado: FUNCIONA
+URL: https://a24-live.argosworkspace.com/a24/index.m3u8
+Estado: FALLA
 ---
 Nombre: ABC-TV Paraguay
 Categoría: 🇵🇾 Paraguay
@@ -37,7 +37,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
@@ -53,12 +53,12 @@ Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
 Estado: FUNCIONA
 ---
-Nombre: America Paraguay
+Nombre: America Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rCEu3fM.png
-URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-Estado: FUNCIONA
+URL: https://america-live.argosworkspace.com/america/index.m3u8
+Estado: FALLA
 ---
 Nombre: Bruno Masi TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -170,7 +170,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/jkvYVyz/Captura.png
 URL: https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: HEi Now (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -191,7 +191,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Qcf6Qev.png
 URL: http://190.128.214.97:64333/play/a03i/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Los Angeles TV Radio
 Categoría: 🇵🇾 Paraguay
@@ -212,21 +212,21 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sgrEt9z.png
 URL: http://190.128.214.97:64333/play/a02w/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Monumental TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kEcOYML.png
 URL: http://190.128.214.97:64333/play/a046/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nande Portetepe TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nandejara Ne'e TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -240,7 +240,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AsuVsLa.png
 URL: http://190.128.214.97:64333/play/a02d/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Next HD (480p)
 Categoría: 🇵🇾 Paraguay
@@ -303,7 +303,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KXHK7UP.png
 URL: http://190.128.214.97:64333/play/a04i/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Colmenar 92.5 FM
 Categoría: 🇵🇾 Paraguay
@@ -331,14 +331,14 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Oq0i3Rb.png
 URL: https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RB TV (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -366,7 +366,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iL5JnSy.jpeg
 URL: http://190.128.214.97:64333/play/a05o/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Republica TV (720p)
 Categoría: 🇵🇾 Paraguay
@@ -436,7 +436,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7gHFKPZ.png
 URL: http://190.128.214.97:64333/play/a05y/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -485,12 +485,12 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ryzCsvy.jpg
 URL: https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 62
-  Fallan: 7
+  Funcionan: 49
+  Fallan: 20
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-16 23:49:38.647666
+  Fecha: 2026-11-17 23:06:46.694027
 ==================================================
 
 Nombre: 13C (1080p)
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -227,13 +227,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdYIKyt.png
 URL: https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
 Estado: FUNCIONA
----
-Nombre: Canal Claro (720p)
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
-URL: https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
-Estado: FALLA
 ---
 Nombre: Canal ISB (720p)
 Categoría: 🇨🇱 Chile
@@ -275,7 +268,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -289,7 +282,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -443,7 +436,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png
 URL: https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EnerGeek Radio (720p) [Geo-blocked]
 Categoría: 🇨🇱 Chile
@@ -499,13 +492,6 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZhwmWXD.png
 URL: https://v2.tustreaming.cl/frecuencia7/index.m3u8
-Estado: FUNCIONA
----
-Nombre: FunBox
-Categoría: 🇨🇱 Chile
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/9MXM6jD.png
-URL: http://186.148.196.100:8000/play/a00d
 Estado: FUNCIONA
 ---
 Nombre: Genial TV (720p)
@@ -695,7 +681,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cGNgvOD.png
 URL: https://vdochile.com:3194/live/mvqutymylive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: NCTV (1080p)
 Categoría: 🇨🇱 Chile
@@ -1073,7 +1059,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZQRb3L3.png
 URL: https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Suyai TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -1108,7 +1094,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhPFGs8.png
 URL: https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telecanal (720p)
 Categoría: 🇨🇱 Chile
@@ -1248,7 +1234,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1386,7 +1372,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 197
-  Funcionan: 167
-  Fallan: 30
+  Total de streams: 195
+  Funcionan: 172
+  Fallan: 23
 ==================================================

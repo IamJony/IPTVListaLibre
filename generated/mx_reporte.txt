@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-16 23:49:38.651645
+  Fecha: 2026-11-17 23:06:46.697341
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -86,7 +86,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a7Ejid0.png
 URL: http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azteca 7 (1080p)
 Categoría: 🇲🇽 México
@@ -1199,7 +1199,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9ZXCQvy.png
 URL: https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: XHGV-TDT (360p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1234,7 +1234,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RxhABeK.png
 URL: https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ZAZ (1080p)
 Categoría: 🇲🇽 México
@@ -1247,6 +1247,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 177
-  Funcionan: 106
-  Fallan: 71
+  Funcionan: 107
+  Fallan: 70
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-16 23:49:38.650257
+  Fecha: 2026-11-17 23:06:46.696290
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -373,7 +373,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qZzSOeU.png
 URL: https://eu1.servers10.com:8081/8074/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Fantastica 98.9 FM (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -443,7 +443,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://carjocosa.space/studio/logo.png
 URL: https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TC Television (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 52
-  Fallan: 30
+  Funcionan: 54
+  Fallan: 28
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-17 23:06:46.698935
+  Fecha: 2026-11-18 22:41:15.960845
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -102,18 +102,18 @@ Logo: https://i.imgur.com/WQP3el2.png
 URL: https://9laloma.tv/live.m3u8
 Estado: FALLA
 ---
-Nombre: 12tv (720p)
+Nombre: 12tv (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VSTgXsh.png
-URL: https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
+URL: https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 Estado: FUNCIONA
 ---
 Nombre: 24 Horas (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/21sXZ3GT/24h.png
-URL: https://ztnr.rtve.es/ztnr/1694255.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 Estado: FALLA
 ---
 Nombre: 24 Horas Canarias (1080p)
@@ -127,7 +127,7 @@ Nombre: 24 Horas Catalunya (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/21sXZ3GT/24h.png
-URL: https://ztnr.rtve.es/ztnr/4952053.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 Estado: FALLA
 ---
 Nombre: 28 kanala
@@ -240,7 +240,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Atreseries HD (1080p)
 Categoría: 🇪🇸 España
@@ -256,7 +256,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015
 URL: http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
 Estado: FALLA
 ---
-Nombre: AXN (Spain) HD
+Nombre: AXN (Spain) HD (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
@@ -324,7 +324,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/ktasO33.png
 URL: https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Biosfera TV (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -394,7 +394,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
@@ -597,7 +597,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CTQgqsM.png
 URL: https://cloudvideo.servers10.com:8081/8024/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Clan (1080p)
 Categoría: 🇪🇸 España
@@ -856,7 +856,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/Waf1SOq.png
 URL: https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EWTN Espana
 Categoría: 🇪🇸 España
@@ -1010,7 +1010,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/rfsr9PSh/La-2.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La 2 Canarias (720p)
 Categoría: 🇪🇸 España
@@ -1038,7 +1038,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aKV5voq.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Sexta HD (1080p)
 Categoría: 🇪🇸 España
@@ -1073,7 +1073,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/xWY2568.png
 URL: https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Logos TV (Spain) (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1150,14 +1150,14 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/FTGbu8A.png
 URL: https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mega (Spain) (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Udrt2eK.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mega (Spain) HD (1080p)
 Categoría: 🇪🇸 España
@@ -1213,7 +1213,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Neox HD (1080p)
 Categoría: 🇪🇸 España
@@ -1222,7 +1222,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.s
 URL: https://ignac16.github.io/voxel-tv-streams/neox.mpd
 Estado: FALLA
 ---
-Nombre: Nickelodeon (Spain) HD
+Nombre: Nickelodeon (Spain) HD (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/E84jnP8.png
@@ -1241,7 +1241,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Vx1F4o5.png
 URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nova (Spain) HD (1080p)
 Categoría: 🇪🇸 España
@@ -1311,7 +1311,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/mNuv3OL.png
 URL: https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Pequeradio (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1423,7 +1423,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cdpbkSo.png
 URL: https://eu1.servers10.com:8081/8116/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Television Marbella (720p)
 Categoría: 🇪🇸 España
@@ -1710,7 +1710,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/rrCJyza.png
 URL: https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sevilla FC TV (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1955,7 +1955,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/i6EnVZa.png
 URL: https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Girona (1080p)
 Categoría: 🇪🇸 España
@@ -1969,7 +1969,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png
 URL: https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Ripolles (1080p)
 Categoría: 🇪🇸 España
@@ -2151,7 +2151,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/1g2Z64L.png
 URL: https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Voyages & Saveurs (720p)
 Categoría: 🇪🇸 España
@@ -2185,6 +2185,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 311
-  Funcionan: 157
-  Fallan: 154
+  Funcionan: 161
+  Fallan: 150
 ==================================================

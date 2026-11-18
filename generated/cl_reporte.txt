@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-17 23:06:46.694027
+  Fecha: 2026-11-18 22:41:15.947189
 ==================================================
 
 Nombre: 13C (1080p)
@@ -1149,7 +1149,7 @@ Nombre: TNT Sports (Chile) (480p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png
-URL: http://209.45.101.130:8040/play/a03s/index.m3u8
+URL: http://205.235.6.29:8000/play/a0xa/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TNT Sports Premium ArgentinaHD (1080p)
@@ -1206,7 +1206,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tpI0WQH.png
 URL: https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Usach (720p)
 Categoría: 🇨🇱 Chile
@@ -1373,6 +1373,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 195
-  Funcionan: 172
-  Fallan: 23
+  Funcionan: 171
+  Fallan: 24
 ==================================================

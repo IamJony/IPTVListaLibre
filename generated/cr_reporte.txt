@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-17 23:06:46.695179
+  Fecha: 2026-11-18 22:41:15.949640
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -151,12 +151,12 @@ Logo: https://i.imgur.com/YwUVTmS.png
 URL: http://45.5.117.57:8999/play/a01c/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Enlace Juvenil
+Nombre: Enlace Juvenil (720p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -408,21 +408,21 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/aadWnIx.jpg
 URL: https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Sur Canal 9 (620p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7HbISMV.png
 URL: http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Sur Canal 14 (1080p)
 Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OpHYYZA.png
 URL: https://k20.usastreams.com:8081/tvsur/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVN 14 (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica

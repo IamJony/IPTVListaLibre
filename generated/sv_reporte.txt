@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-17 23:06:46.696590
+  Fecha: 2026-11-18 22:41:15.953313
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -226,7 +226,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ChonoKb.png
 URL: https://radiocret.net:8082/hls/tvcret.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Getsemani (720p)
 Categoría: 🇸🇻 El Salvador
@@ -281,6 +281,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 39
-  Funcionan: 15
-  Fallan: 24
+  Funcionan: 14
+  Fallan: 25
 ==================================================

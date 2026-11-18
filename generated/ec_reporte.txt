@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-17 23:06:46.696290
+  Fecha: 2026-11-18 22:41:15.952521
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -107,7 +107,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hj6EYwe.png
 URL: http://45.224.97.181:9999/EcuadorTV/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EcuaMundo Radio TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -156,7 +156,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png
 URL: http://45.224.97.181:9999/Gamavision/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Gaviota TV [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -198,7 +198,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1nHxdkR.png
 URL: https://s2.tvdatta.com:3753/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Inti TV (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -253,7 +253,7 @@ Nombre: MakroDigital Television (1080p)
 Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://makrodigitaltelevision.com/logo.jpg
-URL: https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+URL: http://205.235.6.29:8000/play/a0wp/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Manavision (480p)
@@ -324,7 +324,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://oromartv.com/images/OTV400.png
 URL: http://45.224.97.181:9999/Oromar/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oromar TV+ (720p)
 Categoría: 🇪🇨 Ecuador
@@ -422,7 +422,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1OWvMP4.png
 URL: http://45.224.97.181:9999/RTU/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RTV (Ecuador) (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -450,7 +450,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/okK02EN.png
 URL: http://45.224.97.181:9999/TC/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teleamazonas (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -520,7 +520,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zhdIwlm.png
 URL: http://45.224.97.181:9999/TVC/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TvOro (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 54
-  Fallan: 28
+  Funcionan: 47
+  Fallan: 35
 ==================================================

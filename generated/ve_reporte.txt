@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.963054
+  Fecha: 2026-11-19 22:45:26.577962
 ==================================================
 
 Nombre: 123TV (480p)
@@ -44,7 +44,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: AS3 Sport TV (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -107,7 +107,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LBI2la0.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Colombeia (576p)
 Categoría: 🇻🇪 Venezuela
@@ -137,11 +137,11 @@ Logo: https://imgur.com/hzM9D9L.jpg
 URL: https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
 Estado: FALLA
 ---
-Nombre: Globovision (576p)
+Nombre: Globovision (720p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/v6nRdxQ.png
-URL: http://181.78.8.199:8000/play/a09k/index.m3u8
+URL: https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Grande TV
@@ -149,7 +149,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Guaro TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -191,7 +191,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -303,7 +303,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -338,7 +338,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zRX91Xr.png
 URL: https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Somos TV (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -387,7 +387,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QtRNfaj.png
 URL: https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telesur (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -429,7 +429,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wFC6Xxq.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TNO Radio (720p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 45
-  Fallan: 36
+  Funcionan: 49
+  Fallan: 32
 ==================================================

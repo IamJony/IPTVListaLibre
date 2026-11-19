@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.960845
+  Fecha: 2026-11-19 22:45:26.576879
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -261,7 +261,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AXN CEE
 Categoría: 🇪🇸 España
@@ -324,7 +324,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/ktasO33.png
 URL: https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Biosfera TV (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -338,7 +338,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nUYuCAP.png
 URL: http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bom Cine (576p)
 Categoría: 🇪🇸 España
@@ -394,14 +394,14 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -625,7 +625,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png
 URL: http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Condavision (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -856,7 +856,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/Waf1SOq.png
 URL: https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EWTN Espana
 Categoría: 🇪🇸 España
@@ -975,7 +975,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/y6SWpsX.png
 URL: http://stream.mcquack.net/167/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: La 1 (1086p)
 Categoría: 🇪🇸 España
@@ -1073,7 +1073,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/xWY2568.png
 URL: https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Logos TV (Spain) (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1150,7 +1150,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/FTGbu8A.png
 URL: https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Mega (Spain) (1080p)
 Categoría: 🇪🇸 España
@@ -1227,7 +1227,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/E84jnP8.png
 URL: http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nortevision (1080p)
 Categoría: 🇪🇸 España
@@ -1311,7 +1311,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/mNuv3OL.png
 URL: https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pequeradio (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1710,7 +1710,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/rrCJyza.png
 URL: https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sevilla FC TV (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1955,7 +1955,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/i6EnVZa.png
 URL: https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Girona (1080p)
 Categoría: 🇪🇸 España
@@ -1969,7 +1969,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png
 URL: https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Ripolles (1080p)
 Categoría: 🇪🇸 España
@@ -2151,7 +2151,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/1g2Z64L.png
 URL: https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Voyages & Saveurs (720p)
 Categoría: 🇪🇸 España
@@ -2185,6 +2185,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 311
-  Funcionan: 161
-  Fallan: 150
+  Funcionan: 149
+  Fallan: 162
 ==================================================

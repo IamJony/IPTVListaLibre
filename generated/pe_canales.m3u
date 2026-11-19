@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-18 22:41:15.958927
+# Fecha: 2026-11-19 22:45:26.576182
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe@SD" tvg-logo="https://i.imgur.com/F4NZM3s.jpeg" group-title="🇵🇪 Perú",36 TV Huacho (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -204,6 +204,9 @@ https://www.milenial.news/salida/milenial.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe@SD" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="🇵🇪 Perú",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
+#EXTINF:-1 tvg-id="MonterricoTV.pe@SD" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🇵🇪 Perú",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="🇵🇪 Perú",Nativa (720p)
 http://187.102.210.46/NATIVATV/index.m3u8
 
@@ -215,9 +218,6 @@ https://eu1.servers10.com:8081/8258/index.m3u8
 
 #EXTINF:-1 tvg-id="ONDADIGITAL.pe@SD" tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="🇵🇪 Perú",ONDA DIGITAL (720p)
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-
-#EXTINF:-1 tvg-id="OndaTV.pe@SD" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="🇵🇪 Perú",Onda TV (Peru) (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="🇵🇪 Perú",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -248,9 +248,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QosqoTimes.pe@SD" tvg-logo="https://i.imgur.com/oWJauwQ.png" group-title="🇵🇪 Perú",Qosqo Times (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="🇵🇪 Perú",Radio Master (720p)
-https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe@SD" tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="🇵🇪 Perú",Radio Onda Digital (1080p)
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
@@ -380,6 +377,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="🇵🇪 Perú",Unitel (Peru) (1080p)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="🇵🇪 Perú",Universitaria TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="🇵🇪 Perú",Uranio TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.949640
+  Fecha: 2026-11-19 22:45:26.572753
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -156,7 +156,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/GfpPQ5D.png
 URL: https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Extra TV 42 (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -198,7 +198,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sAYNKJ8.png
 URL: https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Gex TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -387,7 +387,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ctnvE3c.png
 URL: http://181.119.177.253:8000/play/a0da
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TicaVision (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -408,7 +408,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 Logo: https://i.imgur.com/aadWnIx.jpg
 URL: https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Sur Canal 9 (620p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica

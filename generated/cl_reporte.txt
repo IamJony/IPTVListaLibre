@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.947189
+  Fecha: 2026-11-19 22:45:26.571735
 ==================================================
 
 Nombre: 13C (1080p)
@@ -268,7 +268,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -331,7 +331,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -499,6 +499,13 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uBC8e96.png
 URL: https://v1.tustreaming.cl/genialtv/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Girovisual (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BYBMuhf.png
+URL: https://live-evg8.tv360.bitel.com.pe/bitel/girovisualSRT-TRA/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: GVision (288p)
@@ -697,11 +704,11 @@ Logo: https://cdn.m3u.cl/logo/1552_Nina_TV.png
 URL: https://tv1.ninatv.cl/hls/stream.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Nuevo Tiempo TV (720p)
+Nombre: Nuevo Tiempo TV (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eCPzibM.png
-URL: https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
+URL: http://190.181.61.93:8000/play/a00o/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Odisea TV (720p)
@@ -820,8 +827,8 @@ Nombre: Radio Edelweiss (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png
-URL: https://vmix.dyndns.biz/Edelweiss/index.m3u8
-Estado: FALLA
+URL: https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Radio El Sembrador (720p)
 Categoría: 🇨🇱 Chile
@@ -1372,7 +1379,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 195
-  Funcionan: 171
-  Fallan: 24
+  Total de streams: 196
+  Funcionan: 173
+  Fallan: 23
 ==================================================

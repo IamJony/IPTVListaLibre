@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - NI
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.957054
+  Fecha: 2026-11-19 22:45:26.575606
 ==================================================
 
 Nombre: Canal 6 (Nicaragua) (480p) [Not 24/7]
@@ -72,7 +72,7 @@ Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JqaW7Ei.png
 URL: https://hdbox.chunklistv.com/live?stream=megabox
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: MTV Chontales (720p) [Not 24/7]
 Categoría: 🇳🇮 Nicaragua
@@ -107,14 +107,14 @@ Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sI0msrn.png
 URL: https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVONE Nicaragua (720p) [Not 24/7]
 Categoría: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FNk6rdz.png
 URL: https://hdbox.chunklistv.com/live?stream=tvone
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Viva Nicaragua Canal 13 (720p)
 Categoría: 🇳🇮 Nicaragua
@@ -148,6 +148,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 20
-  Funcionan: 7
-  Fallan: 13
+  Funcionan: 4
+  Fallan: 16
 ==================================================

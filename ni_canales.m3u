@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - NI
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-18 22:41:15.957060
+# Fecha: 2026-11-19 22:45:26.575609
 
 #EXTINF:-1 tvg-id="Canal10.ni@SD" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="🇳🇮 Nicaragua",Canal 10 (Nicaragua) (480p)
 https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
@@ -9,18 +9,9 @@ https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni@SD" tvg-logo="https://i.imgur.com/UhEW8cj.png" group-title="🇳🇮 Nicaragua",Canal 12 (Nicaragua) (576p)
 http://45.228.234.9:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-id="MegaBox.ni@SD" tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="🇳🇮 Nicaragua",MegaBox (720p) [Not 24/7]
-https://hdbox.chunklistv.com/live?stream=megabox
-
 #EXTINF:-1 tvg-id="OlamMetroTV.ni@SD" tvg-logo="https://i.imgur.com/dDZnyUA.jpeg" group-title="🇳🇮 Nicaragua",Olam Metro TV (720p)
 https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
 
 #EXTINF:-1 tvg-id="TN8.ni@SD" tvg-logo="https://i.imgur.com/m0Zdxiz.png" group-title="🇳🇮 Nicaragua",TN8 (1080p)
 https://streamingcws30.com/tn8/videotn8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV45.ni@SD" tvg-logo="https://i.imgur.com/sI0msrn.png" group-title="🇳🇮 Nicaragua",TV 45 (720p) [Not 24/7]
-https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-
-#EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="🇳🇮 Nicaragua",TVONE Nicaragua (720p) [Not 24/7]
-https://hdbox.chunklistv.com/live?stream=tvone
 

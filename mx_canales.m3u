@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - MX
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-18 22:41:15.955989
+# Fecha: 2026-11-19 22:45:26.575107
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽 México",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -96,6 +96,9 @@ http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="🇲🇽 México",De Pelicula Plus (1080p)
 http://200.115.120.1:8000/play/ca030/index.m3u8
 
+#EXTINF:-1 tvg-id="DespiertaTV.mx@SD" tvg-logo="https://i.imgur.com/hywjKNo.jpg" group-title="🇲🇽 México",Despierta TV (1080p) [Not 24/7]
+https://video2.lhdserver.es/despiertatv/live.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="🇲🇽 México",Discovery Home & Health Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 
@@ -183,6 +186,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="🇲🇽 México",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
+#EXTINF:-1 tvg-id="NayaritComunica.mx@SD" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="🇲🇽 México",Nayarit Comunica (1080p)
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+
 #EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="🇲🇽 México",Nueve TV (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
@@ -224,6 +230,9 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="🇲🇽 México",Tele UV [Not 24/7]
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="🇲🇽 México",Tele Yucatan (1080p) [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx@SD" tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="🇲🇽 México",TeleFormula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - ES
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-18 22:41:15.960850
+# Fecha: 2026-11-19 22:45:26.576884
 
 #EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 España",3Cat Cameres del temps (1080p)
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
@@ -57,9 +57,6 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="🇪🇸 España",Arabi TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 
-#EXTINF:-1 tvg-id="AXN.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🇪🇸 España",AXN (Spain) HD (1080p)
-http://90.170.214.40:9700/stream/avatel/axn/master.m3u8
-
 #EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="🇪🇸 España",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/axn_hun/index.m3u8
@@ -75,13 +72,6 @@ https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1 tvg-id="BCNGospelTV.es@HD" tvg-logo="https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png" group-title="🇪🇸 España",BCN Gospel TV HD (720p)
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 
-#EXTINF:-1 tvg-id="BDN.es@SD" tvg-logo="https://i.imgur.com/ktasO33.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",BDN (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Boing.es@SD" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="🇪🇸 España",Boing (Spain) (1080p)
-http://90.170.214.40:9700/stream/avatel/boing/master.m3u8
-
 #EXTINF:-1 tvg-id="BomCine.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" group-title="🇪🇸 España",Bom Cine (576p)
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
 
@@ -94,8 +84,8 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 tvg-id="Canal3TVBiar.es@SD" tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="🇪🇸 España",Canal 3 TV Biar (480p) [Not 24/7]
 https://avantstreaming.es/hls/canal3.m3u8
 
-#EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="🇪🇸 España",Canal 4 Mancha Centro (720p) [Not 24/7]
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="🇪🇸 España",Canal 7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Emporda.es@SD" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="🇪🇸 España",Canal 10 Emporda (360p) [Not 24/7]
 https://ventdelnord.tv:8080/escala/directe.m3u8
@@ -159,9 +149,6 @@ https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
 
 #EXTINF:-1 tvg-id="CMMTV.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="🇪🇸 España",CMM TV HD (1080p)
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
-
-#EXTINF:-1 tvg-id="ComedyCentral.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="🇪🇸 España",Comedy Central (Spain) (1080p)
-http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
 
 #EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD" tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="🇪🇸 España",Congreso de los Diputados 1 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
@@ -239,10 +226,6 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="ETBEvents1.es@SD" tvg-logo="https://i.imgur.com/bVUEmx9.png" group-title="🇪🇸 España",ETB Events 1 (1080p)
 https://cdn1.etbon.eus/oc1/index.m3u8
 
-#EXTINF:-1 tvg-id="etv.es@SD" tvg-logo="https://i.imgur.com/Waf1SOq.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",etv (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EWTNEspana.es@SD" tvg-logo="https://i.imgur.com/KvpMbkd.png" group-title="🇪🇸 España",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 
@@ -276,10 +259,6 @@ https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="🇪🇸 España",Intercomarcal TV (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
-#EXTINF:-1 tvg-id="KinoKazka.es@SD" tvg-logo="https://i.imgur.com/y6SWpsX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="🇪🇸 España",KinoKazka (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/167/index.m3u8
-
 #EXTINF:-1 tvg-id="La8Mediterraneo.es@SD" tvg-logo="https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png" group-title="🇪🇸 España",La 8 Mediterraneo (1080p)
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 
@@ -288,10 +267,6 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 
 #EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="🇪🇸 España",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LleidaTelevisio.es@SD" tvg-logo="https://i.imgur.com/xWY2568.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",Lleida Televisio (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="LogosTV.es@SD" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="🇪🇸 España",Logos TV (Spain) (1080p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
@@ -305,10 +280,6 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="🇪🇸 España",M95 Television Marbella (1080p) [Not 24/7]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
-#EXTINF:-1 tvg-id="MataroTelevisio.es@SD" tvg-logo="https://i.imgur.com/FTGbu8A.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",Mataro Televisio (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/m1tvlive/smil:live.smil/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="🇪🇸 España",Mijas 3.40TV (720p)
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
@@ -321,9 +292,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NegociosTV.es@SD" tvg-logo="https://m.media-amazon.com/images/I/21HEgSJn2gL.png" group-title="🇪🇸 España",Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.es@HD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="🇪🇸 España",Nickelodeon (Spain) HD (1080p)
-http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
-
 #EXTINF:-1 tvg-id="Onda15TV.es@SD" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="🇪🇸 España",Onda 15 TV (224p)
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
@@ -335,10 +303,6 @@ https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OndaValenciaTV.es@SD" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="🇪🇸 España",Onda Valencia TV (720p)
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
-
-#EXTINF:-1 tvg-id="PenedesTelevisio.es@SD" tvg-logo="https://i.imgur.com/mNuv3OL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",Penedes Televisio (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="🇪🇸 España",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -376,10 +340,6 @@ https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 
 #EXTINF:-1 tvg-id="RTVVida.es@SD" tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="🇪🇸 España",RTV Vida (1080p)
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-
-#EXTINF:-1 tvg-id="RTVCCardedeu.es@SD" tvg-logo="https://i.imgur.com/rrCJyza.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",RTVC Cardedeu (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SevillaFCTV.es@SD" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="🇪🇸 España",Sevilla FC TV (360p) [Not 24/7]
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
@@ -439,14 +399,6 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF:-1 tvg-id="TVBRICSSpanish.es@HD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="🇪🇸 España",TV BRICS Spanish (1080p)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCostaBrava.es@SD" tvg-logo="https://i.imgur.com/i6EnVZa.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",TV Costa Brava (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVLHospitalet.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",TV L'Hospitalet (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
-
 #EXTINF:-1 tvg-id="TVSabadellValles.es@SD" tvg-logo="https://i.imgur.com/fSTsGbG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",TV Sabadell-Valles (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
@@ -492,6 +444,10 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 
 #EXTINF:-1 tvg-id="UrolaTelebista.es@SD" tvg-logo="https://i.imgur.com/V23bltn.png" group-title="🇪🇸 España",Urola Telebista (416p)
 https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOTV.es@SD" tvg-logo="https://i.imgur.com/1g2Z64L.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="🇪🇸 España",VOTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="🇪🇸 España",Voyages & Saveurs (720p)
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8

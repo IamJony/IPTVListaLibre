@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.946277
+  Fecha: 2026-11-19 22:45:26.571309
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -32,6 +32,13 @@ Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Asi es mi Pueblo TV (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://canales.asplurtv.com/logo_asitv.png
+URL: http://190.181.61.93:8000/play/a00g/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Audiokiss (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -53,6 +60,27 @@ Logo: https://i.imgur.com/tKLYYys.png
 URL: http://190.181.61.93:8000/play/a001/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Bolivision (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/U98Z5zn.png
+URL: http://190.181.61.93:8000/play/a00j/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Cadena A (576p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BxQPPAA.png
+URL: http://190.181.61.93:8000/play/a00k/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Canal 14 Valle Alto Television (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/I1eVjLs.jpeg
+URL: https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Canal 15 Teleor (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -66,6 +94,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/l9kDNld.jpeg
 URL: http://45.5.118.152:8000/play/a08z/index.m3u8
 Estado: FALLA
+---
+Nombre: Canal Guia ABE (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/NAvMyZK.png
+URL: http://190.181.61.93:8000/play/a00q/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: CEACOM TV (1080p) [Not 24/7]
 Categoría: 🇧🇴 Bolivia
@@ -114,13 +149,20 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png
 URL: https://master.tucableip.com/dmoda/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EL DEBER (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg
 URL: https://master.tucableip.com/eldebertv/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: En Vivo TV (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://static-cdn.jtvnw.net/jtv_user_pictures/d3971ef0-0005-4a40-a152-390ce681a7a7-profile_image-150x150.png
+URL: http://190.181.61.93:8000/play/1520/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: F10 HD (720p)
@@ -151,18 +193,39 @@ Logo: https://i.imgur.com/fE3BkcT.png
 URL: http://158.172.155.130:8000/play/a0e7/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Gigavision La Paz (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/fE3BkcT.png
+URL: http://190.181.61.93:8000/play/a00i/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: GoGoPlayTV (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: No disponible
+URL: http://190.181.61.93:8000/play/a00d/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Imperial TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png
 URL: https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Interactivo Television (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sGOSDo2.jpeg
 URL: https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
+Estado: FALLA
+---
+Nombre: La Exitosa TV Riberalta (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/LnF0zWB.png
+URL: https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Palenque TV (576p)
@@ -178,6 +241,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/4A7R2Jt.png
 URL: http://158.172.155.130:8000/play/a0e6/index.m3u8
 Estado: FALLA
+---
+Nombre: PI MEDIA TV (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://pimediatv.weebly.com/uploads/1/2/8/7/12877343/published/pigran.png
+URL: https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Plus TLT (720p)
 Categoría: 🇧🇴 Bolivia
@@ -198,6 +268,13 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vPvR7dX.png
 URL: https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
+Estado: FALLA
+---
+Nombre: RA Television (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/dDg3jbh.jpeg
+URL: https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Radio Centro (720p)
@@ -228,6 +305,13 @@ Logo: https://i.imgur.com/yzSNWZ3.png
 URL: https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Radio TV Mega (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/pwRhOHB.png
+URL: https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Radio Universitaria San Andres (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -240,7 +324,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qYNmeDe.png
 URL: https://edge.enhdtv.com/redamerica/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red CCTV (480p)
 Categoría: 🇧🇴 Bolivia
@@ -305,6 +389,20 @@ Logo: https://i.imgur.com/cECNvvr.png
 URL: http://190.181.61.93:8000/play/a00n/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: SABCO Vision (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/1psliIs.jpeg
+URL: https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: Siglo XXI TV (576p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/d1N2WzD.png
+URL: http://190.181.61.93:8000/play/a00b/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Sol TV (Bolivia) (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -312,19 +410,19 @@ Logo: https://i.imgur.com/2m8PVpA.png
 URL: http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: SPC Canal 15 (720p)
+Nombre: SPC Canal 15 (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
-URL: https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+Estado: FUNCIONA
 ---
-Nombre: Sucremanta TV (720p)
+Nombre: Sucremanta TV (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/noN0Yhe.png
-URL: https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TDT Multimedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -333,12 +431,12 @@ Logo: https://i.imgur.com/JkCywl5.png
 URL: https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TELE 6 (720p)
+Nombre: TELE 6 (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/p7tt72X.png
-URL: https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
-Estado: FALLA
+URL: https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Tele Fe Bolivia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -358,8 +456,8 @@ Nombre: TL Estrella (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: No disponible
-URL: https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
-Estado: FALLA
+URL: http://190.181.61.93:8000/play/a004/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TransMedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -367,6 +465,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/tAdxar9.jpeg
 URL: https://edge.enhdtv.com/8064/index.m3u8
 Estado: FALLA
+---
+Nombre: Tv Carigso (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/nhg1uM9.png
+URL: https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TV Culturas (576p)
 Categoría: 🇧🇴 Bolivia
@@ -389,11 +494,25 @@ Logo: https://i.imgur.com/vBe1GgI.png
 URL: https://edge.enhdtv.com/tvoff/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: TV Show Oruro (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
+URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: TV Universitaria (720p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/p5IqKnB.png
+URL: http://190.181.61.93:8000/play/a006/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: TVU Sucre (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7c0b4Y4.png
-URL: https://edge.enhdtv.com/8214/index.m3u8
+URL: http://190.181.61.93:8000/play/a008/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: UMSA TVU Internacional (720p)
@@ -424,6 +543,20 @@ Logo: https://i.imgur.com/B9wg1zj.png
 URL: http://190.181.61.93:8000/play/1909/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Unitel (Bolivia) Cochabamba (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/B9wg1zj.png
+URL: http://190.181.61.93:8000/play/1913/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Unitel (Bolivia) La Paz (1080p)
+Categoría: 🇧🇴 Bolivia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/B9wg1zj.png
+URL: http://190.181.61.93:8000/play/1910/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Univalle Television (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
@@ -435,7 +568,7 @@ Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png
-URL: https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+URL: http://190.181.61.93:8000/play/a00h/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Vos TV (Bolivia) (720p)
@@ -445,12 +578,12 @@ Logo: https://i.imgur.com/Cm1Xjeq.png
 URL: http://15.204.246.24:8080/VOSTVHD/index.m3u8
 Estado: FALLA
 ---
-Nombre: VTV Canal 17 (720p) [Not 24/7]
+Nombre: VTV Canal 17 (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TUhFzql.png
-URL: https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-Estado: FALLA
+URL: http://190.181.61.93:8000/play/a00f/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: XTOTV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -469,7 +602,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 66
-  Funcionan: 35
-  Fallan: 31
+  Total de streams: 85
+  Funcionan: 58
+  Fallan: 27
 ==================================================

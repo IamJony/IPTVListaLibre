@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.958248
+  Fecha: 2026-11-19 22:45:26.575932
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -135,7 +135,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: E40 (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -226,7 +226,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3taT6JK.jpeg
 URL: https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nandejara Ne'e TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -261,7 +261,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
@@ -338,7 +338,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -382,12 +382,12 @@ Logo: https://i.imgur.com/LzgODUS.png
 URL: https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
 Estado: FUNCIONA
 ---
-Nombre: SNT (480p)
+Nombre: SNT (720p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg
-URL: https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
-Estado: FALLA
+URL: https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+Estado: FUNCIONA
 ---
 Nombre: Suceso TV (720p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -485,12 +485,12 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ryzCsvy.jpg
 URL: https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 51
-  Fallan: 18
+  Funcionan: 53
+  Fallan: 16
 ==================================================

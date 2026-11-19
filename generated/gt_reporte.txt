@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-18 22:41:15.954477
+  Fecha: 2026-11-19 22:45:26.574540
 ==================================================
 
 Nombre: Amigos TV Chiquimula (1080p)
@@ -16,7 +16,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DVC5w6H.png
 URL: https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Barbe TV (720p) [Not 24/7]
 Categoría: 🇬🇹 Guatemala
@@ -37,7 +37,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yCykjIp.png
 URL: http://181.119.177.253:8000/play/a03o/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 6 Panadish (720p)
 Categoría: 🇬🇹 Guatemala
@@ -51,7 +51,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/yVhUkot.png
 URL: http://181.119.177.253:8000/play/a03n/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 11 (Guatemala) (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 34
-  Fallan: 32
+  Funcionan: 31
+  Fallan: 35
 ==================================================

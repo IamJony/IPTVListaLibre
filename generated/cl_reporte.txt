@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.571735
+  Fecha: 2026-11-20 22:19:33.409373
 ==================================================
 
 Nombre: 13C (1080p)
@@ -210,7 +210,7 @@ Estado: FUNCIONA
 Nombre: Canal 13 (Chile) (1080p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
-Logo: https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
 Estado: FUNCIONA
 ---
@@ -268,7 +268,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -331,7 +331,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coyhaique TV (720p)
 Categoría: 🇨🇱 Chile
@@ -520,7 +520,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9JKRO3R.png
 URL: https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Iquique TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -702,7 +702,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1552_Nina_TV.png
 URL: https://tv1.ninatv.cl/hls/stream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Nuevo Tiempo TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -737,7 +737,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oFuWBZO.png
 URL: https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pauta (1080p)
 Categoría: 🇨🇱 Chile
@@ -912,7 +912,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png
 URL: https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Universal (720p)
 Categoría: 🇨🇱 Chile
@@ -1150,7 +1150,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNT Sports (Chile) (480p)
 Categoría: 🇨🇱 Chile
@@ -1380,6 +1380,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 196
-  Funcionan: 173
-  Fallan: 23
+  Funcionan: 168
+  Fallan: 28
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.571309
+  Fecha: 2026-11-20 22:19:33.408961
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -56,14 +56,14 @@ Estado: FALLA
 Nombre: Bolivia TV (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/tKLYYys.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png
 URL: http://190.181.61.93:8000/play/a001/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Bolivision (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/U98Z5zn.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png
 URL: http://190.181.61.93:8000/play/a00j/index.m3u8
 Estado: FUNCIONA
 ---
@@ -126,7 +126,7 @@ Estado: FUNCIONA
 Nombre: CTV (Bolivia) (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/ljKb0UX.png
+Logo: https://ctvbolivia.com/wp-content/uploads/2026/06/Red-Nacional.png
 URL: http://15.204.246.24:8080/CTVHD/index.m3u8
 Estado: FALLA
 ---
@@ -149,7 +149,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png
 URL: https://master.tucableip.com/dmoda/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: EL DEBER (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -226,7 +226,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LnF0zWB.png
 URL: https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Palenque TV (576p)
 Categoría: 🇧🇴 Bolivia
@@ -275,7 +275,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dDg3jbh.jpeg
 URL: https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Centro (720p)
 Categoría: 🇧🇴 Bolivia
@@ -357,14 +357,14 @@ Estado: FUNCIONA
 Nombre: Red Uno (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/wfNaEV9.png
+Logo: https://pxcdn.reduno.com.bo/reduno/102025/1761881380017.webp?cw=800&ch=450&extw=jpg
 URL: http://190.181.61.93:8000/play/a002/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Red Uno La Paz (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/wfNaEV9.png
+Logo: https://pxcdn.reduno.com.bo/reduno/102025/1761881380017.webp?cw=800&ch=450&extw=jpg
 URL: http://190.181.61.93:8000/play/a003/index.m3u8
 Estado: FUNCIONA
 ---
@@ -385,7 +385,7 @@ Estado: FUNCIONA
 Nombre: RTP (Bolivia) (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/cECNvvr.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png
 URL: http://190.181.61.93:8000/play/a00n/index.m3u8
 Estado: FUNCIONA
 ---
@@ -448,7 +448,7 @@ Estado: FALLA
 Nombre: Tigo Sports (Bolivia) (720p) [Geo-blocked]
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/6wkmgGM.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png
 URL: https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 Estado: FUNCIONA
 ---
@@ -499,7 +499,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
 URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Universitaria (720p)
 Categoría: 🇧🇴 Bolivia
@@ -539,21 +539,21 @@ Estado: FUNCIONA
 Nombre: Unitel (Bolivia) (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/B9wg1zj.png
+Logo: https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png
 URL: http://190.181.61.93:8000/play/1909/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Unitel (Bolivia) Cochabamba (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/B9wg1zj.png
+Logo: https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png
 URL: http://190.181.61.93:8000/play/1913/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Unitel (Bolivia) La Paz (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/B9wg1zj.png
+Logo: https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png
 URL: http://190.181.61.93:8000/play/1910/index.m3u8
 Estado: FUNCIONA
 ---
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 58
-  Fallan: 27
+  Funcionan: 60
+  Fallan: 25
 ==================================================

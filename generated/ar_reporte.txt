@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.570438
+  Fecha: 2026-11-20 22:19:33.407969
 ==================================================
 
 Nombre: 5tv (608p)
@@ -35,7 +35,7 @@ Estado: FUNCIONA
 Nombre: Aire de Santa Fe (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/60vSWW0.png
+Logo: https://files.catbox.moe/9tm8wx.png
 URL: https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 Estado: FUNCIONA
 ---
@@ -721,14 +721,14 @@ Estado: FUNCIONA
 Nombre: El Gourmet (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/ByMyRI9.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/ByMyRI9.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png
 URL: https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 Estado: FUNCIONA
 ---
@@ -938,7 +938,7 @@ Estado: FALLA
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/GJbRWwH.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png
 URL: http://138.59.227.20:8000/play/a05t/index.m3u8
 Estado: FUNCIONA
 ---
@@ -954,7 +954,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MYc8srh.png
 URL: http://45.70.168.162:1503/play/a02a/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Power Max Radio TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -1031,7 +1031,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kVi0ICm.png
 URL: https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radiocanal (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1227,7 +1227,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gsgXGEj.png
 URL: https://videohd.live:19360/8008/8008.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TN (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1310,7 +1310,7 @@ Nombre: Unife TV (720p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TLM592m.png
-URL: https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+URL: https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Uniteve (720p) [Not 24/7]
@@ -1394,6 +1394,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 198
-  Funcionan: 152
-  Fallan: 46
+  Funcionan: 151
+  Fallan: 47
 ==================================================

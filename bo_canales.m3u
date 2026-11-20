@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-19 22:45:26.571315
+# Fecha: 2026-11-20 22:19:33.408968
 
 #EXTINF:-1 tvg-id="AmitelTV.bo@SD" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
@@ -15,10 +15,10 @@ http://190.181.61.93:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="Audiokiss.bo@SD" tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png" group-title="🇧🇴 Bolivia",Audiokiss (1080p)
 https://master.tucableip.com/audiokisstv/index.m3u8
 
-#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="🇧🇴 Bolivia",Bolivia TV (1080p)
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="🇧🇴 Bolivia",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="Bolivision.bo@LaPaz" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="🇧🇴 Bolivia",Bolivision (1080p)
+#EXTINF:-1 tvg-id="Bolivision.bo@LaPaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="🇧🇴 Bolivia",Bolivision (1080p)
 http://190.181.61.93:8000/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="CadenaA.bo@LaPaz" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="🇧🇴 Bolivia",Cadena A (576p)
@@ -38,6 +38,9 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-id="DeltaTV.bo@SD" tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="🇧🇴 Bolivia",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DmodaChannel.bo@SD" tvg-logo="https://dmoda.com.bo/wp-content/uploads/2025/07/09-LOGO-EN-BLANCO-LIGHT-380-X-180-pixeles.png" group-title="🇧🇴 Bolivia",Dmoda Channel (1080p)
+https://master.tucableip.com/dmoda/index.m3u8
 
 #EXTINF:-1 tvg-id="ELDEBER.bo@SD" tvg-logo="https://www.trabajopolis.bo/attachment/images/cw600_ch315_sw585_sh300_clfff_q100_id618378_8e3aaf1db590f10.jpeg" group-title="🇧🇴 Bolivia",EL DEBER (1080p)
 https://master.tucableip.com/eldebertv/index.m3u8
@@ -63,8 +66,14 @@ http://190.181.61.93:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="ImperialTV.bo@SD" tvg-logo="https://i.ibb.co/8XHSVWY/IMG-20210613-153444.png" group-title="🇧🇴 Bolivia",Imperial TV (720p)
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 
+#EXTINF:-1 tvg-id="LaExitosaTVRiberalta.bo@SD" tvg-logo="https://i.imgur.com/LnF0zWB.png" group-title="🇧🇴 Bolivia",La Exitosa TV Riberalta (720p)
+https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PIMEDIATV.bo@SD" tvg-logo="https://pimediatv.weebly.com/uploads/1/2/8/7/12877343/published/pigran.png" group-title="🇧🇴 Bolivia",PI MEDIA TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RATelevision.bo@SD" tvg-logo="https://i.imgur.com/dDg3jbh.jpeg" group-title="🇧🇴 Bolivia",RA Television (720p)
+https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioCentro.bo@SD" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" group-title="🇧🇴 Bolivia",Radio Centro (720p)
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
@@ -90,10 +99,10 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo@SD" tvg-logo="https://i.imgur.com/I7yB176.png" group-title="🇧🇴 Bolivia",Red TV Shop (720p)
 https://master.tucableip.com/redtvshop/index.m3u8
 
-#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="🇧🇴 Bolivia",Red Uno (1080p)
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" tvg-logo="https://pxcdn.reduno.com.bo/reduno/102025/1761881380017.webp?cw=800&ch=450&extw=jpg" group-title="🇧🇴 Bolivia",Red Uno (1080p)
 http://190.181.61.93:8000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="🇧🇴 Bolivia",Red Uno La Paz (1080p)
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-logo="https://pxcdn.reduno.com.bo/reduno/102025/1761881380017.webp?cw=800&ch=450&extw=jpg" group-title="🇧🇴 Bolivia",Red Uno La Paz (1080p)
 http://190.181.61.93:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@SD" tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="🇧🇴 Bolivia",RedADvenir TV (360p) [Not 24/7]
@@ -102,7 +111,7 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="🇧🇴 Bolivia",RedADvenir TV KSCE (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="🇧🇴 Bolivia",RTP (Bolivia) (1080p)
+#EXTINF:-1 tvg-id="RTP.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="🇧🇴 Bolivia",RTP (Bolivia) (1080p)
 http://190.181.61.93:8000/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="SABCOVision.bo@SD" tvg-logo="https://i.imgur.com/1psliIs.jpeg" group-title="🇧🇴 Bolivia",SABCO Vision (720p)
@@ -123,7 +132,7 @@ https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="🇧🇴 Bolivia",TELE 6 (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TigoSports.bo@SD" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="🇧🇴 Bolivia",Tigo Sports (Bolivia) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TigoSports.bo@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="🇧🇴 Bolivia",Tigo Sports (Bolivia) (720p) [Geo-blocked]
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 
 #EXTINF:-1 tvg-id="TLEstrella.bo@SD" group-title="🇧🇴 Bolivia",TL Estrella (720p)
@@ -137,9 +146,6 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 
 #EXTINF:-1 tvg-id="TVOFF.bo@SD" tvg-logo="https://i.imgur.com/vBe1GgI.png" group-title="🇧🇴 Bolivia",TV OFF (1080p)
 https://edge.enhdtv.com/tvoff/index.m3u8
-
-#EXTINF:-1 tvg-id="TVShowOruro.bo@SD" tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="🇧🇴 Bolivia",TV Show Oruro (720p)
-http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVUniversitaria.bo@SD" tvg-logo="https://i.imgur.com/p5IqKnB.png" group-title="🇧🇴 Bolivia",TV Universitaria (720p)
 http://190.181.61.93:8000/play/a006/index.m3u8
@@ -156,13 +162,13 @@ https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="🇧🇴 Bolivia",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
 
-#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" tvg-logo="https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) (1080p)
 http://190.181.61.93:8000/play/1909/index.m3u8
 
-#EXTINF:-1 tvg-id="Unitel.bo@Cochabamba" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) Cochabamba (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@Cochabamba" tvg-logo="https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) Cochabamba (1080p)
 http://190.181.61.93:8000/play/1913/index.m3u8
 
-#EXTINF:-1 tvg-id="Unitel.bo@LaPaz" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) La Paz (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@LaPaz" tvg-logo="https://integraciones.unitel.bo/v25/resources/unitel/images/png/logo-unitel-2026.png" group-title="🇧🇴 Bolivia",Unitel (Bolivia) La Paz (1080p)
 http://190.181.61.93:8000/play/1910/index.m3u8
 
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="🇧🇴 Bolivia",Univalle Television (1080p)

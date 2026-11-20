@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.576879
+  Fecha: 2026-11-20 22:19:33.415056
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -359,7 +359,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3yeGDTP.png
 URL: https://cloudvideo.servers10.com:8081/8004/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 1 Mar Menor Torre Pacheco (1080p)
 Categoría: 🇪🇸 España
@@ -394,7 +394,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
@@ -443,7 +443,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9RoBASf.png
 URL: http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Coin TV (1080p)
 Categoría: 🇪🇸 España
@@ -1220,6 +1220,13 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png
 URL: https://ignac16.github.io/voxel-tv-streams/neox.mpd
+Estado: FALLA
+---
+Nombre: Nickelodeon (Spain)
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/E84jnP8.png
+URL: http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8
 Estado: FALLA
 ---
 Nombre: Nickelodeon (Spain) HD (1080p)
@@ -2184,7 +2191,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 311
-  Funcionan: 149
-  Fallan: 162
+  Total de streams: 312
+  Funcionan: 148
+  Fallan: 164
 ==================================================

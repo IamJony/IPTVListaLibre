@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.576179
+  Fecha: 2026-11-20 22:19:33.414223
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -126,7 +126,7 @@ Estado: FUNCIONA
 Nombre: ATV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/eUzYZfg.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png
 URL: http://190.93.224.42/ATV/index.m3u8
 Estado: FUNCIONA
 ---
@@ -140,7 +140,7 @@ Estado: FUNCIONA
 Nombre: ATV+ (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/fY9256H.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png
 URL: http://45.171.108.253:8888/ATV/index.m3u8
 Estado: FUNCIONA
 ---
@@ -156,7 +156,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bORM4rt.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Bethel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -245,7 +245,7 @@ Estado: FUNCIONA
 Nombre: Canal IPe (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png
 URL: http://187.102.210.46/IPE/index.m3u8
 Estado: FALLA
 ---
@@ -457,7 +457,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zcehR4M.png
 URL: https://video2.lhdserver.es/cableperu/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: JN 19 (720p)
 Categoría: 🇵🇪 Perú
@@ -695,7 +695,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gbjdiLW.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ovacion TV (720p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -714,7 +714,7 @@ Estado: FUNCIONA
 Nombre: Panamericana TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/uQhEDES.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1280px-Logo_Panamericana_2020.png
 URL: http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 Estado: FUNCIONA
 ---
@@ -786,7 +786,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AUoxyzP.png
 URL: https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Onda Digital (1080p)
 Categoría: 🇵🇪 Perú
@@ -861,7 +861,7 @@ Estado: FUNCIONA
 Nombre: RPP TV (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/oBz3CgE.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png
 URL: http://190.93.224.42/RPP/index.m3u8
 Estado: FUNCIONA
 ---
@@ -952,7 +952,7 @@ Estado: FUNCIONA
 Nombre: Telelima (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-Logo: https://i.imgur.com/HzWRvXc.png
+Logo: https://telelima.pe/img/logo.png
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
 Estado: FALLA
 ---
@@ -975,7 +975,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Dzen7sh.png
 URL: http://45.5.57.58:8000/play/a038/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teve Empresa (720p)
 Categoría: 🇵🇪 Perú
@@ -998,7 +998,7 @@ Logo: https://i.imgur.com/VRl8nPZ.png
 URL: http://38.87.224.20:2220/play/a02b/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Top TV (Peru) (240p) [Not 24/7]
+Nombre: Top TV (240p) [Not 24/7]
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tiNvihZ.png
@@ -1017,7 +1017,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AsdBQa3.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Bella Asuncion
 Categoría: 🇵🇪 Perú
@@ -1261,6 +1261,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 179
-  Funcionan: 140
-  Fallan: 39
+  Funcionan: 138
+  Fallan: 41
 ==================================================

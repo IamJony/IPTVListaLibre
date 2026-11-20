@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-19 22:45:26.575932
+  Fecha: 2026-11-20 22:19:33.413932
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -37,7 +37,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
@@ -56,7 +56,7 @@ Estado: FUNCIONA
 Nombre: America Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/rCEu3fM.png
+Logo: https://i.imgur.com/0COKxet.png
 URL: https://america-live.argosworkspace.com/america/index.m3u8
 Estado: FALLA
 ---
@@ -102,6 +102,13 @@ Logo: https://i.imgur.com/mKju6hk.png
 URL: https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Canal Guapa (1080p)
+Categoría: 🇵🇾 Paraguay
+User-Agent: Predeterminado
+Logo: https://canalguapa.tv/guapa-isologo.png
+URL: https://guapa-live.argosworkspace.com/guapa/index.m3u8
+Estado: FALLA
+---
 Nombre: Canal Pro
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
@@ -135,7 +142,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: E40 (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -247,7 +254,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c2rF3SS.png
 URL: https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NPY (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -394,7 +401,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BwRNes1.png
 URL: https://live.enhdtv.com:8081/8060/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SUR TV Itapua
 Categoría: 🇵🇾 Paraguay
@@ -441,7 +448,7 @@ Estado: FALLA
 Nombre: TV Camara (Paraguay) (1080p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/Mfypr0t.png
+Logo: https://i.imgur.com/8Jl0h8F.jpeg
 URL: http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 Estado: FUNCIONA
 ---
@@ -450,7 +457,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cateqjx.jpeg
 URL: https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Unicanal
 Categoría: 🇵🇾 Paraguay
@@ -490,7 +497,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 69
-  Funcionan: 53
-  Fallan: 16
+  Total de streams: 70
+  Funcionan: 48
+  Fallan: 22
 ==================================================

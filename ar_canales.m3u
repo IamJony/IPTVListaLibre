@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-20 22:19:33.407993
+# Fecha: 2026-11-21 21:03:46.922837
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv (608p)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -91,14 +91,14 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar@SD" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="🇦🇷 Argentina",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal4VillaDolores.ar@SD" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="🇦🇷 Argentina",Canal 4 Villa Dolores
-https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="🇦🇷 Argentina",Canal 5 Del Pueblo [Not 24/7]
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="🇦🇷 Argentina",Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5TVChepes.ar@SD" tvg-logo="https://i.imgur.com/AzEqroq.png" group-title="🇦🇷 Argentina",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 
 #EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="🇦🇷 Argentina",Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
@@ -141,9 +141,6 @@ https://nd106.republicaservers.com:4433/c7827.mp4
 
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-logo="https://i.imgur.com/OI97Sgq.png" group-title="🇦🇷 Argentina",Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal20VillaMaria.ar@SD" tvg-logo="https://i.imgur.com/PaQH5JM.png" group-title="🇦🇷 Argentina",Canal 20 Villa Maria (1080p)
-https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="🇦🇷 Argentina",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
@@ -322,11 +319,17 @@ https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.
 #EXTINF:-1 tvg-id="NeoTV.ar@SD" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="🇦🇷 Argentina",Neo TV (Argentina)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="NeoxTV.ar@SD" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="🇦🇷 Argentina",Neox TV [Not 24/7]
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="🇦🇷 Argentina",NET TV (1080p)
 http://45.226.205.96:48000/play/a09p/index.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="🇦🇷 Argentina",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NorteTV.ar@SD" tvg-logo="https://i.imgur.com/jTX2vp0.png" group-title="🇦🇷 Argentina",Norte TV (720p) [Not 24/7]
+https://ntvcanal7.com.ar:81/dash/stream.mpd
 
 #EXTINF:-1 tvg-id="Pakapaka.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png" group-title="🇦🇷 Argentina",Pakapaka (1080p)
 http://138.59.227.20:8000/play/a05t/index.m3u8
@@ -358,11 +361,17 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUP.ar@SD" tvg-logo="https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png" group-title="🇦🇷 Argentina",Radio UP (1080p)
 https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RadioYguazuTV.ar@SD" tvg-logo="https://i.imgur.com/kVi0ICm.png" group-title="🇦🇷 Argentina",Radio Yguazu TV (480p)
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+
 #EXTINF:-1 tvg-id="Radiocanal.ar@SD" tvg-logo="https://i.ibb.co/NNyDWsz/download-8.png" group-title="🇦🇷 Argentina",Radiocanal (1080p)
 http://204.199.3.2/.m3u8
 
 #EXTINF:-1 tvg-id="RTN.ar@SD" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="🇦🇷 Argentina",RTN (Argentina) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
+
+#EXTINF:-1 tvg-id="SanPedroTV.ar@SD" tvg-logo="https://i.imgur.com/UkpXogr.png" group-title="🇦🇷 Argentina",San Pedro TV (1080p) [Not 24/7]
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SantaFeCanal.ar@SD" tvg-logo="https://i.imgur.com/C1mY5X4.png" group-title="🇦🇷 Argentina",Santa Fe Canal (1080p)
 https://canalsantaferts.argtelemax.workers.dev
@@ -403,6 +412,9 @@ https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlis
 #EXTINF:-1 tvg-id="Telemax.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="🇦🇷 Argentina",Telemax (Argentina) (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
+#EXTINF:-1 tvg-id="TIVTelevision.ar@SD" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="🇦🇷 Argentina",TIV Television (720p)
+https://videohd.live:19360/8008/8008.m3u8
+
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷 Argentina",TN (1080p)
 http://158.172.155.130:8000/play/a0dp/index.m3u8
 
@@ -420,9 +432,6 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar@SD" tvg-logo="https://i.imgur.com/4dUvFqa.png" group-title="🇦🇷 Argentina",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
-
-#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="🇦🇷 Argentina",TV Publica Marcos Paz (720p)
-https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="🇦🇷 Argentina",TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8

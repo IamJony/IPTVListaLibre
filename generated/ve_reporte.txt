@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-20 22:19:33.415977
+  Fecha: 2026-11-21 21:03:46.930639
 ==================================================
 
 Nombre: 123TV (480p)
@@ -72,7 +72,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vygOosC.png
 URL: https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 21 Tachira (360p)
 Categoría: 🇻🇪 Venezuela
@@ -86,7 +86,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ew44KOZ.png
 URL: https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Diplomatico
 Categoría: 🇻🇪 Venezuela
@@ -163,7 +163,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg
 URL: https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Isla TV (480p)
 Categoría: 🇻🇪 Venezuela
@@ -191,7 +191,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cCFxyIp.jpg
 URL: https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Tele Tuya (576p)
 Categoría: 🇻🇪 Venezuela
@@ -303,7 +303,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -345,7 +345,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jOroeJZ.png
 URL: https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SportsMax News (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -387,7 +387,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QtRNfaj.png
 URL: https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telesur (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -450,7 +450,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG
 URL: https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tu TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -499,14 +499,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://intervenhosting.net/imagenes/tvmparati.jpg
 URL: https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVS (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J8ztiAN.png
 URL: https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UniTV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 43
-  Fallan: 38
+  Funcionan: 47
+  Fallan: 34
 ==================================================

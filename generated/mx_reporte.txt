@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-20 22:19:33.413085
+  Fecha: 2026-11-21 21:03:46.927568
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -72,7 +72,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/B5UN7C8.png
 URL: http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Az Corazon (720p)
 Categoría: 🇲🇽 México
@@ -807,7 +807,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/123P7dV.png
 URL: https://webprod.sipse.com.mx:8080/show/merida.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -877,7 +877,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1247,6 +1247,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 177
-  Funcionan: 110
-  Fallan: 67
+  Funcionan: 107
+  Fallan: 70
 ==================================================

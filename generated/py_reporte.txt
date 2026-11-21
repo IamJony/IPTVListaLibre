@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-20 22:19:33.413932
+  Fecha: 2026-11-21 21:03:46.928521
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -9,7 +9,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/1fb5BtN/unnamed.png
 URL: https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 5Dias TV
 Categoría: 🇵🇾 Paraguay
@@ -37,21 +37,21 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ymcWecA.png
 URL: https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alt Media TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: America Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -93,7 +93,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 Vision TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -128,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Del Rey TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -142,7 +142,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KOuxdMD.png
 URL: https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: E40 (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -254,7 +254,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/c2rF3SS.png
 URL: https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: NPY (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -282,7 +282,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -345,7 +345,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EMFAFX0.png
 URL: https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RCC TV (1080p) [Not 24/7]
 Categoría: 🇵🇾 Paraguay
@@ -366,7 +366,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Regional TV Yaguaron (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -401,7 +401,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BwRNes1.png
 URL: https://live.enhdtv.com:8081/8060/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SUR TV Itapua
 Categoría: 🇵🇾 Paraguay
@@ -457,7 +457,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cateqjx.jpeg
 URL: https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unicanal
 Categoría: 🇵🇾 Paraguay
@@ -478,7 +478,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Co3YrU0.png
 URL: https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Venus Media (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -498,6 +498,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 70
-  Funcionan: 48
-  Fallan: 22
+  Funcionan: 46
+  Fallan: 24
 ==================================================

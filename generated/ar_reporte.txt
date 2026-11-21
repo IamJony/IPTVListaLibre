@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-20 22:19:33.407969
+  Fecha: 2026-11-21 21:03:46.922818
 ==================================================
 
 Nombre: 5tv (608p)
@@ -247,7 +247,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZKSnGfw.png
 URL: https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 5 Del Pueblo [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -268,7 +268,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AzEqroq.png
 URL: https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 6 Posadas (1080p)
 Categoría: 🇦🇷 Argentina
@@ -415,7 +415,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PaQH5JM.png
 URL: https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 21 TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -912,7 +912,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: NET TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -933,7 +933,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jTX2vp0.png
 URL: https://ntvcanal7.com.ar:81/dash/stream.mpd
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Pakapaka (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1031,7 +1031,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kVi0ICm.png
 URL: https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radiocanal (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1066,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/UkpXogr.png
 URL: https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Santa Fe Canal (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1227,7 +1227,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gsgXGEj.png
 URL: https://videohd.live:19360/8008/8008.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TN (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1276,7 +1276,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CRmY4Oi.png
 URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Solidaria (576p)
 Categoría: 🇦🇷 Argentina
@@ -1394,6 +1394,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 198
-  Funcionan: 151
-  Fallan: 47
+  Funcionan: 154
+  Fallan: 44
 ==================================================

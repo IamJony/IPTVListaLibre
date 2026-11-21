@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - MX
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-20 22:19:33.413089
+# Fecha: 2026-11-21 21:03:46.927571
 
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="🇲🇽 México",8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -17,9 +17,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaTV.mx@SD" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="🇲🇽 México",Antena TV (1080p)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="🇲🇽 México",Az Cinema (1080p)
-http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 
 #EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="🇲🇽 México",Az Corazon (720p)
 http://200.115.120.1:8000/play/ca020/index.m3u8
@@ -210,9 +207,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-id="SICOMTelevision.mx@XHPBZCTDT" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="🇲🇽 México",SICOM Television XHPBZC-TDT (720p) [Not 24/7]
 https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SIPSETV81.mx@SD" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="🇲🇽 México",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-
 #EXTINF:-1 tvg-id="SIPSETVCUN81.mx@SD" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="🇲🇽 México",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
@@ -221,9 +215,6 @@ https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="🇲🇽 México",Sky Sports 1 (1080p)
 http://45.228.234.9:8000/play/a06b/index.m3u8
-
-#EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="🇲🇽 México",Tele UV [Not 24/7]
-https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="🇲🇽 México",Tele Yucatan (1080p) [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8

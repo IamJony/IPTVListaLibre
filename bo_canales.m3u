@@ -1,13 +1,10 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - BO
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-20 22:19:33.408968
+# Fecha: 2026-11-21 21:03:46.923716
 
 #EXTINF:-1 tvg-id="AmitelTV.bo@SD" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="AsContenidos.bo@SD" tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png" group-title="🇧🇴 Bolivia",As Contenidos (720p)
-https://master.tucableip.com/ascontenido/index.m3u8
 
 #EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo@SD" tvg-logo="https://canales.asplurtv.com/logo_asitv.png" group-title="🇧🇴 Bolivia",Asi es mi Pueblo TV (720p)
 http://190.181.61.93:8000/play/a00g/index.m3u8
@@ -72,23 +69,14 @@ https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
 #EXTINF:-1 tvg-id="PIMEDIATV.bo@SD" tvg-logo="https://pimediatv.weebly.com/uploads/1/2/8/7/12877343/published/pigran.png" group-title="🇧🇴 Bolivia",PI MEDIA TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RATelevision.bo@SD" tvg-logo="https://i.imgur.com/dDg3jbh.jpeg" group-title="🇧🇴 Bolivia",RA Television (720p)
-https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RadioCentro.bo@SD" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" group-title="🇧🇴 Bolivia",Radio Centro (720p)
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioClasicaTV.bo@SD" tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" group-title="🇧🇴 Bolivia",Radio Clasica TV (720p)
-https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" group-title="🇧🇴 Bolivia",Radio Kollasuyo (720p)
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD" tvg-logo="https://i.imgur.com/yzSNWZ3.png" group-title="🇧🇴 Bolivia",Radio Mega TV Amazonia (720p)
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTVMega.bo@SD" tvg-logo="https://i.imgur.com/pwRhOHB.png" group-title="🇧🇴 Bolivia",Radio TV Mega (720p)
-https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD" tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" group-title="🇧🇴 Bolivia",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8
@@ -120,9 +108,6 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTINF:-1 tvg-id="SigloXXITV.bo@SD" tvg-logo="https://i.imgur.com/d1N2WzD.png" group-title="🇧🇴 Bolivia",Siglo XXI TV (576p)
 http://190.181.61.93:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="SPCCanal15.bo@SD" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" group-title="🇧🇴 Bolivia",SPC Canal 15 (1080p)
-https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SucremantaTV.bo@SD" tvg-logo="https://i.imgur.com/noN0Yhe.png" group-title="🇧🇴 Bolivia",Sucremanta TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
 
@@ -137,9 +122,6 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/ind
 
 #EXTINF:-1 tvg-id="TLEstrella.bo@SD" group-title="🇧🇴 Bolivia",TL Estrella (720p)
 http://190.181.61.93:8000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-id="TvCarigso.bo@SD" tvg-logo="https://i.imgur.com/nhg1uM9.png" group-title="🇧🇴 Bolivia",Tv Carigso (720p)
-https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVLatina.bo@SD" tvg-logo="https://i.imgur.com/V6wxEdh.png" group-title="🇧🇴 Bolivia",TV Latina (1080p)
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8

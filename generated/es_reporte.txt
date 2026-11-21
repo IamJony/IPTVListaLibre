@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-20 22:19:33.415056
+  Fecha: 2026-11-21 21:03:46.929647
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -135,7 +135,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DyvK28q.png
 URL: https://streaming.28kanala.eus/hls/z.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: 101tv Antequera (720p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -249,11 +249,11 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_
 URL: https://ignac16.github.io/voxel-tv-streams/a3s.mpd
 Estado: FALLA
 ---
-Nombre: AXN (Spain)
+Nombre: AXN (Spain) (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
-URL: http://sultanios.alwaysdata.net/vavo.php?ID=4238619703
+URL: https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
 Estado: FALLA
 ---
 Nombre: AXN (Spain) HD (1080p)
@@ -290,13 +290,6 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 Estado: FUNCIONA
----
-Nombre: AXN Movies (Spain)
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512
-URL: http://sultanios.alwaysdata.net/vavo.php?ID=2493319111
-Estado: FALLA
 ---
 Nombre: Bailen TV (720p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -394,14 +387,14 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -947,7 +940,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Interalmeria TV (1080p)
 Categoría: 🇪🇸 España
@@ -1437,7 +1430,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/o9Ro8TR.png
 URL: https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Rakuten TV Action Movies (1080p)
 Categoría: 🇪🇸 España
@@ -2191,7 +2184,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 312
-  Funcionan: 148
-  Fallan: 164
+  Total de streams: 311
+  Funcionan: 145
+  Fallan: 166
 ==================================================

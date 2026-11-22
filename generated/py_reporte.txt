@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.928521
+  Fecha: 2026-11-22 21:11:49.763804
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -37,7 +37,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
@@ -93,7 +93,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 8 Vision TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -128,7 +128,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Del Rey TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -366,7 +366,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Regional TV Yaguaron (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -478,7 +478,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Co3YrU0.png
 URL: https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Venus Media (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -498,6 +498,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 70
-  Funcionan: 46
-  Fallan: 24
+  Funcionan: 49
+  Fallan: 21
 ==================================================

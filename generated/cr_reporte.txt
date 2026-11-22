@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.925270
+  Fecha: 2026-11-22 21:11:49.760375
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -198,7 +198,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sAYNKJ8.png
 URL: https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Gex TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -338,7 +338,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KYtJp8F.png
 URL: http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TDtv (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -450,7 +450,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KImqYnN.jpeg
 URL: https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: VM Latino (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 51
-  Fallan: 18
+  Funcionan: 49
+  Fallan: 20
 ==================================================

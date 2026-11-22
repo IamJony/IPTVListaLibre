@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.927018
+  Fecha: 2026-11-22 21:11:49.762014
 ==================================================
 
 Nombre: Amigos TV Chiquimula (1080p)
@@ -359,7 +359,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/YXYv8sf/logo-soltv2.png
 URL: https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecosta (Guatemala) (720p)
 Categoría: 🇬🇹 Guatemala
@@ -470,6 +470,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 66
-  Funcionan: 33
-  Fallan: 33
+  Funcionan: 32
+  Fallan: 34
 ==================================================

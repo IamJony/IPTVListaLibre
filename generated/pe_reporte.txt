@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.928807
+  Fecha: 2026-11-22 21:11:49.764147
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -415,7 +415,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Genios TV (1080p)
 Categoría: 🇵🇪 Perú
@@ -499,7 +499,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: L1 (1080p)
 Categoría: 🇵🇪 Perú
@@ -690,11 +690,11 @@ Logo: https://i.imgur.com/3R2emx7.jpg
 URL: https://tv.ondadigital.pe/ondadigital/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Onda TV (Peru) (720p)
+Nombre: Onda TV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gbjdiLW.jpeg
-URL: https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+URL: https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Ovacion TV (720p) [Not 24/7]
@@ -821,7 +821,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -893,6 +893,20 @@ Logo: https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png
 URL: http://38.87.224.19:2220/play/a049/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: SanjuaneraTV (1080p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/QB3tz0d.png
+URL: https://live.obslivestream.com/sanjuanera/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: SelvaTV (1080p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CVgix1C.png
+URL: https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8
+Estado: FALLA
+---
 Nombre: Senal Peru TV (404p) [Not 24/7]
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
@@ -935,6 +949,13 @@ Logo: https://i.imgur.com/zgyNuVE.jpeg
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Sullana TV (1080p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BOqtK0a.png
+URL: https://mundial.cpustream.com:8081/sullanatv/video.m3u8
+Estado: FUNCIONA
+---
 Nombre: Super Canal (Peru) (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
@@ -949,11 +970,11 @@ Logo: https://i.imgur.com/Ug6XNIU.png
 URL: https://live.obslivestream.com/telecolormux/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telelima (720p)
+Nombre: Telelima (1080p)
 Categoría: 🇵🇪 Perú
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+User-Agent: Predeterminado
 Logo: https://telelima.pe/img/logo.png
-URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
+URL: https://live.telelima.net/web/index.m3u8
 Estado: FALLA
 ---
 Nombre: Teleselva (720p)
@@ -968,7 +989,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Tarapoto (1080p)
 Categoría: 🇵🇪 Perú
@@ -1045,7 +1066,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV MAX (720p)
 Categoría: 🇵🇪 Perú
@@ -1136,13 +1157,20 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OcDimHX.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Uranio TV (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/EeNpfIr.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: USIL TV (1080p)
+Categoría: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/9OXF9EK.png
+URL: https://eu1.servers10.com:8081/8162/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: USMPTV (720p)
@@ -1260,7 +1288,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 179
-  Funcionan: 138
-  Fallan: 41
+  Total de streams: 183
+  Funcionan: 139
+  Fallan: 44
 ==================================================

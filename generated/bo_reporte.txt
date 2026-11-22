@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.923711
+  Fecha: 2026-11-22 21:11:49.759094
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -30,7 +30,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Asi es mi Pueblo TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -373,7 +373,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WGkMt2j.png
 URL: http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RedADvenir TV KSCE (360p)
 Categoría: 🇧🇴 Bolivia
@@ -422,7 +422,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/noN0Yhe.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TDT Multimedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -471,7 +471,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhg1uM9.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Culturas (576p)
 Categoría: 🇧🇴 Bolivia
@@ -499,7 +499,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
 URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Universitaria (720p)
 Categoría: 🇧🇴 Bolivia
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 54
-  Fallan: 31
+  Funcionan: 55
+  Fallan: 30
 ==================================================

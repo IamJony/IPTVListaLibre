@@ -2,7 +2,7 @@
   REPORTE UNIFICADO DE CANALES IPTV EN ESPAÑOL
   Países: AR, BO, CL, CO, CR, CU, DO, EC, SV, GQ, GT, HN, MX, NI, PA, PY, PE, PR, ES, UY, VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.931245
+  Fecha: 2026-11-22 21:11:49.767085
 ============================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -241,7 +241,7 @@ País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/DyvK28q.png
 URL: https://streaming.28kanala.eus/hls/z.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: 36 TV Huacho (720p)
 País: 🇵🇪 Perú
@@ -262,27 +262,6 @@ País: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/GzI3RC4.png
 URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
-Estado: FALLA
----
-Nombre: 101tv Cadiz (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/GzI3RC4.png
-URL: https://streaming101tv.es:19360/cadiz/cadiz.m3u8
-Estado: FALLA
----
-Nombre: 101tv Malaga
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/GzI3RC4.png
-URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
-Estado: FALLA
----
-Nombre: 101tv Sevilla
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/GzI3RC4.png
-URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: 123TV (480p)
@@ -458,7 +437,7 @@ País: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Agricultura TV (1080p)
 País: 🇨🇱 Chile
@@ -486,14 +465,14 @@ País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg
 URL: https://stream.aguacatetv.com:3949/hybrid/play.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Aguila TV (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg
 URL: https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ahora TV (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -591,7 +570,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bRH34Rn.png
 URL: http://158.172.155.130:8000/play/a0dn/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Alsacias Television (720p)
 País: 🇭🇳 Honduras
@@ -640,7 +619,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfi9NXL.png
 URL: https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Amaga Television (720p)
 País: 🇨🇴 Colombia
@@ -803,13 +782,6 @@ Logo: https://i.imgur.com/Bt0yGtw.jpeg
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Antena 3 (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png
-URL: https://ignac16.github.io/voxel-tv-streams/a3.mpd
-Estado: FALLA
----
 Nombre: Antena 7 (480p)
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -885,7 +857,7 @@ País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Arabi TV (1080p)
 País: 🇪🇸 España
@@ -893,13 +865,6 @@ User-Agent: Predeterminado
 Logo: https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png
 URL: https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 Estado: FUNCIONA
----
-Nombre: Aragon TV Internacional (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512
-URL: https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-Estado: FALLA
 ---
 Nombre: Arbol de Vida TV (240p) [Not 24/7]
 País: 🇸🇻 El Salvador
@@ -941,7 +906,7 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png
 URL: https://master.tucableip.com/ascontenido/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Asi es mi Pueblo TV (720p)
 País: 🇧🇴 Bolivia
@@ -1172,7 +1137,7 @@ País: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/B5UN7C8.png
 URL: http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Az Corazon (720p)
 País: 🇲🇽 México
@@ -1307,13 +1272,6 @@ Logo: https://i.imgur.com/2Sekew2.png
 URL: https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Barca TV
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/d8x7c8i.png
-URL: https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-Estado: FALLA
----
 Nombre: Barinas TV (720p) [Not 24/7]
 País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
@@ -1439,13 +1397,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/lhglEUP.png
 URL: https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Biosfera TV (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/khytcgd.png
-URL: https://tvdatta.com:3021/live/biosferatvlive.m3u8
-Estado: FALLA
 ---
 Nombre: bitMe (1080p)
 País: 🇲🇽 México
@@ -1578,7 +1529,7 @@ País: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tsajuxi.png
 URL: https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Buendia TV
 País: 🇭🇳 Honduras
@@ -1755,13 +1706,6 @@ Logo: https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png
 URL: https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 1 Mar Menor Torre Pacheco (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/MQOwCdZ.png
-URL: https://directo.tuwebtv.es/canal1.m3u8
-Estado: FALLA
----
 Nombre: Canal 1 Nuble (1080p)
 País: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -1916,13 +1860,6 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/
 URL: http://168.228.44.241:9999/play/a042/index.m3u8
 Estado: FALLA
 ---
-Nombre: Canal 4 Catalunya (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/tQh8C3s.png
-URL: https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
-Estado: FALLA
----
 Nombre: Canal 4 Esquel (720p)
 País: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -1937,19 +1874,12 @@ Logo: https://i.imgur.com/qB6I274.png
 URL: https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal 4 Mallorca (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/tQh8C3s.png
-URL: https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
-Estado: FALLA
----
 Nombre: Canal 4 Mancha Centro (720p) [Not 24/7]
 País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 4 Posadas (1080p)
 País: 🇦🇷 Argentina
@@ -1984,7 +1914,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZKSnGfw.png
 URL: https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 (Mexico) (1080p)
 País: 🇲🇽 México
@@ -2166,7 +2096,7 @@ País: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SVj5fjg.jpg
 URL: https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 8 Catacaos (720p) [Not 24/7]
 País: 🇵🇪 Perú
@@ -2222,7 +2152,7 @@ País: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5e1d8k.png
 URL: https://video2.lhdserver.es/canal9cosespu/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 9 La Union (1080p)
 País: 🇸🇻 El Salvador
@@ -2306,7 +2236,7 @@ País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ojQ6wzX.png
 URL: https://ventdelnord.tv:8080/escala/directe.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 10 Goya (1080p)
 País: 🇦🇷 Argentina
@@ -2363,6 +2293,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/UhEW8cj.png
 URL: http://45.228.234.9:8000/play/a06s/index.m3u8
 Estado: FUNCIONA
+---
+Nombre: Canal 12 Valledupar (1080p)
+País: 🇨🇴 Colombia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/2xqMZrE.png
+URL: http://181.78.8.199:8000/play/a0e4/index.m3u8
+Estado: FALLA
 ---
 Nombre: Canal 12 Venado Tuerto (1080i)
 País: 🇦🇷 Argentina
@@ -2530,7 +2467,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PaQH5JM.png
 URL: https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 21 Huancayo (720p)
 País: 🇵🇪 Perú
@@ -2693,6 +2630,13 @@ Logo: https://i.imgur.com/l9kDNld.jpeg
 URL: http://45.5.118.152:8000/play/a08z/index.m3u8
 Estado: FALLA
 ---
+Nombre: Canal 63 TV Catolico Corinto (720p)
+País: 🇸🇻 El Salvador
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/SJigdlY.jpeg
+URL: http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Canal 65 (1080p) [Not 24/7]
 País: 🇸🇻 El Salvador
 User-Agent: Predeterminado
@@ -2819,13 +2763,6 @@ Logo: https://i.imgur.com/S4xqZgV.png
 URL: https://canal.mediaserver.com.co/live/cinedios.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal Coin TV (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/3QPJIpa.png
-URL: https://canalcoin.garjim.es/hls/directo.m3u8
-Estado: FALLA
----
 Nombre: Canal Congreso (1080p)
 País: 🇨🇴 Colombia
 User-Agent: Predeterminado
@@ -2888,13 +2825,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/JO5yuNC.png
 URL: https://s.emisoras.tv:8081/dtv/index.m3u8
 Estado: FUNCIONA
----
-Nombre: Canal Extremadura (576p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png
-URL: https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-Estado: FALLA
 ---
 Nombre: Canal Guapa (1080p)
 País: 🇵🇾 Paraguay
@@ -2966,11 +2896,11 @@ Logo: https://i.imgur.com/GnY6dNT.png
 URL: https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal Luz Television (1080p)
+Nombre: Canal Luz Television (720p)
 País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/H3JzQ1G.jpg
-URL: https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
+URL: https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: CANAL M Television (720p)
@@ -3120,13 +3050,6 @@ Logo: https://i.imgur.com/5PhTaHp.png
 URL: http://38.134.250.110:8000/play/a00i/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Canal Reus TV (720p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/HYRc9sJ.png
-URL: https://liveingesta318.cdnmedia.tv/canalreustvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
----
 Nombre: Canal San Roque (1080p) [Not 24/7]
 País: 🇪🇸 España
 User-Agent: Predeterminado
@@ -3244,7 +3167,7 @@ País: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5QKQ2E.png
 URL: https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal TV3 (720p) [Not 24/7]
 País: 🇨🇴 Colombia
@@ -3280,13 +3203,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/Nr4muMP.jpeg
 URL: https://live.amelbatv.co:81/womtvlive/index.m3u8
 Estado: FUNCIONA
----
-Nombre: CanalCosta (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/ap4FmYb.png
-URL: https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Canalda 26 HD [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -3447,7 +3363,7 @@ País: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CB TV Michoacan (720p)
 País: 🇲🇽 México
@@ -3524,7 +3440,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cetelmon TV (404p)
 País: 🇪🇸 España
@@ -3580,7 +3496,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: China Channel (720p)
 País: 🇨🇱 Chile
@@ -3629,7 +3545,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iHjdckl.png
 URL: https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cielo TV (1080p)
 País: 🇩🇴 Rep. Dominicana
@@ -3762,7 +3678,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MpTgJMJ.png
 URL: https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Club TV (720p)
 País: 🇨🇱 Chile
@@ -3897,13 +3813,6 @@ Logo: https://i.imgur.com/9k0yAxj.jpeg
 URL: https://stream.blserver.cl/hls/ctv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Condavision (1080p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/dlrazec.png
-URL: https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-Estado: FALLA
----
 Nombre: Conecta2TV (720p) [Not 24/7]
 País: 🇵🇪 Perú
 User-Agent: Predeterminado
@@ -3993,14 +3902,14 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/422_Cooperativa.png
 URL: https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Coral 39 (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/k6cv9A9.png
 URL: https://hls.tvabierta.net/hls/039.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Coral TV (720p)
 País: 🇧🇴 Bolivia
@@ -4042,21 +3951,21 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmos Tv SD
 País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png
 URL: https://canaletaplus.com:3922/live/cosmoslive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmos TV (720p)
 País: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dAMyExY.jpg
 URL: https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cosmovision (720p)
 País: 🇨🇴 Colombia
@@ -4133,7 +4042,7 @@ País: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cristovision (720p)
 País: 🇨🇴 Colombia
@@ -4177,19 +4086,12 @@ Logo: https://i.imgur.com/ki9ipMU.png
 URL: https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Cubavision Internacional (720p) [Not 24/7]
+Nombre: Cubavision Internacional (1080p)
 País: 🇨🇺 Cuba
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+User-Agent: Predeterminado
 Logo: https://i.imgur.com/0ZHm9f6.png
-URL: https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-Estado: FALLA
----
-Nombre: Cugat TV (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/0WQC25N.png
-URL: https://liveingesta318.cdnmedia.tv/cugatcatlive/smil:rtmp01.smil/playlist.m3u8
-Estado: FALLA
+URL: http://90.183.52.46:4000/play/a04a/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Cultura 24 (720p)
 País: 🇵🇪 Perú
@@ -4343,7 +4245,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/THk9ARS.png
 URL: http://158.172.155.130:8000/play/a09y/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Desde El Sur TV
 País: 🇺🇾 Uruguay
@@ -4441,7 +4343,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://181.78.8.199:8000/play/a0dn/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Channel Latin America Mexico (720p)
 País: 🇦🇷 Argentina
@@ -4462,7 +4364,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg
 URL: http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Disney Channel Latin America South
 País: 🇦🇷 Argentina
@@ -4623,7 +4525,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V2ldYVd.jpg
 URL: https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Ecos Canal 57 (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -4708,13 +4610,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/KvsrWyE.png
 URL: https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: El 9 TV (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/QyW5VyW.png
-URL: https://liveingesta318.cdnmedia.tv/9tvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
 ---
 Nombre: El 15 TV (720p) [Not 24/7]
 País: 🇸🇻 El Salvador
@@ -5064,14 +4959,14 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
 URL: http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ESPN Premium HD (1080p)
 País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png
 URL: http://158.172.155.130:8000/play/a0ao/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Esport3 (1080p) [Geo-blocked]
 País: 🇪🇸 España
@@ -5274,7 +5169,7 @@ País: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uqTH7m5.jpg
 URL: https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: FAP TV (720p)
 País: 🇧🇴 Bolivia
@@ -5316,13 +5211,6 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg
 URL: https://streamunoapp.com:3511/live/femeninatvlive.m3u8
-Estado: FALLA
----
-Nombre: Fibwi (1080p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/4vcGzcC.png
-URL: https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 Estado: FALLA
 ---
 Nombre: Fiesta TV
@@ -5491,7 +5379,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/byL1zCV.jpeg
 URL: https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: GalaxiATeVe (360p)
 País: 🇩🇴 Rep. Dominicana
@@ -5526,7 +5414,7 @@ País: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sAYNKJ8.png
 URL: https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Garage TV Latin America
 País: 🇦🇷 Argentina
@@ -5610,7 +5498,7 @@ País: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Gwz78jZ.png
 URL: https://pistream.ddns.net/hls/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Girasol TV (1080i)
 País: 🇭🇳 Honduras
@@ -5934,13 +5822,6 @@ Logo: https://i.imgur.com/PevmfqK.png
 URL: https://tv.huachotv.com/stream.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Huelva TV (720p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/hEnpvKj.png
-URL: https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
-Estado: FALLA
----
 Nombre: ICN Digital
 País: 🇭🇳 Honduras
 User-Agent: Predeterminado
@@ -6009,7 +5890,7 @@ País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Impact Channel (1080p)
 País: 🇨🇷 Costa Rica
@@ -6226,7 +6107,7 @@ País: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4EbHIvf.png
 URL: https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Jehova Nissi (720p)
 País: 🇬🇹 Guatemala
@@ -6368,13 +6249,6 @@ Logo: https://i.imgur.com/S79uof0.png
 URL: https://s.emisoras.tv:8081/kerussotv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Kidz (1080p) [Geo-blocked]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/iBgsCOV.png
-URL: https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
-Estado: FALLA
----
 Nombre: KinoKazka (1080p)
 País: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -6394,7 +6268,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ahBYv4x.png
 URL: https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Kpop Mix (720p)
 País: 🇦🇷 Argentina
@@ -6641,19 +6515,12 @@ Logo: https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg
 URL: https://streamunoapp.com:3983/live/larutatvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: La Sexta (1080p)
+Nombre: La Septima (1080p)
 País: 🇪🇸 España
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/aKV5voq.png
-URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
-Estado: FALLA
----
-Nombre: La Sexta HD (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/aKV5voq.png
-URL: https://ignac16.github.io/voxel-tv-streams/la6.mpd
-Estado: FALLA
+Logo: https://static.wikia.nocookie.net/logopedia/images/8/8d/La_S%C3%A9ptima_2026_II.svg/revision/latest?cb=20261106050649
+URL: https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd
+Estado: FUNCIONA
 ---
 Nombre: La Sultana del Este TV (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -6696,13 +6563,6 @@ User-Agent: Predeterminado
 Logo: https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg
 URL: https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 Estado: FUNCIONA
----
-Nombre: La Urban TV (1080p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/hythjEn.png
-URL: https://urbanrevolution.es:8443/live/TV/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: La Voz de Jesus HD (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -6877,7 +6737,7 @@ País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9E0DTY.jpeg
 URL: https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lider TV (Peru) (720p)
 País: 🇵🇪 Perú
@@ -6947,13 +6807,6 @@ País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Kr3U3Ub.png
 URL: https://streamer1.streamhost.org/salive/logosH/master.m3u8
-Estado: FUNCIONA
----
-Nombre: Logos TV Estudio (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/qkHrttj.png
-URL: https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Logos TV Kids (720p) [Not 24/7]
@@ -6961,13 +6814,6 @@ País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Kr3U3Ub.png
 URL: https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-Estado: FUNCIONA
----
-Nombre: Logos TV Salud (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/qkHrttj.png
-URL: https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Loreto TV (720p)
@@ -7094,7 +6940,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg
 URL: https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: MakroDigital Television (1080p)
 País: 🇪🇨 Ecuador
@@ -7262,7 +7108,7 @@ País: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rlFAtnO.jpeg
 URL: http://181.119.97.124:8080/play/a00w/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Maxivision TV (720p)
 País: 🇬🇹 Guatemala
@@ -7374,7 +7220,7 @@ País: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JqaW7Ei.png
 URL: https://hdbox.chunklistv.com/live?stream=megabox
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Meganoticias Ahora (1080p)
 País: 🇨🇱 Chile
@@ -7530,13 +7376,6 @@ Logo: https://i.ibb.co/Vj5nNbF/FAV-TV-LOGO-BLANCO.png
 URL: https://mp.panelchs.com:1936/8044/8044/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Mirame TV (360p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/LK4pLgT.png
-URL: https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-Estado: FALLA
----
 Nombre: Mision ELTV (720p)
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -7570,13 +7409,6 @@ País: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4FPaLYo.jpeg
 URL: http://45.167.2.101:8000/play/a0r7/index.m3u8
-Estado: FALLA
----
-Nombre: Moca Vision Canal 48 (720p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-Logo: https://i.imgur.com/vclDXV7.jpeg
-URL: https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8
 Estado: FALLA
 ---
 Nombre: Molahits TV (720p)
@@ -7922,20 +7754,6 @@ Logo: https://i.imgur.com/bS5JtYX.jpeg
 URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Neox (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png
-URL: https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
-Estado: FALLA
----
-Nombre: Neox HD (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png
-URL: https://ignac16.github.io/voxel-tv-streams/neox.mpd
-Estado: FALLA
----
 Nombre: Neox TV [Not 24/7]
 País: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -8067,7 +7885,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: No disponible
 URL: https://edge.essastream.com/noticias16/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Noticias RCN (720p)
 País: 🇨🇴 Colombia
@@ -8237,13 +8055,6 @@ Logo: https://i.imgur.com/2emMRvf.jpeg
 URL: https://v4.tustreaming.cl/retroplaytv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Olot TV (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/u8wO4Lf.png
-URL: https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
----
 Nombre: Olympic Channel (1080p) [Geo-blocked]
 País: 🇪🇸 España
 User-Agent: Predeterminado
@@ -8286,11 +8097,11 @@ Logo: https://i.imgur.com/RUIyD9a.png
 URL: https://cnn.hostlagarto.com/ondatv/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Onda TV (Peru) (720p)
+Nombre: Onda TV (Peru) (1080p)
 País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gbjdiLW.jpeg
-URL: https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+URL: https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Onda Valencia TV (720p)
@@ -8340,7 +8151,7 @@ País: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QI3b4HI.png
 URL: https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Oromar TV (1080p)
 País: 🇪🇨 Ecuador
@@ -8410,7 +8221,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg
 URL: https://streamunoapp.com:3255/live/palmartvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Panamericana TV (1080p)
 País: 🇵🇪 Perú
@@ -8438,7 +8249,7 @@ País: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XOJzlfS.png
 URL: http://181.78.8.199:8000/play/a0bt/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Pantalla Clasica EC (512p) [Not 24/7]
 País: 🇪🇨 Ecuador
@@ -8467,20 +8278,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/yd9Dw2G.png
 URL: http://45.170.130.224:8000/play/a032/index.m3u8?hls
 Estado: FUNCIONA
----
-Nombre: Parlamento de Andalucia (576p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/J6h5IQS.png
-URL: http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-Estado: FALLA
----
-Nombre: Parlamento de Navarra (368p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/JnhWxKv.png
-URL: https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-Estado: FALLA
 ---
 Nombre: Parranda Vallenata (720p)
 País: 🇨🇴 Colombia
@@ -8601,13 +8398,6 @@ Logo: https://i.imgur.com/UaQC0l8.jpeg
 URL: https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Pirineus TV (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/8b5znGY.png
-URL: https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
-Estado: FALLA
----
 Nombre: PiuraTV (720p)
 País: 🇵🇪 Perú
 User-Agent: Predeterminado
@@ -8697,7 +8487,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4exfvPt.png
 URL: https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: POP World TV (720p)
 País: 🇪🇸 España
@@ -8720,13 +8510,6 @@ Logo: https://i.imgur.com/UqCogyZ.png
 URL: http://190.108.83.69:8000/play/a070/index.m3u8
 Estado: FALLA
 ---
-Nombre: Popular TV Melilla (1080p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/TbevWX4.png
-URL: http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
-Estado: FALLA
----
 Nombre: Popular TV Murcia (1080p) [Not 24/7]
 País: 🇪🇸 España
 User-Agent: Predeterminado
@@ -8738,15 +8521,15 @@ Nombre: Portal Digital TV (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg
-URL: https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8
-Estado: FALLA
+URL: https://edge.essastream.com/portaldigital/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Portuguesa Television (480p) [Not 24/7]
 País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Power Max Radio TV (720p)
 País: 🇦🇷 Argentina
@@ -8894,13 +8677,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/nO4cV3E.png
 URL: https://redirector.dps.live/hls/pucontv/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Pula TV (1080p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/8gSLJ2f.png
-URL: https://fox.hostlagarto.com:8081/pulatv/index.m3u8
-Estado: FALLA
 ---
 Nombre: Punt 3 (1080p)
 País: 🇪🇸 España
@@ -9271,14 +9047,14 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/870_Radio_Nuble.png
 URL: https://tv.telselec.cl:3376/live/nublefmlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Omega TV (720p) [Not 24/7]
 País: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg
 URL: https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Onda Digital (1080p)
 País: 🇵🇪 Perú
@@ -9418,7 +9194,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/390_Radio_Universal.png
 URL: https://videostream.chileservidores.com:8081/universal/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio Universitaria San Andres (720p)
 País: 🇧🇴 Bolivia
@@ -9432,7 +9208,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio UP (1080p)
 País: 🇦🇷 Argentina
@@ -9880,20 +9656,13 @@ País: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z89GLCw.png
 URL: https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Rubi (720p)
 País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Y4KOypc.jpeg
 URL: https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
-Estado: FALLA
----
-Nombre: Red Social Codi TV (720p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/Yb4lhpG.png
-URL: https://mp.panelchs.com:1936/8040/8040/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: Red TV Shop (720p)
@@ -9936,7 +9705,7 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WGkMt2j.png
 URL: http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RedADvenir TV KSCE (360p)
 País: 🇧🇴 Bolivia
@@ -10204,13 +9973,6 @@ Logo: https://i.imgur.com/tnOGWqL.png
 URL: https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 Estado: FUNCIONA
 ---
-Nombre: RTV El Vendrell (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/x9CgczD.png
-URL: https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:live.smil/playlist.m3u8
-Estado: FALLA
----
 Nombre: RTV Manilva (1080p) [Not 24/7]
 País: 🇪🇸 España
 User-Agent: Predeterminado
@@ -10244,7 +10006,7 @@ País: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WtVpWwI.png
 URL: http://38.134.250.110:8000/play/a01p/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RumbaMix TV (720p)
 País: 🇵🇪 Perú
@@ -10344,6 +10106,13 @@ Logo: https://i.imgur.com/Yd7JOxr.png
 URL: https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: SanjuaneraTV (1080p)
+País: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/QB3tz0d.png
+URL: https://live.obslivestream.com/sanjuanera/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Santa Cruz TV (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -10392,6 +10161,13 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/VShjB3o.png
 URL: https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 Estado: FUNCIONA
+---
+Nombre: SelvaTV (1080p)
+País: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/CVgix1C.png
+URL: https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8
+Estado: FALLA
 ---
 Nombre: Senado TV (576p)
 País: 🇵🇾 Paraguay
@@ -10531,7 +10307,7 @@ País: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/123P7dV.png
 URL: https://webprod.sipse.com.mx:8080/show/merida.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SIPSE TVCUN 8.1 (1080p) [Not 24/7]
 País: 🇲🇽 México
@@ -10601,7 +10377,7 @@ País: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/YXYv8sf/logo-soltv2.png
 URL: https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Solar Television (720p)
 País: 🇵🇪 Perú
@@ -10818,13 +10594,20 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/noN0Yhe.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Sula TV (1080p)
 País: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/v90r5jS.png
 URL: https://restreamer.multicable.hn/memfs/8a0f3d8a-0475-4169-89f2-f8facf11b723.m3u8
+Estado: FUNCIONA
+---
+Nombre: Sullana TV (1080p)
+País: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/BOqtK0a.png
+URL: https://mundial.cpustream.com:8081/sullanatv/video.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Sun Channel (720p)
@@ -10841,12 +10624,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.
 URL: https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
 Estado: FALLA
 ---
-Nombre: Super7FM (720p)
+Nombre: Super7FM
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TJEqwZo.png
-URL: https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
-Estado: FALLA
+URL: https://stream.haislin.com/super7fm/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Super9 TV (480p) [Not 24/7]
 País: 🇲🇽 México
@@ -10860,7 +10643,7 @@ País: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KYtJp8F.png
 URL: http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Super Canal (Dominican Republic) (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -10902,7 +10685,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg
 URL: https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Supermusica TV (720p)
 País: 🇨🇴 Colombia
@@ -10910,13 +10693,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/MiVs42N.jpeg
 URL: https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 Estado: FUNCIONA
----
-Nombre: Supremateve (720p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg
-URL: https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: SUR TV (720p)
 País: 🇨🇱 Chile
@@ -11002,13 +10778,6 @@ Logo: https://i.imgur.com/KisHIpA.png
 URL: https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Tac12
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/XHOVbSu.png
-URL: https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
-Estado: FALLA
----
 Nombre: Talanga TV Canal 39 (480p) [Not 24/7]
 País: 🇭🇳 Honduras
 User-Agent: Predeterminado
@@ -11021,7 +10790,7 @@ País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png
 URL: https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tarima TV (720p)
 País: 🇩🇴 Rep. Dominicana
@@ -11133,7 +10902,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg
 URL: https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Dominicana TV (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -11371,7 +11140,7 @@ País: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QtRNfaj.png
 URL: https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleCibaoHD (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -11429,11 +11198,11 @@ Logo: https://i.imgur.com/BACuUSc.png
 URL: https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Teledeporte
+Nombre: Teledeporte (720p) [Geo-blocked]
 País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/0jxLdjnY/TDP.png
-URL: https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 Estado: FALLA
 ---
 Nombre: Telefe (1080p)
@@ -11448,7 +11217,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
 URL: http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefe Internacional (1080p)
 País: 🇦🇷 Argentina
@@ -11534,11 +11303,11 @@ Logo: https://i.imgur.com/aKHGRyk.png
 URL: http://190.61.47.54:8000/play/a015/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telelima (720p)
+Nombre: Telelima (1080p)
 País: 🇵🇪 Perú
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+User-Agent: Predeterminado
 Logo: https://telelima.pe/img/logo.png
-URL: http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
+URL: https://live.telelima.net/web/index.m3u8
 Estado: FALLA
 ---
 Nombre: Telemadrid HD (1080p)
@@ -11581,7 +11350,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QvKmjvV.png
 URL: https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telemax (Guatemala) (720p) [Not 24/7]
 País: 🇬🇹 Guatemala
@@ -11646,13 +11415,6 @@ Logo: https://i.imgur.com/507tvMY.png
 URL: http://45.228.234.60:8880/play/a05f/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Telemotril (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/4nspLHb.png
-URL: https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
-Estado: FALLA
----
 Nombre: Telenews TV (1080p)
 País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
@@ -11700,7 +11462,7 @@ País: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WZeMZNy.png
 URL: http://38.134.250.110:8000/play/a01q/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telenovisa43 (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -11715,13 +11477,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/Crt3P4N.png
 URL: https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Teleonuba (1080p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/cHMfmO7.png
-URL: https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Telepacifico (1080p)
 País: 🇨🇴 Colombia
@@ -11749,7 +11504,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/s43eFy0.png
 URL: https://angelistic.live:3785/live/tvoficiallive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telerama (240p) [Not 24/7]
 País: 🇪🇨 Ecuador
@@ -11868,7 +11623,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teletica 7 (720p) [Not 24/7]
 País: 🇨🇷 Costa Rica
@@ -11896,7 +11651,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gQev8ST.png
 URL: https://hls.tvabierta.net/hls/029.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televen (1080p)
 País: 🇻🇪 Venezuela
@@ -11911,13 +11666,6 @@ User-Agent: Predeterminado
 Logo: https://imgur.com/ejKctXc.png
 URL: https://soportedvb.click:3413/live/televerlive.m3u8
 Estado: FUNCIONA
----
-Nombre: Televiaducto Canal 3 (720p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-Logo: https://i.imgur.com/M9A6hqR.png
-URL: https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8
-Estado: FALLA
 ---
 Nombre: Televiaducto Canal 14 (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -11987,7 +11735,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mmjbcGr.png
 URL: https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Metropolis 19.1 (1080p) [Not 24/7]
 País: 🇭🇳 Honduras
@@ -12211,7 +11959,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vFwPhPS.png
 URL: http://158.172.155.130:8000/play/a0dp/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TNE (720p) [Not 24/7]
 País: 🇨🇱 Chile
@@ -12219,13 +11967,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/8QbvXva.png
 URL: https://v2.tustreaming.cl/tnetv/index.m3u8
 Estado: FUNCIONA
----
-Nombre: TNE Canal 58 (720p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-Logo: https://i.imgur.com/rSIB579.jpeg
-URL: https://stream.castr.com/5da89a909db964293ad13301/live_85f2053091cd11f1a5e59d9ec0f6bd3a/index.fmp4.m3u8
-Estado: FALLA
 ---
 Nombre: TNI Canal51 (1080p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -12582,7 +12323,7 @@ País: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sI0msrn.png
 URL: https://hdbox.chunklistv.com/live?stream=3abn-nicaragua
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Aire (1080p)
 País: 🇵🇾 Paraguay
@@ -12604,13 +12345,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/H69eLFW.png
 URL: https://s2.tvdatta.com:3687/hybrid/play.m3u8
 Estado: FUNCIONA
----
-Nombre: TV Bergueda (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/U5OVi3L.png
-URL: https://liveingesta318.cdnmedia.tv/berguedatvlive/smil:migracion.smil/playlist.m3u8?DVR=
-Estado: FALLA
 ---
 Nombre: TV BRICS Spanish (1080p)
 País: 🇪🇸 España
@@ -12659,7 +12393,7 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nhg1uM9.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Centro 27.2 HD (720p)
 País: 🇭🇳 Honduras
@@ -12757,13 +12491,6 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://comteco.com.bo/img/upload/canales/lBVfEh.png
 URL: http://15.204.246.24:8080/TVCulturasSD/index.m3u8
-Estado: FALLA
----
-Nombre: TV Daja (1080p) [Not 24/7]
-País: 🇩🇴 Rep. Dominicana
-User-Agent: Predeterminado
-Logo: https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png
-URL: https://edge.essastream.com/dajatv/playlist.m3u8
 Estado: FALLA
 ---
 Nombre: TV Estrella (720p)
@@ -12911,7 +12638,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VXvbNjT.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Mar La Paz (1080p)
 País: 🇲🇽 México
@@ -13016,7 +12743,7 @@ País: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/r3urUnn.png
 URL: https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Publica Fueguina (1080p)
 País: 🇦🇷 Argentina
@@ -13030,14 +12757,7 @@ País: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CRmY4Oi.png
 URL: https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-Estado: FALLA
----
-Nombre: TV Ripolles (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://i.imgur.com/S5KB9DS.png
-URL: https://liveingesta318.cdnmedia.tv/tvripolleslive/smil:live.smil/playlist.m3u8?DVR=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Rivera [Not 24/7]
 País: 🇨🇴 Colombia
@@ -13065,7 +12785,7 @@ País: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
 URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Solidaria (576p)
 País: 🇦🇷 Argentina
@@ -13200,13 +12920,6 @@ Logo: https://i.imgur.com/uPWWtCA.png
 URL: https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: TVCentro Andalucia (720p) [Not 24/7]
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/xQAzYOD.png
-URL: https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
-Estado: FALLA
----
 Nombre: TVE Internacional America (720p)
 País: 🇪🇸 España
 User-Agent: Predeterminado
@@ -13221,12 +12934,12 @@ Logo: https://i.ibb.co/RpKLCMvp/tve.png
 URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TVE Internacional Asia-Oceania
+Nombre: TVE Internacional Asia-Oceania (576p) [Geo-blocked]
 País: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/RpKLCMvp/tve.png
-URL: http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
-Estado: FALLA
+URL: https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]
 País: 🇪🇸 España
@@ -13408,7 +13121,7 @@ País: 🇳🇮 Nicaragua
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FNk6rdz.png
 URL: https://hdbox.chunklistv.com/live?stream=tvone
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TvOro (1080p)
 País: 🇪🇨 Ecuador
@@ -13548,7 +13261,7 @@ País: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BdZGS66.png
 URL: https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Ucayalina de Television (720p)
 País: 🇵🇪 Perú
@@ -13639,7 +13352,7 @@ País: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sjxVdPh.png
 URL: https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: UNAH UTV (360p) [Not 24/7]
 País: 🇭🇳 Honduras
@@ -13716,7 +13429,7 @@ País: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Co3YrU0.png
 URL: https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Uniregion TV (1080p)
 País: 🇨🇱 Chile
@@ -13793,7 +13506,7 @@ País: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OcDimHX.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Univision Latin America (1080p)
 País: 🇲🇽 México
@@ -13844,6 +13557,13 @@ Logo: https://i.imgur.com/V23bltn.png
 URL: https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: USIL TV (1080p)
+País: 🇵🇪 Perú
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/9OXF9EK.png
+URL: https://eu1.servers10.com:8081/8162/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: USMPTV (720p)
 País: 🇵🇪 Perú
 User-Agent: Predeterminado
@@ -13892,13 +13612,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/RvIkFxp.png
 URL: https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Valles Visio (1080p)
-País: 🇪🇸 España
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-Logo: https://www.vallesvisio.cat/wp-content/uploads/cropped-Logo-Valles-Visio-1.png
-URL: https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Vallevision (720p) [Not 24/7]
 País: 🇩🇴 Rep. Dominicana
@@ -14052,7 +13765,7 @@ País: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KImqYnN.jpeg
 URL: https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Vision 6 TV (720p)
 País: 🇪🇸 España
@@ -14144,13 +13857,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/GkSoxhx.png
 URL: https://live.obslivestream.com/vivatv/index.m3u8
 Estado: FUNCIONA
----
-Nombre: Vivamovil (720p)
-País: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/QQviU5m.png
-URL: https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: VivaTV (1080p)
 País: 🇵🇪 Perú
@@ -14703,7 +14409,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 URL: http://45.134.141.161:2200/ARG/TNT/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel International (720p)
 Categoría: 🎬 Cine
@@ -14745,13 +14451,6 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png
 URL: http://170.83.49.66:8083/AMCHD/index.m3u8
-Estado: FUNCIONA
----
-Nombre: Studio Universal Latin America Brazil (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png
-URL: http://187.102.210.46/universo/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: TNT Latin America Brazil (720p) [Geo-blocked]
@@ -14834,33 +14533,33 @@ Estado: FUNCIONA
 
 ============================================================
   RESUMEN GLOBAL
-  Total de streams probados: 2118
-  Funcionan: 1419
-  Fallan:    699
-  Canales únicos: 1419
+  Total de streams probados: 2075
+  Funcionan: 1418
+  Fallan:    657
+  Canales únicos: 1418
 
   DESGLOSE POR PAÍS
-    🇦🇷 Argentina: 154 OK / 44 FAIL (total 198)
-    🇧🇴 Bolivia: 54 OK / 31 FAIL (total 85)
-    🇨🇱 Chile: 169 OK / 27 FAIL (total 196)
-    🇨🇴 Colombia: 94 OK / 33 FAIL (total 127)
-    🇨🇷 Costa Rica: 51 OK / 18 FAIL (total 69)
-    🇨🇺 Cuba: 1 OK / 3 FAIL (total 4)
-    🇩🇴 Rep. Dominicana: 204 OK / 48 FAIL (total 252)
-    🇪🇨 Ecuador: 47 OK / 35 FAIL (total 82)
-    🇸🇻 El Salvador: 14 OK / 25 FAIL (total 39)
+    🇦🇷 Argentina: 146 OK / 52 FAIL (total 198)
+    🇧🇴 Bolivia: 55 OK / 30 FAIL (total 85)
+    🇨🇱 Chile: 171 OK / 25 FAIL (total 196)
+    🇨🇴 Colombia: 92 OK / 36 FAIL (total 128)
+    🇨🇷 Costa Rica: 49 OK / 20 FAIL (total 69)
+    🇨🇺 Cuba: 2 OK / 2 FAIL (total 4)
+    🇩🇴 Rep. Dominicana: 206 OK / 39 FAIL (total 245)
+    🇪🇨 Ecuador: 48 OK / 34 FAIL (total 82)
+    🇸🇻 El Salvador: 14 OK / 26 FAIL (total 40)
     🇬🇶 Guinea Ecuatorial: 1 OK / 1 FAIL (total 2)
-    🇬🇹 Guatemala: 33 OK / 33 FAIL (total 66)
-    🇭🇳 Honduras: 45 OK / 33 FAIL (total 78)
-    🇲🇽 México: 107 OK / 70 FAIL (total 177)
-    🇳🇮 Nicaragua: 4 OK / 16 FAIL (total 20)
+    🇬🇹 Guatemala: 32 OK / 34 FAIL (total 66)
+    🇭🇳 Honduras: 43 OK / 35 FAIL (total 78)
+    🇲🇽 México: 108 OK / 69 FAIL (total 177)
+    🇳🇮 Nicaragua: 7 OK / 13 FAIL (total 20)
     🇵🇦 Panamá: 15 OK / 9 FAIL (total 24)
-    🇵🇾 Paraguay: 46 OK / 24 FAIL (total 70)
-    🇵🇪 Perú: 138 OK / 41 FAIL (total 179)
-    🇵🇷 Puerto Rico: 21 OK / 6 FAIL (total 27)
-    🇪🇸 España: 145 OK / 166 FAIL (total 311)
+    🇵🇾 Paraguay: 49 OK / 21 FAIL (total 70)
+    🇵🇪 Perú: 139 OK / 44 FAIL (total 183)
+    🇵🇷 Puerto Rico: 20 OK / 7 FAIL (total 27)
+    🇪🇸 España: 145 OK / 125 FAIL (total 270)
     🇺🇾 Uruguay: 7 OK / 2 FAIL (total 9)
-    🇻🇪 Venezuela: 47 OK / 34 FAIL (total 81)
+    🇻🇪 Venezuela: 49 OK / 32 FAIL (total 81)
 
-  CINE: 22 OK / 0 FAIL (total 22)
+  CINE: 20 OK / 1 FAIL (total 21)
 ============================================================

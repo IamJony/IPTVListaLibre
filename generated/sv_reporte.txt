@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.926722
+  Fecha: 2026-11-22 21:11:49.761661
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -88,6 +88,13 @@ Logo: https://i.imgur.com/op13ujg.png
 URL: https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
 Estado: FALLA
 ---
+Nombre: Canal 63 TV Catolico Corinto (720p)
+Categoría: 🇸🇻 El Salvador
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/SJigdlY.jpeg
+URL: http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8
+Estado: FUNCIONA
+---
 Nombre: Canal 65 (1080p) [Not 24/7]
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
@@ -100,7 +107,7 @@ Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5QKQ2E.png
 URL: https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El 15 TV (720p) [Not 24/7]
 Categoría: 🇸🇻 El Salvador
@@ -280,7 +287,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 39
+  Total de streams: 40
   Funcionan: 14
-  Fallan: 25
+  Fallan: 26
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CU
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.925566
+  Fecha: 2026-11-22 21:11:49.760615
 ==================================================
 
 Nombre: Canal Caribe (720p)
@@ -18,12 +18,12 @@ Logo: https://i.imgur.com/ki9ipMU.png
 URL: https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Cubavision Internacional (720p) [Not 24/7]
+Nombre: Cubavision Internacional (1080p)
 Categoría: 🇨🇺 Cuba
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+User-Agent: Predeterminado
 Logo: https://i.imgur.com/0ZHm9f6.png
-URL: https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-Estado: FALLA
+URL: http://90.183.52.46:4000/play/a04a/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Prensa Latina TV (1080p)
 Categoría: 🇨🇺 Cuba
@@ -36,6 +36,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 4
-  Funcionan: 1
-  Fallan: 3
+  Funcionan: 2
+  Fallan: 2
 ==================================================

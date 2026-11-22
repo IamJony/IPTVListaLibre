@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-21 21:03:46.924762
+  Fecha: 2026-11-22 21:11:49.760007
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -121,7 +121,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/w5e1d8k.png
 URL: https://video2.lhdserver.es/canal9cosespu/live.m3u8
-Estado: FUNCIONA
+Estado: FALLA
+---
+Nombre: Canal 12 Valledupar (1080p)
+Categoría: 🇨🇴 Colombia
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/2xqMZrE.png
+URL: http://181.78.8.199:8000/play/a0e4/index.m3u8
+Estado: FALLA
 ---
 Nombre: Canal 14 Codazzi (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -562,7 +569,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QI3b4HI.png
 URL: https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Panche Television
 Categoría: 🇨🇴 Colombia
@@ -639,7 +646,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WtVpWwI.png
 URL: http://38.134.250.110:8000/play/a01p/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Salsa Gorda Television (1080p)
 Categoría: 🇨🇴 Colombia
@@ -772,7 +779,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WZeMZNy.png
 URL: http://38.134.250.110:8000/play/a01q/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telepacifico (1080p)
 Categoría: 🇨🇴 Colombia
@@ -896,7 +903,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 127
-  Funcionan: 94
-  Fallan: 33
+  Total de streams: 128
+  Funcionan: 92
+  Fallan: 36
 ==================================================

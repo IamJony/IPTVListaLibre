@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.759094
+  Fecha: 2026-11-24 02:31:53.819931
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -191,7 +191,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/fE3BkcT.png
 URL: http://158.172.155.130:8000/play/a0e7/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Gigavision La Paz (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -289,7 +289,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png
 URL: https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Kollasuyo (720p)
 Categoría: 🇧🇴 Bolivia
@@ -310,7 +310,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/pwRhOHB.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Universitaria San Andres (720p)
 Categoría: 🇧🇴 Bolivia
@@ -352,7 +352,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I7yB176.png
 URL: https://master.tucableip.com/redtvshop/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red Uno (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -373,7 +373,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WGkMt2j.png
 URL: http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RedADvenir TV KSCE (360p)
 Categoría: 🇧🇴 Bolivia
@@ -415,14 +415,14 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8GzjELt.jpeg
 URL: https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Sucremanta TV (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/noN0Yhe.png
 URL: https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TDT Multimedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 55
-  Fallan: 30
+  Funcionan: 58
+  Fallan: 27
 ==================================================

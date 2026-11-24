@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.764673
+  Fecha: 2026-11-24 02:31:53.828027
 ==================================================
 
 Nombre: America TeVe (1080p)
@@ -46,26 +46,12 @@ Logo: https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66
 URL: https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: DNJ TV (720p)
-Categoría: 🇵🇷 Puerto Rico
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/YqTcGJZ.png
-URL: https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
-Estado: FALLA
----
 Nombre: EBN Television WIDP (1080p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4OCptwT.png
 URL: https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
 Estado: FUNCIONA
----
-Nombre: Familia Vision HD (1080p) [Not 24/7]
-Categoría: 🇵🇷 Puerto Rico
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/uqTH7m5.jpg
-URL: https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
-Estado: FALLA
 ---
 Nombre: Faro de Santidad TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -81,18 +67,11 @@ Logo: https://i.imgur.com/i2GnQTq.png
 URL: https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: NG Radio TV (360p)
+Nombre: Master Video (1080p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/KsNI3vQ.jpg
-URL: https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
-Estado: FALLA
----
-Nombre: Nueva Vida FM (720p)
-Categoría: 🇵🇷 Puerto Rico
-User-Agent: Predeterminado
-Logo: https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png
-URL: https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+Logo: https://i.imgur.com/0jj9Vx0.png
+URL: https://eco.streams.ovh:8081/mastervideotv/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Paraiso TV (720p)
@@ -109,12 +88,12 @@ Logo: https://i.imgur.com/nl5vyIw.png
 URL: https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Radio Isla TV (720p)
+Nombre: Radio Isla TV (1080p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png
-URL: https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-Estado: FALLA
+URL: https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8
+Estado: FUNCIONA
 ---
 Nombre: Salvacion TV (720p)
 Categoría: 🇵🇷 Puerto Rico
@@ -142,14 +121,14 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png
 URL: https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WAPA-TV 4.1 (1080p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kqq7tD9.png
 URL: https://wapa.hostless.app/WAPA-TV-4-1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: WAPA-TV 4.2 (720p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -158,11 +137,18 @@ Logo: https://i.imgur.com/5WNBFmp.png
 URL: https://wapa.hostless.app/WAPA-TV-4-2.m3u8
 Estado: FALLA
 ---
-Nombre: WECN (720p)
+Nombre: WCLO 50.1 (720p)
+Categoría: 🇵🇷 Puerto Rico
+User-Agent: Predeterminado
+Logo: https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv
+URL: https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+Estado: FUNCIONA
+---
+Nombre: WECN (1080p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/NYBZBY0.png
-URL: https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+URL: https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8
 Estado: FUNCIONA
 ---
 Nombre: WELU 8.1 (480p) [Not 24/7]
@@ -191,12 +177,12 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rjmGc9p.png
 URL: https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
-  Total de streams: 27
-  Funcionan: 20
-  Fallan: 7
+  Total de streams: 25
+  Funcionan: 19
+  Fallan: 6
 ==================================================

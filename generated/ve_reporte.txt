@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.765675
+  Fecha: 2026-11-24 02:31:53.829066
 ==================================================
 
 Nombre: 123TV (480p)
@@ -23,7 +23,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg
 URL: https://stream.aguacatetv.com:3949/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alcance TV (Venezuela) (720p)
 Categoría: 🇻🇪 Venezuela
@@ -116,7 +116,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png
 URL: http://200.59.191.177:8000/play/a0la/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: eSports Max TV
+Nombre: eSports Max TV (1080p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/OprRgQN.png
@@ -303,7 +303,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -324,7 +324,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iZMDddR.png
 URL: https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ShowVen TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -345,7 +345,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jOroeJZ.png
 URL: https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: SportsMax News (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -506,7 +506,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/J8ztiAN.png
 URL: https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UniTV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -575,6 +575,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 81
-  Funcionan: 49
-  Fallan: 32
+  Funcionan: 52
+  Fallan: 29
 ==================================================

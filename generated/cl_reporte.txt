@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.759411
+  Fecha: 2026-11-24 02:31:53.820382
 ==================================================
 
 Nombre: 13C (1080p)
@@ -79,7 +79,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AVfTwNw.png
 URL: https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AE Radio TV (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -107,7 +107,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/wfi9NXL.png
 URL: https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Antofagasta TV (1080p)
 Categoría: 🇨🇱 Chile
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -240,7 +240,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/mKUQoX7.png
 URL: https://videostream.chileservidores.com:8081/latina/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Local (720p)
 Categoría: 🇨🇱 Chile
@@ -282,14 +282,14 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3tqrImm.png
 URL: https://v2.tustreaming.cl/chiloered/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: China Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -578,6 +578,13 @@ Logo: https://cdn.m3u.cl/logo/1698_La_Comarca_TV.png
 URL: https://v2.tustreaming.cl/lcomarcatv/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: La Granja TV (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/90luGab.png
+URL: https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: La Melinkana TV (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -632,6 +639,13 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/4cg51eE.png
 URL: https://v1.tustreaming.cl/margamargatv/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Mas Radio TV (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://cdn.m3u.cl/logo/1495_Mas_Radio_TV.png
+URL: https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Mega 2 (1080p)
@@ -732,6 +746,20 @@ Logo: https://i.imgur.com/4IjhXKm.png
 URL: https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 Estado: FALLA
 ---
+Nombre: Osorno TV (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/0ELjva6.png
+URL: https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+Estado: FUNCIONA
+---
+Nombre: PalMundo FM (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://cdn.m3u.cl/logo/1803_PalMundo_FM.png
+URL: https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8
+Estado: FUNCIONA
+---
 Nombre: Patagonia Radio TV (720p)
 Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
@@ -800,6 +828,13 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/puWBnP3.png
 URL: https://v2.tustreaming.cl/armoniamovil/index.m3u8
+Estado: FUNCIONA
+---
+Nombre: Radio Bohemia TV (1080p)
+Categoría: 🇨🇱 Chile
+User-Agent: Predeterminado
+Logo: https://cdn.m3u.cl/logo/1776_Radio_Bohemia_TV.png
+URL: https://portalstream.cl:8080/bohemia1.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Radio Chiloe (720p)
@@ -1003,7 +1038,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/416_Sabor_TV.png
 URL: https://v1.tustreaming.cl/sabortv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: San Nicolas TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1213,7 +1248,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tpI0WQH.png
 URL: https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Usach (720p)
 Categoría: 🇨🇱 Chile
@@ -1241,7 +1276,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1325,7 +1360,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/zdv4IF8.png
 URL: https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Via X (576p)
 Categoría: 🇨🇱 Chile
@@ -1379,7 +1414,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 196
-  Funcionan: 171
-  Fallan: 25
+  Total de streams: 201
+  Funcionan: 172
+  Fallan: 29
 ==================================================

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - UY
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-22 21:11:49.765554
+# Fecha: 2026-11-24 02:31:53.828931
 
 #EXTINF:-1 tvg-id="CanalALMA.uy@SD" tvg-logo="https://i.imgur.com/rB7iFUF.jpg" group-title="🇺🇾 Uruguay",Canal ALMA
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
@@ -18,9 +18,6 @@ https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaElegidaTelevision.uy@SD" tvg-logo="https://i.imgur.com/zdrbjDc.png" group-title="🇺🇾 Uruguay",La Elegida Television
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MisionVidaTV.uy@SD" tvg-logo="https://i.imgur.com/8JgBuTm.png" group-title="🇺🇾 Uruguay",Mision Vida TV (1080p)
-https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVUniversalUruguay.uy@SD" tvg-logo="https://i.imgur.com/KD4aZ7W.jpeg" group-title="🇺🇾 Uruguay",TV Universal Uruguay
 https://stream.universal.org.uy/hls/0/stream.m3u8

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.764876
+  Fecha: 2026-11-24 02:31:53.828223
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -219,7 +219,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: AXN (Spain) HD (1080p)
 Categoría: 🇪🇸 España
@@ -380,7 +380,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0WrKIxm.png
 URL: https://secure5.todostreaming.es/live/division-alm.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Luz Television (720p)
 Categoría: 🇪🇸 España
@@ -681,7 +681,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rMAB720.png
 URL: https://cloudvideo.servers10.com:8081/8022/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: EsTuTele (720p)
 Categoría: 🇪🇸 España
@@ -821,7 +821,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KLPSnAT.png
 URL: https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: KinoKazka (1080p)
 Categoría: 🇪🇸 España
@@ -905,7 +905,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hBswXYZ.png
 URL: https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lleida Televisio (1080p)
 Categoría: 🇪🇸 España
@@ -919,14 +919,14 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Kr3U3Ub.png
 URL: https://streamer1.streamhost.org/salive/logosH/master.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Logos TV Kids (720p) [Not 24/7]
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Kr3U3Ub.png
 URL: https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Love The Planet (1080p)
 Categoría: 🇪🇸 España
@@ -1129,7 +1129,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/LQB6G3s.jpg
 URL: https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Popular TV Murcia (1080p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -1206,7 +1206,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/o9Ro8TR.png
 URL: https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Rakuten TV Action Movies (1080p)
 Categoría: 🇪🇸 España
@@ -1549,7 +1549,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/oGvsUH9.png
 URL: https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele 7 (720p)
 Categoría: 🇪🇸 España
@@ -1829,7 +1829,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WpGR7RQ.png
 URL: https://streamingtvi.gestec-video.com/hls/unesd.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Univers TV (720p)
 Categoría: 🇪🇸 España
@@ -1878,26 +1878,26 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Ty7GkoN.png
 URL: https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: XPTV2 (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/74Z8ATB.png
 URL: https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: XPTV US (720p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1m7kDmc.png
 URL: https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 270
-  Funcionan: 145
-  Fallan: 125
+  Funcionan: 139
+  Fallan: 131
 ==================================================

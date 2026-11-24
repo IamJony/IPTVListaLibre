@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.762627
+  Fecha: 2026-11-24 02:31:53.823797
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -37,7 +37,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5nYjRlb.png
 URL: https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AMX Noticias (720p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -436,7 +436,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/aKvPd4g.jpg
 URL: https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Expresa TV (720p)
 Categoría: 🇲🇽 México
@@ -576,7 +576,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -723,7 +723,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XOJzlfS.png
 URL: http://181.78.8.199:8000/play/a0bt/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Popcorn Central (1080p)
 Categoría: 🇲🇽 México
@@ -877,7 +877,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/8MdUH69.jpeg
 URL: https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Yucatan (1080p) [Geo-blocked]
 Categoría: 🇲🇽 México
@@ -1143,7 +1143,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sjxVdPh.png
 URL: https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Unison TV (1080p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1199,7 +1199,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/9ZXCQvy.png
 URL: https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: XHGV-TDT (360p) [Not 24/7]
 Categoría: 🇲🇽 México
@@ -1247,6 +1247,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 177
-  Funcionan: 108
-  Fallan: 69
+  Funcionan: 107
+  Fallan: 70
 ==================================================

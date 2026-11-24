@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PY
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.763804
+  Fecha: 2026-11-24 02:31:53.825503
 ==================================================
 
 Nombre: 4Dmas Noticias TV (1080p) [Not 24/7]
@@ -32,26 +32,26 @@ Logo: https://i.imgur.com/OqfBMGy.png
 URL: http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
 Estado: FUNCIONA
 ---
-Nombre: AGR FM TV
+Nombre: AGR FM TV (720p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/tg6EjTU.png
 URL: https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alcance FM PLAY TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ymcWecA.png
 URL: https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Alt Media TV
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/YkOgWMc.png
 URL: https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Paraguay (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -268,7 +268,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u9umNKp.jpeg
 URL: https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Occidental TV
 Categoría: 🇵🇾 Paraguay
@@ -282,7 +282,7 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6OlfgSQ.png
 URL: https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Paraguay TV (1080p)
 Categoría: 🇵🇾 Paraguay
@@ -393,7 +393,7 @@ Nombre: SNT (720p)
 Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg
-URL: https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525
+URL: https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt
 Estado: FUNCIONA
 ---
 Nombre: Suceso TV (720p) [Not 24/7]
@@ -492,12 +492,12 @@ Categoría: 🇵🇾 Paraguay
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ryzCsvy.jpg
 URL: https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
-Estado: FUNCIONA
+Estado: FALLA
 ---
 
 ==================================================
   RESUMEN
   Total de streams: 70
-  Funcionan: 49
-  Fallan: 21
+  Funcionan: 51
+  Fallan: 19
 ==================================================

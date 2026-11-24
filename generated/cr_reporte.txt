@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.760375
+  Fecha: 2026-11-24 02:31:53.821449
 ==================================================
 
 Nombre: 88 Stereo (720p) [Not 24/7]
@@ -23,7 +23,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/300c1ZH.png
 URL: https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Agrotendencia TV (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -142,7 +142,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CFXZ8j0.png
 URL: https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Enlace (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -338,7 +338,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KYtJp8F.png
 URL: http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TDtv (720p)
 Categoría: 🇨🇷 Costa Rica
@@ -359,7 +359,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/m3xu6Ms.png
 URL: https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TeleMas (720p) [Not 24/7]
 Categoría: 🇨🇷 Costa Rica
@@ -415,7 +415,7 @@ Categoría: 🇨🇷 Costa Rica
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7HbISMV.png
 URL: http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Sur Canal 14 (1080p)
 Categoría: 🇨🇷 Costa Rica
@@ -491,6 +491,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 69
-  Funcionan: 49
-  Fallan: 20
+  Funcionan: 52
+  Fallan: 17
 ==================================================

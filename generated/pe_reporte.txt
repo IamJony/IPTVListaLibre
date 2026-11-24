@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - PE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-22 21:11:49.764147
+  Fecha: 2026-11-24 02:31:53.827409
 ==================================================
 
 Nombre: 36 TV Huacho (720p)
@@ -51,7 +51,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/22ebHAX.jpeg
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Internacional (720p)
 Categoría: 🇵🇪 Perú
@@ -121,7 +121,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/1eB9roP.png
 URL: https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: ATV (Peru) (1080p)
 Categoría: 🇵🇪 Perú
@@ -207,7 +207,7 @@ Logo: https://i.imgur.com/stvzqzd.png
 URL: https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Cadena TV SD
+Nombre: Cadena TV SD (720p)
 Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/stvzqzd.png
@@ -604,7 +604,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0B04qgM.png
 URL: https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Miel TV (720p)
 Categoría: 🇵🇪 Perú
@@ -821,7 +821,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PswowQP.png
 URL: https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: RadioTV Oriente (720p)
 Categoría: 🇵🇪 Perú
@@ -905,7 +905,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CVgix1C.png
 URL: https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Senal Peru TV (404p) [Not 24/7]
 Categoría: 🇵🇪 Perú
@@ -989,7 +989,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CI4CNgL.jpeg
 URL: https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Tarapoto (1080p)
 Categoría: 🇵🇪 Perú
@@ -1038,7 +1038,7 @@ Categoría: 🇵🇪 Perú
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/AsdBQa3.png
 URL: https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Bella Asuncion
 Categoría: 🇵🇪 Perú
@@ -1289,6 +1289,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 183
-  Funcionan: 139
-  Fallan: 44
+  Funcionan: 142
+  Fallan: 41
 ==================================================

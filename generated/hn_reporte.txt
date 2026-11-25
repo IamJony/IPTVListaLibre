@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.823483
+  Fecha: 2026-11-25 00:04:14.986318
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -410,13 +410,6 @@ Logo: https://i.imgur.com/vzjqAZh.jpg
 URL: https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
 Estado: FALLA
 ---
-Nombre: Telecadena 7 y 4 (576p)
-Categoría: 🇭🇳 Honduras
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/PTN7fCa.png
-URL: http://45.167.2.101:8000/play/a07n/index.m3u8
-Estado: FALLA
----
 Nombre: Teleceiba (1080p)
 Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
@@ -464,7 +457,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QaocW5x.png
 URL: https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Television Olanchana (1080p)
 Categoría: 🇭🇳 Honduras
@@ -506,7 +499,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bcfmqHb.png
 URL: https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Copan (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -534,7 +527,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/V9Fpd3Y.png
 URL: http://45.166.93.156:9999/play/a0jo/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VTV (Honduras) (480p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -553,7 +546,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 78
-  Funcionan: 44
-  Fallan: 34
+  Total de streams: 77
+  Funcionan: 41
+  Fallan: 36
 ==================================================

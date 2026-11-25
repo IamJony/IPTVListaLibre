@@ -1,14 +1,14 @@
 ==================================================
   REPORTE DE CANALES IPTV - PR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.828027
+  Fecha: 2026-11-25 00:04:14.989624
 ==================================================
 
-Nombre: America TeVe (1080p)
+Nombre: Boricua TV (1080p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
-Logo: https://i.imgur.com/K9o3mLP.png
-URL: https://live.gideo.video/americateve2/master.m3u8
+Logo: https://www.boricuatv.net/uploads/8/3/9/1/83918842/published/1468328426.png?1496069545
+URL: https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Buena TV (1080p)
@@ -30,7 +30,7 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: CDM Internacional (480p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
@@ -116,6 +116,13 @@ Logo: https://i.imgur.com/Crt3P4N.png
 URL: https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 Estado: FUNCIONA
 ---
+Nombre: The Retro Channel (1080p) [Not 24/7]
+Categoría: 🇵🇷 Puerto Rico
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/t3i1HtE.jpg
+URL: https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Triunfo 96.9 FM (360p)
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
@@ -144,18 +151,18 @@ Logo: https://publicfiles.fcc.gov/api/manager/download/entity/logo/3255/tv
 URL: https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 Estado: FUNCIONA
 ---
-Nombre: WECN (1080p)
-Categoría: 🇵🇷 Puerto Rico
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/NYBZBY0.png
-URL: https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8
-Estado: FUNCIONA
----
 Nombre: WELU 8.1 (480p) [Not 24/7]
 Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/42UdwD0.png
 URL: https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+Estado: FUNCIONA
+---
+Nombre: WIMN-TV (1080p) [Not 24/7]
+Categoría: 🇵🇷 Puerto Rico
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/5ntmgEg.png
+URL: https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8
 Estado: FUNCIONA
 ---
 Nombre: WIPR-TV 6.1 (1080p)
@@ -177,12 +184,12 @@ Categoría: 🇵🇷 Puerto Rico
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/rjmGc9p.png
 URL: https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 
 ==================================================
   RESUMEN
-  Total de streams: 25
-  Funcionan: 19
-  Fallan: 6
+  Total de streams: 26
+  Funcionan: 22
+  Fallan: 4
 ==================================================

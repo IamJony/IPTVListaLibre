@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - SV
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.822907
+  Fecha: 2026-11-25 00:04:14.985346
 ==================================================
 
 Nombre: Agape TV (720p)
@@ -38,13 +38,6 @@ User-Agent: Predeterminado
 Logo: https://i.imgur.com/mdfiWG9.png
 URL: https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 Estado: FUNCIONA
----
-Nombre: Canal 4 (El Salvador) (1080p)
-Categoría: 🇸🇻 El Salvador
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png
-URL: http://168.228.44.241:9999/play/a042/index.m3u8
-Estado: FALLA
 ---
 Nombre: Canal 6 (El Salvador) (720p)
 Categoría: 🇸🇻 El Salvador
@@ -207,13 +200,6 @@ Logo: https://i.imgur.com/bCcnLVL.png
 URL: http://45.167.2.101:8000/play/a0qx/index.m3u8
 Estado: FALLA
 ---
-Nombre: TCS+ (480p) [Not 24/7]
-Categoría: 🇸🇻 El Salvador
-User-Agent: Predeterminado
-Logo: https://i.imgur.com/iYFWG06.png
-URL: https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-Estado: FALLA
----
 Nombre: Tigo Sports (El Salvador) (1080p)
 Categoría: 🇸🇻 El Salvador
 User-Agent: Predeterminado
@@ -287,7 +273,7 @@ Estado: FALLA
 
 ==================================================
   RESUMEN
-  Total de streams: 40
+  Total de streams: 38
   Funcionan: 16
-  Fallan: 24
+  Fallan: 22
 ==================================================

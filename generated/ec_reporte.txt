@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - EC
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.822601
+  Fecha: 2026-11-25 00:04:14.984895
 ==================================================
 
 Nombre: America Estereo Guayaquil (360p)
@@ -16,7 +16,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/gUqKymM.png
 URL: https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: America Estereo Quito (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -44,7 +44,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/VqwyCV1.png
 URL: https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Austral TV (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -142,7 +142,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/TIH3zlP.png
 URL: https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: FM Mundo (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -177,7 +177,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/koMQZNX.png
 URL: https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: IeanJesus Ecuador (720p)
 Categoría: 🇪🇨 Ecuador
@@ -240,7 +240,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3qGSAT3.png
 URL: https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Majestad Television (720p)
 Categoría: 🇪🇨 Ecuador
@@ -268,7 +268,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ez1NxwJ.jpg
 URL: http://200.7.219.221:8088/live/livetv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Mario Pinto TV (720p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -499,7 +499,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QJW6khK.jpg
 URL: https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Legislativa (1080p) [Not 24/7]
 Categoría: 🇪🇨 Ecuador
@@ -548,7 +548,7 @@ Categoría: 🇪🇨 Ecuador
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/HQGBqGU.png
 URL: http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: VitoTVO (1080p)
 Categoría: 🇪🇨 Ecuador
@@ -582,6 +582,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 82
-  Funcionan: 44
-  Fallan: 38
+  Funcionan: 48
+  Fallan: 34
 ==================================================

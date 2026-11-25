@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.821012
+  Fecha: 2026-11-25 00:04:14.982516
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -576,7 +576,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QI3b4HI.png
 URL: https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Panche Television
 Categoría: 🇨🇴 Colombia
@@ -723,7 +723,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XHtpEfu.png
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Tele Vid (1080p)
 Categoría: 🇨🇴 Colombia
@@ -828,14 +828,14 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/e6esjLZ.jpg
 URL: https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV3 La Plata (480p)
 Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uRMq5HC.jpeg
 URL: https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Golfo Uraba
 Categoría: 🇨🇴 Colombia
@@ -911,6 +911,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 129
-  Funcionan: 95
-  Fallan: 34
+  Funcionan: 93
+  Fallan: 36
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-24 02:31:53.819102
+  Fecha: 2026-11-25 00:04:14.980042
 ==================================================
 
 Nombre: 5tv (608p)
@@ -184,7 +184,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SsNFudZ.png
 URL: https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Las Heras (720p)
 Categoría: 🇦🇷 Argentina
@@ -212,7 +212,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6kbOr16.png
 URL: https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 4 Jujuy (1080p)
 Categoría: 🇦🇷 Argentina
@@ -289,14 +289,14 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/K0jk8p4.png
 URL: https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 7 Neuquen (1080p)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png
 URL: https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 Salta (1080p)
 Categoría: 🇦🇷 Argentina
@@ -310,7 +310,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/iJMH0UK.png
 URL: https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 Mar del Plata (720p) [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -375,6 +375,20 @@ Logo: https://i.imgur.com/bq29sfG.png
 URL: https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 Estado: FUNCIONA
 ---
+Nombre: Canal 11 de la Costa (1080p)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/yYExcq1.jpg
+URL: https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+Estado: FUNCIONA
+---
+Nombre: Canal 11 Machagai (1080i)
+Categoría: 🇦🇷 Argentina
+User-Agent: Predeterminado
+Logo: https://i.imgur.com/1pXrcdO.jpg
+URL: https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
+Estado: FUNCIONA
+---
 Nombre: Canal 12 Venado Tuerto (1080i)
 Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
@@ -422,7 +436,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Am7yMXg.png
 URL: https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 22 (720p)
 Categoría: 🇦🇷 Argentina
@@ -555,7 +569,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CEuPoqG.png
 URL: https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Celta TV (240p)
 Categoría: 🇦🇷 Argentina
@@ -604,7 +618,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/7PBkvRp.png
 URL: https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cosmos Tv
 Categoría: 🇦🇷 Argentina
@@ -723,7 +737,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -905,7 +919,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Xtu85tb.png
 URL: https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Neox TV [Not 24/7]
 Categoría: 🇦🇷 Argentina
@@ -1066,7 +1080,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/UkpXogr.png
 URL: https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Santa Fe Canal (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1185,7 +1199,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/960px-Telefe_Tucum%C3%A1n_%282018%29.png
 URL: https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telemax (Argentina) (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1304,7 +1318,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png
 URL: http://45.170.130.224:8000/play/a020/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Unife TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -1393,7 +1407,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 198
-  Funcionan: 148
-  Fallan: 50
+  Total de streams: 200
+  Funcionan: 145
+  Fallan: 55
 ==================================================

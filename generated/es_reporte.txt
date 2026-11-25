@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 00:04:14.989979
+  Fecha: 2026-11-25 23:45:43.924686
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -219,7 +219,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
 URL: https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AXN (Spain) HD (1080p)
 Categoría: 🇪🇸 España
@@ -317,14 +317,14 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/t3O3O9M.png
 URL: https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 7 TeleValencia (576p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ILfXDRs.png
 URL: https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 10 Emporda (360p) [Not 24/7]
 Categoría: 🇪🇸 España
@@ -604,7 +604,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/En2sLlW.png
 URL: http://90.163.85.113:8093/stream/51/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Durangaldeko Telebista (576p)
 Categoría: 🇪🇸 España
@@ -653,7 +653,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jc0lUbX.png
 URL: https://video3.lhdserver.es/empordatv2/live.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Esport3 (1080p) [Geo-blocked]
 Categoría: 🇪🇸 España
@@ -814,7 +814,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/a9hgTmM.png
 URL: https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Interalmeria TV (1080p)
 Categoría: 🇪🇸 España
@@ -1051,7 +1051,7 @@ Nombre: Nortevision (1080p)
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/C5SYw7B.png
-URL: http://amaru.dyndns.org:8870/0.m3u8
+URL: http://amaru.dyndns.org:8870/1.m3u8
 Estado: FALLA
 ---
 Nombre: Nova (Spain) (1080p)
@@ -1437,7 +1437,7 @@ Categoría: 🇪🇸 España
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 Logo: https://i.imgur.com/5pMo7dL.png
 URL: http://90.163.85.113:8093/stream/26/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Real Madrid TV English
 Categoría: 🇪🇸 España
@@ -1940,6 +1940,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 276
-  Funcionan: 147
-  Fallan: 129
+  Funcionan: 150
+  Fallan: 126
 ==================================================

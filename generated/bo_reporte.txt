@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 00:04:14.981047
+  Fecha: 2026-11-25 23:45:43.918507
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -107,7 +107,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hutdRfk.png
 URL: https://eu1.servers10.com:8081/ceacom/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Cinerama Television (720p)
 Categoría: 🇧🇴 Bolivia
@@ -142,7 +142,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/FcciYMD.png
 URL: https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Dmoda Channel (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -275,7 +275,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/dDg3jbh.jpeg
 URL: https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Radio Centro (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,7 +429,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JkCywl5.png
 URL: https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TELE 6 (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -457,7 +457,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: No disponible
 URL: http://190.181.61.93:8000/play/a004/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TransMedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -499,7 +499,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
 URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: TV Universitaria (720p)
 Categoría: 🇧🇴 Bolivia
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 56
-  Fallan: 29
+  Funcionan: 54
+  Fallan: 31
 ==================================================

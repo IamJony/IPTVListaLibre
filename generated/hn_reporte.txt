@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - HN
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 00:04:14.986318
+  Fecha: 2026-11-25 23:45:43.922361
 ==================================================
 
 Nombre: Alfa & Omega Vision (480p) [Not 24/7]
@@ -30,7 +30,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Jytpy32.png
 URL: https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Azteca Honduras (720p)
 Categoría: 🇭🇳 Honduras
@@ -226,7 +226,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/CnR2m66.png
 URL: https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Kerusso TV (720p)
 Categoría: 🇭🇳 Honduras
@@ -247,7 +247,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ZqwLPag.jpg
 URL: https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: La Top 107.7 (720p)
 Categoría: 🇭🇳 Honduras
@@ -457,7 +457,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QaocW5x.png
 URL: https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Television Olanchana (1080p)
 Categoría: 🇭🇳 Honduras
@@ -499,7 +499,7 @@ Categoría: 🇭🇳 Honduras
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bcfmqHb.png
 URL: https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Copan (720p) [Not 24/7]
 Categoría: 🇭🇳 Honduras
@@ -547,6 +547,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 77
-  Funcionan: 41
-  Fallan: 36
+  Funcionan: 42
+  Fallan: 35
 ==================================================

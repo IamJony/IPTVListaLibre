@@ -2,7 +2,7 @@
   REPORTE DE CANALES DE CINE
   Fuente: world_ip_tv
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 00:04:14.991827
+  Fecha: 2026-11-25 23:45:43.925953
 ==================================================
 
 Nombre: AMC Series Latin America (1080p)
@@ -68,13 +68,6 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2
 URL: http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: AMC Latin America Brazil (720p)
-Categoría: 🎬 Cine
-User-Agent: Predeterminado
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png
-URL: http://170.83.49.66:8083/AMCHD/index.m3u8
-Estado: FALLA
----
 Nombre: Studio Universal Latin America Brazil (720p)
 Categoría: 🎬 Cine
 User-Agent: Predeterminado
@@ -87,7 +80,7 @@ Categoría: 🎬 Cine
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png
 URL: http://15.204.246.24:8080/TNTHD/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Star Channel (Chile) (720p)
 Categoría: 🎬 Cine
@@ -162,7 +155,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 22
-  Funcionan: 21
+  Total de streams: 21
+  Funcionan: 20
   Fallan: 1
 ==================================================

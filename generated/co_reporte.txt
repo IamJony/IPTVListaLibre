@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 00:04:14.982516
+  Fecha: 2026-11-25 23:45:43.919549
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -107,7 +107,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/6lAA8lL.png
 URL: http://181.78.21.38:8000/play/a0df/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 8 TV+ (720p)
 Categoría: 🇨🇴 Colombia
@@ -191,7 +191,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ODMa27W.jpg
 URL: https://movil.ejeserver.com/live/teledoradahd.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Mundo Vision (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -338,7 +338,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/5vJ0aXH.png
 URL: https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: CNC Santander de Quilichao (480p)
 Categoría: 🇨🇴 Colombia
@@ -835,7 +835,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/uRMq5HC.jpeg
 URL: https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Golfo Uraba
 Categoría: 🇨🇴 Colombia

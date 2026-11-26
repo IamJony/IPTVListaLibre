@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - VE
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.925638
+  Fecha: 2026-11-26 23:58:54.649143
 ==================================================
 
 Nombre: 123TV (480p)
@@ -16,7 +16,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800
 URL: https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Aguacate TV (1080p)
 Categoría: 🇻🇪 Venezuela
@@ -44,14 +44,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SLqrEOz.png
 URL: https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: AS3 Sport TV (1080p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg
 URL: https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Audaz TV (432p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -149,7 +149,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jxCirrP.png
 URL: https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Guaro TV (720p)
 Categoría: 🇻🇪 Venezuela
@@ -303,7 +303,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jHUSfGz.png
 URL: https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Proclamacion TV [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -366,14 +366,14 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png
 URL: https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TeleAragua (480p)
 Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/jPzcb2S.png
 URL: http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Telebocono (720p) [Not 24/7]
 Categoría: 🇻🇪 Venezuela
@@ -422,7 +422,7 @@ Categoría: 🇻🇪 Venezuela
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png
 URL: http://38.134.250.110:8000/play/a02i/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Televisora de Oriente (406p)
 Categoría: 🇻🇪 Venezuela

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - PE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-25 23:45:43.923863
+# Fecha: 2026-11-26 23:58:54.647324
 
 #EXTINF:-1 tvg-id="36TVHuacho.pe@SD" tvg-logo="https://i.imgur.com/F4NZM3s.jpeg" group-title="🇵🇪 Perú",36 TV Huacho (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
@@ -75,9 +75,6 @@ https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe@SD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="🇵🇪 Perú",Cadena TV SD (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CajamarcaTV.pe@SD" tvg-logo="https://i.imgur.com/pC57NYv.png" group-title="🇵🇪 Perú",Cajamarca TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe@SD" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="🇵🇪 Perú",Canal 8 Catacaos (720p) [Not 24/7]
 https://live.obslivestream.com/canal8/index.m3u8
 
@@ -122,9 +119,6 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 
 #EXTINF:-1 tvg-id="DacTV.pe@SD" tvg-logo="https://i.imgur.com/g4pZ3ZW.jpeg" group-title="🇵🇪 Perú",Dac TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeltaTV.pe@SD" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="🇵🇪 Perú",DeltaTV
-https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 
 #EXTINF:-1 tvg-id="DTV.pe@SD" tvg-logo="https://i.imgur.com/OSvegAq.png" group-title="🇵🇪 Perú",DTV (Peru) (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
@@ -225,9 +219,6 @@ https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.pe@SD" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="🇵🇪 Perú",Onda TV (Peru) (1080p)
 https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe@SD" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="🇵🇪 Perú",Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="OzonoTV.pe@SD" tvg-logo="https://i.imgur.com/Wkdibpv.png" group-title="🇵🇪 Perú",Ozono TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 
@@ -243,9 +234,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PiuraTV.pe@SD" tvg-logo="https://i.imgur.com/KnJAqbd.png" group-title="🇵🇪 Perú",PiuraTV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlaneaTV.pe@SD" tvg-logo="https://i.imgur.com/EoLhvBN.png" group-title="🇵🇪 Perú",Planea TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Primavera15.pe@SD" tvg-logo="https://i.imgur.com/wsJ8Ag2.png" group-title="🇵🇪 Perú",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
 
@@ -257,6 +245,9 @@ https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="🇵🇪 Perú",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+
+#EXTINF:-1 tvg-id="RadioOndaDigital.pe@SD" tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="🇵🇪 Perú",Radio Onda Digital (1080p)
+https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe@SD" tvg-logo="https://i.imgur.com/BYcxI03.png" group-title="🇵🇪 Perú",Radio Rumba TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
@@ -318,6 +309,9 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe@SD" tvg-logo="https://i.imgur.com/zgyNuVE.jpeg" group-title="🇵🇪 Perú",Studio Pasco TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SullanaTV.pe@SD" tvg-logo="https://i.imgur.com/BOqtK0a.png" group-title="🇵🇪 Perú",Sullana TV (1080p)
+https://mundial.cpustream.com:8081/sullanatv/video.m3u8
+
 #EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="🇵🇪 Perú",Super Canal (Peru) (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 
@@ -326,9 +320,6 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleselva.pe@SD" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="🇵🇪 Perú",Teleselva (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TelesystemTV.pe@SD" tvg-logo="https://i.imgur.com/CI4CNgL.jpeg" group-title="🇵🇪 Perú",Telesystem TV (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="🇵🇪 Perú",Television Tarapoto (1080p)
 http://45.5.57.58:8000/play/a038/index.m3u8
@@ -341,6 +332,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TopLatinoTV.pe@SD" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="🇵🇪 Perú",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe@SD" tvg-logo="https://i.imgur.com/tiNvihZ.png" group-title="🇵🇪 Perú",Top TV (240p) [Not 24/7]
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 tvg-id="Trivu.pe@SD" tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="🇵🇪 Perú",Trivu (1080p)
 http://190.93.224.42/TRIVU-TV/index.m3u8
@@ -386,6 +380,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="🇵🇪 Perú",Unitel (Peru) (1080p)
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="🇵🇪 Perú",Universitaria TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="🇵🇪 Perú",Uranio TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8

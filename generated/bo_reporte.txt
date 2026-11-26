@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.918507
+  Fecha: 2026-11-26 23:58:54.641477
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -107,7 +107,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/hutdRfk.png
 URL: https://eu1.servers10.com:8081/ceacom/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Cinerama Television (720p)
 Categoría: 🇧🇴 Bolivia
@@ -429,7 +429,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JkCywl5.png
 URL: https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TELE 6 (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -452,12 +452,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025
 URL: https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: TL Estrella (720p)
+Nombre: TL Estrella (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: No disponible
-URL: http://190.181.61.93:8000/play/a004/index.m3u8
-Estado: FALLA
+URL: https://edge.enhdtv.com/teleestrella/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: TransMedia (720p)
 Categoría: 🇧🇴 Bolivia
@@ -499,7 +499,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png
 URL: http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV Universitaria (720p)
 Categoría: 🇧🇴 Bolivia
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 54
-  Fallan: 31
+  Funcionan: 58
+  Fallan: 27
 ==================================================

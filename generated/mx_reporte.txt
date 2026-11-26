@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.922675
+  Fecha: 2026-11-26 23:58:54.645919
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -128,7 +128,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
@@ -184,7 +184,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cBC2Jre.png
 URL: http://45.5.118.152:8000/play/a03i/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 TV Cozumel (1080p)
 Categoría: 🇲🇽 México
@@ -583,7 +583,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/g5ShxZ7.png
 URL: http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Lobo TV (720p)
 Categoría: 🇲🇽 México
@@ -1254,6 +1254,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 178
-  Funcionan: 110
-  Fallan: 68
+  Funcionan: 111
+  Fallan: 67
 ==================================================

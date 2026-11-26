@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.918910
+  Fecha: 2026-11-26 23:58:54.641887
 ==================================================
 
 Nombre: 13C (1080p)
@@ -212,7 +212,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png
 URL: http://15.204.246.24:8080/Canal13HD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 30 Loncomilla (720p)
 Categoría: 🇨🇱 Chile
@@ -282,7 +282,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/PRijvR0.png
 URL: http://15.204.246.24:8080/CHVHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Chiloe Red 25 (720p)
 Categoría: 🇨🇱 Chile
@@ -380,7 +380,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KvsrWyE.png
 URL: https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: El Canal Feliz (720p)
 Categoría: 🇨🇱 Chile
@@ -1045,7 +1045,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/z94YCpH.png
 URL: https://v4.tustreaming.cl/sannicolastv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Santa Maria Television (720p) [Not 24/7]
 Categoría: 🇨🇱 Chile
@@ -1276,7 +1276,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/3FKZHL4.png
 URL: http://15.204.246.24:8080/TVNHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TVO San Vicente (720p)
 Categoría: 🇨🇱 Chile
@@ -1311,7 +1311,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/BdZGS66.png
 URL: https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UCV TV (720p)
 Categoría: 🇨🇱 Chile
@@ -1415,6 +1415,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 201
-  Funcionan: 175
-  Fallan: 26
+  Funcionan: 177
+  Fallan: 24
 ==================================================

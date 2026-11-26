@@ -1,19 +1,16 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - VE
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-25 23:45:43.925642
+# Fecha: 2026-11-26 23:58:54.649147
 
 #EXTINF:-1 tvg-id="123TV.ve@SD" tvg-logo="https://i.imgur.com/xXGeZms.png" group-title="🇻🇪 Venezuela",123TV (480p)
 http://200.59.191.177:8000/play/a0lb/index.m3u8
 
-#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" group-title="🇻🇪 Venezuela",AbejalesTV (720p)
-https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="🇻🇪 Venezuela",Aguacate TV (1080p)
 https://stream.aguacatetv.com:3949/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="🇻🇪 Venezuela",Anzoategui TV (360p) [Not 24/7]
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="🇻🇪 Venezuela",AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="🇻🇪 Venezuela",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
@@ -41,9 +38,6 @@ https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Globovision.ve@SD" tvg-logo="https://i.imgur.com/v6nRdxQ.png" group-title="🇻🇪 Venezuela",Globovision (720p)
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GrandeTV.ve@SD" tvg-logo="https://i.imgur.com/jxCirrP.png" group-title="🇻🇪 Venezuela",Grande TV
-https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 
 #EXTINF:-1 tvg-id="GuaroTV.ve@SD" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="🇻🇪 Venezuela",Guaro TV (720p)
 https://stream.guarotv.net:3592/hybrid/play.m3u8
@@ -75,6 +69,9 @@ https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="🇻🇪 Venezuela",Plous TV (1080p)
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve@SD" tvg-logo="https://i.imgur.com/jHUSfGz.png" group-title="🇻🇪 Venezuela",Portuguesa Television (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
 #EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="🇻🇪 Venezuela",PromarTV (576p)
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
@@ -93,6 +90,12 @@ https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="🇻🇪 Venezuela",Sun Channel (720p)
 http://168.196.127.137:6001/play/a06p/index.m3u8
 
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="🇻🇪 Venezuela",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="🇻🇪 Venezuela",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+
 #EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="🇻🇪 Venezuela",Telecentro (Venezuela) (480p) [Not 24/7]
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 
@@ -107,9 +110,6 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve@HD" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="🇻🇪 Venezuela",Telesur HD (1080p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="🇻🇪 Venezuela",Televen (1080p)
-http://38.134.250.110:8000/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="🇻🇪 Venezuela",Televisora de Oriente (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8

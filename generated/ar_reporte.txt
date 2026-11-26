@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.917451
+  Fecha: 2026-11-26 23:58:54.640605
 ==================================================
 
 Nombre: 5tv (608p)
@@ -261,7 +261,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/WX0esjQ.png
 URL: https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 5 TV Chepes
 Categoría: 🇦🇷 Argentina
@@ -527,7 +527,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://new.opencaster.com/uploads/logos/logo_306_1756336707.png
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal Santa Maria (360p)
 Categoría: 🇦🇷 Argentina
@@ -611,7 +611,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bNCGzjf.jpeg
 URL: https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Corrientes TV (352p)
 Categoría: 🇦🇷 Argentina
@@ -737,7 +737,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png
 URL: http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Gourmet South (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1408,6 +1408,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 200
-  Funcionan: 143
-  Fallan: 57
+  Funcionan: 147
+  Fallan: 53
 ==================================================

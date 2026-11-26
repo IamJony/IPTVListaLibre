@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - EC
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-25 23:45:43.921364
+# Fecha: 2026-11-26 23:58:54.644493
 
 #EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec@SD" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="🇪🇨 Ecuador",America Estereo Guayaquil (360p)
 https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
@@ -14,9 +14,6 @@ https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.
 
 #EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec@SD" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="🇪🇨 Ecuador",America Estereo Tulcan (614p)
 https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec@SD" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="🇪🇨 Ecuador",Antena Uno Radiovideo (360p)
-https://tvdatta.com:3578/live/antenaunolive.m3u8
 
 #EXTINF:-1 tvg-id="Asomavision.ec@SD" tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="🇪🇨 Ecuador",Asomavision (614p)
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - AR
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-25 23:45:43.917474
+# Fecha: 2026-11-26 23:58:54.640619
 
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5tv (608p)
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
@@ -91,6 +91,9 @@ https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" tvg-logo="https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg" group-title="🇦🇷 Argentina",Canal 5 Del Pueblo [Not 24/7]
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="🇦🇷 Argentina",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="🇦🇷 Argentina",Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
@@ -178,6 +181,9 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar@SD" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="🇦🇷 Argentina",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar@SD" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="🇦🇷 Argentina",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar@SD" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="🇦🇷 Argentina",Canal Santa Maria (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
@@ -207,6 +213,9 @@ https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar@SD" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="🇦🇷 Argentina",Ciudad TV Resistencia (720p)
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CorreaRadiovision.ar@SD" tvg-logo="https://i.imgur.com/bNCGzjf.jpeg" group-title="🇦🇷 Argentina",Correa Radiovision (720p)
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CorrientesTV.ar@SD" tvg-logo="https://i.imgur.com/7PBkvRp.png" group-title="🇦🇷 Argentina",Corrientes TV (352p)
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
@@ -246,6 +255,9 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="🇦🇷 Argentina",Eco TV (1080p)
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="🇦🇷 Argentina",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGourmet.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png" group-title="🇦🇷 Argentina",El Gourmet South (1080p)
 https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8

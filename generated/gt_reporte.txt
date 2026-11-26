@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - GT
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-25 23:45:43.922031
+  Fecha: 2026-11-26 23:58:54.645210
 ==================================================
 
 Nombre: Amigos TV Chiquimula (1080p)
@@ -67,6 +67,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Log
 URL: http://168.196.127.137:6001/play/a064/index.m3u8
 Estado: FUNCIONA
 ---
+Nombre: Canal 13 Chiquimula (1080p)
+Categoría: 🇬🇹 Guatemala
+User-Agent: Predeterminado
+Logo: https://www.tl.com.gt/assets/tlcom.jpg
+URL: https://www.tl.com.gt/live.php?file=0.m3u8
+Estado: FALLA
+---
 Nombre: Canal 13 Esquipulas (720p)
 Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
@@ -93,7 +100,7 @@ Categoría: 🇬🇹 Guatemala
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ygNKJXx.png
 URL: https://183.giatvcdn.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Iglesia Luz y Verdad (1080p)
 Categoría: 🇬🇹 Guatemala
@@ -462,7 +469,7 @@ Estado: FUNCIONA
 
 ==================================================
   RESUMEN
-  Total de streams: 65
-  Funcionan: 34
-  Fallan: 31
+  Total de streams: 66
+  Funcionan: 33
+  Fallan: 33
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - BO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.641477
+  Fecha: 2026-11-27 23:41:11.006634
 ==================================================
 
 Nombre: Abya Yala TV (720p)
@@ -324,7 +324,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qYNmeDe.png
 URL: https://edge.enhdtv.com/redamerica/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Red CCTV (480p)
 Categoría: 🇧🇴 Bolivia
@@ -352,7 +352,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/I7yB176.png
 URL: https://master.tucableip.com/redtvshop/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Red Uno (1080p)
 Categoría: 🇧🇴 Bolivia
@@ -396,11 +396,11 @@ Logo: https://i.imgur.com/1psliIs.jpeg
 URL: https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Siglo XXI TV (576p)
+Nombre: Siglo XXI TV (720p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/d1N2WzD.png
-URL: http://190.181.61.93:8000/play/a00b/index.m3u8
+URL: https://edge.enhdtv.com/sigloxxi/index.m3u8
 Estado: FUNCIONA
 ---
 Nombre: Sol TV (Bolivia) (720p)
@@ -562,7 +562,7 @@ Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/qgrWDIs.png
 URL: https://master.tucableip.com/univalletv/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: UPEA TV (720p)
 Categoría: 🇧🇴 Bolivia
@@ -571,12 +571,12 @@ Logo: https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66
 URL: http://190.181.61.93:8000/play/a00h/index.m3u8
 Estado: FUNCIONA
 ---
-Nombre: Vos TV (Bolivia) (720p)
+Nombre: Vos TV (Bolivia) (1080p)
 Categoría: 🇧🇴 Bolivia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Cm1Xjeq.png
-URL: http://15.204.246.24:8080/VOSTVHD/index.m3u8
-Estado: FALLA
+URL: https://edge.enhdtv.com/vostv/index.m3u8
+Estado: FUNCIONA
 ---
 Nombre: VTV Canal 17 (720p)
 Categoría: 🇧🇴 Bolivia
@@ -603,6 +603,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 85
-  Funcionan: 58
-  Fallan: 27
+  Funcionan: 60
+  Fallan: 25
 ==================================================

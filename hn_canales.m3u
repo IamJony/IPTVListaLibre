@@ -1,7 +1,7 @@
 #EXTM3U
 # REPORTE DE CANALES IPTV - HN
 # Generada por IamJony (https://github.com/IamJony)
-# Fecha: 2026-11-26 23:58:54.645518
+# Fecha: 2026-11-27 23:41:11.010744
 
 #EXTINF:-1 tvg-id="AlsaciasTelevision.hn@SD" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias Television (720p)
 https://s.emisoras.tv:8081/atv/index.m3u8
@@ -134,4 +134,7 @@ https://s.emisoras.tv:8081/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="UNETV.hn@SD" tvg-logo="https://i.imgur.com/V9Fpd3Y.png" group-title="🇭🇳 Honduras",UNE TV (1080p)
 http://45.166.93.156:9999/play/a0jo/index.m3u8
+
+#EXTINF:-1 tvg-id="WaldivisionInternacional.hn@SD" tvg-logo="https://i.imgur.com/NB8pfpb.png" group-title="🇭🇳 Honduras",Waldivision Internacional
+https://media.streambrothers.com:19360/8308/8308.m3u8
 

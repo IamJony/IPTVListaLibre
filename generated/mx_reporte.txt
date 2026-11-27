@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - MX
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.645919
+  Fecha: 2026-11-27 23:41:11.011241
 ==================================================
 
 Nombre: 8NTV (1080p)
@@ -72,7 +72,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/B5UN7C8.png
 URL: http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Az Corazon (720p)
 Categoría: 🇲🇽 México
@@ -128,7 +128,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/kaUhEQy.png
 URL: https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: B15 Zacatecas (1080p)
 Categoría: 🇲🇽 México
@@ -492,7 +492,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/SlSbcp3.png
 URL: http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Golden Plus (1080p)
 Categoría: 🇲🇽 México
@@ -534,7 +534,7 @@ Categoría: 🇲🇽 México
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/r7czgOc.png
 URL: https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Imagen TV (1080p)
 Categoría: 🇲🇽 México
@@ -1254,6 +1254,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 178
-  Funcionan: 111
-  Fallan: 67
+  Funcionan: 109
+  Fallan: 69
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CL
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.641887
+  Fecha: 2026-11-27 23:41:11.007134
 ==================================================
 
 Nombre: 13C (1080p)
@@ -268,7 +268,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://cdn.m3u.cl/logo/1706_Central_TV.png
 URL: https://freya.mivideo.pro/centraltv/video.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Chile Channel (720p)
 Categoría: 🇨🇱 Chile
@@ -380,7 +380,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/KvsrWyE.png
 URL: https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: El Canal Feliz (720p)
 Categoría: 🇨🇱 Chile
@@ -940,7 +940,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350
 URL: https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Radio UNIACC (720p)
 Categoría: 🇨🇱 Chile
@@ -1017,7 +1017,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QFzCKRa.png
 URL: https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: RTC Television (1080p)
 Categoría: 🇨🇱 Chile
@@ -1206,7 +1206,7 @@ Categoría: 🇨🇱 Chile
 User-Agent: Predeterminado
 Logo: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/960px-TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 URL: https://play-fulltv.com.ar/playtvpre/tntsportschile.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Turf Movil (720p)
 Categoría: 🇨🇱 Chile
@@ -1415,6 +1415,6 @@ Estado: FALLA
 ==================================================
   RESUMEN
   Total de streams: 201
-  Funcionan: 177
-  Fallan: 24
+  Funcionan: 176
+  Fallan: 25
 ==================================================

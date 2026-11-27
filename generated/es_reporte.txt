@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - ES
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.648169
+  Fecha: 2026-11-27 23:41:11.013452
 ==================================================
 
 Nombre: 3Cat Cameres del temps (1080p)
@@ -277,6 +277,13 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015
 URL: https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 Estado: FUNCIONA
 ---
+Nombre: AXN CEE Romania HD (576i)
+Categoría: 🇪🇸 España
+User-Agent: Predeterminado
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png
+URL: https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+Estado: FALLA
+---
 Nombre: Bailen TV (720p) [Not 24/7]
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
@@ -352,7 +359,7 @@ Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/ojQ6wzX.png
 URL: https://ventdelnord.tv:8080/escala/directe.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Canal 25 TV (1080p)
 Categoría: 🇪🇸 España
@@ -858,32 +865,25 @@ Logo: https://i.imgur.com/y6SWpsX.png
 URL: http://stream.mcquack.net/167/index.m3u8
 Estado: FALLA
 ---
-Nombre: La 1 (1086p)
+Nombre: La 1 (1080p) [Geo-blocked]
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/MxJNPHsn/La-1.png
-URL: https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+URL: https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 Estado: FALLA
 ---
-Nombre: La 1 UHD (2160p)
+Nombre: La 1 Canarias (720p) [Geo-blocked]
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/MxJNPHsn/La-1.png
-URL: http://185.47.212.25:8080/tdp_HD/index.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 Estado: FALLA
 ---
-Nombre: La 1 Canarias (720p)
+Nombre: La 1 Catalunya (720p) [Geo-blocked]
 Categoría: 🇪🇸 España
 User-Agent: Predeterminado
 Logo: https://i.ibb.co/MxJNPHsn/La-1.png
-URL: https://ztnr.rtve.es/ztnr/5190066.m3u8
-Estado: FALLA
----
-Nombre: La 1 Catalunya (720p)
-Categoría: 🇪🇸 España
-User-Agent: Predeterminado
-Logo: https://i.ibb.co/MxJNPHsn/La-1.png
-URL: https://ztnr.rtve.es/ztnr/3293681.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 Estado: FALLA
 ---
 Nombre: La 2 (1080p)
@@ -1961,6 +1961,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 279
-  Funcionan: 151
-  Fallan: 128
+  Funcionan: 152
+  Fallan: 127
 ==================================================

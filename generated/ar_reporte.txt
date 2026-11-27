@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - AR
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.640605
+  Fecha: 2026-11-27 23:41:11.005807
 ==================================================
 
 Nombre: 5tv (608p)
@@ -191,7 +191,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/bd2afET.png
 URL: https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal 3 Pinamar
 Categoría: 🇦🇷 Argentina
@@ -527,7 +527,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://new.opencaster.com/uploads/logos/logo_306_1756336707.png
 URL: https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Santa Maria (360p)
 Categoría: 🇦🇷 Argentina
@@ -541,7 +541,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/0L9tW3Z.png
 URL: https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal TDC
 Categoría: 🇦🇷 Argentina
@@ -884,7 +884,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/sfd87LX.png
 URL: https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Metro TV (Argentina) (720p)
 Categoría: 🇦🇷 Argentina
@@ -926,7 +926,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/eIX71c9.png
 URL: https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: NET TV (1080p)
 Categoría: 🇦🇷 Argentina
@@ -968,7 +968,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/MYc8srh.png
 URL: http://45.70.168.162:1503/play/a02a/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Power Max Radio TV (720p)
 Categoría: 🇦🇷 Argentina
@@ -1108,7 +1108,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/W2EUIL2.png
 URL: https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Solive TV
 Categoría: 🇦🇷 Argentina
@@ -1164,7 +1164,7 @@ Categoría: 🇦🇷 Argentina
 User-Agent: Predeterminado
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png
 URL: http://45.173.231.22:8000/play/a053/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telefe Buenos Aires (1080p)
 Categoría: 🇦🇷 Argentina
@@ -1408,6 +1408,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 200
-  Funcionan: 147
-  Fallan: 53
+  Funcionan: 143
+  Fallan: 57
 ==================================================

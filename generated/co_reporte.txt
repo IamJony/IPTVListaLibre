@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - CO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.642665
+  Fecha: 2026-11-27 23:41:11.007873
 ==================================================
 
 Nombre: Alerta Bogota (720p) [Geo-blocked]
@@ -156,7 +156,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/cNv1MPs.jpeg
 URL: https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Canal Cine Dios
 Categoría: 🇨🇴 Colombia
@@ -555,7 +555,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/JoGQqmP.png
 URL: http://45.173.231.22:8000/play/a0cr/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Oasis TV (Colombia) (720p) [Not 24/7]
 Categoría: 🇨🇴 Colombia
@@ -576,7 +576,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QI3b4HI.png
 URL: https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Panche Television
 Categoría: 🇨🇴 Colombia
@@ -681,7 +681,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/Pk8zzTL.jpeg
 URL: https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Star Channel (Colombia) (1080p)
 Categoría: 🇨🇴 Colombia
@@ -723,7 +723,7 @@ Categoría: 🇨🇴 Colombia
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/XHtpEfu.png
 URL: https://live.amelbatv.co:81/telemocoalive/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Tele Vid (1080p)
 Categoría: 🇨🇴 Colombia
@@ -911,6 +911,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 129
-  Funcionan: 88
-  Fallan: 41
+  Funcionan: 89
+  Fallan: 40
 ==================================================

@@ -1,7 +1,7 @@
 ==================================================
   REPORTE DE CANALES IPTV - DO
   Generado por IamJony (https://github.com/IamJony)
-  Fecha: 2026-11-26 23:58:54.643659
+  Fecha: 2026-11-27 23:41:11.008844
 ==================================================
 
 Nombre: A7 TV (720p) [Not 24/7]
@@ -681,7 +681,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png
 URL: https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Junior Technologia TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -863,14 +863,14 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/u5ECnZd.png
 URL: http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: MI Turno TV
 Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://imgur.com/uODDaEY.png
 URL: https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Miavision TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -954,7 +954,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: No disponible
 URL: https://edge.essastream.com/noticias16/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Notisur TV (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -982,7 +982,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/RUIyD9a.png
 URL: https://cnn.hostlagarto.com/ondatv/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: ORBIT TV (1080p)
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1017,7 +1017,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg
 URL: https://edge.essastream.com/portaldigital/index.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Pronems TV (1080p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1290,7 +1290,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/nh4sNVI.png
 URL: https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telecanal 12 (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1339,7 +1339,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/QpnctoU.png
 URL: https://hls.tvabierta.net/hls/023.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Teleimpacto (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1416,7 +1416,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/o7EzEsV.png
 URL: https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Telenovisa43 (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1458,7 +1458,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://i.imgur.com/vTfxkjW.png
 URL: http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: Teleuniverso (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1556,7 +1556,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg
 URL: https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
-Estado: FALLA
+Estado: FUNCIONA
 ---
 Nombre: TV 10 San Juan (720p) [Not 24/7]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1710,7 +1710,7 @@ Categoría: 🇩🇴 Rep. Dominicana
 User-Agent: Predeterminado
 Logo: https://xtratvrd.com/logo512.png
 URL: https://edge.essastream.com/xtratv/index.m3u8
-Estado: FUNCIONA
+Estado: FALLA
 ---
 Nombre: Xtremo Channel (720p) [Geo-blocked]
 Categoría: 🇩🇴 Rep. Dominicana
@@ -1751,6 +1751,6 @@ Estado: FUNCIONA
 ==================================================
   RESUMEN
   Total de streams: 249
-  Funcionan: 216
-  Fallan: 33
+  Funcionan: 218
+  Fallan: 31
 ==================================================
